@@ -1,13 +1,20 @@
+language: bash
+sudo: required
+services:
+  - docker
 env:
-  - DOCKER_COMPOSE_VERSION=1.13.0
-
+  matrix:
+    #- HUGO_VERSION=0.20.2 # Maybe use this for documentation at some point
+    - PHP_VERSION=7.1 BUILD_SERVICE="kibana grafana laravel-echo-server"
+# Installing a newer Docker version
 before_install:
-  - sudo rm /usr/local/bin/docker-compose
-  - curl -L https://github.com/docker/compose/releases/download/${DOCKER_COMPOSE_VERSION}/docker-compose-`uname -s`-`uname -m` > docker-compose
-  - chmod +x docker-compose
-  - sudo mv docker-compose /usr/local/bin
-  - docker-compose --version
-  - curl https://gist.githubusercontent.com/mikepsinn/2f3c69a17e22855421e15541e0f2f973/raw/clone_qm.sh | bash -s ${GITHUB_ACCESS_TOKEN}
-  - cd QM-Docker/laradock
-  - docker-compose up mysql workspace nginx mongo
+  - curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  - sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+  - sudo apt-get update
+  - sudo apt-get -y install docker-ce
+  - docker version
 
+script: ./travis-build.sh
+
+notifications:
+  email: false
