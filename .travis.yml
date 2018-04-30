@@ -6,3 +6,8 @@ before_install:
   - curl -L https://github.com/docker/compose/releases/download/${DOCKER_COMPOSE_VERSION}/docker-compose-`uname -s`-`uname -m` > docker-compose
   - chmod +x docker-compose
   - sudo mv docker-compose /usr/local/bin
+  - docker-compose --version
+  - curl https://gist.githubusercontent.com/mikepsinn/2f3c69a17e22855421e15541e0f2f973/raw/clone_qm.sh | bash -s ${GITHUB_ACCESS_TOKEN}
+  - cd QM-Docker/laradock
+  - docker-compose up mysql workspace nginx mongo
+
