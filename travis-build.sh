@@ -25,5 +25,6 @@ git show-ref --tags -d
 echo "Checking out Revision ${TRAVIS_COMMIT_MESSAGE}"
 git config core.sparsecheckout # timeout=10
 git checkout -f ${TRAVIS_COMMIT_MESSAGE}
-
-cd QM-Docker && bash slim/scripts/phpunit_tests_docker.sh
+ls
+cd QM-Docker || true
+bash slim/scripts/phpunit_tests_docker.sh
