@@ -38,6 +38,7 @@ mkdir ${QM_DOCKER_PATH}/phpunit
 echo "Copying slim/envs/circleci.env to .env"
 cp ${QM_DOCKER_PATH}/slim/envs/circleci.env ${QM_DOCKER_PATH}/.env
 cp ${QM_DOCKER_PATH}/laradock/test.env ${QM_DOCKER_PATH}/laradock/.env
+cd ${QM_DOCKER_PATH}/laradock
 docker-compose up mysql workspace mongo
 if [ ${TEST_SUITE} = "Laravel" ]
  then
