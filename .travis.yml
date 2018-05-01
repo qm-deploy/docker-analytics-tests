@@ -34,6 +34,9 @@ before_install:
   #- docker version
   - chmod +x ./*.sh
 
+before_script:
+  - echo 'extension = "mongo.so"' >> ~/.phpenv/versions/$(phpenv version-name)/etc/conf.d/travis.ini
+
 script:
   - ./travis-build.sh
 
