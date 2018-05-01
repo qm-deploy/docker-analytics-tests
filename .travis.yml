@@ -24,7 +24,7 @@ env:
     - PHP_VERSION=7.1 BUILD_SERVICE="msyql workspace mongo"
 # Installing a newer Docker version
 before_install:
-  - mysql -e 'CREATE DATABASE ${TEST_SUITE};'
+  - mysql -e 'CREATE DATABASE quantimodo_test;'
   # Load cached docker images
   #- if [[ -d $HOME/docker ]]; then ls $HOME/docker/*.tar.gz | xargs -I {file} sh -c "zcat {file} | docker load"; fi
   #- curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
