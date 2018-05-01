@@ -37,7 +37,7 @@ case $i in
     STATUS="${i#*=}"
     shift # past argument=value
     ;;
-    -c=*|--context)
+    -c=*|--context=*)
     CHECK_CONTEXT="${i#*=}"
     shift # past argument with no value
     ;;
