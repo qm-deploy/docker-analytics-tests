@@ -43,7 +43,7 @@ cp ${QM_DOCKER_PATH}/slim/envs/circleci.env ${QM_DOCKER_PATH}/.env
 cp ${TEST_REPO_PATH}/test.env ${QM_DOCKER_PATH}/laradock/.env
 
 cd ${QM_DOCKER_PATH}/laradock
-docker-compose build mysql
+#docker-compose build mysql
 docker-compose up -d mysql workspace mongo
 #echo "Waiting for mysql"
 #until mysql -hmysql -P3306 -uroot -proot &> /dev/null
