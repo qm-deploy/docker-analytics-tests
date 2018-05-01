@@ -8,7 +8,7 @@ source ${TEST_REPO_PATH}/update-status.sh --sha=${TRAVIS_COMMIT_MESSAGE} \
    --repo=mikepsinn/QM-Docker \
    --status=pending \
    --message="Starting ${TEST_SUITE} tests" \
-   --context=${TEST_SUITE} \
+   --context="Travis/${TEST_SUITE}" \
    --url=https://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}
 
 #### halt script on error
