@@ -19,3 +19,4 @@ script: ./travis-build.sh
 
 notifications:
   email: false
+  # SHA c3fdf3f2f9f35aaf53309ada3cafe1a0e0d1bbc3
