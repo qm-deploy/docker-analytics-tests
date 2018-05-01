@@ -15,7 +15,6 @@ env:
   matrix:
     #- HUGO_VERSION=0.20.2 # Maybe use this for documentation at some point
     - PHP_VERSION=7.1 BUILD_SERVICE="kibana grafana laravel-echo-server"
-    - DOCKER_CACHE_FILE=&HOME/docker-cache/cache.tar.gz
 # Installing a newer Docker version
 before_install:
   # Load cached docker images
@@ -29,8 +28,6 @@ before_install:
 
 script:
   - ./travis-build.sh
-  - mkdir -p $(dirname ${DOCKER_CACHE_FILE});
-  - docker save $(docker history -q ${DOCKER_REPOSITORY}:${TRAVIS_COMMIT} | grep -v '<missing>') | gzip > ${DOCKER_CACHE_FILE};
 
 notifications:
   email: false
