@@ -1,7 +1,12 @@
-language: bash
+language: php
+php:
+  - 7.1.9
 sudo: required
 services:
   - docker
+  - mongodb
+  - mysql
+  - memcached
 before_cache:
   # Save tagged docker images
   - >
@@ -12,18 +17,21 @@ cache:
     - $HOME/docker
     - QM-Docker
 env:
+  global:
+    - TEST_SUITE=Analytics
   matrix:
     #- HUGO_VERSION=0.20.2 # Maybe use this for documentation at some point
     - PHP_VERSION=7.1 BUILD_SERVICE="msyql workspace mongo"
 # Installing a newer Docker version
 before_install:
+  - mysql -e 'CREATE DATABASE ${TEST_SUITE};'
   # Load cached docker images
   #- if [[ -d $HOME/docker ]]; then ls $HOME/docker/*.tar.gz | xargs -I {file} sh -c "zcat {file} | docker load"; fi
-  - curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-  - sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
-  - sudo apt-get update
-  - sudo apt-get -y install docker-ce
-  - docker version
+  #- curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  #- sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+  #- sudo apt-get update
+  #- sudo apt-get -y install docker-ce
+  #- docker version
   - chmod +x ./*.sh
 
 script:
