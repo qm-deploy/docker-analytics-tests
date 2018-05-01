@@ -47,4 +47,4 @@ script:
 
 notifications:
   email: false
-  # SHA c3fdf3f2f9f35aaf53309ada3cafe1a0e0d1bbc3
+  # SHA 11c32cf5fea19f4e99cbc4f4b2037ab58cb59229
