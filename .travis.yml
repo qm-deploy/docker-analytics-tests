@@ -16,6 +16,7 @@ cache:
   directories:
     - $HOME/docker
     - QM-Docker
+    - $HOME/.composer/cache/files
 env:
   global:
     - TEST_SUITE=Analytics

@@ -41,12 +41,12 @@ mkdir ${QM_DOCKER_PATH}/phpunit || true
 echo "Copying slim/envs/circleci.env to .env"
 cp ${QM_DOCKER_PATH}/slim/envs/circleci.env ${QM_DOCKER_PATH}/.env
 
-cd slim && composer install
+cd slim && composer install --prefer-dist
 cd ${QM_DOCKER_PATH}
 
 if [ ${TEST_SUITE} = "Laravel" ]
  then
-    cd laravel && composer install
+    cd laravel && composer install --prefer-dist
     slim/vendor/phpunit/phpunit/phpunit --configuration laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit phpunit/${TEST_SUITE}.xml
  else
     slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}
