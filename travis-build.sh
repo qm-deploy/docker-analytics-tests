@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+export TEST_REPO_PATH="$PWD"
+mkdir QM-Docker
+cd QM-Docker
 export QM_DOCKER_PATH="$PWD" && export QM_IONIC_PATH="$PWD/public.built/ionic/Modo"
 echo "HOSTNAME is ${HOSTNAME} and QM_DOCKER_PATH is $QM_DOCKER_PATH"
 
@@ -27,7 +30,7 @@ echo "Checking out Revision ${TRAVIS_COMMIT_MESSAGE}"
 git config core.sparsecheckout # timeout=10
 git checkout -f ${TRAVIS_COMMIT_MESSAGE}
 ls
-cd QM-Docker || true
+
 export TEST_SUITE=Analytics
 export CLEARDB_DATABASE_URL=mysql://root:root@mysql/${TEST_SUITE}?reconnect=true
 export CLEARDB_DATABASE_URL_READONLY=mysql://root:root@mysql/${TEST_SUITE}?reconnect=true
@@ -37,10 +40,12 @@ mkdir ${QM_DOCKER_PATH}/phpunit
 
 echo "Copying slim/envs/circleci.env to .env"
 cp ${QM_DOCKER_PATH}/slim/envs/circleci.env ${QM_DOCKER_PATH}/.env
-cp ${QM_DOCKER_PATH}/test.env ${QM_DOCKER_PATH}/laradock/.env
+cp ${TEST_REPO_PATH}/test.env ${QM_DOCKER_PATH}/laradock/.env
+
 cd ${QM_DOCKER_PATH}/laradock
 docker-compose up -d mysql workspace mongo
 docker-compose exec --user=laradock workspace bash -c "cd slim && composer install"
+
 if [ ${TEST_SUITE} = "Laravel" ]
  then
     docker-compose exec --user=laradock workspace bash -c "cd laravel && composer install"
