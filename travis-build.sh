@@ -45,12 +45,12 @@ cp ${TEST_REPO_PATH}/test.env ${QM_DOCKER_PATH}/laradock/.env
 cd ${QM_DOCKER_PATH}/laradock
 docker-compose build mysql
 docker-compose up -d mysql workspace mongo
-echo "Waiting for mysql"
-until mysql -hmysql -P3306 -uroot -proot &> /dev/null
-do
-  printf "."
-  sleep 1
-done
+#echo "Waiting for mysql"
+#until mysql -hmysql -P3306 -uroot -proot &> /dev/null
+#do
+#  printf "."
+#  sleep 1
+#done
 
 docker-compose exec workspace bash -c "${ENV_COMMAND} cd slim && composer install"
 
