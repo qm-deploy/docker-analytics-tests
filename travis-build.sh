@@ -42,14 +42,14 @@ cp ${TEST_REPO_PATH}/test.env ${QM_DOCKER_PATH}/laradock/.env
 
 cd ${QM_DOCKER_PATH}/laradock
 docker-compose up -d mysql workspace mongo
-docker-compose exec --user=laradock workspace bash -c "cd slim && composer install"
+docker-compose exec workspace bash -c "cd slim && composer install"
 
 if [ ${TEST_SUITE} = "Laravel" ]
  then
-    docker-compose exec --user=laradock workspace bash -c "cd laravel && composer install"
-    docker-compose exec --user=laradock workspace bash -c "slim/vendor/phpunit/phpunit/phpunit --configuration laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit phpunit/${TEST_SUITE}.xml"
+    docker-compose exec workspace bash -c "cd laravel && composer install"
+    docker-compose exec workspace bash -c "slim/vendor/phpunit/phpunit/phpunit --configuration laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit phpunit/${TEST_SUITE}.xml"
  else
-    docker-compose exec --user=laradock workspace bash -c "slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}"
+    docker-compose exec workspace bash -c "slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}"
 fi
 
 source ${TEST_REPO_PATH}/update-status.sh --sha=${TRAVIS_COMMIT_MESSAGE} \
