@@ -14,7 +14,7 @@ cache:
 env:
   matrix:
     #- HUGO_VERSION=0.20.2 # Maybe use this for documentation at some point
-    - PHP_VERSION=7.1 BUILD_SERVICE="kibana grafana laravel-echo-server"
+    - PHP_VERSION=7.1 BUILD_SERVICE="msyql workspace mongo"
 # Installing a newer Docker version
 before_install:
   # Load cached docker images
