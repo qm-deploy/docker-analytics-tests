@@ -2,6 +2,10 @@ language: bash
 sudo: required
 services:
   - docker
+cache:
+  directories:
+    - $HOME/docker
+    - QM-Docker
 env:
   matrix:
     #- HUGO_VERSION=0.20.2 # Maybe use this for documentation at some point
