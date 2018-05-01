@@ -4,7 +4,7 @@ export QM_DOCKER_PATH="$PWD/QM-Docker"
 echo "HOSTNAME is ${HOSTNAME} and QM_DOCKER_PATH is $QM_DOCKER_PATH"
 export TEST_SUITE=Analytics
 
-./update-status.sh --sha=${TRAVIS_COMMIT_MESSAGE} \
+source ${TEST_REPO_PATH}/update-status.sh --sha=${TRAVIS_COMMIT_MESSAGE} \
    --repo=mikepsinn/QM-Docker \
    --status=pending \
    --message="Starting ${TEST_SUITE} tests" \
@@ -52,7 +52,7 @@ if [ ${TEST_SUITE} = "Laravel" ]
     docker-compose exec --user=laradock workspace bash -c "slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}"
 fi
 
-./update-status.sh --sha=${TRAVIS_COMMIT_MESSAGE} \
+source ${TEST_REPO_PATH}/update-status.sh --sha=${TRAVIS_COMMIT_MESSAGE} \
    --repo=mikepsinn/QM-Docker \
    --status=success \
    --message="${TEST_SUITE} tests successful!" \
