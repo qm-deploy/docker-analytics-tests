@@ -1,9 +1,15 @@
 #!/usr/bin/env bash
 export TEST_REPO_PATH="$PWD"
-mkdir QM-Docker
-cd QM-Docker
-export QM_DOCKER_PATH="$PWD" && export QM_IONIC_PATH="$PWD/public.built/ionic/Modo"
+export QM_DOCKER_PATH="$PWD/QM-Docker"
 echo "HOSTNAME is ${HOSTNAME} and QM_DOCKER_PATH is $QM_DOCKER_PATH"
+export TEST_SUITE=Analytics
+
+./update-status.sh --sha=${TRAVIS_COMMIT_MESSAGE} \
+   --repo=mikepsinn/QM-Docker \
+   --status=pending \
+   --message="Starting ${TEST_SUITE} tests" \
+   --context=${TEST_SUITE} \
+   --url=https://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}
 
 #### halt script on error
 #set -xe
@@ -14,24 +20,16 @@ docker --version
 echo '##### Print environment'
 env | sort
 
-git config core.sparsecheckout # timeout=10
+echo "Checking out revision ${TRAVIS_COMMIT_MESSAGE}"
+mkdir QM-Docker
+cd QM-Docker
+git init
+git remote add origin https://${GITHUB_ACCESS_TOKEN}@github.com/mikepsinn/QM-Docker.git
+git fetch --depth 1 origin ${TRAVIS_COMMIT_MESSAGE}
+git checkout FETCH_HEAD
 
-echo "Fetching changes from the remote Git repository"
-set +x
-git config remote.origin.url https://${GITHUB_ACCESS_TOKEN}@github.com/mikepsinn/QM-Docker.git # timeout=10
-set -x
-echo "Fetching upstream changes from QM-Docker"
-git --version
-set +x
-git fetch --no-tags --progress https://${GITHUB_ACCESS_TOKEN}@github.com/mikepsinn/QM-Docker.git +refs/heads/*:refs/remotes/origin/* --prune --depth=20
-set -x
-git show-ref --tags -d
-echo "Checking out Revision ${TRAVIS_COMMIT_MESSAGE}"
-git config core.sparsecheckout # timeout=10
-git checkout -f ${TRAVIS_COMMIT_MESSAGE}
 ls
 
-export TEST_SUITE=Analytics
 export CLEARDB_DATABASE_URL=mysql://root:root@mysql/${TEST_SUITE}?reconnect=true
 export CLEARDB_DATABASE_URL_READONLY=mysql://root:root@mysql/${TEST_SUITE}?reconnect=true
 export TEST_CLEARDB_DATABASE_URL=mysql://root:root@mysql/${TEST_SUITE}?reconnect=true
@@ -53,3 +51,10 @@ if [ ${TEST_SUITE} = "Laravel" ]
  else
     docker-compose exec --user=laradock workspace bash -c "slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}"
 fi
+
+./update-status.sh --sha=${TRAVIS_COMMIT_MESSAGE} \
+   --repo=mikepsinn/QM-Docker \
+   --status=success \
+   --message="${TEST_SUITE} tests successful!" \
+   --context=${TEST_SUITE} \
+   --url=https://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}
