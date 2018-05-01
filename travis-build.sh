@@ -46,9 +46,9 @@ cd slim && composer install
 if [ ${TEST_SUITE} = "Laravel" ]
  then
     cd laravel && composer install
-    slim/vendor/phpunit/phpunit/phpunit --configuration laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit phpunit/${TEST_SUITE}.xml
+    ${QM_DOCKER_PATH}/slim/vendor/phpunit/phpunit/phpunit --configuration laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit phpunit/${TEST_SUITE}.xml
  else
-    slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}
+    ${QM_DOCKER_PATH}/slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}
 fi
 
 source ${TEST_REPO_PATH}/update-status.sh --sha=${TRAVIS_COMMIT_MESSAGE} \
