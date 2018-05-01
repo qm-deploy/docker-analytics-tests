@@ -57,7 +57,7 @@ echo "CHECK_MESSAGE    = ${CHECK_MESSAGE}"
 echo $CHECK_MESSAGE
 set -x
 
-curl -u $GITHUB_TOKEN \
+curl -u mikepsinn:${GITHUB_TOKEN} \
  --header "Content-Type: application/json" \
  --data '{"state": "'$STATUS'", "context": "'$CHECK_CONTEXT'", "description": "'"$CHECK_MESSAGE"'", "target_url": "'$BUILD_URL'"}' \
  --request POST \
