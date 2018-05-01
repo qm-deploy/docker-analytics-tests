@@ -9,8 +9,8 @@ export SHA=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f3 -d#)
 source ${TEST_REPO_PATH}/update-status.sh --sha=${SHA} \
    --repo=mikepsinn/QM-Docker \
    --status=pending \
-   --message="Starting ${TEST_SUITE} tests" \
-   --context="Travis/${TEST_SUITE}" \
+   --message="Starting ${TEST_SUITE} tests on Travis..." \
+   --context="${TEST_SUITE}" \
    --url=https://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}
 
 #### halt script on error
@@ -57,6 +57,6 @@ fi
 source ${TEST_REPO_PATH}/update-status.sh --sha=${SHA} \
    --repo=mikepsinn/QM-Docker \
    --status=success \
-   --message="${TEST_SUITE} tests successful!" \
-   --context=${TEST_SUITE} \
+   --message="${TEST_SUITE} tests successful on Travis!" \
+   --context="${TEST_SUITE}" \
    --url=https://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}
