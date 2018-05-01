@@ -35,7 +35,7 @@ before_install:
   - chmod +x ./*.sh
 
 before_script:
-  - echo 'extension = "mongo.so"' >> ~/.phpenv/versions/$(phpenv version-name)/etc/conf.d/travis.ini
+  - pecl -q install mongo && echo "extension=mongo.so" >> `php --ini | grep "Loaded Configuration" | sed -e "s|.*:\s*||"`
 
 script:
   - ./travis-build.sh
