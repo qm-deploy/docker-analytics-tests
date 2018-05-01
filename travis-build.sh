@@ -26,8 +26,9 @@ mkdir QM-Docker || true
 cd QM-Docker
 git init || true
 git remote add origin https://${GITHUB_ACCESS_TOKEN}@github.com/mikepsinn/QM-Docker.git || true
-git fetch --depth 50 origin ${SHA}
-git checkout FETCH_HEAD
+#git fetch --depth 50 origin ${SHA}
+#git checkout FETCH_HEAD
+git checkout -f ${SHA}
 
 ls
 
