@@ -15,7 +15,7 @@ before_cache:
 cache:
   directories:
     - $HOME/docker
-    - QM-Docker
+    #- QM-Docker
     - $HOME/.composer/cache/files
 env:
   global:

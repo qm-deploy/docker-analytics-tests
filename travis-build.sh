@@ -22,6 +22,7 @@ echo '##### Print environment'
 env | sort
 
 echo "Checking out revision ${SHA}"
+rm -rf QM-Docker
 if [ ! -d "QM-Docker" ]; then echo "Repo not found so cloning"  && git clone --recursive -b develop --single-branch https://${GITHUB_ACCESS_TOKEN}:x-oauth-basic@github.com/mikepsinn/QM-Docker.git QM-Docker; fi
 cd QM-Docker && git stash && git pull origin develop && git reset --hard ${SHA}
 #git fetch --depth 50 origin ${SHA}
