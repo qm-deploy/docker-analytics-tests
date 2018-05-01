@@ -22,13 +22,11 @@ echo '##### Print environment'
 env | sort
 
 echo "Checking out revision ${SHA}"
-mkdir QM-Docker || true
-cd QM-Docker
-git init || true
-git remote add origin https://${GITHUB_ACCESS_TOKEN}@github.com/mikepsinn/QM-Docker.git || true
+if [ ! -d "QM-Docker" ]; then echo "Repo not found so cloning"  && git clone --recursive -b develop --single-branch https://${GITHUB_ACCESS_TOKEN}:x-oauth-basic@github.com/mikepsinn/QM-Docker.git QM-Docker; fi
+cd QM-Docker && git stash && git pull origin develop && git reset --hard ${SHA}
 #git fetch --depth 50 origin ${SHA}
 #git checkout FETCH_HEAD
-git checkout -f ${SHA}
+#git checkout -f ${SHA}
 
 ls
 
