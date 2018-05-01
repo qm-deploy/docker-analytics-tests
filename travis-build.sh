@@ -2,9 +2,10 @@
 export TEST_REPO_PATH="$PWD"
 export QM_DOCKER_PATH="$PWD/QM-Docker"
 echo "HOSTNAME is ${HOSTNAME} and QM_DOCKER_PATH is $QM_DOCKER_PATH"
-export TEST_SUITE=Analytics
+export TEST_SUITE=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f1 -d-)
+export SHA=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f2 -d-)
 
-source ${TEST_REPO_PATH}/update-status.sh --sha=${TRAVIS_COMMIT_MESSAGE} \
+source ${TEST_REPO_PATH}/update-status.sh --sha=${SHA} \
    --repo=mikepsinn/QM-Docker \
    --status=pending \
    --message="Starting ${TEST_SUITE} tests" \
@@ -20,12 +21,12 @@ docker --version
 echo '##### Print environment'
 env | sort
 
-echo "Checking out revision ${TRAVIS_COMMIT_MESSAGE}"
+echo "Checking out revision ${SHA}"
 mkdir QM-Docker || true
 cd QM-Docker
 git init || true
 git remote add origin https://${GITHUB_ACCESS_TOKEN}@github.com/mikepsinn/QM-Docker.git || true
-git fetch --depth 1 origin ${TRAVIS_COMMIT_MESSAGE}
+git fetch --depth 1 origin ${SHA}
 git checkout FETCH_HEAD
 
 ls
@@ -52,7 +53,7 @@ if [ ${TEST_SUITE} = "Laravel" ]
     slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}
 fi
 
-source ${TEST_REPO_PATH}/update-status.sh --sha=${TRAVIS_COMMIT_MESSAGE} \
+source ${TEST_REPO_PATH}/update-status.sh --sha=${SHA} \
    --repo=mikepsinn/QM-Docker \
    --status=success \
    --message="${TEST_SUITE} tests successful!" \
