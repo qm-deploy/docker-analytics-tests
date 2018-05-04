@@ -1,1 +1,1 @@
-Tasks#feature/X-Newrelic-Synthetics#a65ba5f39ae9428ac18cb304e79925b3cbfabc3b
+AppSettings#feature/X-Newrelic-Synthetics#a65ba5f39ae9428ac18cb304e79925b3cbfabc3b
