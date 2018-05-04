@@ -36,9 +36,9 @@ before_install:
   - chmod +x ./*.sh
 
 before_script:
-  #- pecl channel-update pecl.php.net
-  #- pecl -q install mongodb  # Slow to install so lets just run tests that need it on Jenkins
-  #- echo "extension=mongodb.so" >> `php --ini | grep "Loaded Configuration" | sed -e "s|.*:\s*||"`
+  - pecl channel-update pecl.php.net
+  - pecl -q install mongodb
+  - echo "extension=mongodb.so" >> `php --ini | grep "Loaded Configuration" | sed -e "s|.*:\s*||"`
   #- echo "extension = mongodb.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
   - echo "extension = memcached.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
 

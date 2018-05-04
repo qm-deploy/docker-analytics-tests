@@ -43,7 +43,7 @@ mkdir ${QM_DOCKER_PATH}/phpunit || true
 echo "Copying slim/envs/circleci.env to .env"
 cp ${QM_DOCKER_PATH}/slim/envs/circleci.env ${QM_DOCKER_PATH}/.env
 
-cd slim && composer install --prefer-dist --ignore-platform-reqs
+cd slim && composer install --prefer-dist
 cd ${QM_DOCKER_PATH}
 
 if [ ${TEST_SUITE} = "Laravel" ]
