@@ -1,1 +1,1 @@
-AppSettings#feature/isYesNoOrCountWithOnlyOnesAndZeros#42e56d96fc49f7edf4583f010494cef1b90550f7
+Tasks#feature/isYesNoOrCountWithOnlyOnesAndZeros#42e56d96fc49f7edf4583f010494cef1b90550f7
