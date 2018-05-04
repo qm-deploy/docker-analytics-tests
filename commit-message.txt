@@ -1,1 +1,1 @@
-Model#feature/isYesNoOrCountWithOnlyOnesAndZeros#50d0684430d7d17079199b5373bf1ab1d06d27c6
+AppSettings#feature/isYesNoOrCountWithOnlyOnesAndZeros#50d0684430d7d17079199b5373bf1ab1d06d27c6
