@@ -1,1 +1,1 @@
-Reminders#feature/isYesNoOrCountWithOnlyOnesAndZeros#7818e3b7db61caa5cd2278790f7f62c716d9f2e9
+AppSettingsModel#feature/HTTP_X_FORWARDED_PROTO#18f0f024e3fc1effcc3070696dca0d8bf518ec45
