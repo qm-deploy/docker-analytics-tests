@@ -1,1 +1,1 @@
-Analytics#feature/isYesNoOrCountWithOnlyOnesAndZeros#dc99b79d789e14bd81c1132202334592f70803b2
+Model#feature/isYesNoOrCountWithOnlyOnesAndZeros#dc99b79d789e14bd81c1132202334592f70803b2
