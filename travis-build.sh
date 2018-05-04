@@ -51,7 +51,13 @@ if [ ${TEST_SUITE} = "Laravel" ]
     cd laravel && composer install --prefer-dist
     slim/vendor/phpunit/phpunit/phpunit --configuration laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit phpunit/${TEST_SUITE}.xml
  else
-    slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}
+    if [ ${TEST_SUITE} = "AppSettingsModel" ]  # Don't have to install mongo extension twice if we run these 2 fast tests together
+     then
+        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/AppSettings
+        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/Model
+     else
+        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}
+    fi
 fi
 
 source ${TEST_REPO_PATH}/update-status.sh --sha=${SHA} \
