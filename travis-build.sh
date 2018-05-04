@@ -9,7 +9,7 @@ export SHA=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f3 -d#)
 source ${TEST_REPO_PATH}/update-status.sh --sha=${SHA} \
    --repo=mikepsinn/QM-Docker \
    --status=pending \
-   --message="Starting ${TEST_SUITE} tests on Travis..." \
+   --message="Running ${TEST_SUITE} tests on Travis..." \
    --context="${TEST_SUITE}" \
    --url=https://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}
 
