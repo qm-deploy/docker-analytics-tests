@@ -1,1 +1,1 @@
-Tasks#feature/Digestive-Advantage#7809c9b0e22d1cd331dcddec4e6976d93b7e76f6
+AppSettings#feature/Digestive-Advantage#7809c9b0e22d1cd331dcddec4e6976d93b7e76f6
