@@ -1,1 +1,1 @@
-Reminders#feature/updateAppSettings#080ac7a9650a92867a9573b4c41cc1fd7f87fec1
+AppSettingsModel#feature/updateAppSettings#89437049f016a602e323237d948ddf07a7640929
