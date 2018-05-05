@@ -1,1 +1,1 @@
-Reminders#feature/updateAppSettings#10d8c267ce0a4cac7557f3cae8d9a971b29b1f5b
+Analytics#feature/updateAppSettings#10d8c267ce0a4cac7557f3cae8d9a971b29b1f5b
