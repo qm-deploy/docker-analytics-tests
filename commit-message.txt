@@ -1,1 +1,1 @@
-Measurements#feature/updateAppSettings#e2aa652a8ca4286c0c5534005ca34f055bb63f4e
+Reminders#feature/updateAppSettings#e2aa652a8ca4286c0c5534005ca34f055bb63f4e
