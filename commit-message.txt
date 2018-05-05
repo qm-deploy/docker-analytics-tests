@@ -1,1 +1,1 @@
-Reminders#feature/HTTP_X_FORWARDED_PROTO#18f0f024e3fc1effcc3070696dca0d8bf518ec45
+AppSettingsModel#feature/non-payment-variables#12b3b856d1933b532ac599c4668fe4e297807001
