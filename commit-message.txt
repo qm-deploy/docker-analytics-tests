@@ -1,1 +1,1 @@
-Analytics#feature/updateAppSettings#0f8b8c60da3c14224e34dae0b517933c5f4ac66c
+Measurements#feature/updateAppSettings#0f8b8c60da3c14224e34dae0b517933c5f4ac66c
