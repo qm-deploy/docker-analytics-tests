@@ -1,1 +1,1 @@
-Reminders#feature/updateAppSettings#e2aa652a8ca4286c0c5534005ca34f055bb63f4e
+AppSettingsModel#feature/PRODUCTION_DB_HOST_PUBLIC_IP#10277246d774e084b0dbbd0529e02d26075f6447
