@@ -1,1 +1,1 @@
-Reminders#feature/APP_VERSION#dc25cbedd9132a4562c35561b8b14a137ead484e
+AppSettingsModel#feature/APP_VERSION#71cb8144541d581be8009b301c766a490477dc21
