@@ -1,1 +1,1 @@
-Reminders#feature/ip#f3b3efa3aca8e84d2e2440ae951e660c36a48a9e
+AppSettingsModel#feature/name-check#6e8b4fa5b0496afcbd1a0e3c0646b2ef05240c7a
