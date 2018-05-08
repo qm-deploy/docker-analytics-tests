@@ -1,1 +1,1 @@
-AppSettingsModel#feature/connector-list-auth#d8f4655500de89d79a49b1aa832a10beab938abc
+Tasks#feature/connector-list-auth#d8f4655500de89d79a49b1aa832a10beab938abc
