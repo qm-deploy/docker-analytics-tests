@@ -1,1 +1,1 @@
-Reminders#feature/bshafferOauthClientsId#825cea49306452d15757b89a930d597034676f7e
+AppSettingsModel#feature/logging#f7cca518082df6fd45fce99fb71cb64f6aecdc63
