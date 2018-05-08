@@ -1,1 +1,1 @@
-Reminders#feature/category-update#3472e3526d9340b77a8f6885398d57a709a31de6
+AppSettingsModel#feature/logging#0beb4854959b9de74b79e5d8517117cb689b9361
