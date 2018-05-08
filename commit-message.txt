@@ -1,1 +1,1 @@
-Reminders#feature/getCachedFromMongoDb#a6560634b0dd62d39927c699c2ba5f19382bfbf2
+AppSettingsModel#feature/getCachedFromMongoDb#a6560634b0dd62d39927c699c2ba5f19382bfbf2
