@@ -1,1 +1,1 @@
-Reminders#feature/getCachedFromMongoDb#a6560634b0dd62d39927c699c2ba5f19382bfbf2
+AppSettingsModel#feature/connector-login#81cb26a52d1b602aa9cf0f673b2ec25cbd6c3e5e
