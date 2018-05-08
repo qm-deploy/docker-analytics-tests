@@ -1,1 +1,1 @@
-Reminders#feature/connector-list-auth#d8f4655500de89d79a49b1aa832a10beab938abc
+AppSettingsModel#feature/bshafferOauthClientsId#051d3f64b300c4783ca47b238f65d2ff4bae42fc
