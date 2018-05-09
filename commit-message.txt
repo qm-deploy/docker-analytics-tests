@@ -1,1 +1,1 @@
-Reminders#feature/getConnectorUserEmail#460d5f1ed6f0099fde2c4086afcf10496e436da8
+AppSettingsModel#feature/getConnectorUserEmail#6cd87897208208ff8dd33878d6596ae29493e1a2
