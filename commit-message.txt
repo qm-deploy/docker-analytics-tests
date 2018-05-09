@@ -1,1 +1,1 @@
-Reminders#feature/connector-login#fc69489a75e1dfc6864eaed6575ca49e4a5c2226
+AppSettingsModel#feature/connector-login#bd45c8d30b90b71697d68347dae8da7fe25548bd
