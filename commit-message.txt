@@ -1,1 +1,1 @@
-AppSettingsModel#feature/connector-login#fc69489a75e1dfc6864eaed6575ca49e4a5c2226
+Tasks#feature/connector-login#fc69489a75e1dfc6864eaed6575ca49e4a5c2226
