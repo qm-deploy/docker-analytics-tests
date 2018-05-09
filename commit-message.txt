@@ -1,1 +1,1 @@
-Reminders#feature/connector-controllers#f72383c8fe5a3e1275481a9a43305a2e7d605bab
+AppSettingsModel#feature/memcached-user#cfbcec1c190eb8cb9fdcf42829efd21a97f320ec
