@@ -1,1 +1,1 @@
-Reminders#feature/getConnectorUserEmail#1d5004cc36560368a9499658fa7e85eeb3606eb9
+AppSettingsModel#feature/connectViaGoogle#0c37f42c91ff705a27ba74caaca37ca1e969ed6f
