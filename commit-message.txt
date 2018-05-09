@@ -1,1 +1,1 @@
-AppSettingsModel#feature/amazon-scopes#d3393ccaf030a341888f29f067ab130aaf3652dc
+Tasks#feature/amazon-scopes#d3393ccaf030a341888f29f067ab130aaf3652dc
