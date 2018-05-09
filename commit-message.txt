@@ -1,1 +1,1 @@
-AppSettingsModel#feature/getConnectorUserEmail#d444a41fd1f696f95b53cc886af3b891d323ce9d
+Tasks#feature/getConnectorUserEmail#d444a41fd1f696f95b53cc886af3b891d323ce9d
