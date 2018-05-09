@@ -1,1 +1,1 @@
-Reminders#feature/guzzle-errors#3f335ca20b04076a3c14a1f72ba5d3da9ebe87f9
+AppSettingsModel#feature/connector-login#0defbbce8be2268eacfd0d60690f13fead96946e
