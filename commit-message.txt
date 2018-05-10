@@ -1,1 +1,1 @@
-Reminders#feature/memcached-user#e8ca1767bcba0e2d2266fdbc17e11d85bc94f34a
+AppSettingsModel#feature/memcached-user#979a83c838097c0cc23063f9e94d0aa2579eda7d
