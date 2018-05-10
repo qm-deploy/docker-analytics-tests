@@ -1,1 +1,1 @@
-Reminders#feature/connector-login#077b676390f32c061067116e26a5cee8346bb9a9
+AppSettingsModel#feature/memcached-user#e8ca1767bcba0e2d2266fdbc17e11d85bc94f34a
