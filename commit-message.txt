@@ -1,1 +1,1 @@
-Reminders#feature/ip#16eeaea7f7dc1ba9fa7e19ccb34479b1b30e8d7c
+AppSettingsModel#feature/memcached-user#7d65381117844f3d21d1398ac404f614af244136
