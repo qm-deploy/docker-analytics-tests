@@ -1,1 +1,1 @@
-Reminders#feature/git-image-helper#39d22df8c6849dd86e18f055dab3b3b7377e60f7
+AppSettingsModel#feature/app-settings#271b2e503b7fc942318c2d63b1c153f7b01e0466
