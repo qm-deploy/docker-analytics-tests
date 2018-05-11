@@ -1,1 +1,1 @@
-Reminders#feature/git-image-helper#46e498e5416025c9bdd1eb547783d207116ed9ed
+AppSettingsModel#feature/memcached-user#34ea6d62441dd1235d1a0310f9101ed0b84c2ae5
