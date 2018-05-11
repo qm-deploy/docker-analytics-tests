@@ -1,1 +1,1 @@
-Reminders#feature/debug-urls#43ee6a5e387319bea37c7ea158194d4e801c98b1
+AppSettingsModel#feature/debug-urls#b0695f7551ab9c606560bced34efe53cfd9cbb32
