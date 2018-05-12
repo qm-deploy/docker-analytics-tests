@@ -1,1 +1,1 @@
-Reminders#feature/db-refactor#c835e0e9bc2855ee747a4802a536620e2572e66d
+AppSettingsModel#feature/db-refactor#5a600b0dac403461e1cbf49b23e77784dd16260b
