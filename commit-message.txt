@@ -1,1 +1,1 @@
-Reminders#feature/getLoginNameAndIdString#ba47241821a989b8035a5200af383dfd9038fe78
+AppSettingsModel#feature/getLoginNameAndIdString#e4571ab3bf80fb8de49c5e7c165fbb9a984253d6
