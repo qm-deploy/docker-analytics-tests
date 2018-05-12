@@ -1,1 +1,1 @@
-Reminders#feature/db-refactor#024f89bb0adcb4cc1cca5a923fa7e806e487daee
+AppSettingsModel#feature/getLoginNameAndIdString#ba47241821a989b8035a5200af383dfd9038fe78
