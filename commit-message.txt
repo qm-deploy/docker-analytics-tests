@@ -1,1 +1,1 @@
-Reminders#feature/memcached-user#6c2b1c610bfbee3ab08195c14def41f8f3ed0989
+AppSettingsModel#feature/db-refactor#c835e0e9bc2855ee747a4802a536620e2572e66d
