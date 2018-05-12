@@ -1,1 +1,1 @@
-Reminders#feature/staging#3a815f3aee3d7260646594927794e8286d48cc9f
+AppSettingsModel#feature/db-refactor#024f89bb0adcb4cc1cca5a923fa7e806e487daee
