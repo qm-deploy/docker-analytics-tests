@@ -1,0 +1,22 @@
+{
+  "name": "quantimodo/api",
+  "license": "Private",
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "require-dev": {},
+  "repositories": [],
+  "extra": {},
+  "autoload": {},
+  "config": {
+    "process-timeout": 0,
+    "vendor-dir": "vendor"
+  },
+  "scripts": {
+    "pre-install-cmd": [],
+    "post-install-cmd": [
+      "bash heroku-build.sh"
+    ],
+    "post-update-cmd": []
+  }
+}

@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+echo '##### Print environment'
+env | sort
 export TEST_REPO_PATH="$PWD"
 export QM_DOCKER_PATH="$PWD/QM-Docker"
 echo "HOSTNAME is ${HOSTNAME} and QM_DOCKER_PATH is $QM_DOCKER_PATH"
@@ -13,17 +15,15 @@ source ${TEST_REPO_PATH}/update-status.sh --sha=${SHA} \
    --url=https://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}
 #### halt script on error
 #set -xe
-echo '##### Print environment'
-env | sort
 echo "Checking out revision ${SHA}"
 if [ ! -d "QM-Docker" ]; then echo "Repo not found so cloning"  && git clone -b ${BRANCH} --single-branch https://${GITHUB_ACCESS_TOKEN}:x-oauth-basic@github.com/mikepsinn/QM-Docker.git QM-Docker; fi
 cd QM-Docker && git stash && git pull origin ${BRANCH}
 ls
-export CLEARDB_DATABASE_URL=mysql://root:@127.0.0.1/quantimodo_test?reconnect=true
-export CLEARDB_DATABASE_URL_READONLY=mysql://root:@127.0.0.1/quantimodo_test?reconnect=true
-export TEST_CLEARDB_DATABASE_URL=mysql://root:@127.0.0.1/quantimodo_test?reconnect=true
-export TEST_CLEARDB_DATABASE_URL_READONLY=mysql://root:@127.0.0.1/quantimodo_test?reconnect=true
-export MONGO_DB_CONNECTION=mongodb://127.0.0.1:27017
+export CLEARDB_DATABASE_URL=${JAWSDB_URL}
+export CLEARDB_DATABASE_URL_READONLY=${JAWSDB_URL}
+export TEST_CLEARDB_DATABASE_URL=${JAWSDB_URL}
+export TEST_CLEARDB_DATABASE_URL_READONLY=${JAWSDB_URL}
+export MONGO_DB_CONNECTION=${MONGODB_URI}
 ENV_COMMAND="export TEST_CLEARDB_DATABASE_URL=${TEST_CLEARDB_DATABASE_URL} && export TEST_CLEARDB_DATABASE_URL_READONLY=${TEST_CLEARDB_DATABASE_URL_READONLY} && export MONGO_DB_CONNECTION=${MONGO_DB_CONNECTION} && "
 mkdir ${QM_DOCKER_PATH}/phpunit || true
 echo "Copying slim/envs/circleci.env to .env"
