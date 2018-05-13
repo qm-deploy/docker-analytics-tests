@@ -1,1 +1,1 @@
-Laravel#feature/db-refactor#bbe96a647cafea9c59ff0afd3c43e0352d1dd9a4
+AppSettingsModel#feature/db-refactor#ad610595cb59345cf462209660b5d2cb6e5e6976
