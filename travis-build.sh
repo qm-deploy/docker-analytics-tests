@@ -31,7 +31,7 @@ cp ${QM_DOCKER_PATH}/slim/envs/circleci.env ${QM_DOCKER_PATH}/.env
 cd slim && composer install --prefer-dist
 cd ${QM_DOCKER_PATH}
 case "$TEST_SUITE" in
-    Laravel)  export APP_LOG_LEVEL=ERROR
+    Laravel)  export APP_LOG_LEVEL=INFO
         cd laravel && composer install --prefer-dist
         ${QM_DOCKER_PATH}/slim/vendor/phpunit/phpunit/phpunit --configuration  ${QM_DOCKER_PATH}/laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit ${QM_DOCKER_PATH}/phpunit/${TEST_SUITE}.xml
         ;;
