@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/db-refactor#6cf14a4cb76df583bbce7704a823bd62dee72d8a
+ModelConnectors#feature/db-refactor#6cf14a4cb76df583bbce7704a823bd62dee72d8a
