@@ -30,19 +30,21 @@ echo "Copying slim/envs/circleci.env to .env"
 cp ${QM_DOCKER_PATH}/slim/envs/circleci.env ${QM_DOCKER_PATH}/.env
 cd slim && composer install --prefer-dist
 cd ${QM_DOCKER_PATH}
-if [ ${TEST_SUITE} = "Laravel" ]
- then
-    cd laravel && composer install --prefer-dist
-    slim/vendor/phpunit/phpunit/phpunit --configuration laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit phpunit/${TEST_SUITE}.xml
- else
-    if [ ${TEST_SUITE} = "AppSettingsModel" ]  # Don't have to install mongo extension twice if we run these 2 fast tests together
-     then
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/AppSettings
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/Model
-     else
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}
-    fi
-fi
+case "$TEST_SUITE" in
+    Laravel)  export APP_LOG_LEVEL=ERROR
+        cd laravel && composer install --prefer-dist
+        slim/vendor/phpunit/phpunit/phpunit --configuration laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit phpunit/${TEST_SUITE}.xml
+        ;;
+    AppSettingsModel)  slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/AppSettings
+            slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/Model
+        ;;
+    ConnectorsControllers)   export APP_LOG_LEVEL=ERROR
+            slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/Connectors
+            slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/Controllers
+        ;;
+    *) slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}
+       ;;
+esac
 source ${TEST_REPO_PATH}/update-status.sh --sha=${SHA} \
    --repo=mikepsinn/QM-Docker \
    --status=success \
