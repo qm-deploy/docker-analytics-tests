@@ -1,1 +1,1 @@
-AppSettingsModel#feature/db-refactor#1f428d6d059bdeebe1b7a4fa316aab9931b0b489
+AnalyticsTasks#feature/db-refactor#1f428d6d059bdeebe1b7a4fa316aab9931b0b489
