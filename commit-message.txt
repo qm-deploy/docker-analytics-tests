@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/db-refactor#f5158a16d998cdfb092b97698c7cb4636272d8a9
+MeasurementsReminders#feature/db-refactor#f5158a16d998cdfb092b97698c7cb4636272d8a9
