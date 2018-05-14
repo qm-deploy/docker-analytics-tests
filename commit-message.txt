@@ -1,1 +1,1 @@
-Laravel#feature/setQMClientIdInDatabaseIfNull#ec2accc3065913a5335dfbe9625b66f4e1a2a50d
+AppSettingsControllers#feature/setQMClientIdInDatabaseIfNull#6b333e6953ce8c255fb0190f190350960234f4fc
