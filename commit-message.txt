@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/setQMClientIdInDatabaseIfNull#6b333e6953ce8c255fb0190f190350960234f4fc
+ModelConnectors#feature/setQMClientIdInDatabaseIfNull#6b333e6953ce8c255fb0190f190350960234f4fc
