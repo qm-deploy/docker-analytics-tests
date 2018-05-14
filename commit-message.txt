@@ -1,1 +1,1 @@
-ModelConnectors#feature/memcached-user#e7dfe495ee3387f66ac351206adff865f7787dd5
+Laravel#feature/memcached-user#e7dfe495ee3387f66ac351206adff865f7787dd5
