@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getLoginNameAndIdString#448cb9b6111b6844c3fe489c963aef7d402c2db3
+ModelConnectors#feature/getLoginNameAndIdString#448cb9b6111b6844c3fe489c963aef7d402c2db3
