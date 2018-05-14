@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/db-refactor#2d1a6fd9933152ef19223e63bf8ff64b1fd8d38c
+AnalyticsTasks#feature/db-refactor#2d1a6fd9933152ef19223e63bf8ff64b1fd8d38c
