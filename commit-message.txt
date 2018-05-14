@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/setQMClientIdInDatabaseIfNull#6b333e6953ce8c255fb0190f190350960234f4fc
+AnalyticsTasks#feature/setQMClientIdInDatabaseIfNull#6b333e6953ce8c255fb0190f190350960234f4fc
