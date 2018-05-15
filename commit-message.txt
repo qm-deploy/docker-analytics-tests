@@ -1,1 +1,1 @@
-Laravel#feature/production-db#ea46e87662514fe173f94f7592c9e10eeed9987c
+AppSettingsControllers#feature/redirect-to-https#93aec8cbc211e38daf1af29019e0e8e2055381f4
