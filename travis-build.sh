@@ -28,6 +28,7 @@ ENV_COMMAND="export TEST_CLEARDB_DATABASE_URL=${TEST_CLEARDB_DATABASE_URL} && ex
 mkdir ${QM_DOCKER_PATH}/phpunit || true
 echo "Copying slim/envs/circleci.env to .env"
 cp ${QM_DOCKER_PATH}/slim/envs/circleci.env ${QM_DOCKER_PATH}/.env
+sudo chown -R ${USER} ~/.composer/
 cd slim && composer install --prefer-dist
 cd ${QM_DOCKER_PATH}
 case "$TEST_SUITE" in
