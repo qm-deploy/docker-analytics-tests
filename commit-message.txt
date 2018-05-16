@@ -1,1 +1,1 @@
-Laravel#feature/redirect-to-https#93aec8cbc211e38daf1af29019e0e8e2055381f4
+AppSettingsControllers#feature/pollen#800a211cfe63bc586a6e9d3bdc381a7fed31a9d9
