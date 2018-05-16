@@ -63,9 +63,3 @@ case "$TEST_SUITE" in
     *) slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}
        ;;
 esac
-source ${TEST_REPO_PATH}/update-status.sh --sha=${SHA} \
-   --repo=mikepsinn/QM-Docker \
-   --status=success \
-   --message="${TEST_SUITE} tests successful on Travis!" \
-   --context="${TEST_SUITE}" \
-   --url=https://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}

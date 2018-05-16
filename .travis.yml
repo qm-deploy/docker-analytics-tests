@@ -45,6 +45,12 @@ before_script:
 script:
   - ./travis-build.sh
 
+after_failure:
+  - ./mark_failed_on_github.sh
+
+after_success:
+  - ./mark_succeeded_on_github.sh
+
 notifications:
   email: false
   # SHA 11c32cf5fea19f4e99cbc4f4b2037ab58cb59229
