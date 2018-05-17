@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/amazon-measurements#5c850741a10500f744552c2cd0c6b84d9504ee93
+ModelConnectors#feature/amazon-measurements#5c850741a10500f744552c2cd0c6b84d9504ee93
