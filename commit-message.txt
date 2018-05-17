@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/push-logging#39b1a179421fdaf00aeedbc6bd3246e2f684aece
+AnalyticsTasks#feature/push-logging#39b1a179421fdaf00aeedbc6bd3246e2f684aece
