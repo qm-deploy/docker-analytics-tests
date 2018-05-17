@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/mint-connector#8f0974ea2848324c55e9c8e093bb4a81a30c4d30
+ModelConnectors#feature/mint-connector#8f0974ea2848324c55e9c8e093bb4a81a30c4d30
