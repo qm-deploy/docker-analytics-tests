@@ -1,1 +1,1 @@
-ModelConnectors#feature/mint#309adefa26678d5693c299b9771251b0ab46466c
+Laravel#feature/mint#309adefa26678d5693c299b9771251b0ab46466c
