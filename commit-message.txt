@@ -1,1 +1,1 @@
-Laravel#feature/mint-connector#f39d3946410faea991646129a90a29a86e798c75
+AppSettingsControllers#feature/mint#309adefa26678d5693c299b9771251b0ab46466c
