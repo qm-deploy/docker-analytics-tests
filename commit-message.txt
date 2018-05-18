@@ -1,1 +1,1 @@
-ModelConnectors#feature/missing-connector#810d91679aa99d5060e43a9db33a5a227bd5f06e
+Laravel#feature/missing-connector#810d91679aa99d5060e43a9db33a5a227bd5f06e
