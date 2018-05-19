@@ -1,1 +1,1 @@
-Laravel#feature/eligibleTagVariables#a6cd02196b8ab34ab03f3ff7ca2068c624d9ddbb
+AppSettingsControllers#feature/setAllCommonTagVariableTypes#0c54a5c313946517fab1a519e53955c980e8d25f
