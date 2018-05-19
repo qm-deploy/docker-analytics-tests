@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/combination-operation#549a0ea7b23351f4c5286f843e93cbeaa51cfe83
+AnalyticsTasks#feature/combination-operation#549a0ea7b23351f4c5286f843e93cbeaa51cfe83
