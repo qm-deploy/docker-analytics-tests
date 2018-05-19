@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/setAllCommonTagVariableTypes#0c54a5c313946517fab1a519e53955c980e8d25f
+ModelConnectors#feature/setAllCommonTagVariableTypes#0c54a5c313946517fab1a519e53955c980e8d25f
