@@ -1,1 +1,1 @@
-Laravel#feature/shareAllData#c63188d415ec68ae6d7ea2ce50a745718a434b5f
+AppSettingsControllers#feature/publicOnly#7d753bbf81c62fa25f2d033982df022ac7476c84
