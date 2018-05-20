@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/publicOnly#880f3829bba972ed2038e38ae5f20002448504e2
+AnalyticsTasks#feature/publicOnly#880f3829bba972ed2038e38ae5f20002448504e2
