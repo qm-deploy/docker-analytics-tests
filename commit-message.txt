@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/memcached-user#a0dd0c22b58c5351dac6b2bdfc6967fe5cedd11a
+AnalyticsTasks#feature/memcached-user#a0dd0c22b58c5351dac6b2bdfc6967fe5cedd11a
