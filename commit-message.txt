@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/UserCorrelationCharts#c53dbebfebf344df8913e1f9e27e4c10a32cfe6d
+AnalyticsTasks#feature/UserCorrelationCharts#c53dbebfebf344df8913e1f9e27e4c10a32cfe6d
