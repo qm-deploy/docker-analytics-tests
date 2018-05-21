@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/addHourOfDayIfMoreThanOne#4083d8d9ea8861ef57f919ce88144d5a11f7368d
+AnalyticsTasks#feature/addHourOfDayIfMoreThanOne#4083d8d9ea8861ef57f919ce88144d5a11f7368d
