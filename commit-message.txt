@@ -1,1 +1,1 @@
-Laravel#feature/getAndStoreLocationDetailsFromWwo#565e197755e1eb272b425ab0859299299748de5f
+AppSettingsControllers#feature/getAndStoreLocationDetailsFromWwo#ca1066a867564377908f924a3b9c9a7341cd3e09
