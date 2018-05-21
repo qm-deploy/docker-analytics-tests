@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/addNewMeasurementItems#b97edf5e07482e9d629f064566c92b6f8d98c383
+MeasurementsReminders#feature/addNewMeasurementItems#b97edf5e07482e9d629f064566c92b6f8d98c383
