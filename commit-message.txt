@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/predictor-distribution-chart#9eb805f59b09cb6ecd485756f7c6d1ea7489cf6a
+AnalyticsTasks#feature/predictor-distribution-chart#9eb805f59b09cb6ecd485756f7c6d1ea7489cf6a
