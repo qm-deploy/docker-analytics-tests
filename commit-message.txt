@@ -1,1 +1,1 @@
-Laravel#feature/moodscope#62df9f05be6e4b15ae46a41e199c651536995d04
+AppSettingsControllers#feature/moodscope#432efe3b863b9047a72405856ff8c94705f5c910
