@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/connector-logging#5e65abd7775829d0f831024e8cabe45d1f30e9a1
+AnalyticsTasks#feature/connector-logging#5e65abd7775829d0f831024e8cabe45d1f30e9a1
