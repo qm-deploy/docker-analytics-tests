@@ -1,1 +1,1 @@
-ModelConnectors#feature/deleteFromMemcached#cefccef111f7fe759f50bc60001eb97e21b82dde
+Laravel#feature/deleteFromMemcached#cefccef111f7fe759f50bc60001eb97e21b82dde
