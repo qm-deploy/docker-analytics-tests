@@ -1,1 +1,1 @@
-ModelConnectors#feature/variable-names#570c8532f33f515c3f3bfefff1343a783fa04ebd
+Laravel#feature/variable-names#570c8532f33f515c3f3bfefff1343a783fa04ebd
