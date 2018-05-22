@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/connector-logging#279c56fe8082e44440ebee5975ef960481151582
+ModelConnectors#feature/connector-logging#279c56fe8082e44440ebee5975ef960481151582
