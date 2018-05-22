@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/deleteFromMemcached#21f1d963a03e0b2727476d6f8a315937f1e214f9
+AnalyticsTasks#feature/deleteFromMemcached#21f1d963a03e0b2727476d6f8a315937f1e214f9
