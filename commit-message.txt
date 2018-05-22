@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/moodscope#e7062037421e9e044a845967aa77d3245835829f
+AnalyticsTasks#feature/moodscope#e7062037421e9e044a845967aa77d3245835829f
