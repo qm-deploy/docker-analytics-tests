@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/deleteFromMemcached#899a8189f1976b373476345e175eec8d7c3e3a88
+MeasurementsReminders#feature/deleteFromMemcached#899a8189f1976b373476345e175eec8d7c3e3a88
