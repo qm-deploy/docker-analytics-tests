@@ -1,1 +1,1 @@
-Laravel#feature/connector-logging#5e65abd7775829d0f831024e8cabe45d1f30e9a1
+AppSettingsControllers#feature/connector-logging#279c56fe8082e44440ebee5975ef960481151582
