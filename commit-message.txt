@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/deleteFromMemcached#4803be469b3bc5759cc9ca2fb6226ba7ac822957
+ModelConnectors#feature/deleteFromMemcached#4803be469b3bc5759cc9ca2fb6226ba7ac822957
