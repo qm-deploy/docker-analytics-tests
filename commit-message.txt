@@ -1,1 +1,1 @@
-ModelConnectors#feature/logInfo#23342a30d91ef3c4cfc27d23183d04e4b7e12f6d
+Laravel#feature/logInfo#23342a30d91ef3c4cfc27d23183d04e4b7e12f6d
