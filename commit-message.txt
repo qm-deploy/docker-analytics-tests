@@ -1,1 +1,1 @@
-ModelConnectors#feature/setDebugUrl#67ba7aa58f7f1d8625acbdffce03e23f1d5f7132
+Laravel#feature/setDebugUrl#67ba7aa58f7f1d8625acbdffce03e23f1d5f7132
