@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/logInfo#98a07a4334edade66d2f4cbd0e7704a2b133d970
+ModelConnectors#feature/logInfo#98a07a4334edade66d2f4cbd0e7704a2b133d970
