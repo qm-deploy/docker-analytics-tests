@@ -1,1 +1,1 @@
-Laravel#feature/logInfo#156e64b79d5d68b66466aada2a26af56a352d634
+Laravel#feature/logInfo#23342a30d91ef3c4cfc27d23183d04e4b7e12f6d
