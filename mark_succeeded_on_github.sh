@@ -9,6 +9,6 @@ cd ${QM_DOCKER_PATH} && COMMIT_MESSAGE=$(git log -1 HEAD --pretty=format:%s) && 
 source ${TEST_REPO_PATH}/update-status.sh --sha=${SHA} \
    --repo=mikepsinn/QM-Docker \
    --status=success \
-   --message="$COMMIT_MESSAGE ${TEST_SUITE} tests successful on Travis!" \
+   --message="$COMMIT_MESSAGE tests successful on Travis!" \
    --context="${TEST_SUITE}" \
    --url=https://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}
