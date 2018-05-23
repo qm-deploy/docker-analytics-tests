@@ -1,1 +1,1 @@
-Laravel#feature/logInfo#6a79c4588d583d2346c0b0eb3e7f140c75e72566
+AppSettingsControllers#feature/logInfo#98a07a4334edade66d2f4cbd0e7704a2b133d970
