@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/logInfo#23342a30d91ef3c4cfc27d23183d04e4b7e12f6d
+AnalyticsTasks#feature/logInfo#23342a30d91ef3c4cfc27d23183d04e4b7e12f6d
