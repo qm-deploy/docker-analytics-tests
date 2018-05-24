@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/RescueTimeConnector#d3098d4c9617f583227ff2f8386596ccdcb167ad
+AnalyticsTasks#feature/RescueTimeConnector#d3098d4c9617f583227ff2f8386596ccdcb167ad
