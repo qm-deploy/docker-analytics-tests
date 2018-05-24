@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/wwo-connect#474b2c2b9fb18b7a3e93b63755184548b50349e7
+MeasurementsReminders#feature/wwo-connect#474b2c2b9fb18b7a3e93b63755184548b50349e7
