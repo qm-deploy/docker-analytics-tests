@@ -1,1 +1,1 @@
-ModelConnectors#feature/ucwords#aad0875159c76241a48b34716935976a4e17c3c1
+Laravel#feature/ucwords#aad0875159c76241a48b34716935976a4e17c3c1
