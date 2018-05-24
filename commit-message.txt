@@ -1,1 +1,1 @@
-Laravel#feature/strava-test#b0f5b9d1f532f7057dd5d062c371b49062a24009
+AppSettingsControllers#feature/minimumRecordedValueInUserUnit#b0296664e9c76b7a1cf05eb762d0b9b72b4fe327
