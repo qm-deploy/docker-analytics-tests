@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getIpFromProvidedParameters#f91d12202cbe669a9b0282f531e2ddcc8914c8bb
+AnalyticsTasks#feature/getIpFromProvidedParameters#f91d12202cbe669a9b0282f531e2ddcc8914c8bb
