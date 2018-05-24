@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/strava-test#b0f5b9d1f532f7057dd5d062c371b49062a24009
+MeasurementsReminders#feature/strava-test#b0f5b9d1f532f7057dd5d062c371b49062a24009
