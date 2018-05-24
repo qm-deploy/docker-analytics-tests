@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/wwo-connect#cceeeaf007b65d72c04823740bdf85a83e8d14fd
+ModelConnectors#feature/wwo-connect#cceeeaf007b65d72c04823740bdf85a83e8d14fd
