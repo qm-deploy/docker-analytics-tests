@@ -1,1 +1,1 @@
-Laravel#feature/get-study#7f964c6aa30fbd7c252e542c9db84294b03efa65
+AppSettingsControllers#feature/app-mode#59a6cbc88ca816345c702c3b2c9cf9252f328c76
