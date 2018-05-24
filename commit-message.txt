@@ -1,1 +1,1 @@
-Laravel#feature/ucwords#6a5296daab69a590ce41f6c42d90c76eefe915d2
+AppSettingsControllers#feature/ucwords#33eef375ce0d1b9ee13bb0769a6959f3176d5b94
