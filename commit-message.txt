@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/ucwords#6a5296daab69a590ce41f6c42d90c76eefe915d2
+ModelConnectors#feature/ucwords#6a5296daab69a590ce41f6c42d90c76eefe915d2
