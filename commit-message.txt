@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/app-mode#59a6cbc88ca816345c702c3b2c9cf9252f328c76
+ModelConnectors#feature/app-mode#59a6cbc88ca816345c702c3b2c9cf9252f328c76
