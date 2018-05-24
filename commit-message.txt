@@ -1,1 +1,1 @@
-Laravel#feature/UserCorrelationsTaskTest#e3c911e4a05a0b3b20b1650aceb012d73f20eacf
+AppSettingsControllers#feature/strava-test#b0f5b9d1f532f7057dd5d062c371b49062a24009
