@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/get-study#7f964c6aa30fbd7c252e542c9db84294b03efa65
+AnalyticsTasks#feature/get-study#7f964c6aa30fbd7c252e542c9db84294b03efa65
