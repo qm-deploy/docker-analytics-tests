@@ -1,1 +1,1 @@
-Laravel#feature/getDeviceTokenClientId#a2e206fbeea2faaa1dacee6def453088997ddec4
+AppSettingsControllers#feature/getDeviceTokenClientId#3ba038ddb7d4ac8cffc2c0ddaf80d0b6462f677f
