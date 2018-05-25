@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getDeviceTokenClientId#3ba038ddb7d4ac8cffc2c0ddaf80d0b6462f677f
+AnalyticsTasks#feature/getDeviceTokenClientId#3ba038ddb7d4ac8cffc2c0ddaf80d0b6462f677f
