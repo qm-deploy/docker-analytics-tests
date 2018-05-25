@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/qm-user#6357aa4107f5e1326a819f6562dfa4fd63bcb8f1
+ModelConnectors#feature/qm-user#6357aa4107f5e1326a819f6562dfa4fd63bcb8f1
