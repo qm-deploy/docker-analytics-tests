@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/getUserVariableFromAmazonItem#ab753d53cf955ef5735ae417693fa024ff15cdab
+MeasurementsReminders#feature/getUserVariableFromAmazonItem#ab753d53cf955ef5735ae417693fa024ff15cdab
