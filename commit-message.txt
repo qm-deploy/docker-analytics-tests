@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getUserVariableFromAmazonItem#0867191ffb66d2462ce593828858ee82bf37c323
+ModelConnectors#feature/getUserVariableFromAmazonItem#0867191ffb66d2462ce593828858ee82bf37c323
