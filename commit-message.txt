@@ -1,1 +1,1 @@
-ModelConnectors#feature/getUserVariableFromAmazonItem#cb368c9104f0a289d67fcf3c7e4e453dcce536f4
+Laravel#feature/getUserVariableFromAmazonItem#cb368c9104f0a289d67fcf3c7e4e453dcce536f4
