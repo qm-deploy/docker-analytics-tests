@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getUserVariableFromAmazonItem#cb368c9104f0a289d67fcf3c7e4e453dcce536f4
+AnalyticsTasks#feature/getUserVariableFromAmazonItem#cb368c9104f0a289d67fcf3c7e4e453dcce536f4
