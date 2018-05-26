@@ -1,1 +1,1 @@
-Laravel#feature/getUserVariableFromAmazonItem#32e57cccae92d9b218ae14be948f9a5ef3080831
+AppSettingsControllers#feature/getUserVariableFromAmazonItem#1140bc6a914eeffe3ac49149aa2d6b03ddc35cc1
