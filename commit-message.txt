@@ -1,1 +1,1 @@
-ModelConnectors#feature/getAllowedPlatforms#377a4b8e0671b09f07317b6f4315a659058cbe01
+Laravel#feature/getAllowedPlatforms#377a4b8e0671b09f07317b6f4315a659058cbe01
