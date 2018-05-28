@@ -1,1 +1,1 @@
-Laravel#feature/platforms#e6834f2533fff087d71d6ee43c4515297a71bb70
+AppSettingsControllers#feature/platforms#345ae4f94107cdb5279b6bf1ac39f9bbf276ad45
