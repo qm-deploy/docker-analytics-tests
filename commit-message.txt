@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/measurement-export#6d7bbb9f8b8ea09084c55a374e95f56dff72dd16
+ModelConnectors#feature/measurement-export#6d7bbb9f8b8ea09084c55a374e95f56dff72dd16
