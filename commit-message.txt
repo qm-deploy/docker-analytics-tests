@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/isWhiteListedUserAgent#18113e8b729da77c812c136c7eef5d5deb9eefef
+AnalyticsTasks#feature/isWhiteListedUserAgent#18113e8b729da77c812c136c7eef5d5deb9eefef
