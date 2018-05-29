@@ -1,1 +1,1 @@
-Laravel#feature/twitter-linkedin#0f23a4a1a8ac51c8f865d787ef9066e0eaa1b36a
+Laravel#feature/isWhiteListedUserAgent#e8bafef7c9af7165ae40bdbf4db680ea9f8f1c07
