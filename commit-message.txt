@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/twitter-linkedin#b9e7fecc607a4110a4761b254f46267988303a7f
+AnalyticsTasks#feature/twitter-linkedin#b9e7fecc607a4110a4761b254f46267988303a7f
