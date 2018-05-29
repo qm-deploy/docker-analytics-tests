@@ -1,1 +1,1 @@
-Laravel#feature/twitter-linkedin#b9b1b610cb6ea1f0aaed980e82c9e1661dfb865f
+AppSettingsControllers#feature/isWhiteListedUserAgent#e8bafef7c9af7165ae40bdbf4db680ea9f8f1c07
