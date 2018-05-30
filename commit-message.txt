@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/isWhiteListedUserAgent#e0c4efabcea850b5966543d561dd41e53822ee03
+MeasurementsReminders#feature/isWhiteListedUserAgent#e0c4efabcea850b5966543d561dd41e53822ee03
