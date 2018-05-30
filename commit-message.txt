@@ -1,1 +1,1 @@
-Laravel#feature/isWhiteListedUserAgent#412156a2f772d91a4c814902667577e07737a0ab
+AppSettingsControllers#feature/connector-auth#1aaa49d6cca2dc19540c76e7f3dc4bc9cffc4f5c
