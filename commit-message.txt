@@ -1,1 +1,1 @@
-ModelConnectors#feature/isWhiteListedUserAgent#412156a2f772d91a4c814902667577e07737a0ab
+Laravel#feature/isWhiteListedUserAgent#412156a2f772d91a4c814902667577e07737a0ab
