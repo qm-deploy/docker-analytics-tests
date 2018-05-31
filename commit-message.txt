@@ -1,1 +1,1 @@
-ModelConnectors#feature/connector-auth#fe8ad6ccd5a4863bc56946f78ff33cdb3d8c18de
+Laravel#feature/connector-auth#fe8ad6ccd5a4863bc56946f78ff33cdb3d8c18de
