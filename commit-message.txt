@@ -1,1 +1,1 @@
-Laravel#feature/convertXmlStringToObjectWithoutDashesInProperties#01917e439393ffec7a243193e6e9f18839759025
+AppSettingsControllers#feature/connector-login#b7622f967ea90263f395d91d389300591258c2f8
