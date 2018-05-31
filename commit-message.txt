@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/connector-auth#5a442e784b694cf61789eeb3bc2bd65496f814a6
+MeasurementsReminders#feature/connector-auth#5a442e784b694cf61789eeb3bc2bd65496f814a6
