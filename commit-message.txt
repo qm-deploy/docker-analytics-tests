@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/CLIENT_SECRET#9a80074ab94384e39a77c3181c48e418f5d4d3e2
+ModelConnectors#feature/CLIENT_SECRET#9a80074ab94384e39a77c3181c48e418f5d4d3e2
