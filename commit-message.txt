@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/connector-auth#871b14a49791f238b292ef017153fbad32789f29
+ModelConnectors#feature/connector-auth#871b14a49791f238b292ef017153fbad32789f29
