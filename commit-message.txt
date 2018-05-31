@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/connector-login#68e531306ed5620f6c5595d709bab0cc11b6b2a3
+ModelConnectors#feature/connector-login#68e531306ed5620f6c5595d709bab0cc11b6b2a3
