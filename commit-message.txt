@@ -1,1 +1,1 @@
-Laravel#feature/urlUserDetails#52277e469563dbb98aa9ed9a428f782117b0be2d
+AppSettingsControllers#feature/urlUserDetails#478627c71fbf18253cc2be8d1bdb376a46779bc4
