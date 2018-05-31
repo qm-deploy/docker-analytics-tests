@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/urlUserDetails#478627c71fbf18253cc2be8d1bdb376a46779bc4
+ModelConnectors#feature/urlUserDetails#478627c71fbf18253cc2be8d1bdb376a46779bc4
