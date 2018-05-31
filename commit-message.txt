@@ -1,1 +1,1 @@
-Laravel#feature/urlUserDetails#f78d10906fb961ff94eec27824e74284aaa8efec
+AppSettingsControllers#feature/CLIENT_SECRET#9a80074ab94384e39a77c3181c48e418f5d4d3e2
