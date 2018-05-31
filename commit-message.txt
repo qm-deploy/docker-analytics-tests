@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/connector-auth#40acd924926ed1051f4d0708aaec5e7e5e4b689c
+AnalyticsTasks#feature/connector-auth#40acd924926ed1051f4d0708aaec5e7e5e4b689c
