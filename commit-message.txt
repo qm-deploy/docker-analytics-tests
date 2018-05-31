@@ -1,1 +1,1 @@
-Laravel#feature/connector-auth#97330d45026582fc05cfe45093dc31a09658bd15
+AppSettingsControllers#feature/connector-auth#522b506c19cb5a33e9086601d8a08006e4e8b4a8
