@@ -1,1 +1,1 @@
-Laravel#feature/connector-login#68e531306ed5620f6c5595d709bab0cc11b6b2a3
+AppSettingsControllers#feature/LinkedInConnector#502466495bcdc33c1c9cec2827ac5de3f8e192b1
