@@ -1,1 +1,1 @@
-ModelConnectors#feature/logoColor#a4d216c5472eae58ba7ed12b676118ab83208047
+Laravel#feature/logoColor#a4d216c5472eae58ba7ed12b676118ab83208047
