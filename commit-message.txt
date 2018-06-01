@@ -1,1 +1,1 @@
-Laravel#feature/chrome#e8fd92eb61e8517daca5499382e1d9ddaac7cd94
+AppSettingsControllers#feature/logoColor#a4d216c5472eae58ba7ed12b676118ab83208047
