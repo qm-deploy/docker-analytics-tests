@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/logoColor#9c2a66a39c408de9e1e8b1f4442d246573a7d84d
+ModelConnectors#feature/logoColor#9c2a66a39c408de9e1e8b1f4442d246573a7d84d
