@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/moved-connectors#4f6364c23b3897a0e8e55e4e0550fbd9e0c2e5dd
+ModelConnectors#feature/moved-connectors#4f6364c23b3897a0e8e55e4e0550fbd9e0c2e5dd
