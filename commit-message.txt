@@ -1,1 +1,1 @@
-Laravel#feature/connect-exceptions#497d1d4709d044a602a74a863f05a2c14707da4e
+AppSettingsControllers#feature/connect-exceptions#d2dd61ebf6779190587bbbcf94e9a02086a104e5
