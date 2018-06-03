@@ -1,1 +1,1 @@
-Laravel#feature/toSnakeCache#589c64bab290ba68c0ee6e81b0d230873033c3c0
+AppSettingsControllers#feature/organized-models#5827a7366aae223fc282d74b1c3ae0b2eda8aae3
