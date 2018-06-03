@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getNonOAuthConnectResponse#3f1f17db779822cf7d4fcd7180c7105313adb6ca
+ModelConnectors#feature/getNonOAuthConnectResponse#3f1f17db779822cf7d4fcd7180c7105313adb6ca
