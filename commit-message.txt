@@ -1,1 +1,1 @@
-Laravel#feature/organized-models#3065d4563aeebc33976510102981f293254747a2
+AppSettingsControllers#feature/error-logging#3a1e27289b1c2db17643390fabd9c27d145e3553
