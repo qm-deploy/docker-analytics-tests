@@ -1,1 +1,1 @@
-ModelConnectors#feature/organized-models#3065d4563aeebc33976510102981f293254747a2
+Laravel#feature/organized-models#3065d4563aeebc33976510102981f293254747a2
