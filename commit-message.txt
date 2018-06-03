@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/connect-exceptions#499162d6fee4e686ca21b0f88017938365893e86
+ModelConnectors#feature/connect-exceptions#499162d6fee4e686ca21b0f88017938365893e86
