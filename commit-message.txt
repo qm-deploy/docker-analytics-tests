@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/organized-models#56977f93cab665307b8d58b064d7466e42740f72
+AnalyticsTasks#feature/organized-models#56977f93cab665307b8d58b064d7466e42740f72
