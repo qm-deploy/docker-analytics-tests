@@ -1,1 +1,1 @@
-Laravel#feature/organized-models#c5087b0876c4c50ccf9b4d694b7b8c884f404e53
+AppSettingsControllers#feature/organized-models#c5087b0876c4c50ccf9b4d694b7b8c884f404e53
