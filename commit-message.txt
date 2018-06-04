@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/removeNumbersFromEndOfString#dadc6978c9227a63c93dcbc47e6c7b9766552bfc
+MeasurementsReminders#feature/removeNumbersFromEndOfString#dadc6978c9227a63c93dcbc47e6c7b9766552bfc
