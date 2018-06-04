@@ -1,1 +1,1 @@
-ModelConnectors#feature/removeNumbersFromEndOfString#dadc6978c9227a63c93dcbc47e6c7b9766552bfc
+Laravel#feature/removeNumbersFromEndOfString#dadc6978c9227a63c93dcbc47e6c7b9766552bfc
