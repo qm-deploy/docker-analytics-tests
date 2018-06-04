@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/memcache#26b62e138cc7c428c5526f7468535cfa3f5635b0
+ModelConnectors#feature/memcache#26b62e138cc7c428c5526f7468535cfa3f5635b0
