@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/connector-refactor#4f82e0fd6a02e6190b7aa143073d22f777c7b12e
+AnalyticsTasks#feature/connector-refactor#4f82e0fd6a02e6190b7aa143073d22f777c7b12e
