@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/connector-refactor#0d422aed13edb968f1c5e6255f88e7a0776a6d3d
+ModelConnectors#feature/connector-refactor#0d422aed13edb968f1c5e6255f88e7a0776a6d3d
