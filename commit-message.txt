@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/connector-refactor#93599478f517e86bb45805176683a1f7432c9b60
+MeasurementsReminders#feature/connector-refactor#93599478f517e86bb45805176683a1f7432c9b60
