@@ -1,1 +1,1 @@
-Laravel#feature/finish-url#6b644479590eec9511e2b2b09763cd4d076cae7b
+AppSettingsControllers#feature/finish-url#d931ee1c3dea76d690dd3ea19597aa47595df8ac
