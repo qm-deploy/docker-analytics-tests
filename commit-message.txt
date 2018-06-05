@@ -1,1 +1,1 @@
-ModelConnectors#feature/finish-url#770d9e40a81d1a52af4174d462391ea155657c3d
+Laravel#feature/finish-url#770d9e40a81d1a52af4174d462391ea155657c3d
