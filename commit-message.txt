@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/finish-url#1c961275911ec41a9647051a8bedbb86f6d46fb2
+AnalyticsTasks#feature/finish-url#1c961275911ec41a9647051a8bedbb86f6d46fb2
