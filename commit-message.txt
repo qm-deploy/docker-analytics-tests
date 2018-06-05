@@ -1,1 +1,1 @@
-ModelConnectors#feature/writeJson#63600246cc48a6701816ce380619fd22e0220d08
+Laravel#feature/writeJson#63600246cc48a6701816ce380619fd22e0220d08
