@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/mobile-connect#0743aca534ffae73b550eff0bf6668ce3f9b44f8
+ModelConnectors#feature/mobile-connect#0743aca534ffae73b550eff0bf6668ce3f9b44f8
