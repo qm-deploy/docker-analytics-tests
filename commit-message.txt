@@ -1,1 +1,1 @@
-ModelConnectors#feature/clientAcceptsHtml#a475fd1e49701fc12b21263ab5adbdda4da3becf
+Laravel#feature/clientAcceptsHtml#a475fd1e49701fc12b21263ab5adbdda4da3becf
