@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/clientAcceptsHtml#caaa5622c3bb9b473b027be1662c4f697e8e1bcf
+MeasurementsReminders#feature/clientAcceptsHtml#caaa5622c3bb9b473b027be1662c4f697e8e1bcf
