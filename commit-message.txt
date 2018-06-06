@@ -1,1 +1,1 @@
-Laravel#feature/clientAcceptsHtml#a475fd1e49701fc12b21263ab5adbdda4da3becf
+AppSettingsControllers#feature/clientAcceptsHtml#caaa5622c3bb9b473b027be1662c4f697e8e1bcf
