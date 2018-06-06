@@ -1,1 +1,1 @@
-Laravel#feature/userId#b95cf2d2464000f2bf87704ba9d1cb21b42c9057
+AppSettingsControllers#feature/clientAcceptsHtml#e83bca9a4cacda936f88ccc4808e963882831f51
