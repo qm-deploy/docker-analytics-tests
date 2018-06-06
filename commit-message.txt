@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/clientAcceptsHtml#bf9b6c5c61e9c67bb7cda05b987e56d481fe5336
+ModelConnectors#feature/clientAcceptsHtml#bf9b6c5c61e9c67bb7cda05b987e56d481fe5336
