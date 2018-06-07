@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/authorization-page#35e6fff03a3a0c3de1b3216ea3b86ffc0db8e4ec
+AnalyticsTasks#feature/authorization-page#35e6fff03a3a0c3de1b3216ea3b86ffc0db8e4ec
