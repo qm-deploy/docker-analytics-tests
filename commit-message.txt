@@ -1,1 +1,1 @@
-Laravel#feature/exception#0c15d592e8a7caddf8c8969ce9d50c922d9e2dd6
+AppSettingsControllers#feature/Bugsnag#a3f4480c9a2fc4235dbcb27b4aabafb2abfea87f
