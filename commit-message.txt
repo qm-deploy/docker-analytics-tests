@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/throwGuzzleException#55858d14d3f1eee7641715321aad5ac99382da01
+AnalyticsTasks#feature/throwGuzzleException#55858d14d3f1eee7641715321aad5ac99382da01
