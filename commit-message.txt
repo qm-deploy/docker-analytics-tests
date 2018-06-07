@@ -1,1 +1,1 @@
-ModelConnectors#feature/throwGuzzleException#2ad476396bcd90d55e821cc508abc955c4d6a0a1
+Laravel#feature/throwGuzzleException#2ad476396bcd90d55e821cc508abc955c4d6a0a1
