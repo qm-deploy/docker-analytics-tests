@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getTrackingReminder#b91459b3cb418a588a4196ddc860884cbba8773a
+ModelConnectors#feature/getTrackingReminder#b91459b3cb418a588a4196ddc860884cbba8773a
