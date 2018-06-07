@@ -1,1 +1,1 @@
-ModelConnectors#feature/AuthorizeController#3198ebfa33a1d2543eaad606ec23a56a981e3c75
+Laravel#feature/AuthorizeController#3198ebfa33a1d2543eaad606ec23a56a981e3c75
