@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/getTrackingReminder#936ca2ff8e31301f4fda0fac9bfcc454dc98c92c
+MeasurementsReminders#feature/getTrackingReminder#936ca2ff8e31301f4fda0fac9bfcc454dc98c92c
