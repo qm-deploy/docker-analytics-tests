@@ -1,1 +1,1 @@
-Laravel#feature/getClientSecretFromRequest#97c3bf26cd4554061e3f22042125129c70cb1001
+AppSettingsControllers#feature/register#06dc8a829e2a8cebdbf08805b7fd70f77946a497
