@@ -1,1 +1,1 @@
-Laravel#feature/CURL_SSLVERSION_SSLv3#5666cd39edc90d978b3c72a83ed56bfb0ce71f95
+AppSettingsControllers#feature/exception#0c15d592e8a7caddf8c8969ce9d50c922d9e2dd6
