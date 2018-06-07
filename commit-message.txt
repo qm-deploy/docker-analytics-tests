@@ -1,1 +1,1 @@
-Laravel#feature/FINAL_CALLBACK_URL#fb092ca502d512e820ecf63dbf057f27921ef0d3
+AppSettingsControllers#feature/throwGuzzleException#55858d14d3f1eee7641715321aad5ac99382da01
