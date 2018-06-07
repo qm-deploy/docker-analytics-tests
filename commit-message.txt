@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/CURL_SSLVERSION_SSLv3#5666cd39edc90d978b3c72a83ed56bfb0ce71f95
+ModelConnectors#feature/CURL_SSLVERSION_SSLv3#5666cd39edc90d978b3c72a83ed56bfb0ce71f95
