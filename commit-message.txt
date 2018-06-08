@@ -1,1 +1,1 @@
-Laravel#feature/getClientIdFromReferrerSubDomain#39a142b719dc3d705bb094490cb9c9aed75c1600
+AppSettingsControllers#feature/getClientIdFromReferrerSubDomain#7960ef98f79a10ebedfb23e247aa9b58d7a998ad
