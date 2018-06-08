@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/disable-ssl#4abc09d9c72743cdeb62731ca39d3ee2934b2d1f
+ModelConnectors#feature/disable-ssl#4abc09d9c72743cdeb62731ca39d3ee2934b2d1f
