@@ -1,1 +1,1 @@
-ModelConnectors#feature/disable-ssl#7bb904fb9c096f6a4da2ca1daf44417b04b3d825
+Laravel#feature/disable-ssl#7bb904fb9c096f6a4da2ca1daf44417b04b3d825
