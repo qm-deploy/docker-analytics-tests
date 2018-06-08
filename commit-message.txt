@@ -1,1 +1,1 @@
-Laravel#feature/disable-ssl#213cfc76b76ff9f375ed4f2f18f210699277c46e
+AppSettingsControllers#feature/addQueryParamToUrl#41fd652d2b3ed75545f211604b4ea4a81b3f637b
