@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/addQueryParamToUrl#41fd652d2b3ed75545f211604b4ea4a81b3f637b
+AnalyticsTasks#feature/addQueryParamToUrl#41fd652d2b3ed75545f211604b4ea4a81b3f637b
