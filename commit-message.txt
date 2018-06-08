@@ -1,1 +1,1 @@
-Laravel#feature/disable-ssl#6669287cbe8699781ad788f5f43e8662bf9e774b
+AppSettingsControllers#feature/disable-ssl#4abc09d9c72743cdeb62731ca39d3ee2934b2d1f
