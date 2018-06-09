@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/QMAuth#862bd713d9c3fa40fdb343feda667a84a08855a3
+AnalyticsTasks#feature/QMAuth#862bd713d9c3fa40fdb343feda667a84a08855a3
