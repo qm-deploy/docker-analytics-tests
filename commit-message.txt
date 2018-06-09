@@ -1,1 +1,1 @@
-Laravel#feature/connectors-test#6ebc81c1759b784116b48e8e393af4ce872d6d8a
+AppSettingsControllers#feature/getJsonFileAsArrayOfObjects#a97b427952b46dff2d2ae89a24b5b6a8d6f0a021
