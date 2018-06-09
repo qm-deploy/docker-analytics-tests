@@ -1,1 +1,1 @@
-ModelConnectors#feature/throwNotAuthorizedException#9fa8de6a32d78d4b4704332b9fea09da76dc8722
+Laravel#feature/throwNotAuthorizedException#9fa8de6a32d78d4b4704332b9fea09da76dc8722
