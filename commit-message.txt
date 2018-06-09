@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/getJsonFileAsArrayOfObjects#3e32362f8edda247ba30305b2e6b5301f051636b
+MeasurementsReminders#feature/getJsonFileAsArrayOfObjects#3e32362f8edda247ba30305b2e6b5301f051636b
