@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/QMAuth#862bd713d9c3fa40fdb343feda667a84a08855a3
+ModelConnectors#feature/QMAuth#862bd713d9c3fa40fdb343feda667a84a08855a3
