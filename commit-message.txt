@@ -1,1 +1,1 @@
-ModelConnectors#feature/getJsonFileAsArrayOfObjects#3e32362f8edda247ba30305b2e6b5301f051636b
+Laravel#feature/getJsonFileAsArrayOfObjects#3e32362f8edda247ba30305b2e6b5301f051636b
