@@ -1,1 +1,1 @@
-Laravel#feature/getJsonFileAsArrayOfObjects#a97b427952b46dff2d2ae89a24b5b6a8d6f0a021
+AppSettingsControllers#feature/getJsonFileAsArrayOfObjects#3e32362f8edda247ba30305b2e6b5301f051636b
