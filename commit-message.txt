@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/connectors-test#54169c8124f91d97c3773c1d2b00dabe5fe1350f
+ModelConnectors#feature/connectors-test#54169c8124f91d97c3773c1d2b00dabe5fe1350f
