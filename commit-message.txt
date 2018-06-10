@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/getTestDeviceTokenFbKey#743ddfd7092f4405ede7b674e9a5ac0e89618a90
+MeasurementsReminders#feature/getTestDeviceTokenFbKey#743ddfd7092f4405ede7b674e9a5ac0e89618a90
