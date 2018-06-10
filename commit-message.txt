@@ -1,1 +1,1 @@
-Laravel#feature/getTestDeviceTokenFbKey#743ddfd7092f4405ede7b674e9a5ac0e89618a90
+AppSettingsControllers#feature/logConnectorUpdateEvent#eeb25e5f922bf63751cbd832d44f727de2de5b83
