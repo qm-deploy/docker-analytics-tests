@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/connectors-test#5b302bf70f9ced5c18fe8215ce2b410f5df6dc7f
+AnalyticsTasks#feature/connectors-test#5b302bf70f9ced5c18fe8215ce2b410f5df6dc7f
