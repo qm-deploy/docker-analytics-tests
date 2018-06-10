@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/logConnectorUpdateEvent#eeb25e5f922bf63751cbd832d44f727de2de5b83
+MeasurementsReminders#feature/logConnectorUpdateEvent#eeb25e5f922bf63751cbd832d44f727de2de5b83
