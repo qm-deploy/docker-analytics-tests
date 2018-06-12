@@ -1,1 +1,1 @@
-ModelConnectors#feature/connect-js#87328d8ac1556bf8a3a230bfee7e81bccefadefc
+Laravel#feature/connect-js#87328d8ac1556bf8a3a230bfee7e81bccefadefc
