@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/connect-js#87328d8ac1556bf8a3a230bfee7e81bccefadefc
+AnalyticsTasks#feature/connect-js#87328d8ac1556bf8a3a230bfee7e81bccefadefc
