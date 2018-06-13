@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getUpdateDebugUrl#51a1b5ba3f4099db0a6b0e920cfe3e141de0899b
+AnalyticsTasks#feature/getUpdateDebugUrl#51a1b5ba3f4099db0a6b0e920cfe3e141de0899b
