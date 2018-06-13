@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/ssl-errors#1adcbcf96a4956530de9c1e1ac1e3af5d5140194
+ModelConnectors#feature/ssl-errors#1adcbcf96a4956530de9c1e1ac1e3af5d5140194
