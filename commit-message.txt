@@ -1,1 +1,1 @@
-ModelConnectors#feature/getUpdateDebugUrl#98b782f935a9c90de6b398109daadaed05294f36
+Laravel#feature/getUpdateDebugUrl#98b782f935a9c90de6b398109daadaed05294f36
