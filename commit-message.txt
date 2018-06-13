@@ -1,1 +1,1 @@
-Laravel#feature/ssl-errors#d539006ac750e3bcc3bab400098e41e9d0e96c81
+AppSettingsControllers#feature/ssl-errors#45edf00ed7ece213b92d30c7fa12897a0fbf963c
