@@ -1,1 +1,1 @@
-Laravel#feature/getUpdateDebugUrl#98b782f935a9c90de6b398109daadaed05294f36
+AppSettingsControllers#feature/getUpdateDebugUrl#51a1b5ba3f4099db0a6b0e920cfe3e141de0899b
