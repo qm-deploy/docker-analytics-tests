@@ -1,1 +1,1 @@
-ModelConnectors#feature/setEndpointToLocalHost#225e96f793cef05b35ee823d4b9d340281ef5fb9
+Laravel#feature/setEndpointToLocalHost#225e96f793cef05b35ee823d4b9d340281ef5fb9
