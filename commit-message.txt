@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/study-charts#f8ce21615b3d76c391dc7282d75509dd88febfa0
+MeasurementsReminders#feature/study-charts#f8ce21615b3d76c391dc7282d75509dd88febfa0
