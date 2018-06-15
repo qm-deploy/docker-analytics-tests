@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getAccessTokenString#21aca1ee6f49d8fb9afd4a483bf0a3796c74bd91
+AnalyticsTasks#feature/getAccessTokenString#21aca1ee6f49d8fb9afd4a483bf0a3796c74bd91
