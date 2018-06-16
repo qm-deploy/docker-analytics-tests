@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/password#754274be1c6bca107ec90f53299bc05fd3c9be53
+AnalyticsTasks#feature/password#754274be1c6bca107ec90f53299bc05fd3c9be53
