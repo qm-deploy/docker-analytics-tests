@@ -1,1 +1,1 @@
-ModelConnectors#feature/email#d7fdab1ab3a21f3bdaaf38e3277e10440a23c63c
+Laravel#feature/email#d7fdab1ab3a21f3bdaaf38e3277e10440a23c63c
