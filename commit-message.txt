@@ -1,1 +1,1 @@
-ModelConnectors#feature/ebay#b59d483a1c9c09d8ae0307433b9e442004709397
+Laravel#feature/ebay#b59d483a1c9c09d8ae0307433b9e442004709397
