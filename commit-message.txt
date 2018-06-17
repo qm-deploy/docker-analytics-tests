@@ -1,1 +1,1 @@
-Laravel#feature/global-user#eecc1218b81eaa4a83f655189a5d7ee1576e74a5
+AppSettingsControllers#feature/isTravis#f976887fd7e2127eddc0917ccd3c62de101dc87a
