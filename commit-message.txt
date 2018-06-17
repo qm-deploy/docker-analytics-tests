@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/isTravis#f976887fd7e2127eddc0917ccd3c62de101dc87a
+AnalyticsTasks#feature/isTravis#f976887fd7e2127eddc0917ccd3c62de101dc87a
