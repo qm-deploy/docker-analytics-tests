@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/ebay#72723876a61373131703b10836cf3e671fe6f499
+ModelConnectors#feature/ebay#72723876a61373131703b10836cf3e671fe6f499
