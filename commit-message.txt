@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/images#9e261bb2cd512bb12e93947b8a4d07044696a3a9
+AnalyticsTasks#feature/images#9e261bb2cd512bb12e93947b8a4d07044696a3a9
