@@ -1,1 +1,1 @@
-ModelConnectors#feature/amazon-buttons#ee0687aff610ded26fbb20a2676162ee29ed1035
+Laravel#feature/amazon-buttons#ee0687aff610ded26fbb20a2676162ee29ed1035
