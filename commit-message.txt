@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/study-charts#e217cd0899a9cdf2f5bfab7c86b297571270d780
+AnalyticsTasks#feature/study-charts#e217cd0899a9cdf2f5bfab7c86b297571270d780
