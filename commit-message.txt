@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/older-than-1-day#875e8771c2b26af9c57753aea6e9fc8956219ce7
+AnalyticsTasks#feature/older-than-1-day#875e8771c2b26af9c57753aea6e9fc8956219ce7
