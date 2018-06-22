@@ -1,1 +1,1 @@
-Laravel#feature/auth-exceptions#399c8d420b423189f4e9e7bf3365adf1627733b9
+AppSettingsControllers#feature/AuthorizedClients#64ecc3f55e90a76a5caccc59591233aa1d11abcb
