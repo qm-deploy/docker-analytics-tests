@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/QMAuthenticator#df67fbf34197361e998500eaa36555da39ba1402
+MeasurementsReminders#feature/QMAuthenticator#df67fbf34197361e998500eaa36555da39ba1402
