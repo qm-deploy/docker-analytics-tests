@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/revokeClientAccess#334cb6d335fa41c80a930cf7741a473f122b1d8e
+AnalyticsTasks#feature/revokeClientAccess#334cb6d335fa41c80a930cf7741a473f122b1d8e
