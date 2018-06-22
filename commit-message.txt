@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/QMAuthenticator#df67fbf34197361e998500eaa36555da39ba1402
+ModelConnectors#feature/QMAuthenticator#df67fbf34197361e998500eaa36555da39ba1402
