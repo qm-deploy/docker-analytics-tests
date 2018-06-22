@@ -1,1 +1,1 @@
-ModelConnectors#feature/QMAuthenticator#df67fbf34197361e998500eaa36555da39ba1402
+Laravel#feature/QMAuthenticator#df67fbf34197361e998500eaa36555da39ba1402
