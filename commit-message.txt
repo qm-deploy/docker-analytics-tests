@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/cohort-studies#8655defbbb967d57d732826a52b484827decdc4a
+AnalyticsTasks#feature/cohort-studies#8655defbbb967d57d732826a52b484827decdc4a
