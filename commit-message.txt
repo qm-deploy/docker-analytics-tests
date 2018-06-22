@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/AuthorizedClients#64ecc3f55e90a76a5caccc59591233aa1d11abcb
+AppSettingsControllers#feature/AuthorizedClients#64ecc3f55e90a76a5caccc59591233aa1d11abcb
