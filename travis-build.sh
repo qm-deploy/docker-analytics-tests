@@ -11,8 +11,8 @@ export SHA=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f3 -d#)
 echo '##### Print environment'
 env | sort
 echo "Checking out revision ${SHA}"
-if [ ! -d "QM-Docker" ]; then echo "Repo not found so cloning"  && git clone -b ${BRANCH} --single-branch https://${GITHUB_ACCESS_TOKEN}:x-oauth-basic@github.com/mikepsinn/QM-Docker.git QM-Docker; fi
-cd QM-Docker && git stash && git pull origin ${BRANCH}
+if [ ! -d "QM-Docker" ]; then echo "Repo not found so cloning" && git clone -b ${BRANCH} --single-branch https://${GITHUB_ACCESS_TOKEN}:x-oauth-basic@github.com/mikepsinn/QM-Docker.git QM-Docker; fi
+cd QM-Docker && git stash && git pull origin ${BRANCH} && git submodule update public.built/api/docs
 COMMIT_MESSAGE=$(git log -1 HEAD --pretty=format:%s) && echo "=== BUILDING COMMIT: $COMMIT_MESSAGE ==="
 source ${TEST_REPO_PATH}/update-status.sh --sha=${SHA} \
    --repo=mikepsinn/QM-Docker \
