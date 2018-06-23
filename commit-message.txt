@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/testCreateCohortStudy#cea0c6e809b5dc5b3b857cffd41ccccf65a39ef1
+MeasurementsReminders#feature/testCreateCohortStudy#cea0c6e809b5dc5b3b857cffd41ccccf65a39ef1
