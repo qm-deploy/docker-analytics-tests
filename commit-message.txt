@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/testCreateCohortStudy#4c9485e26d5d97627986b994ed77cfd43c470a1a
+AnalyticsTasks#feature/testCreateCohortStudy#4c9485e26d5d97627986b994ed77cfd43c470a1a
