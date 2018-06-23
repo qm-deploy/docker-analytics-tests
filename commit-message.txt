@@ -1,1 +1,1 @@
-ModelConnectors#feature/studies-lists#85e91c486b794484b4f8bd52d86aa329d788bee8
+Laravel#feature/studies-lists#85e91c486b794484b4f8bd52d86aa329d788bee8
