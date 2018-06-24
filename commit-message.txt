@@ -1,1 +1,1 @@
-ModelConnectors#feature/scopes-description#0cca75de274dce6fb3cdd9a3d5225c11698e5c82
+Laravel#feature/scopes-description#0cca75de274dce6fb3cdd9a3d5225c11698e5c82
