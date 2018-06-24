@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getVariableSettingsUrl#968cc02a2849b21d08fdfc56d265ee19139a82c9
+AnalyticsTasks#feature/getVariableSettingsUrl#968cc02a2849b21d08fdfc56d265ee19139a82c9
