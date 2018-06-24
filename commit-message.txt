@@ -1,1 +1,1 @@
-Laravel#feature/scopes-description#fdfd25d67dd7aca2f36b5f2a1956297bfdae6869
+AppSettingsControllers#feature/scopes-description#76eda1849cb1b4b7660500edcd8317df548671b1
