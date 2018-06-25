@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/FIELD_USER_LOGIN#706d317c645018e1ff02a2c5a5c28ff66a5dd8a6
+ModelConnectors#feature/FIELD_USER_LOGIN#706d317c645018e1ff02a2c5a5c28ff66a5dd8a6
