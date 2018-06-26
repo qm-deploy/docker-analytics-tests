@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/coefficient#f7d5dd532762d6ce7472dd21bca33f9ceb7ac720
+AnalyticsTasks#feature/coefficient#f7d5dd532762d6ce7472dd21bca33f9ceb7ac720
