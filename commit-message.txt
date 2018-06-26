@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/newLatestMeasurementTime#c597f591f94a7ff07be6c525397220faddad9bf0
+AnalyticsTasks#feature/newLatestMeasurementTime#c597f591f94a7ff07be6c525397220faddad9bf0
