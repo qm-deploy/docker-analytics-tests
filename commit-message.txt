@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getUpdateDebugUrl#36065af528e388a3db4fa63627c5a44ea0267d00
+ModelConnectors#feature/getUpdateDebugUrl#36065af528e388a3db4fa63627c5a44ea0267d00
