@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/common-variable-update#2f4082c7ccea61e20b9635d7ebd3b5276d44331e
+ModelConnectors#feature/common-variable-update#2f4082c7ccea61e20b9635d7ebd3b5276d44331e
