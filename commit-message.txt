@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/debugAndAnalyzePropertySizes#7cc0afdf89adc3f0a3da937e6165b940bdc39b98
+AnalyticsTasks#feature/debugAndAnalyzePropertySizes#7cc0afdf89adc3f0a3da937e6165b940bdc39b98
