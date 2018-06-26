@@ -1,1 +1,1 @@
-Laravel#feature/debugAndAnalyzePropertySizes#7cc0afdf89adc3f0a3da937e6165b940bdc39b98
+AppSettingsControllers#feature/getUpdateDebugUrl#36065af528e388a3db4fa63627c5a44ea0267d00
