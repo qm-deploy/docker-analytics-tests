@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/aggregated-fallback#846051c2ea25f5782e07cb401bedd4bfbfe07947
+ModelConnectors#feature/aggregated-fallback#846051c2ea25f5782e07cb401bedd4bfbfe07947
