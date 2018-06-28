@@ -1,1 +1,1 @@
-Laravel#feature/studies-list#6ddbe07365c4593bdf397d4e7de2e3f21b33a9a3
+AppSettingsControllers#feature/studies-list#8523c30ddd245e59f1b14c2541d3e92a7a178395
