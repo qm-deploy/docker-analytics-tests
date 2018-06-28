@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/studies-list#d8970627bac4c2011db2a08020c709fee7ffdf6f
+MeasurementsReminders#feature/studies-list#d8970627bac4c2011db2a08020c709fee7ffdf6f
