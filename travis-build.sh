@@ -34,7 +34,7 @@ sudo chown -R ${USER} ~/.composer/
 cd slim && composer install --prefer-dist
 cd ${QM_DOCKER_PATH}
 case "$TEST_SUITE" in
-    Laravel)  export APP_LOG_LEVEL=INFO
+    Laravel)  export APP_LOG_LEVEL=INFO && export LARAVEL=1
         cd laravel && composer install --prefer-dist
         ${QM_DOCKER_PATH}/slim/vendor/phpunit/phpunit/phpunit --configuration  ${QM_DOCKER_PATH}/laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit ${QM_DOCKER_PATH}/phpunit/${TEST_SUITE}.xml
         ;;
