@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getStudies#7820ebb591969680af8c754e666bb15010898bc3
+AnalyticsTasks#feature/getStudies#7820ebb591969680af8c754e666bb15010898bc3
