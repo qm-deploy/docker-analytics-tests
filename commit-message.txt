@@ -1,1 +1,1 @@
-ModelConnectors#feature/joined#fc747ddb6ab1ef7c77b7e095467492e75a94d30b
+Laravel#feature/joined#fc747ddb6ab1ef7c77b7e095467492e75a94d30b
