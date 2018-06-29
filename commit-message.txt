@@ -1,1 +1,1 @@
-Laravel#feature/GetStudiesController#1424e981d8b2e28ed4edee15a722196a91ddf2d2
+AppSettingsControllers#feature/getAllCommonAndUserTagVariableTypes#2235ab510b4c0e0e137a644eef1374b307ed857b
