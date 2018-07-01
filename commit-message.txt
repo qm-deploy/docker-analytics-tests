@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/study-caching#4336690bf855c334ac63927f0ee4ce556f0250ac
+MeasurementsReminders#feature/study-caching#4336690bf855c334ac63927f0ee4ce556f0250ac
