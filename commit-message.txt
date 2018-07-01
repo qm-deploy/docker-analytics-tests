@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/study-caching#b5f48b70239b75abf6227266ae47ffa7fd7d18ee
+AnalyticsTasks#feature/study-caching#b5f48b70239b75abf6227266ae47ffa7fd7d18ee
