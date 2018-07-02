@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/studies-response#8b76e82cec3cd2e0ed67e5260632b7cb3d0520ba
+ModelConnectors#feature/studies-response#8b76e82cec3cd2e0ed67e5260632b7cb3d0520ba
