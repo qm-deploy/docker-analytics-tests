@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/studies-response#1beac8b82a467f370a1531469059ef1b3528fce2
+AnalyticsTasks#feature/studies-response#1beac8b82a467f370a1531469059ef1b3528fce2
