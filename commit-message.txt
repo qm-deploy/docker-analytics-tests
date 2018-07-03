@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/emails#faa68b69015370b632f68c5c418c3eeadbdf22a6
+ModelConnectors#feature/emails#faa68b69015370b632f68c5c418c3eeadbdf22a6
