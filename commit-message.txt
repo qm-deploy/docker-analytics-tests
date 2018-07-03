@@ -1,1 +1,1 @@
-Laravel#feature/emails#63f5ce73f0396943b21949bf9900aa6e9855add6
+AppSettingsControllers#feature/emails#faa68b69015370b632f68c5c418c3eeadbdf22a6
