@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/study-caching#a18d4ab725fdf3ce83bc19a4da95b63ba1f9fe5a
+ModelConnectors#feature/study-caching#a18d4ab725fdf3ce83bc19a4da95b63ba1f9fe5a
