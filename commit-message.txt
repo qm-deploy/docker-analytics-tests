@@ -1,1 +1,1 @@
-Laravel#feature/getStudyLinks#dc549294abdb67171484847d33793d18fd62c5c6
+AppSettingsControllers#feature/getStudyLinks#74a79c94897c8c55ef342ea311f93587a8c69108
