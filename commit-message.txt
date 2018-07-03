@@ -1,1 +1,1 @@
-Laravel#feature/study-caching#a18d4ab725fdf3ce83bc19a4da95b63ba1f9fe5a
+AppSettingsControllers#feature/study-caching#91aaaf57e931b0eb882f6b4a422a374a92c1f9fa
