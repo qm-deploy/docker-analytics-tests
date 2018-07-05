@@ -1,1 +1,1 @@
-Laravel#feature/effectVariableName#c4015a3d0313855d86acf60114eec781d110327b
+AppSettingsControllers#feature/effectVariableName#c58816b92ccc7392dfb7218b269dcbbb64a3a76f
