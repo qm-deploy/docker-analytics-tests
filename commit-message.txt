@@ -1,1 +1,1 @@
-ModelConnectors#feature/blockBrownBodyText#a2cd3585c6428257ee47638d0348558e2ecaf5c9
+Laravel#feature/blockBrownBodyText#a2cd3585c6428257ee47638d0348558e2ecaf5c9
