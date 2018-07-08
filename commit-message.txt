@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/caching#ea15704281eecca634778028d535195dbd3e36eb
+AnalyticsTasks#feature/caching#ea15704281eecca634778028d535195dbd3e36eb
