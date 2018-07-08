@@ -1,1 +1,1 @@
-Laravel#feature/caching#412eb19d52c1d7a318e996aaed19803081ecad2b
+AppSettingsControllers#feature/caching#72bd1ed04be72fc71b35383e6f3718e2af5eb540
