@@ -18,8 +18,6 @@ cache:
     #- QM-Docker
     - $HOME/.composer/cache
 env:
-  global:
-    - TEST_SUITE=Analytics
   matrix:
     #- HUGO_VERSION=0.20.2 # Maybe use this for documentation at some point
     - PHP_VERSION=7.1 BUILD_SERVICE="msyql workspace mongo"
