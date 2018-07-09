@@ -33,6 +33,7 @@ cp ${QM_DOCKER_PATH}/slim/envs/circleci.env ${QM_DOCKER_PATH}/.env
 sudo chown -R ${USER} ~/.composer/
 cd slim && composer install --prefer-dist
 cd ${QM_DOCKER_PATH}
+set -x
 case "$TEST_SUITE" in
     Laravel)  export APP_LOG_LEVEL=INFO && export LARAVEL=1
         cd laravel && composer install --prefer-dist
