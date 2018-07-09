@@ -1,1 +1,1 @@
-Laravel#feature/renaming#6c151b2bdbdff9f1112bc6c3e6154234697eff7e
+AppSettingsControllers#feature/renaming#87945ed9cc470c64ad9b45dfa03527c1dd707496
