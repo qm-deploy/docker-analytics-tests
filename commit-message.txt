@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/mongo-cache#d0b660183635f1bb0552452c31356ff102004cce
+MeasurementsReminders#feature/mongo-cache#d0b660183635f1bb0552452c31356ff102004cce
