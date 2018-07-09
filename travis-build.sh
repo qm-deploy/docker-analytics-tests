@@ -2,7 +2,12 @@
 export TEST_REPO_PATH="$PWD"
 export QM_DOCKER_PATH="$PWD/QM-Docker"
 echo "HOSTNAME is ${HOSTNAME} and QM_DOCKER_PATH is $QM_DOCKER_PATH"
-export TEST_SUITE=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f1 -d#)
+if [ -z "$TEST_SUITE" ];
+    then
+        export TEST_SUITE=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f1 -d#)
+    else
+       echo "Using TEST_SUITE ENV: $TEST_SUITE"
+fi
 export BRANCH=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f2 -d#)
 export SHA=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f3 -d#)
 
