@@ -1,1 +1,1 @@
-Laravel#feature/cache-control#ee7f439f1c453e18c944bec7f18655acf62a3f73
+AppSettingsControllers#feature/getDbInsertionArray#2e15a8be9653c85dc8eaea140b690655c92df7aa
