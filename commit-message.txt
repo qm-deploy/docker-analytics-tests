@@ -1,1 +1,1 @@
-Laravel#feature/cache-control#0a2714179af5462bffb252b67fcea99423d8afe8
+AppSettingsControllers#feature/caching#e11bc9308f87ad4cee69cfa386872f9abc34a663
