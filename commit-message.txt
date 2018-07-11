@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getLogMetaDataString#35aeb877239bf2444829e3853b88c5798b8c28bc
+ModelConnectors#feature/getLogMetaDataString#35aeb877239bf2444829e3853b88c5798b8c28bc
