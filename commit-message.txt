@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/removeQueryParamsFromUrl#ca6dfe5e08e68e6f20beae9eafe99f2e0c8f66e1
+ModelConnectors#feature/removeQueryParamsFromUrl#ca6dfe5e08e68e6f20beae9eafe99f2e0c8f66e1
