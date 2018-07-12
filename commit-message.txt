@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/generateStudyId#884ffcbcd5c51fe9cdb18142d2ec54f2540630eb
+AnalyticsTasks#feature/generateStudyId#884ffcbcd5c51fe9cdb18142d2ec54f2540630eb
