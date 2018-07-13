@@ -1,1 +1,1 @@
-ModelConnectors#feature/studyCharts#5184b5436e59efb14316efd32d00b1828e414904
+Laravel#feature/studyCharts#5184b5436e59efb14316efd32d00b1828e414904
