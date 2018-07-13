@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/GetStudiesController#969497540a8c1de2bc052b9f6ad8612ee88990c3
+MeasurementsReminders#feature/GetStudiesController#969497540a8c1de2bc052b9f6ad8612ee88990c3
