@@ -1,1 +1,1 @@
-ModelConnectors#feature/GetStudiesController#969497540a8c1de2bc052b9f6ad8612ee88990c3
+Laravel#feature/GetStudiesController#969497540a8c1de2bc052b9f6ad8612ee88990c3
