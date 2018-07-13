@@ -1,1 +1,1 @@
-Laravel#feature/notAuthorizedOrNotFoundException#cf9dd3014c697d5d06e64df2266d8e3dcdcf0ee4
+AppSettingsControllers#feature/studyCharts#393fbea8197aae6be943ece8c05f36e93cc25d0c
