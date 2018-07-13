@@ -1,1 +1,1 @@
-ModelConnectors#feature/getClientAppSettingsFromDatabase#fbadde64c20b79a2acf6e31f2052a40e9053ce48
+Laravel#feature/getClientAppSettingsFromDatabase#fbadde64c20b79a2acf6e31f2052a40e9053ce48
