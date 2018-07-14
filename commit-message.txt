@@ -1,1 +1,1 @@
-Laravel#feature/study-icons#fc20eda55a7bed4f1da9721a9b533e72e3d364d5
+AppSettingsControllers#feature/cache-everything#7cfaf8f9a772eb204f5deb0a06ecb9b65016b16d
