@@ -1,1 +1,1 @@
-Laravel#feature/charts#60908512037b63d21646736c5a9148952a07c353
+AppSettingsControllers#feature/public#9fb21d4c4447c897ebe074e8e22db1cfcac735fc
