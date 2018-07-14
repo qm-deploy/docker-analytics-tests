@@ -1,1 +1,1 @@
-Laravel#feature/public#8e229aea6e0f616b2822139e87607bd62132c4dd
+AppSettingsControllers#feature/study-icons#2089c99370d8378fdbf640c3373ccfccb3bcf8c0
