@@ -1,1 +1,1 @@
-Laravel#feature/study-icons#2089c99370d8378fdbf640c3373ccfccb3bcf8c0
+AppSettingsControllers#feature/study-icons#9b5ab1c0ba86ed21726d1ad57576c8e37d86ecde
