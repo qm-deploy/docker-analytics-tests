@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/study-icons#fc20eda55a7bed4f1da9721a9b533e72e3d364d5
+ModelConnectors#feature/study-icons#fc20eda55a7bed4f1da9721a9b533e72e3d364d5
