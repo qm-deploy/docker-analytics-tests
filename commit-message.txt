@@ -1,1 +1,1 @@
-ModelConnectors#feature/public#acad2aca1f67dbb2942fc23ed78b84467b85310f
+Laravel#feature/public#acad2aca1f67dbb2942fc23ed78b84467b85310f
