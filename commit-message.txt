@@ -1,1 +1,1 @@
-Laravel#feature/public#ffa826ba9a746c7b09ade2669720dd4147fd813f
+AppSettingsControllers#feature/public#acad2aca1f67dbb2942fc23ed78b84467b85310f
