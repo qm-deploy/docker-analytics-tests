@@ -1,1 +1,1 @@
-Laravel#feature/data-source-card#e10aee24a928d408e0772647607681a3ded9a991
+AppSettingsControllers#feature/getVariablesSimple#cddd30f5bbe2f39df4665e6f4a71897f15335a3f
