@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/update-variable-category-table#494294c6181b0c5e34c7928329c1b8c8839ffd1d
+AnalyticsTasks#feature/update-variable-category-table#494294c6181b0c5e34c7928329c1b8c8839ffd1d
