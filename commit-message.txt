@@ -1,1 +1,1 @@
-Laravel#feature/update-variable-category-table#1238392005d9ea1191255d3ef749d79b69bee30c
+AppSettingsControllers#feature/update-variable-category-table#d36a09eb8f9f02ae4a2a11ab49dff995d1c49246
