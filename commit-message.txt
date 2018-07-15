@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/update-variable-category-table#bac0ada1dfd336fb8bf71f906f537b720db93d5d
+ModelConnectors#feature/update-variable-category-table#bac0ada1dfd336fb8bf71f906f537b720db93d5d
