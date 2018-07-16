@@ -1,1 +1,1 @@
-ModelConnectors#feature/notifications#9b46ba4400b9579eaf61bc31e740d4c7bb9111ef
+Laravel#feature/notifications#9b46ba4400b9579eaf61bc31e740d4c7bb9111ef
