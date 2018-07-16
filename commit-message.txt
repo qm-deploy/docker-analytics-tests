@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getCurrentConnector#926242e4f1d7a5c37261b2daf4d214e9fa93f97e
+AnalyticsTasks#feature/getCurrentConnector#926242e4f1d7a5c37261b2daf4d214e9fa93f97e
