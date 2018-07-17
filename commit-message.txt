@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/study-types#393c4772463939c95f449e9c592df678fbfb6431
+AnalyticsTasks#feature/study-types#393c4772463939c95f449e9c592df678fbfb6431
