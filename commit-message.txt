@@ -1,1 +1,1 @@
-Laravel#feature/study-types#393c4772463939c95f449e9c592df678fbfb6431
+AppSettingsControllers#feature/study-types#8affd28b6ea38aa16a9175cbf15e96d80a3bad33
