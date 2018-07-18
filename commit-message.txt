@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/public-variables#22fa82cdabea437e3b214d4c5e929988c4f26cdd
+AppSettingsControllers#feature/public-variables#ed79af27f7e7dcc38e0b3f5be60d86ada82995bf
