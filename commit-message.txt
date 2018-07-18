@@ -1,1 +1,1 @@
-Laravel#feature/study-types#9e801cba9a61eebf62cca558320d0ec017ddb1b5
+AppSettingsControllers#feature/slim#fa0ca2b8e53192772dd4deb21130af79d61605e7
