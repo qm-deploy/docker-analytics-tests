@@ -1,1 +1,1 @@
-ModelConnectors#feature/setTitle#6c91842d34fe2bb67a73ddbbe8f51ca97794298a
+Laravel#feature/setTitle#6c91842d34fe2bb67a73ddbbe8f51ca97794298a
