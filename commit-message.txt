@@ -1,1 +1,1 @@
-Laravel#feature/slim#fa0ca2b8e53192772dd4deb21130af79d61605e7
+AppSettingsControllers#feature/public-variables#b0c2419c34b259843b626718a101b7c70899f37c
