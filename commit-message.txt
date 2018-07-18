@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/getCreatedStudies#9d99612df19b6dd4ff068fdc12e86dec8b4a8f9c
+MeasurementsReminders#feature/getCreatedStudies#9d99612df19b6dd4ff068fdc12e86dec8b4a8f9c
