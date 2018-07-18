@@ -1,1 +1,1 @@
-Laravel#feature/public-variables#b94717d7a977ad77367e9a39907372b779986666
+AppSettingsControllers#feature/public-variables#8ecfb1e09b98cce8dc9e396e3fedefc4d61572f8
