@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getCreatedStudies#d246e986bfbef0edfa36927ed4174a8331460548
+AnalyticsTasks#feature/getCreatedStudies#d246e986bfbef0edfa36927ed4174a8331460548
