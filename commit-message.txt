@@ -1,1 +1,1 @@
-Laravel#feature/user-variable#40546ee42034eacfda1dbaa29e8f499fdb42a736
+AppSettingsControllers#feature/getSynonyms#336ad51eb1789168b08b3707eb593b97f72403c7
