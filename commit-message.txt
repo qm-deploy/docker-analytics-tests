@@ -1,1 +1,1 @@
-Laravel#feature/logger#a295eb4142b47e012f7bf68a6b6594d27d2d8f95
+AppSettingsControllers#feature/studies-joined-table#13ef3654a9a84d05f5c70fba0727204d93292e63
