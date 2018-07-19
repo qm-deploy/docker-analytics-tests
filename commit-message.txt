@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/test-logging#909dc62928987a2e3e8c66823704e931b0e89660
+AnalyticsTasks#feature/test-logging#909dc62928987a2e3e8c66823704e931b0e89660
