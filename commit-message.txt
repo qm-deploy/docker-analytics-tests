@@ -1,1 +1,1 @@
-ModelConnectors#feature/study-card#5320ccc62df246e967840bb0d978600267ff32df
+Laravel#feature/study-card#5320ccc62df246e967840bb0d978600267ff32df
