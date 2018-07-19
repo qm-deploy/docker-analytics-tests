@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/connector-user#caba9f0053cd893093a4388ae04c29a392aa5c67
+ModelConnectors#feature/connector-user#caba9f0053cd893093a4388ae04c29a392aa5c67
