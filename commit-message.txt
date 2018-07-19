@@ -1,1 +1,1 @@
-Laravel#feature/user-cards#336fff4c267a3826d1870df0fa3a26c9aea99b7e
+AppSettingsControllers#feature/study-card#5320ccc62df246e967840bb0d978600267ff32df
