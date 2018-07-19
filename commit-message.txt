@@ -1,1 +1,1 @@
-Laravel#feature/getSynonyms#336ad51eb1789168b08b3707eb593b97f72403c7
+AppSettingsControllers#feature/addAllFieldsToQB#dcebc39f5f981261be97a510fb810432f1cedf88
