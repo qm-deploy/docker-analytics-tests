@@ -1,1 +1,1 @@
-Laravel#feature/user-variable#a1e03dba08fe9aecb11cff49a8da3328b6140d85
+AppSettingsControllers#feature/study-text#1f90a6b8482d044e7fa673b4c3d50b99fd32e8ca
