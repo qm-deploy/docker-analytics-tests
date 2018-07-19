@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/test-logging#e2c13a2ad347db5c7f129836aacdd35547ae5ce7
+ModelConnectors#feature/test-logging#e2c13a2ad347db5c7f129836aacdd35547ae5ce7
