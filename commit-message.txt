@@ -1,1 +1,1 @@
-ModelConnectors#feature/getAccessTokenRowByAccessTokenString#6d62724ba5fabae0a8749bec8a54af33cfa13cf1
+Laravel#feature/getAccessTokenRowByAccessTokenString#6d62724ba5fabae0a8749bec8a54af33cfa13cf1
