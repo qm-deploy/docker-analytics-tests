@@ -1,1 +1,1 @@
-Laravel#feature/addAllFieldsToQB#c18c229884eb9de0ac1c434250348f80635ea526
+AppSettingsControllers#feature/exceptions#abd099dade175ff5d0afbe19338d30eccdd02d85
