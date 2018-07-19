@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/addAllFieldsToQB#ff508b0f0a6d1d3563b927e86a26a618f4c4058d
+MeasurementsReminders#feature/addAllFieldsToQB#ff508b0f0a6d1d3563b927e86a26a618f4c4058d
