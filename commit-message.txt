@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getSynonyms#351506da157027e3205f4643b20f23adbbdacac1
+ModelConnectors#feature/getSynonyms#351506da157027e3205f4643b20f23adbbdacac1
