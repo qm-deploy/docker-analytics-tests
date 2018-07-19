@@ -1,1 +1,1 @@
-Laravel#feature/common-variable#d70ca9dd1652513f69b1a242b00718cb2016d90f
+AppSettingsControllers#feature/addAllFieldsToQB#24f193816d9061ad3c03ba4c635a7285617fc6e3
