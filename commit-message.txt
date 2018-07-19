@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/addAllFieldsToQB#8e78ad7ca23395fdeed465e73e0c6f1d1dc13dfd
+AnalyticsTasks#feature/addAllFieldsToQB#8e78ad7ca23395fdeed465e73e0c6f1d1dc13dfd
