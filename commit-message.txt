@@ -1,1 +1,1 @@
-Laravel#feature/study-text#6969d1277329076889064ce94f45c6fd2d6dd25f
+AppSettingsControllers#feature/study-text#424c15b3a9c7604cdf4633a7d3c37b13cc648ab0
