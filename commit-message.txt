@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/study-text#6969d1277329076889064ce94f45c6fd2d6dd25f
+AnalyticsTasks#feature/study-text#6969d1277329076889064ce94f45c6fd2d6dd25f
