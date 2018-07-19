@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/addAllFieldsToQB#221ed55978bfd7b1107f61a76cdb2c2e1e5ea811
+ModelConnectors#feature/addAllFieldsToQB#221ed55978bfd7b1107f61a76cdb2c2e1e5ea811
