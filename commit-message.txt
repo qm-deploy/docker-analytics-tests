@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/studies-joined-table#13ef3654a9a84d05f5c70fba0727204d93292e63
+ModelConnectors#feature/studies-joined-table#13ef3654a9a84d05f5c70fba0727204d93292e63
