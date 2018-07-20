@@ -1,1 +1,1 @@
-Laravel#feature/getByCauseEffect#ddfdb015e12ae728d0707767151754f89fa8131f
+AppSettingsControllers#feature/getVoteEndpoint#a2e6f251a2d56e7b5bf7bd55aa8288768d51a36b
