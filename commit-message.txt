@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getVoteEndpoint#6794f1f5804b6d60d96b3bccd6d0add97a3e8e4a
+ModelConnectors#feature/getVoteEndpoint#6794f1f5804b6d60d96b3bccd6d0add97a3e8e4a
