@@ -1,1 +1,1 @@
-ModelConnectors#feature/addAllFieldsToQB#bee5b7a734126593f5540c31444c3d2146a97148
+Laravel#feature/addAllFieldsToQB#bee5b7a734126593f5540c31444c3d2146a97148
