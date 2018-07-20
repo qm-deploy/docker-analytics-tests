@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/getVoteEndpoint#a2e6f251a2d56e7b5bf7bd55aa8288768d51a36b
+MeasurementsReminders#feature/getVoteEndpoint#a2e6f251a2d56e7b5bf7bd55aa8288768d51a36b
