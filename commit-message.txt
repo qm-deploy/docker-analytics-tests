@@ -1,1 +1,1 @@
-Laravel#feature/getVoteEndpoint#a2e6f251a2d56e7b5bf7bd55aa8288768d51a36b
+AppSettingsControllers#feature/getVoteEndpoint#f6e03534808cf81afe60a137fe19f4887636006a
