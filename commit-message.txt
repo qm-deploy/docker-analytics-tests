@@ -1,1 +1,1 @@
-ModelConnectors#feature/getVoteEndpoint#f6e03534808cf81afe60a137fe19f4887636006a
+Laravel#feature/getVoteEndpoint#f6e03534808cf81afe60a137fe19f4887636006a
