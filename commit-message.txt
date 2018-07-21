@@ -1,1 +1,1 @@
-Laravel#feature/weather-card#2948966015ac2e1154da139aeaf9dd40dcff6b45
+AppSettingsControllers#feature/privateConfig#0248c536db9959f9f37506d43239faa3ae532dda
