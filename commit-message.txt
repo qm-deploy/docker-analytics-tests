@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/not-enough-measurements#5138ab10552d5d0bee0a356900fddfe837f316a4
+AnalyticsTasks#feature/not-enough-measurements#5138ab10552d5d0bee0a356900fddfe837f316a4
