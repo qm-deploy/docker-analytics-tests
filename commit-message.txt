@@ -1,1 +1,1 @@
-Laravel#feature/privateConfig#729199a327a51f7377c678d5c5008f4adac0a1b7
+AppSettingsControllers#feature/privateConfig#867a32661d58b109cdc04d2480cd5c66e2e01c6c
