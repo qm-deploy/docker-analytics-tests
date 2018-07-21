@@ -1,1 +1,1 @@
-ModelConnectors#feature/weather-card#2948966015ac2e1154da139aeaf9dd40dcff6b45
+Laravel#feature/weather-card#2948966015ac2e1154da139aeaf9dd40dcff6b45
