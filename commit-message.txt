@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/weather-card#2948966015ac2e1154da139aeaf9dd40dcff6b45
+MeasurementsReminders#feature/weather-card#2948966015ac2e1154da139aeaf9dd40dcff6b45
