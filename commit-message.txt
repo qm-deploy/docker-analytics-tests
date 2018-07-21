@@ -1,1 +1,1 @@
-ModelConnectors#feature/privateConfig#0248c536db9959f9f37506d43239faa3ae532dda
+Laravel#feature/privateConfig#0248c536db9959f9f37506d43239faa3ae532dda
