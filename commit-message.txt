@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/QMException#520de9f8c163052fff0a9da8a39c49382f019874
+ModelConnectors#feature/QMException#520de9f8c163052fff0a9da8a39c49382f019874
