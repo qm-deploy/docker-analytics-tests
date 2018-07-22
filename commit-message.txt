@@ -1,1 +1,1 @@
-Laravel#feature/commonVariable#a954bf6122a47257402e7c2816231c1afe3846c6
+AppSettingsControllers#feature/commonVariable#487af86df4c38c9eedbc8fdf9ff24c36d7510d5c
