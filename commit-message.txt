@@ -1,1 +1,1 @@
-Laravel#feature/commonVariable#b1c2d6b52f4aabbf18b12d235f106f1b5b23e322
+AppSettingsControllers#feature/QMException#520de9f8c163052fff0a9da8a39c49382f019874
