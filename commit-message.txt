@@ -1,1 +1,1 @@
-Laravel#feature/QMException#ae1af6ee392a5fa623dc6ed05a925638fed0e006
+AppSettingsControllers#feature/QMException#87bcbe6451dbdce584e2d818bc4b3ff1ccc7595c
