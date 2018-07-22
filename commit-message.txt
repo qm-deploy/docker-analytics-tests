@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/study-errors#557a64d8968ea9c4fddbc2897242efecc0c9d564
+ModelConnectors#feature/study-errors#557a64d8968ea9c4fddbc2897242efecc0c9d564
