@@ -1,1 +1,1 @@
-Laravel#feature/cards#ef276b7d192d29f843063cc8f0fe7678be4df717
+AppSettingsControllers#feature/addAllFieldsToQB#bee5b7a734126593f5540c31444c3d2146a97148
