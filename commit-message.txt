@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/common-variable-updateDbRow#47d3c01bb7a512a5f17c9f54a5e45b9d8c9ede4d
+MeasurementsReminders#feature/common-variable-updateDbRow#47d3c01bb7a512a5f17c9f54a5e45b9d8c9ede4d
