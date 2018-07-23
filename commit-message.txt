@@ -1,1 +1,1 @@
-Laravel#feature/periods#6e973a5d552e94f2182a2b3527b7985eff665354
+AppSettingsControllers#feature/study-cards#c1f5e468b6a12251e02ef57788927d82de05f5be
