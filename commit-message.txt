@@ -1,1 +1,1 @@
-Laravel#feature/test-exceptions#63c3c1b6ac5fccf44b2249941a2deee4898ac221
+AppSettingsControllers#feature/study-title#28e166ae886f301de55f5a44374622664af6fc0e
