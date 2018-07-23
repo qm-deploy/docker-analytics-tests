@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/setFullStudyLinkButton#fe4f2e2c82241db76909a75492478ddd033a99d1
+AnalyticsTasks#feature/setFullStudyLinkButton#fe4f2e2c82241db76909a75492478ddd033a99d1
