@@ -1,1 +1,1 @@
-ModelConnectors#feature/isCrappy#4f753d70aab5e19c54f15a461349eb5c47779a87
+Laravel#feature/isCrappy#4f753d70aab5e19c54f15a461349eb5c47779a87
