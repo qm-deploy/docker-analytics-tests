@@ -1,1 +1,1 @@
-Laravel#feature/isCrappy#b5c8b6417719df0d12239ac93d959aeccbdf75e1
+AppSettingsControllers#feature/logError#396a1ba746f3958aff9738e5f0798c1749365aff
