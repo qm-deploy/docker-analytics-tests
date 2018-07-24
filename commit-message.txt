@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/setImage#8f4e43267c6d42b5102002395db6753b119b3218
+ModelConnectors#feature/setImage#8f4e43267c6d42b5102002395db6753b119b3218
