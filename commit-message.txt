@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/study-limit#e347ea263d9a030e25974e9e350c5de5462472a2
+AnalyticsTasks#feature/study-limit#e347ea263d9a030e25974e9e350c5de5462472a2
