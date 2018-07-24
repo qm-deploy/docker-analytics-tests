@@ -1,1 +1,1 @@
-ModelConnectors#feature/study-auth#71be05248140f6f9eeb86c6c5424b105c4221af8
+Laravel#feature/study-auth#71be05248140f6f9eeb86c6c5424b105c4221af8
