@@ -1,1 +1,1 @@
-Laravel#feature/study-instructions#65644f0481247eb02cae77f9e4d3fdc4042a5751
+AppSettingsControllers#feature/study-auth#536e17c6e503d9beb7a85bdfde43fab6ee17a638
