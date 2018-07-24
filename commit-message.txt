@@ -1,1 +1,1 @@
-Laravel#feature/isCrappy#4f753d70aab5e19c54f15a461349eb5c47779a87
+AppSettingsControllers#feature/isCrappy#b5c8b6417719df0d12239ac93d959aeccbdf75e1
