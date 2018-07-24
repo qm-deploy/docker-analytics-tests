@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getUpgradeButtonIfNecessary#2de3181959f0a548342c82cdadbf4005dc2c4173
+AnalyticsTasks#feature/getUpgradeButtonIfNecessary#2de3181959f0a548342c82cdadbf4005dc2c4173
