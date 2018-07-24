@@ -1,1 +1,1 @@
-Laravel#feature/setStudyTitle#bbe60c62c1103886449cf5491f8e1ea9ad143582
+AppSettingsControllers#feature/study-limit#8d8adca411fdca42cd44653eeb8170e797d8abfb
