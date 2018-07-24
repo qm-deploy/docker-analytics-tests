@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/study-buttons#f6ff321ecbf79ff903e7940664ef8491dec1e3d0
+AnalyticsTasks#feature/study-buttons#f6ff321ecbf79ff903e7940664ef8491dec1e3d0
