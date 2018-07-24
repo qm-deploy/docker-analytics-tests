@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/isCrappy#82703bf82614665ec8ef54040ff3232e523f34b5
+AnalyticsTasks#feature/isCrappy#82703bf82614665ec8ef54040ff3232e523f34b5
