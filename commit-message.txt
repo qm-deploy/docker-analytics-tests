@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/google-assistant#5d9cad983eed2bb758520fb5a5af327b2211fadf
+ModelConnectors#feature/google-assistant#5d9cad983eed2bb758520fb5a5af327b2211fadf
