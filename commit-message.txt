@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/options-icons#680937a06b8f6a2ada76d123a1f6c022c95720b9
+AnalyticsTasks#feature/options-icons#680937a06b8f6a2ada76d123a1f6c022c95720b9
