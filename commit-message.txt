@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/options-icons#fd5eca56243662ffee8082c608fe2a3af4cfd32d
+MeasurementsReminders#feature/options-icons#fd5eca56243662ffee8082c608fe2a3af4cfd32d
