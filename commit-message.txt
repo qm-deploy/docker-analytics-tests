@@ -1,1 +1,1 @@
-Laravel#feature/google-assistant-tests#f90743c83e3a869d489f3dd7c24d266f1b8e3122
+AppSettingsControllers#feature/study-text#4919ef4ef4e605e994d35bd0c7c68fe4bce1a654
