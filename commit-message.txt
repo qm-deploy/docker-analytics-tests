@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/study-text#0391d8a2e1fb19d9f0e2a977b019dcd06f951919
+MeasurementsReminders#feature/study-text#0391d8a2e1fb19d9f0e2a977b019dcd06f951919
