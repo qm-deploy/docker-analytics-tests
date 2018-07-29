@@ -1,1 +1,1 @@
-ModelConnectors#feature/optimal-value-message#b3fff746defeba5c94a587cc23ddc30a356dff2e
+Laravel#feature/optimal-value-message#b3fff746defeba5c94a587cc23ddc30a356dff2e
