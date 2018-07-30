@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getEffectVariableDisplayName#0b36733a4390ed6d45efa4cf3d783218131b0494
+AnalyticsTasks#feature/getEffectVariableDisplayName#0b36733a4390ed6d45efa4cf3d783218131b0494
