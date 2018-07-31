@@ -1,1 +1,1 @@
-Laravel#feature/getQuery#4d2934da50c5aa5e7a0e9892949d988715b42517
+AppSettingsControllers#feature/study-text#fcac13d6e67121cb8cc94d70bdccf8d48057b083
