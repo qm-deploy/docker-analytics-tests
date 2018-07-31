@@ -1,1 +1,1 @@
-ModelConnectors#feature/BestStudyLink#e577984ea767dda62af8a578d3d8e70c978e7792
+Laravel#feature/BestStudyLink#e577984ea767dda62af8a578d3d8e70c978e7792
