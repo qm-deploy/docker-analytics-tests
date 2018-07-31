@@ -1,1 +1,1 @@
-ModelConnectors#feature/getQuery#4d2934da50c5aa5e7a0e9892949d988715b42517
+Laravel#feature/getQuery#4d2934da50c5aa5e7a0e9892949d988715b42517
