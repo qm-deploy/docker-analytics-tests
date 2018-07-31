@@ -1,1 +1,1 @@
-Laravel#feature/useAbbreviatedName#cf5d5e02f606c1846bd4c64ca1f166301d933052
+AppSettingsControllers#feature/useAbbreviatedName#43c803c5fc449b58617c52998a227a3a80641f98
