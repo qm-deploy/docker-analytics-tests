@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/useAbbreviatedName#43c803c5fc449b58617c52998a227a3a80641f98
+ModelConnectors#feature/useAbbreviatedName#43c803c5fc449b58617c52998a227a3a80641f98
