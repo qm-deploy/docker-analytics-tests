@@ -1,1 +1,1 @@
-Laravel#feature/questions#74ee9ca0398149d0b071d1a494b35c7ce7a2b30f
+AppSettingsControllers#feature/BestStudyLink#e577984ea767dda62af8a578d3d8e70c978e7792
