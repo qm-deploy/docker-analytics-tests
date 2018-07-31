@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getSuggestions#7a4f32c63f3b37c89efaab169977fbaf314980e9
+AnalyticsTasks#feature/getSuggestions#7a4f32c63f3b37c89efaab169977fbaf314980e9
