@@ -1,1 +1,1 @@
-Laravel#feature/getSuggestions#7a4f32c63f3b37c89efaab169977fbaf314980e9
+AppSettingsControllers#feature/google-assistant#8f62279d60315fca94f7ef32daf11a5e0e573f85
