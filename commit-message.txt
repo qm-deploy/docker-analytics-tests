@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/setLastValuesActionArray#891fa9cbd89d9b2a9c0acb952d425c636a0bb251
+AnalyticsTasks#feature/setLastValuesActionArray#891fa9cbd89d9b2a9c0acb952d425c636a0bb251
