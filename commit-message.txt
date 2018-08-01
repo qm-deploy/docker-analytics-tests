@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/reminder-queries#24386eba3b9b97db14664b47c7f59038768f1b06
+AnalyticsTasks#feature/reminder-queries#24386eba3b9b97db14664b47c7f59038768f1b06
