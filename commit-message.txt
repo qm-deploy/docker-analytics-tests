@@ -1,1 +1,1 @@
-Laravel#feature/arrays#1f5cac3284dda7e4fc5cd6728792a99ab59abd70
+AppSettingsControllers#feature/log-truncation#50b4093163af5a779f0b7747a2cde3481bf5a960
