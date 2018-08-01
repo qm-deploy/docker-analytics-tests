@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/push-notifications#218d3ab40161850c3c4102fb939f56d7a4546a27
+ModelConnectors#feature/push-notifications#218d3ab40161850c3c4102fb939f56d7a4546a27
