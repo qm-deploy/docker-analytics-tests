@@ -1,1 +1,1 @@
-Laravel#feature/push-notifications#218d3ab40161850c3c4102fb939f56d7a4546a27
+AppSettingsControllers#feature/device-tokens#ab79012139244bb3bd82c2af195a6a6f2adc2b7f
