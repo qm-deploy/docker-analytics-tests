@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getForPushNotifications#9ceee5b79ac34639a2827146ebc5f86783cdfeee
+AnalyticsTasks#feature/getForPushNotifications#9ceee5b79ac34639a2827146ebc5f86783cdfeee
