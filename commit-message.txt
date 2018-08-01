@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/reminder-queries#ee3c82640db29a552c5fb92ea9b5c7d4b418e3ea
+ModelConnectors#feature/reminder-queries#ee3c82640db29a552c5fb92ea9b5c7d4b418e3ea
