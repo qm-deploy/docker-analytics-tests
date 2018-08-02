@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getOptimalValueSentence#3904f48070fcc5f95fa1c15bbf8f528258b0dea1
+ModelConnectors#feature/getOptimalValueSentence#3904f48070fcc5f95fa1c15bbf8f528258b0dea1
