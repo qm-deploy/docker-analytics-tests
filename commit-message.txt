@@ -1,1 +1,1 @@
-Laravel#feature/getOptimalValueSentence#0d87a994067b8869ce4e638257a67b5f62ca494c
+AppSettingsControllers#feature/addSingularAndLowerCaseVersions#b1c44cc2c4cb7345a329c63b515400401eb9e018
