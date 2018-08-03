@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/getByNameOrSynonym#bb6700bd0b471a5ec8c282df575a49e93970beb3
+MeasurementsReminders#feature/getByNameOrSynonym#bb6700bd0b471a5ec8c282df575a49e93970beb3
