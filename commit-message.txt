@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/addSingularAndLowerCaseVersions#afe3ab6f0abefeeafc774a624329aef9e294c313
+AnalyticsTasks#feature/addSingularAndLowerCaseVersions#afe3ab6f0abefeeafc774a624329aef9e294c313
