@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/addSingularAndLowerCaseVersions#fd76b6301f5defd6a30b532ce886218584f94b13
+ModelConnectors#feature/addSingularAndLowerCaseVersions#fd76b6301f5defd6a30b532ce886218584f94b13
