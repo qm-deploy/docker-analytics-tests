@@ -1,1 +1,1 @@
-ModelConnectors#feature/addSingularAndLowerCaseVersions#b1c44cc2c4cb7345a329c63b515400401eb9e018
+Laravel#feature/addSingularAndLowerCaseVersions#b1c44cc2c4cb7345a329c63b515400401eb9e018
