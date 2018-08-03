@@ -1,1 +1,1 @@
-Laravel#feature/addSingularAndLowerCaseVersions#afe3ab6f0abefeeafc774a624329aef9e294c313
+AppSettingsControllers#feature/getByNameOrSynonym#bb6700bd0b471a5ec8c282df575a49e93970beb3
