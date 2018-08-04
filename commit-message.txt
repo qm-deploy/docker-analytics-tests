@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/exceptionIfNotProduction#00066ccf40b417170fff68681926e0a3ba445cfc
+AnalyticsTasks#feature/exceptionIfNotProduction#00066ccf40b417170fff68681926e0a3ba445cfc
