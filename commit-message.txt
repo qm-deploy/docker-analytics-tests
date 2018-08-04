@@ -1,1 +1,1 @@
-Laravel#feature/synonyms#b1d4b89253d37ac34bd02d3440aa79194fc56840
+AppSettingsControllers#feature/include-private#f8fb9879b19675d3afec2d9841b3179055a8016e
