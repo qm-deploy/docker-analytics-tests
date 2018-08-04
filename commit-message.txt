@@ -1,1 +1,1 @@
-Laravel#feature/integration-js#4cb5e4783ced36484795aac9e5186502cd38c6ee
+AppSettingsControllers#feature/exceptionIfNotProduction#e8d4a22fbc816c25f5fb9da86607071c195d5006
