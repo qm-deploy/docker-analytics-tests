@@ -1,1 +1,1 @@
-ModelConnectors#feature/exceptionIfNotProduction#e4346bc267e2dd207426809eaf0d8718f9fa9762
+Laravel#feature/exceptionIfNotProduction#e4346bc267e2dd207426809eaf0d8718f9fa9762
