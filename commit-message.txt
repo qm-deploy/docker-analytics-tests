@@ -1,1 +1,1 @@
-Laravel#feature/exceptionIfNotProduction#e8d4a22fbc816c25f5fb9da86607071c195d5006
+AppSettingsControllers#feature/synonyms#b1d4b89253d37ac34bd02d3440aa79194fc56840
