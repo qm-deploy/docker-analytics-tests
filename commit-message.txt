@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/ONE_TO_FIVE_RATING_VALUES#6a0fae602bb675be4976dd3fe87e7962d27e9458
+AnalyticsTasks#feature/ONE_TO_FIVE_RATING_VALUES#6a0fae602bb675be4976dd3fe87e7962d27e9458
