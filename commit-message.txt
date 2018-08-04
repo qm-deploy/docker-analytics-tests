@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/intents#f46f241e1c496eaf67c9811685049da50f701ec2
+ModelConnectors#feature/intents#f46f241e1c496eaf67c9811685049da50f701ec2
