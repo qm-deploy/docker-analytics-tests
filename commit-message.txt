@@ -1,1 +1,1 @@
-Laravel#feature/getByNameOrSynonym#bb6700bd0b471a5ec8c282df575a49e93970beb3
+AppSettingsControllers#feature/getByNameOrSynonym#6d9c1f4b23827dfc0a1fa8a74dc10e37df164b68
