@@ -1,1 +1,1 @@
-ModelConnectors#feature/min-max#a28aee5c24d8ef5c4dbd6d2084a844208a4ddee3
+Laravel#feature/min-max#a28aee5c24d8ef5c4dbd6d2084a844208a4ddee3
