@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/min-max#811fbbcfb55110a4b39082636c3a3876fa0d9c81
+MeasurementsReminders#feature/min-max#811fbbcfb55110a4b39082636c3a3876fa0d9c81
