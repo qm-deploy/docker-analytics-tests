@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/min-max#1b7a5e1e38530a9733d63b7c351db50efd655e96
+AnalyticsTasks#feature/min-max#1b7a5e1e38530a9733d63b7c351db50efd655e96
