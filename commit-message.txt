@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/setFallbackMaximumAllowedValue#99e4191d8932e4034c7035f227b47efd242890bb
+ModelConnectors#feature/setFallbackMaximumAllowedValue#99e4191d8932e4034c7035f227b47efd242890bb
