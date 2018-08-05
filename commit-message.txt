@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getChartsFromMongoDbIfPossible#5842fd812190085c4aef49b540c8926fdd423d5e
+AnalyticsTasks#feature/getChartsFromMongoDbIfPossible#5842fd812190085c4aef49b540c8926fdd423d5e
