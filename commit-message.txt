@@ -1,1 +1,1 @@
-ModelConnectors#feature/dialog#65b5a31ab9783931d2a18b056c9b8b121121b044
+Laravel#feature/dialog#65b5a31ab9783931d2a18b056c9b8b121121b044
