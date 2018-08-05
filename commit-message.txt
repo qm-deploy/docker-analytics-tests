@@ -1,1 +1,1 @@
-Laravel#feature/include-private#56d3eb87f90e55bae58374528cc9bb54a5b9387f
+AppSettingsControllers#feature/getChartsFromMongoDbIfPossible#5842fd812190085c4aef49b540c8926fdd423d5e
