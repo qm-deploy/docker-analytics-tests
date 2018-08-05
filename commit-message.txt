@@ -1,1 +1,1 @@
-Laravel#feature/min-max#5050e2e8d8ad6f96256fe1e1032c9ae7de5b03b5
+AppSettingsControllers#feature/min-max#1b7a5e1e38530a9733d63b7c351db50efd655e96
