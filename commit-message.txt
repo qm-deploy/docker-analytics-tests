@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/min-max#693f461871044b804f9a6973c76482abcd0e6d0e
+ModelConnectors#feature/min-max#693f461871044b804f9a6973c76482abcd0e6d0e
