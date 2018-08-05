@@ -1,1 +1,1 @@
-Laravel#feature/servings-max#466134290bdc4879fce116261e43fa0b379e088f
+AppSettingsControllers#feature/logErrorAndFallbackToMinimumIfValueIsTooSmall#417e1b90c3fae9cf10588976a7ad0c8736364ffb
