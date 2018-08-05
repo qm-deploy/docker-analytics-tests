@@ -1,1 +1,1 @@
-Laravel#feature/min-max#8fd5a575cc9053dc18f5e013a10a986c396c49ef
+AppSettingsControllers#feature/getLongQuestion#517f61c77516074bd5add4b286a7b0be22dafc61
