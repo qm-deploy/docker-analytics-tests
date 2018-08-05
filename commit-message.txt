@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getLongQuestion#517f61c77516074bd5add4b286a7b0be22dafc61
+ModelConnectors#feature/getLongQuestion#517f61c77516074bd5add4b286a7b0be22dafc61
