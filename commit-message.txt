@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/setStudyQuestion#710efc9a1dd473c25b26521acf93a033c84f9345
+ModelConnectors#feature/setStudyQuestion#710efc9a1dd473c25b26521acf93a033c84f9345
