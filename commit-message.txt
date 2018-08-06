@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/charts#8cb5f7cb956ea9eebc0f85d03e013febbdcc6f2c
+AnalyticsTasks#feature/charts#8cb5f7cb956ea9eebc0f85d03e013febbdcc6f2c
