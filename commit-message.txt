@@ -1,1 +1,1 @@
-Laravel#feature/query-params#7591fe8d25191848fc25754a0dab76e1b629594f
+AppSettingsControllers#feature/throwExceptionIfNotProductionAPIRequest#74e4cdd6b4788a37a2cd33834d13b1e04c0af094
