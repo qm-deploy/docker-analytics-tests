@@ -1,1 +1,1 @@
-ModelConnectors#feature/list-card#a75d0567e7f203d27cfcf235a360b57bc771aafc
+Laravel#feature/list-card#a75d0567e7f203d27cfcf235a360b57bc771aafc
