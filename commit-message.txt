@@ -1,1 +1,1 @@
-ModelConnectors#feature/synonyms#b366458e73eecf96d9f5a03cb5de0d76c8094955
+Laravel#feature/synonyms#b366458e73eecf96d9f5a03cb5de0d76c8094955
