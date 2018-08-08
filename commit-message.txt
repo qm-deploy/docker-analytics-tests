@@ -1,1 +1,1 @@
-Laravel#feature/variable-search#23bdac802ec936aee7ea7643268975b3eb5ad85b
+AppSettingsControllers#feature/GetCommonVariablesRequest#9ad44c7e6604ece072f71ca66b32ce2a5044ab00
