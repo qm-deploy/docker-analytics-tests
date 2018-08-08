@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/removeLowerCaseDuplicates#2bcfa1308b30c6f2fb3da871558e8b9dcac55e8b
+AnalyticsTasks#feature/removeLowerCaseDuplicates#2bcfa1308b30c6f2fb3da871558e8b9dcac55e8b
