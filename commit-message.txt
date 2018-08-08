@@ -1,1 +1,1 @@
-ModelConnectors#feature/VariableSearchResult.php#47cbe84c4546ec2d30d87a559429537a1bf875a2
+Laravel#feature/VariableSearchResult.php#47cbe84c4546ec2d30d87a559429537a1bf875a2
