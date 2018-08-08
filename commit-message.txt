@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/GetUserVariableRequest#dfb5b27c2af9c5a1f6b77b404ef3c0babacaa7cd
+MeasurementsReminders#feature/GetUserVariableRequest#dfb5b27c2af9c5a1f6b77b404ef3c0babacaa7cd
