@@ -1,1 +1,1 @@
-ModelConnectors#feature/isQuantiModoAliasClientId#81f185d121632edece5475e7a4333eb67a8a04b2
+Laravel#feature/isQuantiModoAliasClientId#81f185d121632edece5475e7a4333eb67a8a04b2
