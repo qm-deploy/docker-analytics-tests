@@ -1,1 +1,1 @@
-ModelConnectors#feature/addSingularVersions#bb6e84023c64373f69ec94acfe1e1c3e6ea06e19
+Laravel#feature/addSingularVersions#bb6e84023c64373f69ec94acfe1e1c3e6ea06e19
