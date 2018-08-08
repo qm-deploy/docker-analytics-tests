@@ -1,1 +1,1 @@
-Laravel#feature/variable-search#6ff9a0c0cfc341573bf20a1ec3c318489c706163
+AppSettingsControllers#feature/VariableSearchResult.php#26619a81fd2af41c681ef61078ff17240b204c8d
