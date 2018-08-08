@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/cards#b9695c57bd869ad9394709f0d1a9ed1f4aef2476
+MeasurementsReminders#feature/cards#b9695c57bd869ad9394709f0d1a9ed1f4aef2476
