@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/GetCommonVariablesRequest#9ad44c7e6604ece072f71ca66b32ce2a5044ab00
+AnalyticsTasks#feature/GetCommonVariablesRequest#9ad44c7e6604ece072f71ca66b32ce2a5044ab00
