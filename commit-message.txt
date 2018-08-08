@@ -1,1 +1,1 @@
-Laravel#feature/variable-search#27b8ae69ad450d7d9988d4fda68ad2c34369fbd4
+AppSettingsControllers#feature/QMVariable#f3e03f4a963fdbb1eedf1503167812e1bbac2138
