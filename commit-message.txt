@@ -1,1 +1,1 @@
-Laravel#feature/cards#b9695c57bd869ad9394709f0d1a9ed1f4aef2476
+AppSettingsControllers#feature/inSynonyms#f32152e745174d423dab31cb0725a91a603054cb
