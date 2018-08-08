@@ -1,1 +1,1 @@
-Laravel#feature/private#ab655fc0c9be9b78c4e9e978087a0573ee604249
+AppSettingsControllers#feature/VariableSearchResult.php#47cbe84c4546ec2d30d87a559429537a1bf875a2
