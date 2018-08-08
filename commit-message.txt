@@ -1,1 +1,1 @@
-ModelConnectors#feature/getSlackTokensForUser#bdbbbf00bb6f5f73c56cec36f2a00d34acd6ba31
+Laravel#feature/getSlackTokensForUser#bdbbbf00bb6f5f73c56cec36f2a00d34acd6ba31
