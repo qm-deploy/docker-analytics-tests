@@ -1,1 +1,1 @@
-Laravel#feature/testGetVariableInSearchFormat#22774244864f3b66db354a88f7011eb4241884e6
+AppSettingsControllers#feature/testGetVariableInSearchFormat#fe9d95850d1dc4722974c1a2677072e6a6ce628d
