@@ -1,1 +1,1 @@
-Laravel#feature/DefaultWelcomeIntent#8ac5394a163308d12f959f09b5a791a44dadf0bf
+AppSettingsControllers#feature/getAllStaticAppData#8e923ce2a32db74b30c188053e017f5c46fd34b2
