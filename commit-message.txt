@@ -1,1 +1,1 @@
-Laravel#feature/allStaticAppData#bacc5e11089916d0fb4d633f34f9ee43fe0693e1
+AppSettingsControllers#feature/allStaticAppData#445f746dd0c749aa5a44352b47620fd781f6d04e
