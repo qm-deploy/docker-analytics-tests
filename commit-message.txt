@@ -1,1 +1,1 @@
-ModelConnectors#feature/allStaticAppData#51b7cdaa9e4faac97f9dd40dedb8383efd926489
+Laravel#feature/allStaticAppData#51b7cdaa9e4faac97f9dd40dedb8383efd926489
