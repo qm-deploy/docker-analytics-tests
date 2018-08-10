@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/allStaticAppData#223fc3c958000e4ff5ebe4a726992411557164a4
+ModelConnectors#feature/allStaticAppData#223fc3c958000e4ff5ebe4a726992411557164a4
