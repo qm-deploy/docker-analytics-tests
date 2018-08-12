@@ -1,1 +1,1 @@
-ModelConnectors#feature/variable-cache#cc45640fcdd4683ae82981c68f98df6535d992f7
+Laravel#feature/variable-cache#cc45640fcdd4683ae82981c68f98df6535d992f7
