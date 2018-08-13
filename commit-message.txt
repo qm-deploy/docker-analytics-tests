@@ -1,1 +1,1 @@
-ModelConnectors#feature/effect-name#11403f93fecfd26f3f0e60c5a5645a2047bf8ff9
+Laravel#feature/effect-name#11403f93fecfd26f3f0e60c5a5645a2047bf8ff9
