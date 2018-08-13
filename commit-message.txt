@@ -1,1 +1,1 @@
-Laravel#feature/phrases#c933875d5c8ee0e83f96cfaea1ebe3d9fdf32bf3
+AppSettingsControllers#feature/effect-name#0fa5f9ae48cf0ccf2a449c5f2068480b4e40d6f9
