@@ -1,1 +1,1 @@
-Laravel#feature/variable-cache#867b974c5c7a118700b1c3942143a7122656ac0a
+AppSettingsControllers#feature/effect-name#c76cb7377e895b01132c671c5d9af11cc8fe4e9b
