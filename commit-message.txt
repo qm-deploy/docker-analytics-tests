@@ -1,1 +1,1 @@
-ModelConnectors#feature/highchartConfig#4e900409abd702bb8269c68ae6f7dc382c492c70
+Laravel#feature/highchartConfig#4e900409abd702bb8269c68ae6f7dc382c492c70
