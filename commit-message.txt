@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/effect-name#c76cb7377e895b01132c671c5d9af11cc8fe4e9b
+MeasurementsReminders#feature/effect-name#c76cb7377e895b01132c671c5d9af11cc8fe4e9b
