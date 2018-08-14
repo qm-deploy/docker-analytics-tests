@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/GmailConnector#2561c34c63f9ff7cbc1ebaf68cf9ac16ed9d88df
+AnalyticsTasks#feature/GmailConnector#2561c34c63f9ff7cbc1ebaf68cf9ac16ed9d88df
