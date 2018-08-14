@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/dialogflow-skip#b1c534f3a9931745a58d6b40846ce03a4ef63593
+ModelConnectors#feature/dialogflow-skip#b1c534f3a9931745a58d6b40846ce03a4ef63593
