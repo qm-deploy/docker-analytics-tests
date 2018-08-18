@@ -1,1 +1,1 @@
-Laravel#feature/notification-card#47149f4c0a23663163c0ed7cae26c8501bde600e
+AppSettingsControllers#feature/notification-card#39ed27ed9d405b99520cf6b47d64335331cad716
