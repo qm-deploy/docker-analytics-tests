@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/notification-card#47149f4c0a23663163c0ed7cae26c8501bde600e
+MeasurementsReminders#feature/notification-card#47149f4c0a23663163c0ed7cae26c8501bde600e
