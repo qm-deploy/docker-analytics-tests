@@ -1,1 +1,1 @@
-ModelConnectors#feature/notification-card#39ed27ed9d405b99520cf6b47d64335331cad716
+Laravel#feature/notification-card#39ed27ed9d405b99520cf6b47d64335331cad716
