@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/notification-card#7a3bc770e31d700f035342a540d3b286ecdaa6f6
+AnalyticsTasks#feature/notification-card#7a3bc770e31d700f035342a540d3b286ecdaa6f6
