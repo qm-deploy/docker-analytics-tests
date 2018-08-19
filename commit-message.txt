@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/user-feed#e0a8318c14f2faec890e09b1c3558f59141aaf76
+ModelConnectors#feature/user-feed#e0a8318c14f2faec890e09b1c3558f59141aaf76
