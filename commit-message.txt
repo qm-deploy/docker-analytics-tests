@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/bestAggregateCorrelation#f04c1bfa6c436b92e04262ed782f56f1938c6d3b
+AnalyticsTasks#feature/bestAggregateCorrelation#f04c1bfa6c436b92e04262ed782f56f1938c6d3b
