@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/card-tables#0a692e5484a74f651b37973f6763cfa94993a2c8
+AnalyticsTasks#feature/card-tables#0a692e5484a74f651b37973f6763cfa94993a2c8
