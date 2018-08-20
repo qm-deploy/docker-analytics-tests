@@ -1,1 +1,1 @@
-Laravel#feature/user-feed#7b33b53dead1c92c6cd73218a06821c0e0a48339
+AppSettingsControllers#feature/user-feed#f640e133e04bc59e479342e7e7237dd3d3e0322e
