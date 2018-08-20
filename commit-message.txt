@@ -1,1 +1,1 @@
-Laravel#feature/user-feed#41f080d140d1415e22d90fa0f8f9bf44ff196d3d
+AppSettingsControllers#feature/card-tables#11c7bd26651bb69cfb77a878a292b876b4cd1222
