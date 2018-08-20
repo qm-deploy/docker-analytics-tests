@@ -1,1 +1,1 @@
-Laravel#feature/card-tables#3f08d65029963869973ce45e2fd43a167dc7ac70
+AppSettingsControllers#feature/card-tables#109107c1912c1a2e8ee390e0ce915f48bfdbdff3
