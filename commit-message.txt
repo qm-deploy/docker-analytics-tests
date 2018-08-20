@@ -1,1 +1,1 @@
-ModelConnectors#feature/card-tables#3f08d65029963869973ce45e2fd43a167dc7ac70
+Laravel#feature/card-tables#3f08d65029963869973ce45e2fd43a167dc7ac70
