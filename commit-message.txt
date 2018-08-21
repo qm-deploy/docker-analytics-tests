@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/static-app-data#b8355bf2793500c15b4625a8a8d622d29e1162ee
+AnalyticsTasks#feature/static-app-data#b8355bf2793500c15b4625a8a8d622d29e1162ee
