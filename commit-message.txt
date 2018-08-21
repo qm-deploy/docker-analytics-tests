@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/static-app-data#9f61e5a532c65cb5b27c84d5c04d4c839a2eba3e
+MeasurementsReminders#feature/static-app-data#9f61e5a532c65cb5b27c84d5c04d4c839a2eba3e
