@@ -1,1 +1,1 @@
-ModelConnectors#feature/feed-authentication#8e83bbd12152b7dca79f8c7df604a6a197ca53bb
+Laravel#feature/feed-authentication#8e83bbd12152b7dca79f8c7df604a6a197ca53bb
