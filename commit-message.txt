@@ -1,1 +1,1 @@
-ModelConnectors#feature/recast#67421539e15240176fcea26c4cb2dca41cdb8bd2
+Laravel#feature/recast#67421539e15240176fcea26c4cb2dca41cdb8bd2
