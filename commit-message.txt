@@ -1,1 +1,1 @@
-Laravel#feature/recast#aa5cddcc2b25cdfd0b0e477f5239ffde049eb877
+AppSettingsControllers#feature/recast#67421539e15240176fcea26c4cb2dca41cdb8bd2
