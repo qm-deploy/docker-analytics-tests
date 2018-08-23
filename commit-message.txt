@@ -1,1 +1,1 @@
-Laravel#feature/hint#9729fca40887b521327a10ac0e229c33249e521c
+AppSettingsControllers#feature/hint#7aed4cd75e1fff2f9daca069d0aa3e1c1f805b7a
