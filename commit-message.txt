@@ -1,1 +1,1 @@
-ModelConnectors#feature/hint#9729fca40887b521327a10ac0e229c33249e521c
+Laravel#feature/hint#9729fca40887b521327a10ac0e229c33249e521c
