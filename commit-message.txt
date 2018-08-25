@@ -1,1 +1,1 @@
-ModelConnectors#feature/jsonDecodeIfNecessary#b19a0f50d99bc8295a77942471dde52ecb0b6071
+Laravel#feature/jsonDecodeIfNecessary#b19a0f50d99bc8295a77942471dde52ecb0b6071
