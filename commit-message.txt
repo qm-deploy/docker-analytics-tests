@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/study-card#ed1979310a2e3872adf76405e170ce60943141f7
+ModelConnectors#feature/study-card#ed1979310a2e3872adf76405e170ce60943141f7
