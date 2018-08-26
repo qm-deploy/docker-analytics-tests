@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/study-card#5e9abd27630a6e76b9fdde9e4ef980372197e5b1
+AnalyticsTasks#feature/study-card#5e9abd27630a6e76b9fdde9e4ef980372197e5b1
