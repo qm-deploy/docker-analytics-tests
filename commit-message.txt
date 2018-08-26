@@ -1,1 +1,1 @@
-Laravel#feature/notification-questions#93a5c0ef3683c8f706d247893eb8108e13d40e55
+AppSettingsControllers#feature/study-card#be2af79c5db9c6e10ab8f1627b320a765f729f9e
