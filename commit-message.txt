@@ -1,1 +1,1 @@
-ModelConnectors#feature/query-log#79f11dd3c0025040bd3b4e134f56f16fc20fa97e
+Laravel#feature/query-log#79f11dd3c0025040bd3b4e134f56f16fc20fa97e
