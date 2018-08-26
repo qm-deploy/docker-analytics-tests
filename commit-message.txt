@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/study-card#be2af79c5db9c6e10ab8f1627b320a765f729f9e
+MeasurementsReminders#feature/study-card#be2af79c5db9c6e10ab8f1627b320a765f729f9e
