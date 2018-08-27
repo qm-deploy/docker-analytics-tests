@@ -1,1 +1,1 @@
-Laravel#feature/study-buttons#4c2b643abe894eed59399830e58ddbb28d0d3e5d
+AppSettingsControllers#feature/study-buttons#63858069572e0e821a3ec280b2a93c62f9db0193
