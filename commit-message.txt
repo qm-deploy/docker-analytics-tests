@@ -1,1 +1,1 @@
-Laravel#feature/study-buttons#63858069572e0e821a3ec280b2a93c62f9db0193
+AppSettingsControllers#feature/skip-notifications#3ababa03beb6eef93d0dc24a5f9d61611297e930
