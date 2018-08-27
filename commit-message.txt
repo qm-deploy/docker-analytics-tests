@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/SkipAllNotificationButton#d8cf3b0c9ebea3112145b9146abc1bc802a87568
+AnalyticsTasks#feature/SkipAllNotificationButton#d8cf3b0c9ebea3112145b9146abc1bc802a87568
