@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/log-requests#164f69a1bb954871c4f49b3578b3335e3931ad70
+AnalyticsTasks#feature/log-requests#164f69a1bb954871c4f49b3578b3335e3931ad70
