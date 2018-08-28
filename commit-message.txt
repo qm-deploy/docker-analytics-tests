@@ -1,1 +1,1 @@
-Laravel#feature/getVariableSettingsButton#bad8102a52995b06a3901259f150d0bd6a5b3521
+AppSettingsControllers#feature/notification-card#36537428d68a53ba13c9686a322596166b74064c
