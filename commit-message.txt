@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/notification-card#36537428d68a53ba13c9686a322596166b74064c
+ModelConnectors#feature/notification-card#36537428d68a53ba13c9686a322596166b74064c
