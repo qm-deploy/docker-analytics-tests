@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/pusher#33a351ced92aa45a419ed15ecdccd0cf659f16fe
+AnalyticsTasks#feature/pusher#33a351ced92aa45a419ed15ecdccd0cf659f16fe
