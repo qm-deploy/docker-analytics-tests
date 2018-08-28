@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/delete-measurements#64863182e28eb0a10967ef00546c96b39e564e4d
+AnalyticsTasks#feature/delete-measurements#64863182e28eb0a10967ef00546c96b39e564e4d
