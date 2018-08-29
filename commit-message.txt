@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/cards#9c8b252322731fb7810405c5f9bcc4c0e4cf06cf
+ModelConnectors#feature/cards#9c8b252322731fb7810405c5f9bcc4c0e4cf06cf
