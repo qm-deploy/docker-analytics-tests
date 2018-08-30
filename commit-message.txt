@@ -1,1 +1,1 @@
-Laravel#feature/notifications#6eef426a5c8211c4a5de450ecb377973c09cd86f
+AppSettingsControllers#feature/notifications#3a91faace4f84fd7d185cfde2f3876ff362ad662
