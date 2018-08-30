@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/VariableStatisticsCard#81d71851d12483839893da9488c8cce80ee9abd7
+MeasurementsReminders#feature/VariableStatisticsCard#81d71851d12483839893da9488c8cce80ee9abd7
