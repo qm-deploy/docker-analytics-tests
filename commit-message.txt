@@ -1,1 +1,1 @@
-ModelConnectors#feature/variable-settings#dd6436f61fc682dc393fdec233c1de45787d150f
+Laravel#feature/variable-settings#dd6436f61fc682dc393fdec233c1de45787d150f
