@@ -1,1 +1,1 @@
-Laravel#feature/VariableStatisticsCard#0e323bff37c9d456685b256dc727b75b876bfb2d
+AppSettingsControllers#feature/VariableStatisticsCard#303aa4efbee565952fc5bcc6f69bfc6b632a0020
