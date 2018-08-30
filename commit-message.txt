@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/VariableStatisticsCard#0e323bff37c9d456685b256dc727b75b876bfb2d
+ModelConnectors#feature/VariableStatisticsCard#0e323bff37c9d456685b256dc727b75b876bfb2d
