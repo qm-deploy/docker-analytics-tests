@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/get-strongest-correlations#a046184a71dd7e18c3b720b420e8ce24e2ec6db8
+AnalyticsTasks#feature/get-strongest-correlations#a046184a71dd7e18c3b720b420e8ce24e2ec6db8
