@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/VariableStatisticsCard#0e323bff37c9d456685b256dc727b75b876bfb2d
+AnalyticsTasks#feature/VariableStatisticsCard#0e323bff37c9d456685b256dc727b75b876bfb2d
