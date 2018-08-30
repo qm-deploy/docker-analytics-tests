@@ -1,1 +1,1 @@
-Laravel#feature/variable-settings#dd6436f61fc682dc393fdec233c1de45787d150f
+AppSettingsControllers#feature/notifications#f4f7c34bb17d2afe3e0e0b88e9a50929e85ef42a
