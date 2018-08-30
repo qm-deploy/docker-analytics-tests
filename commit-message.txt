@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/card-tables#4f321c260d4037d164075bc674121fa5a45e77e3
+ModelConnectors#feature/card-tables#4f321c260d4037d164075bc674121fa5a45e77e3
