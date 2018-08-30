@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/notifications#6eef426a5c8211c4a5de450ecb377973c09cd86f
+AnalyticsTasks#feature/notifications#6eef426a5c8211c4a5de450ecb377973c09cd86f
