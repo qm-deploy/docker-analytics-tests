@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/log-get-requests#11c45b3ad04c3cb3fb0bf8b7670296487d8c779c
+ModelConnectors#feature/log-get-requests#11c45b3ad04c3cb3fb0bf8b7670296487d8c779c
