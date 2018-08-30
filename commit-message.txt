@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/maximum_allowed_daily_value#cbf7d2d4eb7281df60d4aeac6ad7abb7032615df
+ModelConnectors#feature/maximum_allowed_daily_value#cbf7d2d4eb7281df60d4aeac6ad7abb7032615df
