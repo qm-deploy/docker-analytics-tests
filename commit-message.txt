@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/USER_NICENAME#a42be75554a8d26d481cc9916afeb7b4ced7bb9a
+AnalyticsTasks#feature/USER_NICENAME#a42be75554a8d26d481cc9916afeb7b4ced7bb9a
