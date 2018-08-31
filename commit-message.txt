@@ -1,1 +1,1 @@
-ModelConnectors#feature/is_string#a47d2eb796f81f245676daffef8de715ae0d81cc
+Laravel#feature/is_string#a47d2eb796f81f245676daffef8de715ae0d81cc
