@@ -1,1 +1,1 @@
-ModelConnectors#feature/USER_NICENAME#7fd40ddaf50c0052f96c1d842f8025ce73dd63c0
+Laravel#feature/USER_NICENAME#7fd40ddaf50c0052f96c1d842f8025ce73dd63c0
