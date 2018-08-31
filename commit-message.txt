@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/USER_NICENAME#27ee8261f4758c2f8ca8ed30e8b19cd24e4afcfa
+ModelConnectors#feature/USER_NICENAME#27ee8261f4758c2f8ca8ed30e8b19cd24e4afcfa
