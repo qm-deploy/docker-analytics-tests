@@ -1,1 +1,1 @@
-Laravel#feature/question#db9436ae3dcf097681252b6eaa2ad81e31d6a91d
+AppSettingsControllers#feature/is_string#a47d2eb796f81f245676daffef8de715ae0d81cc
