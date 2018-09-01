@@ -1,1 +1,1 @@
-ModelConnectors#feature/button-titles#d96b6105d9503a5e9f4a526041d04d8a576b86c7
+Laravel#feature/button-titles#d96b6105d9503a5e9f4a526041d04d8a576b86c7
