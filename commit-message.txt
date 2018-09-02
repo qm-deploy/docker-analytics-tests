@@ -1,1 +1,1 @@
-ModelConnectors#feature/sendBuddyPressMessage#e7be6a8e0e753fff119aabd4265fc9085c357eee
+Laravel#feature/sendBuddyPressMessage#e7be6a8e0e753fff119aabd4265fc9085c357eee
