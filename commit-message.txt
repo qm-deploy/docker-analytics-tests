@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/AggregatedCorrelationsTest#840de2b05e2b6ad52ac4440edcf8bce0b5758613
+MeasurementsReminders#feature/AggregatedCorrelationsTest#840de2b05e2b6ad52ac4440edcf8bce0b5758613
