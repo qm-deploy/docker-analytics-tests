@@ -1,1 +1,1 @@
-Laravel#feature/StaticModel#450b6238d76902a2587adce2f1295240dd44e603
+AppSettingsControllers#feature/best-correlations#0ef077dabb42bf3e8df50404ff0717008aeb6a2a
