@@ -1,1 +1,1 @@
-Laravel#feature/QMVariable#2bb8271d30d9fdeafd142514529bf5bfd4dd6d47
+AppSettingsControllers#feature/best-correlations#d7c599162a9a836a14887c18776490f8c22ede78
