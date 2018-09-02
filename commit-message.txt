@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/StaticModel#400135172a8d44ec5f170efa4b021b14313291cb
+MeasurementsReminders#feature/StaticModel#400135172a8d44ec5f170efa4b021b14313291cb
