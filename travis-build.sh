@@ -37,6 +37,7 @@ echo "Copying slim/envs/circleci.env to .env"
 cp ${QM_DOCKER_PATH}/slim/envs/circleci.env ${QM_DOCKER_PATH}/.env
 sudo chown -R ${USER} ~/.composer/
 cd slim && composer install --prefer-dist
+cd ${QM_DOCKER_PATH}/public.built && composer install --prefer-dist
 cd ${QM_DOCKER_PATH}
 set -x
 case "$TEST_SUITE" in
