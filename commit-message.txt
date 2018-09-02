@@ -1,1 +1,1 @@
-Laravel#feature/generateStudyLinkDynamic#ad520374e4a4c746325f99fb4915cccdee5332a4
+AppSettingsControllers#feature/user-variable#bc76c58a01dbfff63a1c33874c2401fc03b02c6f
