@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/bp-install#2385f0bdeb4261e9492a7f7658799f30a4e4aa02
+MeasurementsReminders#feature/bp-install#2385f0bdeb4261e9492a7f7658799f30a4e4aa02
