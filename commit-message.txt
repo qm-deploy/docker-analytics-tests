@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/QMUser#0f6a9bf64817ba275fadbc700fe7127e7d92a325
+ModelConnectors#feature/QMUser#0f6a9bf64817ba275fadbc700fe7127e7d92a325
