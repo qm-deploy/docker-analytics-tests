@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/StaticModel#450b6238d76902a2587adce2f1295240dd44e603
+ModelConnectors#feature/StaticModel#450b6238d76902a2587adce2f1295240dd44e603
