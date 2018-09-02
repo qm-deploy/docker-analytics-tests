@@ -1,1 +1,1 @@
-ModelConnectors#feature/StaticModel#400135172a8d44ec5f170efa4b021b14313291cb
+Laravel#feature/StaticModel#400135172a8d44ec5f170efa4b021b14313291cb
