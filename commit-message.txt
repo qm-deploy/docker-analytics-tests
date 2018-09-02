@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/generateStudyLinkDynamic#ad520374e4a4c746325f99fb4915cccdee5332a4
+AnalyticsTasks#feature/generateStudyLinkDynamic#ad520374e4a4c746325f99fb4915cccdee5332a4
