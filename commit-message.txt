@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/sendBuddyPressMessage#3e35329022f445c2b93dcfa95487f31900090f5e
+ModelConnectors#feature/sendBuddyPressMessage#3e35329022f445c2b93dcfa95487f31900090f5e
