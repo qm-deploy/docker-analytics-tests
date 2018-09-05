@@ -1,1 +1,1 @@
-ModelConnectors#feature/buddypress#3c0c5e203a3726d449568485ca5db43bdd1b5249
+Laravel#feature/buddypress#3c0c5e203a3726d449568485ca5db43bdd1b5249
