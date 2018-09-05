@@ -1,1 +1,1 @@
-Laravel#feature/swagger#4e5f1a4a3a48621f8759d981079a905ce4cab2ac
+AppSettingsControllers#feature/swagger#3b89da0b02bf43f042f6e2f8af3b8e5f54aeaafa
