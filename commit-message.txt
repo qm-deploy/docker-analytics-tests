@@ -1,1 +1,1 @@
-Laravel#feature/UrlHelper#22e84e3bc37b75c031807e8881dab82a4c9a4026
+AppSettingsControllers#feature/UserRelatedModel#3c579c3538272570476df2c0f0a0ab39ad85fe95
