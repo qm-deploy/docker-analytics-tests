@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/setDeviceTokens#14bba115f0d52640ad4b8e26c168d5cbf180da1b
+AnalyticsTasks#feature/setDeviceTokens#14bba115f0d52640ad4b8e26c168d5cbf180da1b
