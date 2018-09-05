@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/swagger#3b89da0b02bf43f042f6e2f8af3b8e5f54aeaafa
+MeasurementsReminders#feature/swagger#3b89da0b02bf43f042f6e2f8af3b8e5f54aeaafa
