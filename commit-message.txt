@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/buddypress#52f55a8ac9c69e4165457266f7ae67cdf3795990
+AnalyticsTasks#feature/buddypress#52f55a8ac9c69e4165457266f7ae67cdf3795990
