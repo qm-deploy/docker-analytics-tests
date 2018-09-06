@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/push-data#ee1b1cb976ce7f8120d419aaa64bec1363d875dc
+AnalyticsTasks#feature/push-data#ee1b1cb976ce7f8120d419aaa64bec1363d875dc
