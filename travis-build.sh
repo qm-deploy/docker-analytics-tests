@@ -47,9 +47,9 @@ else
 fi
 cd ${QM_DOCKER_PATH}
 set -x
-rm ${QM_DOCKER_PATH}/phpunit/*
-rm -rf ${QM_DOCKER_PATH}/phpunit/
-mkdir ${QM_DOCKER_PATH}/phpunit
+rm ${QM_DOCKER_PATH}/phpunit/* || true
+rm -rf ${QM_DOCKER_PATH}/phpunit/ || true
+mkdir ${QM_DOCKER_PATH}/phpunit || true
 case "$TEST_SUITE" in
     Laravel)  export APP_LOG_LEVEL=INFO && export LARAVEL=1
         cd laravel && composer install --prefer-dist
