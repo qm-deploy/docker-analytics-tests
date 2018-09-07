@@ -10,9 +10,8 @@ if [ -z "$TEST_SUITE" ];
 fi
 export BRANCH=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f2 -d#)
 export SHA=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f3 -d#)
-
 #### halt script on error
-#set -xe
+set -xe
 echo '##### Print environment'
 env | sort
 echo "Checking out revision ${SHA}"
@@ -52,47 +51,56 @@ rm -rf ${QM_DOCKER_PATH}/phpunit/ || true
 mkdir ${QM_DOCKER_PATH}/phpunit || true
 case "$TEST_SUITE" in
     Laravel)  export APP_LOG_LEVEL=INFO && export LARAVEL=1
-        cd laravel && composer install --prefer-dist
-        J_UNIT_FILE=${QM_DOCKER_PATH}/phpunit/${TEST_SUITE}.xml
-        ${QM_DOCKER_PATH}/slim/vendor/phpunit/phpunit/phpunit --configuration  ${QM_DOCKER_PATH}/laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit ${J_UNIT_FILE}
+        source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        #cd laravel && composer install --prefer-dist
+        #J_UNIT_FILE=${QM_DOCKER_PATH}/phpunit/${TEST_SUITE}.xml
+        #${QM_DOCKER_PATH}/slim/vendor/phpunit/phpunit/phpunit --configuration  ${QM_DOCKER_PATH}/laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit ${J_UNIT_FILE}
         ;;
     AppSettingsModel)  export APP_LOG_LEVEL=ERROR
-        J_UNIT_FILE=${QM_DOCKER_PATH}/phpunit/Model.xml
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/AppSettings.xml slim/tests/Api/AppSettings
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Model.xml slim/tests/Api/Model
+        #J_UNIT_FILE=${QM_DOCKER_PATH}/phpunit/Model.xml
+        export TEST_SUITE=AppSettings && source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/AppSettings.xml slim/tests/Api/AppSettings
+        export TEST_SUITE=Model && source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Model.xml slim/tests/Api/Model
         ;;
     ModelConnectors)   export APP_LOG_LEVEL=ERROR
         J_UNIT_FILE=${QM_DOCKER_PATH}/phpunit/Connectors.xml
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Model.xml slim/tests/Api/Model
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Connectors.xml slim/tests/Api/Connectors
+        export TEST_SUITE=Model && source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Model.xml slim/tests/Api/Model
+        export TEST_SUITE=Connectors && source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Connectors.xml slim/tests/Api/Connectors
         ;;
     ConnectorsControllers)   export APP_LOG_LEVEL=ERROR
         J_UNIT_FILE=${QM_DOCKER_PATH}/phpunit/Controllers.xml
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Connectors.xml slim/tests/Api/Connectors
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Controllers.xml slim/tests/Api/Controllers
+        export TEST_SUITE=Connectors && source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Connectors.xml slim/tests/Api/Connectors
+        export TEST_SUITE=Controllers && source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Controllers.xml slim/tests/Api/Controllers
         ;;
     AppSettingsControllers)   export APP_LOG_LEVEL=ERROR
         J_UNIT_FILE=${QM_DOCKER_PATH}/phpunit/Controllers.xml
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/AppSettings.xml slim/tests/Api/AppSettings
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Controllers.xml slim/tests/Api/Controllers
+        export TEST_SUITE=AppSettings && source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/AppSettings.xml slim/tests/Api/AppSettings
+        export TEST_SUITE=Controllers && source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Controllers.xml slim/tests/Api/Controllers
         ;;
     AnalyticsTasks)   export APP_LOG_LEVEL=ERROR
         J_UNIT_FILE=${QM_DOCKER_PATH}/phpunit/Tasks.xml
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Analytics.xml slim/tests/Api/Analytics
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Tasks.xml slim/tests/Api/Tasks
+        export TEST_SUITE=Analytics && source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Analytics.xml slim/tests/Api/Analytics
+        export TEST_SUITE=Tasks && source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Tasks.xml slim/tests/Api/Tasks
         ;;
     MeasurementsReminders)   export APP_LOG_LEVEL=ERROR
         J_UNIT_FILE=${QM_DOCKER_PATH}/phpunit/Reminders.xml
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Measurements.xml slim/tests/Api/Measurements
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Reminders.xml slim/tests/Api/Reminders
+        export TEST_SUITE=Measurements && source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Measurements.xml slim/tests/Api/Measurements
+        export TEST_SUITE=Reminders && source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Reminders.xml slim/tests/Api/Reminders
         ;;
     *) J_UNIT_FILE=${QM_DOCKER_PATH}/phpunit/${TEST_SUITE}.xml
-        slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}
+        source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}
        ;;
 esac
-if [ ! -e "${J_UNIT_FILE}" ]; then
-    echo "${J_UNIT_FILE} does not exist"
-    exit 1;
-else
-    echo "${J_UNIT_FILE} exists"
-fi
+echo "done!"
