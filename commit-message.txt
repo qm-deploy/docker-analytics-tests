@@ -1,1 +1,1 @@
-ModelConnectors#feature/blackfire#c02e8c0a1842b1f4e5d05ae942ce344b0b89a14e
+Laravel#feature/blackfire#c02e8c0a1842b1f4e5d05ae942ce344b0b89a14e
