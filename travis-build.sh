@@ -47,6 +47,9 @@ else
 fi
 cd ${QM_DOCKER_PATH}
 set -x
+rm ${QM_DOCKER_PATH}/phpunit/*
+rm -rf ${QM_DOCKER_PATH}/phpunit/
+mkdir ${QM_DOCKER_PATH}/phpunit
 case "$TEST_SUITE" in
     Laravel)  export APP_LOG_LEVEL=INFO && export LARAVEL=1
         cd laravel && composer install --prefer-dist
@@ -79,3 +82,9 @@ case "$TEST_SUITE" in
     *) slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}
        ;;
 esac
+if [ ! -e "phpunit/${TEST_SUITE}.xml" ]; then
+    echo "phpunit/${TEST_SUITE}.xml does not exist"
+    exit 1;
+else
+    echo "phpunit/${TEST_SUITE}.xml exists"
+fi
