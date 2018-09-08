@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/test-helper#6226460ebd45e56564fbf56e15c3fecf11154394
+AnalyticsTasks#feature/test-helper#6226460ebd45e56564fbf56e15c3fecf11154394
