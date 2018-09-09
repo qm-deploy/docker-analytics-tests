@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/test-generator#07dee642691fcf410d1259160fbcda252e50f0a9
+AnalyticsTasks#feature/test-generator#07dee642691fcf410d1259160fbcda252e50f0a9
