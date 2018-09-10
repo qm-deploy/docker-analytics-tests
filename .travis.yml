@@ -38,7 +38,7 @@ before_install:
 
 before_script:
   - git clone "https://github.com/tideways/php-xhprof-extension"
-  - cd php-xhprof-extension && phpize && ./configure && make && make install
+  - cd php-xhprof-extension && phpize && ./configure && make && make install && cd ..
   - echo "extension = extension=tideways_xhprof.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
   - pecl channel-update pecl.php.net
   - pecl -q install mongodb
