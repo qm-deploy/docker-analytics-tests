@@ -25,6 +25,11 @@ source ${TEST_REPO_PATH}/update-status.sh --sha=${SHA} \
    --context="${TEST_SUITE}" \
    --url=https://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}
 ls
+
+echo "Installing XHGUI..."
+git clone https://github.com/perftools/xhgui.git ${QM_DOCKER_PATH}/public.built/xhgui
+bash ${QM_DOCKER_PATH}/public.built/xhgui/.travis/install.sh
+
 export CLEARDB_DATABASE_URL=mysql://root:@127.0.0.1/quantimodo_test?reconnect=true
 export CLEARDB_DATABASE_URL_READONLY=mysql://root:@127.0.0.1/quantimodo_test?reconnect=true
 export TEST_CLEARDB_DATABASE_URL=mysql://root:@127.0.0.1/quantimodo_test?reconnect=true
