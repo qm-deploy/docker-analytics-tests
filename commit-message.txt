@@ -1,1 +1,1 @@
-Laravel#feature/getStudyHtml#f978498bf2bd66481ea3e2c0c8039e6f57697104
+Laravel#feature/getStudyHtml#a0fb78d0e05df3872d0b19635ba980df19f27492
