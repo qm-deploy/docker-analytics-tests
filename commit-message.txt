@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getStudyHtml#a0fb78d0e05df3872d0b19635ba980df19f27492
+AnalyticsTasks#feature/getStudyHtml#a0fb78d0e05df3872d0b19635ba980df19f27492
