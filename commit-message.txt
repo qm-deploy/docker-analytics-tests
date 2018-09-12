@@ -1,1 +1,1 @@
-Laravel#feature/errors#518daa4d6384769d15790ea8e34a1d4596a2c5f7
+AppSettingsControllers#feature/errors#28ae618b11d19e35fe0e5985cbdd5262d1a13c5c
