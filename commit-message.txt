@@ -1,1 +1,1 @@
-ModelConnectors#feature/errors#a96536609d27de9b2decbf295f9a9a74d5ecfe1a
+Laravel#feature/errors#a96536609d27de9b2decbf295f9a9a74d5ecfe1a
