@@ -23,29 +23,25 @@ env:
   matrix:
     #- HUGO_VERSION=0.20.2 # Maybe use this for documentation at some point
     - PHP_VERSION=7.1 BUILD_SERVICE="msyql workspace mongo"
-# Installing a newer Docker version
 before_install:
   - mysql -e 'CREATE DATABASE quantimodo_test;'
-  # Load cached docker images
-  #- if [[ -d $HOME/docker ]]; then ls $HOME/docker/*.tar.gz | xargs -I {file} sh -c "zcat {file} | docker load"; fi
-  #- curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-  #- sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
   - sudo apt-get update
-  #- sudo apt-get -y install docker-ce
-  #- docker version
   - sudo apt-get -y install pandoc
   - chmod +x ./*.sh
 
 before_script:
+  - ./clone.sh
+  - ./mark_pending_on_github.sh
   - pecl channel-update pecl.php.net
   - pecl -q install mongodb
   - echo "extension=mongodb.so" >> `php --ini | grep "Loaded Configuration" | sed -e "s|.*:\s*||"`
-  #- echo "extension = mongodb.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
   - echo "extension = memcached.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
   - ./tideways.sh
+  - ./xhgui.sh
+  - ./composer.sh
 
 script:
-  - ./travis-build.sh
+  - ./phpunit.sh
 
 after_failure:
   - ./mark_failed_on_github.sh
@@ -55,4 +51,3 @@ after_success:
 
 notifications:
   email: false
-  # SHA 11c32cf5fea19f4e99cbc4f4b2037ab58cb59229
