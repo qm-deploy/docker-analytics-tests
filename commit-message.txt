@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/production-tests#eb112292a91324bf3b2a3f38a8529c0b675cdb91
+ModelConnectors#feature/production-tests#eb112292a91324bf3b2a3f38a8529c0b675cdb91
