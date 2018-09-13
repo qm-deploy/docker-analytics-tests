@@ -30,6 +30,7 @@ ls
 echo "Installing XHGUI..."
 git clone https://github.com/perftools/xhgui.git ${QM_DOCKER_PATH}/public.built/xhgui
 set -x
+cd ${QM_DOCKER_PATH}/public.built/xhgui
 source ${QM_DOCKER_PATH}/public.built/xhgui/.travis/install.sh || true
 
 export CLEARDB_DATABASE_URL=mysql://root:@127.0.0.1/quantimodo_test?reconnect=true
