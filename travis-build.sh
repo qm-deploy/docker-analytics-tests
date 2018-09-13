@@ -12,7 +12,7 @@ fi
 export BRANCH=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f2 -d#)
 export SHA=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f3 -d#)
 #### halt script on error
-set -xe
+set -x
 echo '##### Print environment'
 env | sort
 echo "Checking out revision ${SHA}"
@@ -29,7 +29,7 @@ ls
 
 echo "Installing XHGUI..."
 git clone https://github.com/perftools/xhgui.git ${QM_DOCKER_PATH}/public.built/xhgui
-bash ${QM_DOCKER_PATH}/public.built/xhgui/.travis/install.sh
+bash ${QM_DOCKER_PATH}/public.built/xhgui/.travis/install.sh || true
 
 export CLEARDB_DATABASE_URL=mysql://root:@127.0.0.1/quantimodo_test?reconnect=true
 export CLEARDB_DATABASE_URL_READONLY=mysql://root:@127.0.0.1/quantimodo_test?reconnect=true
