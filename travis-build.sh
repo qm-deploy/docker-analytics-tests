@@ -2,11 +2,12 @@
 export TEST_REPO_PATH="$PWD"
 export QM_DOCKER_PATH="$PWD/QM-Docker"
 echo "HOSTNAME is ${HOSTNAME} and QM_DOCKER_PATH is $QM_DOCKER_PATH"
-if [ -z "$TEST_SUITE" ];
+# Must use TRAVIS_TEST_GROUP instead of TEST_SUITE variable because the ambiguity causes problems
+if [ -z "$TRAVIS_TEST_GROUP" ];
     then
-        export TEST_SUITE=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f1 -d#)
+        export TRAVIS_TEST_GROUP=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f1 -d#)
     else
-       echo "Using TEST_SUITE ENV: $TEST_SUITE"
+       echo "Using TRAVIS_TEST_GROUP ENV: $TRAVIS_TEST_GROUP"
 fi
 export BRANCH=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f2 -d#)
 export SHA=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f3 -d#)
@@ -22,7 +23,7 @@ source ${TEST_REPO_PATH}/update-status.sh --sha=${SHA} \
    --repo=mikepsinn/QM-Docker \
    --status=pending \
    --message="Testing $COMMIT_MESSAGE on Travis..." \
-   --context="${TEST_SUITE}" \
+   --context="${TRAVIS_TEST_GROUP}" \
    --url=https://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}
 ls
 
@@ -37,10 +38,10 @@ export TEST_CLEARDB_DATABASE_URL_READONLY=mysql://root:@127.0.0.1/quantimodo_tes
 export MONGO_DB_CONNECTION=mongodb://127.0.0.1:27017
 ENV_COMMAND="export TEST_CLEARDB_DATABASE_URL=${TEST_CLEARDB_DATABASE_URL} && export TEST_CLEARDB_DATABASE_URL_READONLY=${TEST_CLEARDB_DATABASE_URL_READONLY} && export MONGO_DB_CONNECTION=${MONGO_DB_CONNECTION} && "
 mkdir ${QM_DOCKER_PATH}/phpunit || true
-echo "Copying slim/envs/circleci.env to .env"
+echo "Copying ${QM_DOCKER_PATH}/slim/envs/circleci.env to .env"
 cp ${QM_DOCKER_PATH}/slim/envs/circleci.env ${QM_DOCKER_PATH}/.env
 sudo chown -R ${USER} ~/.composer/
-cd slim && composer install --prefer-dist
+cd ${QM_DOCKER_PATH}/slim && composer install --prefer-dist
 cd ${QM_DOCKER_PATH}/public.built && composer install --prefer-dist
 WP_LOAD=${QM_DOCKER_PATH}/public.built/wp/wp-load.php
 if [ ! -e "${WP_LOAD}" ]; then
@@ -54,8 +55,9 @@ set -x
 rm ${QM_DOCKER_PATH}/phpunit/* || true
 rm -rf ${QM_DOCKER_PATH}/phpunit/ || true
 mkdir ${QM_DOCKER_PATH}/phpunit || true
-case "$TEST_SUITE" in
+case "$TRAVIS_TEST_GROUP" in
     Laravel)  export LARAVEL=1
+        export TEST_SUITE=Laravel
         source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
         #cd laravel && composer install --prefer-dist
         #J_UNIT_FILE=${QM_DOCKER_PATH}/phpunit/${TEST_SUITE}.xml
@@ -84,7 +86,9 @@ case "$TEST_SUITE" in
         ;;
     AppSettingsControllers)
         J_UNIT_FILE=${QM_DOCKER_PATH}/phpunit/Controllers.xml
-        export TEST_SUITE=AppSettings && source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
+        export TEST_SUITE=AppSettings
+        echo "TEST_SUITE set to $TEST_SUITE"
+        source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
         #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/AppSettings.xml slim/tests/Api/AppSettings
         export TEST_SUITE=Controllers && source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
         #slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/Controllers.xml slim/tests/Api/Controllers
