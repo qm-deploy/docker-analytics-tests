@@ -12,9 +12,9 @@ fi
 export BRANCH=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f2 -d#)
 export SHA=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f3 -d#)
 #### halt script on error
-set -x
-echo '##### Print environment'
-env | sort
+
+#echo '##### Print environment'
+#env | sort
 echo "Checking out revision ${SHA}"
 if [ ! -d "QM-Docker" ]; then echo "Repo not found so cloning" && git clone -b ${BRANCH} --recurse-submodules --single-branch https://${GITHUB_ACCESS_TOKEN}:x-oauth-basic@github.com/mikepsinn/QM-Docker.git QM-Docker; fi
 cd QM-Docker && git stash && git pull origin ${BRANCH} && git submodule update --init --recursive
@@ -29,7 +29,8 @@ ls
 
 echo "Installing XHGUI..."
 git clone https://github.com/perftools/xhgui.git ${QM_DOCKER_PATH}/public.built/xhgui
-bash ${QM_DOCKER_PATH}/public.built/xhgui/.travis/install.sh || true
+set -x
+source ${QM_DOCKER_PATH}/public.built/xhgui/.travis/install.sh || true
 
 export CLEARDB_DATABASE_URL=mysql://root:@127.0.0.1/quantimodo_test?reconnect=true
 export CLEARDB_DATABASE_URL_READONLY=mysql://root:@127.0.0.1/quantimodo_test?reconnect=true
