@@ -1,1 +1,1 @@
-Laravel#feature/getStudyHtml#c455db27f4fdb847b49cf90ca72957ddebb7fd25
+AppSettingsControllers#feature/getStudyHtml#5709e120bc9052ba9aef95040ddbacb7296e2979
