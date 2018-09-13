@@ -1,1 +1,1 @@
-Laravel#feature/unique#ba2820e16197557480b9f92ff923e339a4cef890
+AppSettingsControllers#feature/setPairsOfAveragesForAllUsers#e73a8c3e5a01a22f19cf539ade2b41fb19259465
