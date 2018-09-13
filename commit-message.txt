@@ -1,1 +1,1 @@
-ModelConnectors#feature/getStudyHtml#1b6d198497f37f25f84c28beb2104d53cd4458dd
+Laravel#feature/getStudyHtml#1b6d198497f37f25f84c28beb2104d53cd4458dd
