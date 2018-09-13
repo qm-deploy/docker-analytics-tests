@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/getStudyHtml#82471c7af8ddc05ea77a6403d0a47639d9d515a8
+MeasurementsReminders#feature/getStudyHtml#82471c7af8ddc05ea77a6403d0a47639d9d515a8
