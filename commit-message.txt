@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/composer#973e093893e15b97d86e07d3055ae1211653ec88
+AnalyticsTasks#feature/composer#973e093893e15b97d86e07d3055ae1211653ec88
