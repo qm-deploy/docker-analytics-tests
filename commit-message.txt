@@ -1,1 +1,1 @@
-Laravel#feature/composer#973e093893e15b97d86e07d3055ae1211653ec88
+AppSettingsControllers#feature/composer#dcc8a7a3d7ff0d36a74e38bed44bdde9f6e3b9c5
