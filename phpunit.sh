@@ -13,7 +13,7 @@ mkdir ${QM_DOCKER_PATH}/phpunit || true
 if [[ $TRAVIS_TEST_GROUP = *"Laravel"* ]]; then
     export LARAVEL=1
     export TEST_SUITE=Laravel
-    cd ${QM_DOCKER_PATH}/laravel && composer install --prefer-dist
+    cd ${QM_DOCKER_PATH}/laravel && composer install --prefer-dist --optimize-autoloader
     source ${QM_DOCKER_PATH}/slim/scripts/phpunit_tests.sh
 fi
 if [[ $TRAVIS_TEST_GROUP = *"Analytics"* ]]; then run_test_suite Analytics; fi

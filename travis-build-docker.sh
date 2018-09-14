@@ -52,11 +52,11 @@ docker-compose up -d mysql workspace mongo
 #  sleep 1
 #done
 
-docker-compose exec workspace bash -c "${ENV_COMMAND} cd slim && composer install"
+docker-compose exec workspace bash -c "${ENV_COMMAND} cd slim && composer install --optimize-autoloader"
 
 if [ ${TEST_SUITE} = "Laravel" ]
  then
-    docker-compose exec workspace bash -c "${ENV_COMMAND} cd laravel && composer install"
+    docker-compose exec workspace bash -c "${ENV_COMMAND} cd laravel && composer install --optimize-autoloader"
     docker-compose exec workspace bash -c "${ENV_COMMAND} slim/vendor/phpunit/phpunit/phpunit --configuration laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit phpunit/${TEST_SUITE}.xml"
  else
     docker-compose exec workspace bash -c "${ENV_COMMAND} slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}"

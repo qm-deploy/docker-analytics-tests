@@ -28,11 +28,11 @@ ENV_COMMAND="export TEST_CLEARDB_DATABASE_URL=${TEST_CLEARDB_DATABASE_URL} && ex
 mkdir ${QM_DOCKER_PATH}/phpunit || true
 echo "Copying slim/envs/circleci.env to .env"
 cp ${QM_DOCKER_PATH}/slim/envs/circleci.env ${QM_DOCKER_PATH}/.env
-cd slim && composer install --prefer-dist
+cd slim && composer install --prefer-dist --optimize-autoloader
 cd ${QM_DOCKER_PATH}
 if [ ${TEST_SUITE} = "Laravel" ]
  then
-    cd laravel && composer install --prefer-dist
+    cd laravel && composer install --prefer-dist --optimize-autoloader
     slim/vendor/phpunit/phpunit/phpunit --configuration laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit phpunit/${TEST_SUITE}.xml
  else
     if [ ${TEST_SUITE} = "AppSettingsModel" ]  # Don't have to install mongo extension twice if we run these 2 fast tests together
