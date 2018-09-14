@@ -1,1 +1,1 @@
-ModelConnectors#feature/optimize-autoloader#a109cd54a3ff44d9819176581c33b9959f1a1a1b
+Laravel#feature/optimize-autoloader#a109cd54a3ff44d9819176581c33b9959f1a1a1b
