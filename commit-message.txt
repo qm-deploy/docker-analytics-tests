@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/singularize#99e7cd99ce0236e33b4a2385814f67e879897c4a
+AnalyticsTasks#feature/singularize#99e7cd99ce0236e33b4a2385814f67e879897c4a
