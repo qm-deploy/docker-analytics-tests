@@ -1,1 +1,1 @@
-Laravel#feature/optimize-autoloader#6b3d7bd665851c40e8309f2541076d04b443ce3f
+AppSettingsControllers#feature/composer#22d7fcdca8be181753b1a4342f793b9ed1d0263b
