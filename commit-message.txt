@@ -1,1 +1,1 @@
-Laravel#feature/setSynonyms#7b06d59dd332b32b5ebefda259e8e4c9ab0f3a18
+AppSettingsControllers#feature/singularize#99e7cd99ce0236e33b4a2385814f67e879897c4a
