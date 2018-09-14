@@ -1,1 +1,1 @@
-Laravel#feature/variable-categories#f6627e509018d6ffa7d20f0165d380b4ecc382c1
+AppSettingsControllers#feature/variable-categories#4302b184a15cab55d9669217780943dc2b06f620
