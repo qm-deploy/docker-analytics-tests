@@ -9,13 +9,6 @@ services:
   - mysql
   - memcached
   - pandoc
-addons:
-  apt:
-    sources:
-    - mysql-5.7-trusty
-    packages:
-    - mysql-server
-dist: trusty
 before_cache:
   # Save tagged docker images
   - >
@@ -35,6 +28,7 @@ before_install:
   - sudo apt-get update
   - sudo apt-get -y install pandoc
   - chmod +x ./*.sh
+
 before_script:
   - ./clone.sh
   - ./mark_pending_on_github.sh
@@ -45,11 +39,15 @@ before_script:
   - ./tideways.sh
   - ./xhgui.sh
   - ./composer.sh
+
 script:
   - ./phpunit.sh
+
 after_failure:
   - ./mark_failed_on_github.sh
+
 after_success:
   - ./mark_succeeded_on_github.sh
+
 notifications:
   email: false
