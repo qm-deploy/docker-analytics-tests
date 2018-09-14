@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/mysql-5.7#e22dfb4c8c9b877d43d20f48a2de98439a11cd53
+ModelConnectors#feature/mysql-5.7#e22dfb4c8c9b877d43d20f48a2de98439a11cd53
