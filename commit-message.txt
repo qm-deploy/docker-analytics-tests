@@ -1,1 +1,1 @@
-ModelConnectors#feature/singularize#99e7cd99ce0236e33b4a2385814f67e879897c4a
+Laravel#feature/singularize#99e7cd99ce0236e33b4a2385814f67e879897c4a
