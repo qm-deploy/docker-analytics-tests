@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/singularize#64f62927f05382c517a24c7cab7bf6b0b9b01534
+ModelConnectors#feature/singularize#64f62927f05382c517a24c7cab7bf6b0b9b01534
