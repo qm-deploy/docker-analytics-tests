@@ -1,1 +1,1 @@
-ModelConnectors#feature/composer#4e99fefa7d7ab7816ae807131dc520c8da912593
+Laravel#feature/composer#4e99fefa7d7ab7816ae807131dc520c8da912593
