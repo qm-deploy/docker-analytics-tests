@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/setSynonyms#7b06d59dd332b32b5ebefda259e8e4c9ab0f3a18
+AnalyticsTasks#feature/setSynonyms#7b06d59dd332b32b5ebefda259e8e4c9ab0f3a18
