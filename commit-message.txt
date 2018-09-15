@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/PaperTrailHandler#d70eb3f1850daf5cf3db5630a793dcfc9e7961d0
+AnalyticsTasks#feature/PaperTrailHandler#d70eb3f1850daf5cf3db5630a793dcfc9e7961d0
