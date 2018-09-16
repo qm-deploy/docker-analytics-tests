@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getDataAnalysis#7949d50e33650b82cd60d204853a2ba57244b415
+ModelConnectors#feature/getDataAnalysis#7949d50e33650b82cd60d204853a2ba57244b415
