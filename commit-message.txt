@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/device-tokens#f1f2fcbb5ac39a9ae1062b405b4204d6ca20b024
+AnalyticsTasks#feature/device-tokens#f1f2fcbb5ac39a9ae1062b405b4204d6ca20b024
