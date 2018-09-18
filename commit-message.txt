@@ -1,1 +1,1 @@
-Laravel#feature/GoogleAnalyticsClientId#29295e2aeabb9c01c69cef919aabacc5e3fcea9c
+AppSettingsControllers#feature/GoogleAnalyticsClientId#22b32eb2921a8440a54cf8ccec235e698ab92aee
