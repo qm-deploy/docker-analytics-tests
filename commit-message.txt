@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/laradock#1db8c541a68877c572c943fdacab171edbed86d1
+AnalyticsTasks#feature/laradock#1db8c541a68877c572c943fdacab171edbed86d1
