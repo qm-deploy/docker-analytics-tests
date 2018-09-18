@@ -1,1 +1,1 @@
-ModelConnectors#feature/GoogleAnalyticsClientId#22b32eb2921a8440a54cf8ccec235e698ab92aee
+Laravel#feature/GoogleAnalyticsClientId#22b32eb2921a8440a54cf8ccec235e698ab92aee
