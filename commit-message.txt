@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/mysql-5.7#4a54abe7bca9ccf3ce65744cb628911c3b490223
+MeasurementsReminders#feature/mysql-5.7#4a54abe7bca9ccf3ce65744cb628911c3b490223
