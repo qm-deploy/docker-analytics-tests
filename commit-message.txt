@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/device-tokens#2c92ca5c456f4ab91238ea029a24775234195603
+ModelConnectors#feature/device-tokens#2c92ca5c456f4ab91238ea029a24775234195603
