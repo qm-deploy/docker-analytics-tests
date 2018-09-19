@@ -1,1 +1,1 @@
-Laravel#feature/device-tokens#2c92ca5c456f4ab91238ea029a24775234195603
+AppSettingsControllers#feature/device-tokens#9976ae0ac89e70989a3dcd5a4bf77c08d3afad99
