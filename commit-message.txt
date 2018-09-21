@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/test-db#e5bd4d68eaf4c4dfb67e2caf9dbf90415bc66d45
+AnalyticsTasks#feature/test-db#e5bd4d68eaf4c4dfb67e2caf9dbf90415bc66d45
