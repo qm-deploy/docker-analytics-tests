@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/production-tests#6f63720fe5a20fb5f989ff707e9669fbaa6fe148
+AppSettingsControllers#feature/production-tests#6f63720fe5a20fb5f989ff707e9669fbaa6fe148
