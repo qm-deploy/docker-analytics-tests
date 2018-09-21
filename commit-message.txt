@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/get-studies-by-id#e0d5aa0d02f45d419472c1e2029699f15f86b96e
+MeasurementsReminders#feature/get-studies-by-id#e0d5aa0d02f45d419472c1e2029699f15f86b96e
