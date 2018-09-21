@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/get-studies-by-id#3ad9e5d4563c91ee76df8030fc7435ae858f4bfe
+ModelConnectors#feature/get-studies-by-id#3ad9e5d4563c91ee76df8030fc7435ae858f4bfe
