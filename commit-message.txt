@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/get-studies-by-id#972dd3aeb95df42fb31aa97c8c214deffa7044a1
+AnalyticsTasks#feature/get-studies-by-id#972dd3aeb95df42fb31aa97c8c214deffa7044a1
