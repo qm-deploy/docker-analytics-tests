@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/cosentyx-test#ab1ccc8444687e29912a57b1c8b2ba55a532e4c2
+ModelConnectors#feature/cosentyx-test#ab1ccc8444687e29912a57b1c8b2ba55a532e4c2
