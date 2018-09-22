@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/feed-exceptions#70e95e095536c3f1079382407a972789f27cffa0
+AnalyticsTasks#feature/feed-exceptions#70e95e095536c3f1079382407a972789f27cffa0
