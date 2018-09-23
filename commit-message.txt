@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/wp-updates#e7d22e0a67cb04ac1a542b754aa9031f9f53059d
+AnalyticsTasks#feature/wp-updates#e7d22e0a67cb04ac1a542b754aa9031f9f53059d
