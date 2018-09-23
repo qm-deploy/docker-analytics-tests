@@ -1,1 +1,1 @@
-Laravel#feature/postToMediaWiki#bd29a90eecce7347ef5c841856c47a141bbb4027
+AppSettingsControllers#feature/postToMediaWiki#14308edfc3a8a8456161c3aec6783f1b610a4986
