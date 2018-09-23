@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/activity-stream#472c9e8ecf27c34c9a749545aa27796f25daf227
+AnalyticsTasks#feature/activity-stream#472c9e8ecf27c34c9a749545aa27796f25daf227
