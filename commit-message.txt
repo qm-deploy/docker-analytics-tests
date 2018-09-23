@@ -1,1 +1,1 @@
-Laravel#feature/activity-stream#efb8c81a2f928f1b3553b4d5fc717566dff4a718
+AppSettingsControllers#feature/feed-exceptions#fe0ff0b718c37ab4b823cfe253fe4a264c729e18
