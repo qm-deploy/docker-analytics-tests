@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/msyql-check#56fd5d0d9f56277e9545e56c58b7866bec50b793
+MeasurementsReminders#feature/msyql-check#56fd5d0d9f56277e9545e56c58b7866bec50b793
