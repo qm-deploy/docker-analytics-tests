@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/activity-model#10c0e2f148704b1d37ef3ceea891137dba8022a2
+MeasurementsReminders#feature/activity-model#10c0e2f148704b1d37ef3ceea891137dba8022a2
