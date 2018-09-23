@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/msyql-check#b6b9b8cfd77f2348a5aed4894cbcb89a0eec22a4
+AnalyticsTasks#feature/msyql-check#b6b9b8cfd77f2348a5aed4894cbcb89a0eec22a4
