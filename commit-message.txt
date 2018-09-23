@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/activity-stream#fed4b266c14b1a7efae8621b8739924c6916179e
+ModelConnectors#feature/activity-stream#fed4b266c14b1a7efae8621b8739924c6916179e
