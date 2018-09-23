@@ -1,1 +1,1 @@
-ModelConnectors#feature/postToMediaWiki#bd29a90eecce7347ef5c841856c47a141bbb4027
+Laravel#feature/postToMediaWiki#bd29a90eecce7347ef5c841856c47a141bbb4027
