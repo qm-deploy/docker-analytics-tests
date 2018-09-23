@@ -1,1 +1,1 @@
-ModelConnectors#feature/activity-stream#fed4b266c14b1a7efae8621b8739924c6916179e
+Laravel#feature/activity-stream#fed4b266c14b1a7efae8621b8739924c6916179e
