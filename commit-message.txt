@@ -1,1 +1,1 @@
-ModelConnectors#feature/addCreatedUpdatedDeletedAtColumns#4bc626d32eb8e528647c81082db88216071ffaa4
+Laravel#feature/addCreatedUpdatedDeletedAtColumns#4bc626d32eb8e528647c81082db88216071ffaa4
