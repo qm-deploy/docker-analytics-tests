@@ -1,1 +1,1 @@
-ModelConnectors#feature/ratchet#8b5cacedf05b881946d0973258bc484d703957d3
+Laravel#feature/ratchet#8b5cacedf05b881946d0973258bc484d703957d3
