@@ -1,1 +1,1 @@
-Laravel#feature/addCreatedUpdatedDeletedAtColumns#fc9bc3e0082646ac6c7dd90739d163e27f004238
+AppSettingsControllers#feature/addCreatedUpdatedDeletedAtColumns#3c89651c4473f4b9624e2b4b2bbef1eb64f46593
