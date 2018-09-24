@@ -1,1 +1,1 @@
-Laravel#feature/setAdditionalInformationAndTooltip#7d7b98153adcc630cd3c902a73848ecb3855bd12
+AppSettingsControllers#feature/setAdditionalInformationAndTooltip#7d7b98153adcc630cd3c902a73848ecb3855bd12
