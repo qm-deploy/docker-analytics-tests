@@ -1,1 +1,1 @@
-Laravel#feature/SkipAllNotificationButton#b4df9e703c59704c7b28d2d312200ea90ab4c91f
+AppSettingsControllers#feature/SkipAllNotificationButton#a8c458864b18828e5227659493456495aa17a135
