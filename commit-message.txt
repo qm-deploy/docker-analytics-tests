@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/PairsOverTimeLineChart#0fc589a0f3f1cc80834a40982e34c4ff63bf63ac
+AnalyticsTasks#feature/PairsOverTimeLineChart#0fc589a0f3f1cc80834a40982e34c4ff63bf63ac
