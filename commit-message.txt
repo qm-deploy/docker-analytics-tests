@@ -1,1 +1,1 @@
-Laravel#feature/is-numeric#bec94bd117ce0657e5ea8333961fec29ca1f2765
+AppSettingsControllers#feature/is-numeric#31174962af7e8512c7f9eb332207af760c598577
