@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/setMaximumExecutionTime#03da06f80345b2821e1d4d6f05097c64c8d5415d
+ModelConnectors#feature/setMaximumExecutionTime#03da06f80345b2821e1d4d6f05097c64c8d5415d
