@@ -1,1 +1,1 @@
-Laravel#feature/response-sizes#46a6d1247eff795e0c5061a74b5873e5965267a9
+AppSettingsControllers#feature/response-sizes#60cf2c27e3aa33790397bd667833a9f1376cc404
