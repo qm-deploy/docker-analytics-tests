@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/testGetStaticAppData#a497efed54d4eabe17f47e8500eb7d837e9e6400
+ModelConnectors#feature/testGetStaticAppData#a497efed54d4eabe17f47e8500eb7d837e9e6400
