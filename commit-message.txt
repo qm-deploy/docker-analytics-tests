@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/getCosentyxTest#66ebba64d0fc42d44aec9d3918acf065000e7397
+MeasurementsReminders#feature/getCosentyxTest#66ebba64d0fc42d44aec9d3918acf065000e7397
