@@ -1,1 +1,1 @@
-Laravel#feature/last_successful_update_time#6b1cbb57e8efc2b195b4946eda6be1a73b54c750
+AppSettingsControllers#feature/AmazonConnector#8cadb3e66b32ad4d37092f51fbab1b9ed838fe44
