@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getDurationOfActionHumanString#73750cd04ae9fe39a8b824d699f1f69843899399
+AnalyticsTasks#feature/getDurationOfActionHumanString#73750cd04ae9fe39a8b824d699f1f69843899399
