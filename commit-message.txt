@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/AmazonConnector#8cadb3e66b32ad4d37092f51fbab1b9ed838fe44
+AnalyticsTasks#feature/AmazonConnector#8cadb3e66b32ad4d37092f51fbab1b9ed838fe44
