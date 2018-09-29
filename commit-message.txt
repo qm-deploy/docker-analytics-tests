@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/AmazonConnector#54c49c381c0d77d48ee80905a730fe28948abc97
+ModelConnectors#feature/AmazonConnector#54c49c381c0d77d48ee80905a730fe28948abc97
