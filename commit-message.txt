@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/testGetStaticAppData#dbe36aa1d25a4ca2f8590656a646e408fc8cb1ab
+AnalyticsTasks#feature/testGetStaticAppData#dbe36aa1d25a4ca2f8590656a646e408fc8cb1ab
