@@ -1,1 +1,1 @@
-Laravel#feature/experiment-times#da81c361a36c3de08d5aedf9f89feda3f6e6e6a6
+AppSettingsControllers#feature/testGetStaticAppData#dbe36aa1d25a4ca2f8590656a646e408fc8cb1ab
