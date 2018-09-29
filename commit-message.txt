@@ -1,1 +1,1 @@
-ModelConnectors#feature/AmazonConnector#54c49c381c0d77d48ee80905a730fe28948abc97
+Laravel#feature/AmazonConnector#54c49c381c0d77d48ee80905a730fe28948abc97
