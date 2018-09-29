@@ -1,1 +1,1 @@
-ModelConnectors#feature/getDurationOfActionHumanString#73750cd04ae9fe39a8b824d699f1f69843899399
+Laravel#feature/getDurationOfActionHumanString#73750cd04ae9fe39a8b824d699f1f69843899399
