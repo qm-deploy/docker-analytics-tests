@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/MyFitnessPalTest#a97213534d22cfd5e65229f08461c952fe899741
+ModelConnectors#feature/MyFitnessPalTest#a97213534d22cfd5e65229f08461c952fe899741
