@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getDurationOfActionHumanString#73750cd04ae9fe39a8b824d699f1f69843899399
+ModelConnectors#feature/getDurationOfActionHumanString#73750cd04ae9fe39a8b824d699f1f69843899399
