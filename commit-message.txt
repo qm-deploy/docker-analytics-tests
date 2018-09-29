@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/last_successful_update_time#7b3e6dbfea5692c924575db94e40f7a520df22d6
+AnalyticsTasks#feature/last_successful_update_time#7b3e6dbfea5692c924575db94e40f7a520df22d6
