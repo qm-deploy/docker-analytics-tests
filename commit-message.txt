@@ -1,1 +1,1 @@
-ModelConnectors#feature/test-generator#f8ed0a819c55a8088e798c7809b13c8e68170010
+Laravel#feature/test-generator#f8ed0a819c55a8088e798c7809b13c8e68170010
