@@ -1,1 +1,1 @@
-ModelConnectors#feature/getTotalQueryCount#5bc5b23590fda8044c67daa5f1cdfd74a835849b
+Laravel#feature/getTotalQueryCount#5bc5b23590fda8044c67daa5f1cdfd74a835849b
