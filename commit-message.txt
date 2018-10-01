@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/update-connectors#bcc566b29a7a82c5281b3b9cd83b0eccd690842f
+AnalyticsTasks#feature/update-connectors#bcc566b29a7a82c5281b3b9cd83b0eccd690842f
