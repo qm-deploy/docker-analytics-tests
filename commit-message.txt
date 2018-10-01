@@ -1,1 +1,1 @@
-Laravel#feature/getMessagesRecipients#68d8aa7cd5887b3234855994f4f8fb9071a7f61f
+AppSettingsControllers#feature/getTotalQueryCount#5bc5b23590fda8044c67daa5f1cdfd74a835849b
