@@ -1,1 +1,1 @@
-ModelConnectors#feature/global-user-variables#65c8a52ee6a956a1a9de76f652226445b26bb473
+Laravel#feature/global-user-variables#65c8a52ee6a956a1a9de76f652226445b26bb473
