@@ -1,1 +1,1 @@
-Laravel#feature/global-user-variables#65c8a52ee6a956a1a9de76f652226445b26bb473
+AppSettingsControllers#feature/int#6e4167a7096ac14ac95549e06e6050621d6325b6
