@@ -1,1 +1,1 @@
-Laravel#feature/missing-tags#7e054db301f18cee70f7bf05768f47775326ee22
+AppSettingsControllers#feature/global-user-variables#b58fd34b727870f76af763f46ea0a2f390b63dc3
