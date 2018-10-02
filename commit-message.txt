@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/get-mood-charts#7c500da8805d6b0c968e07f5ac95ce262ee008de
+AnalyticsTasks#feature/get-mood-charts#7c500da8805d6b0c968e07f5ac95ce262ee008de
