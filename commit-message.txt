@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/set-all-user-variables#74765fa60bb01efe9ca9785e2a418f595b411fe8
+ModelConnectors#feature/set-all-user-variables#74765fa60bb01efe9ca9785e2a418f595b411fe8
