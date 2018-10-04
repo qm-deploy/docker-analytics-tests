@@ -1,1 +1,1 @@
-ModelConnectors#feature/throwExceptionIfEarlierThan2000#e193d28fd59ec6e0ed9965f589f3483bb2926ecd
+Laravel#feature/throwExceptionIfEarlierThan2000#e193d28fd59ec6e0ed9965f589f3483bb2926ecd
