@@ -1,1 +1,1 @@
-Laravel#feature/throwExceptionIfEarlierThan2000#5b0d8a6bde2938dcc03f7482072181cbd079ba6b
+AppSettingsControllers#feature/throwExceptionIfEarlierThan2000#b7c19765444533b85bfa2554e54e539d4ee346d1
