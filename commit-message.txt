@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/testGetBloodPressure#1749b3fdd87bd441e421dca91df5f7c229296b94
+AnalyticsTasks#feature/testGetBloodPressure#1749b3fdd87bd441e421dca91df5f7c229296b94
