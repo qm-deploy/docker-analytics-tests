@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/variable-instantiation#8f75ceb4627e208b1abf492a0d36833b38efea5e
+AnalyticsTasks#feature/variable-instantiation#8f75ceb4627e208b1abf492a0d36833b38efea5e
