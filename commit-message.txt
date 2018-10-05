@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/testGetBloodPressure#37ee1bf041b447ca430ae417c2eb01bfa2f6cd6b
+MeasurementsReminders#feature/testGetBloodPressure#37ee1bf041b447ca430ae417c2eb01bfa2f6cd6b
