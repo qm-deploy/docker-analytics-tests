@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/addWhereClauseForEachWord#7ba05f4770d5327c30145d1ccd97a777d3330e4a
+ModelConnectors#feature/addWhereClauseForEachWord#7ba05f4770d5327c30145d1ccd97a777d3330e4a
