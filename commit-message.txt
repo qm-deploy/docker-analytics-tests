@@ -1,1 +1,1 @@
-Laravel#feature/addWhereClauseForEachWord#2de7ad9592f566d3f810fd756a093a81741d1e87
+AppSettingsControllers#feature/addWhereClauseForEachWord#7ba05f4770d5327c30145d1ccd97a777d3330e4a
