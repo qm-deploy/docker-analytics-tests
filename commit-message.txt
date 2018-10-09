@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/duration#2644a6dac58094e03299d653084af2fb9d57a540
+AnalyticsTasks#feature/duration#2644a6dac58094e03299d653084af2fb9d57a540
