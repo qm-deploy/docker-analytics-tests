@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/cached-studies#40f828c0da946bb5839f8d15d36dc2678175294c
+AnalyticsTasks#feature/cached-studies#40f828c0da946bb5839f8d15d36dc2678175294c
