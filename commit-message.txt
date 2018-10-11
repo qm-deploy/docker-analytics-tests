@@ -1,1 +1,1 @@
-ModelConnectors#feature/cached-studies#40f828c0da946bb5839f8d15d36dc2678175294c
+Laravel#feature/cached-studies#40f828c0da946bb5839f8d15d36dc2678175294c
