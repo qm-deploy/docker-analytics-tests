@@ -1,1 +1,1 @@
-ModelConnectors#feature/PublishStudyController#18a63c22bbc5b4de58e2a742733e2b99b07e378f
+Laravel#feature/PublishStudyController#18a63c22bbc5b4de58e2a742733e2b99b07e378f
