@@ -1,1 +1,1 @@
-Laravel#feature/user-variable#e36cf7cbfb12ab7a209f2078691451d3e29bf2e4
+AppSettingsControllers#feature/qm-variable#b80990c520f83ad986d801c249075a80f73086c9
