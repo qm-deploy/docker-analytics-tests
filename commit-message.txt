@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/reminder-validation#b406f8323c32a4828721799b57420b80d9750236
+ModelConnectors#feature/reminder-validation#b406f8323c32a4828721799b57420b80d9750236
