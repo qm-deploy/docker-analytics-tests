@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/qm-variable#da60aa2391de13afb1a08b698401323ba54bdceb
+ModelConnectors#feature/qm-variable#da60aa2391de13afb1a08b698401323ba54bdceb
