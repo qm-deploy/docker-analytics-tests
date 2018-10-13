@@ -1,1 +1,1 @@
-Laravel#feature/addDataToTestFileContent#7c6819365c44281e6437b19eacb0bd6b5846e929
+AppSettingsControllers#feature/qm-variable#a2479ec80ba65f6f2292eefac86ea307f990f8e2
