@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/TestTreatmentReminderTest#5384eaed36bbc86a649e35b6b94f6b9908707bca
+ModelConnectors#feature/TestTreatmentReminderTest#5384eaed36bbc86a649e35b6b94f6b9908707bca
