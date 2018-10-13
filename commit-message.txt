@@ -1,1 +1,1 @@
-Laravel#feature/qm-variable#0d9da39d8de6ed23a1d57894237824a71b099ef4
+AppSettingsControllers#feature/reminder-validation#b406f8323c32a4828721799b57420b80d9750236
