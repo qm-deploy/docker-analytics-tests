@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/qm-variable#e57d747983b25c84bc8f9ed80878c00ca4abc0e2
+MeasurementsReminders#feature/qm-variable#e57d747983b25c84bc8f9ed80878c00ca4abc0e2
