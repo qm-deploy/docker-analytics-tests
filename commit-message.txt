@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/TestTreatmentReminderTest#ff82ad29766545681c360a458c2dd338e909e443
+MeasurementsReminders#feature/TestTreatmentReminderTest#ff82ad29766545681c360a458c2dd338e909e443
