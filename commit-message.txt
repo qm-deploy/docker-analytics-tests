@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/calculate#61fe76a15fa8cbcd1deca8e7122aa71d84ceecf9
+AnalyticsTasks#feature/calculate#61fe76a15fa8cbcd1deca8e7122aa71d84ceecf9
