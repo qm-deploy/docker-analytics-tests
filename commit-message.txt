@@ -1,1 +1,1 @@
-Laravel#feature/throwException#486a1e2ca243164f64834d743cfe0df6161820ae
+AppSettingsControllers#feature/boredom#b4cd73bc8fb6fbdbec46d9098475b875ce8141ff
