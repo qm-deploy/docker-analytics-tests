@@ -1,1 +1,1 @@
-ModelConnectors#feature/boredom#51f2ae4f8e90ad96d38125edee0b879ad6336ec6
+Laravel#feature/boredom#51f2ae4f8e90ad96d38125edee0b879ad6336ec6
