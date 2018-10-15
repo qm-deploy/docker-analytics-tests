@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/deleteMeasurementsTooBigForUnit#9bcbc5fd4121b9f918913fa2474e3c4edf09698b
+AnalyticsTasks#feature/deleteMeasurementsTooBigForUnit#9bcbc5fd4121b9f918913fa2474e3c4edf09698b
