@@ -1,1 +1,1 @@
-Laravel#feature/GLOBALS#65c831cd6fcfa897d589d9375d2ca1360cdfb727
+AppSettingsControllers#feature/GLOBALS#b96b5e75cb5c01e6b7695bab3348144943214e10
