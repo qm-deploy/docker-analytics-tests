@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/testPostEmptyFeed#19cc0c02b9e4ea60ccea184718ba8ec67436bd8a
+AnalyticsTasks#feature/testPostEmptyFeed#19cc0c02b9e4ea60ccea184718ba8ec67436bd8a
