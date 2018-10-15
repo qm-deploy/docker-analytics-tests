@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/no-measurements#a68c68cd887a3aba71d98dfcd8faf781eecd2b17
+AnalyticsTasks#feature/no-measurements#a68c68cd887a3aba71d98dfcd8faf781eecd2b17
