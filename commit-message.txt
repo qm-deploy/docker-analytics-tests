@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/no-measurements#aad2b78b660b99392268087738a4fcf94bd4f817
+AppSettingsControllers#feature/outputAndHardDeleteMeasurements#f014bf0b5cc2317e96affc94397cbb2316aacaa2
