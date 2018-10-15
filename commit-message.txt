@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/UpdateKneeSwellingTest#c1c0f5a3bf4687e603dcfe456eaef51eb6aab85e
+MeasurementsReminders#feature/UpdateKneeSwellingTest#c1c0f5a3bf4687e603dcfe456eaef51eb6aab85e
