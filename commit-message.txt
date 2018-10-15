@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/setNeverUpdatedStatusToWaiting#ab0100fadf5de9cbf7398f6d963d5a52083bfa0a
+ModelConnectors#feature/setNeverUpdatedStatusToWaiting#ab0100fadf5de9cbf7398f6d963d5a52083bfa0a
