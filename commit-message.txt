@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/GetTreatmentsWithCorrelations#a6b6842370f3d33d764c884cf8e1819f8f4fbb8a
+AnalyticsTasks#feature/GetTreatmentsWithCorrelations#a6b6842370f3d33d764c884cf8e1819f8f4fbb8a
