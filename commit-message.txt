@@ -1,1 +1,1 @@
-Laravel#feature/GetTreatmentsWithCorrelations#538520d5200a06f6e335874fcf7da1ed384c3fe2
+AppSettingsControllers#feature/GetTreatmentsWithCorrelations#538520d5200a06f6e335874fcf7da1ed384c3fe2
