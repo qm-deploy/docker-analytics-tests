@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/deleteTooFrequentMeasurements#7b4ea0c48f76cf7c121aaefcf525409506a868fc
+MeasurementsReminders#feature/deleteTooFrequentMeasurements#7b4ea0c48f76cf7c121aaefcf525409506a868fc
