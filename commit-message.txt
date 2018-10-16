@@ -1,1 +1,1 @@
-Laravel#feature/deleteTooFrequentMeasurements#7b4ea0c48f76cf7c121aaefcf525409506a868fc
+AppSettingsControllers#feature/MinimumAllowedSecondsBetweenMeasurements#76746a48dd5dd5f1c2a5c918d7cb27bcc19b066b
