@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/setEffectNameOrId#4b182defe654a3992f571bc2ecbfce1c5f1ad59a
+AnalyticsTasks#feature/setEffectNameOrId#4b182defe654a3992f571bc2ecbfce1c5f1ad59a
