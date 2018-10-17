@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/copyPropertiesFromStatistics#63e8af14d8c457c37c95f2001a2be3fe47741584
+MeasurementsReminders#feature/copyPropertiesFromStatistics#63e8af14d8c457c37c95f2001a2be3fe47741584
