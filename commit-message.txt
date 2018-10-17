@@ -1,1 +1,1 @@
-ModelConnectors#feature/WithingsConnector#e0d220107f2b171a8d893cc7fc0b128aa6e050db
+Laravel#feature/WithingsConnector#e0d220107f2b171a8d893cc7fc0b128aa6e050db
