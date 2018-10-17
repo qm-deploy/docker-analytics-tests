@@ -1,1 +1,1 @@
-Laravel#feature/MinimumAllowedSecondsBetweenMeasurements#9275cf5e2d1558064587f1aac24a0c8ca75b8cd9
+AppSettingsControllers#feature/isCountCategory#b5884893e8d80e6b44f9312aad03ccd61e6a4ae6
