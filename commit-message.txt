@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/WithingsConnector#e0d220107f2b171a8d893cc7fc0b128aa6e050db
+AnalyticsTasks#feature/WithingsConnector#e0d220107f2b171a8d893cc7fc0b128aa6e050db
