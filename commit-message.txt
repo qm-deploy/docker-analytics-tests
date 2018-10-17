@@ -1,1 +1,1 @@
-Laravel#feature/isCountCategory#b5884893e8d80e6b44f9312aad03ccd61e6a4ae6
+AppSettingsControllers#feature/isYesNo#a977a079e1f993487edf7ae07c116ae08d1cc3cd
