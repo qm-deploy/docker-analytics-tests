@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/setNewMeasurementItems#e16c66aff11e7f11573ada0562d1594788c9c461
+AnalyticsTasks#feature/setNewMeasurementItems#e16c66aff11e7f11573ada0562d1594788c9c461
