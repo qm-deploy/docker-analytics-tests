@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/testGetAspirinWithCorrelations#a398416541fda383b8a33c816aa0a07a622cbc00
+ModelConnectors#feature/testGetAspirinWithCorrelations#a398416541fda383b8a33c816aa0a07a622cbc00
