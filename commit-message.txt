@@ -1,1 +1,1 @@
-Laravel#feature/s3#a9e93042446781afad2c86e08400d991d7b87af4
+AppSettingsControllers#feature/setImageUrls#3e464606b828bfacb02b8dd73b8ba1fd07eb11b6
