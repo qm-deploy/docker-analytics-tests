@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/generateChartAndUploadToS3#28dc34ec2b0c13d450ab8c7041be140ada14316e
+AnalyticsTasks#feature/generateChartAndUploadToS3#28dc34ec2b0c13d450ab8c7041be140ada14316e
