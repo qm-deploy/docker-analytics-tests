@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/deleteOutlierMeasurements#a6e98d0a87f95a89e855a07c72eec762cdd5251e
+AnalyticsTasks#feature/deleteOutlierMeasurements#a6e98d0a87f95a89e855a07c72eec762cdd5251e
