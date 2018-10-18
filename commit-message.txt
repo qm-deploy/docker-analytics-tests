@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/copyPropertiesFromStatistics#5699bc25f3715c5facf81049219ecf074a32e408
+AnalyticsTasks#feature/copyPropertiesFromStatistics#5699bc25f3715c5facf81049219ecf074a32e408
