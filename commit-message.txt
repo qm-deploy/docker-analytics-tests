@@ -1,1 +1,1 @@
-Laravel#feature/publishToWordPressAndMediaWiki#66862e3d3b1c6626301c92b9dcb089cf220ecaec
+AppSettingsControllers#feature/publishToWordPressAndMediaWiki#1db03b8bb5e432d86e8f2b9ac3d851f963e6b864
