@@ -1,1 +1,1 @@
-Laravel#feature/variable-search-result#728951c9813c1b8595eaec573aaeadd94845e435
+AppSettingsControllers#feature/removeParenthesisPrefix#7690616202219119f66413104f315f1a8e67276f
