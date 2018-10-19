@@ -1,1 +1,1 @@
-ModelConnectors#feature/publishToWordPressAndMediaWiki#66862e3d3b1c6626301c92b9dcb089cf220ecaec
+Laravel#feature/publishToWordPressAndMediaWiki#66862e3d3b1c6626301c92b9dcb089cf220ecaec
