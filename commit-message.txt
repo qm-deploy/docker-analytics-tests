@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/publishToWordPressAndMediaWiki#8623e7c40173c70619940e844e856a346257b672
+AnalyticsTasks#feature/publishToWordPressAndMediaWiki#8623e7c40173c70619940e844e856a346257b672
