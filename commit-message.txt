@@ -1,1 +1,1 @@
-Laravel#feature/qm-wordpress#a832313062e195b7a08e57d849fe1580e8af42d6
+AppSettingsControllers#feature/throwExceptionIfProductionTesting#7d8814683f990ce22c69ae43272c1c11a3b00d1d
