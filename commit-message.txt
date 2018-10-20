@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/publishStudies#8936a701a856580afab8be19c270e32e35af4100
+AppSettingsControllers#feature/publishStudies#8936a701a856580afab8be19c270e32e35af4100
