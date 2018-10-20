@@ -1,1 +1,1 @@
-Laravel#feature/getCauseEffectFileName#ff356c16ed08c12e8b8e18152f9664ed7a53522e
+ModelConnectors#feature/publishStudies#8936a701a856580afab8be19c270e32e35af4100
