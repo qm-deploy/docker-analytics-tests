@@ -1,1 +1,1 @@
-ModelConnectors#feature/wp-delete#b2c5f8d089e81ab591dc543ea22377321b6ead33
+AnalyticsTasks#feature/wp-delete#b2c5f8d089e81ab591dc543ea22377321b6ead33
