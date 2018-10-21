@@ -1,1 +1,1 @@
-ModelConnectors#feature/outlier#c4271d9b7185d5fc5952aafaa38726c137c1ab3a
+AnalyticsTasks#feature/outlier#c4271d9b7185d5fc5952aafaa38726c137c1ab3a
