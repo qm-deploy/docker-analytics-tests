@@ -1,1 +1,1 @@
-ModelConnectors#feature/publishUpVotedStudies#576bec253f08d1ec5d360284cc38ebc1a6d3e283
+AnalyticsTasks#feature/publishUpVotedStudies#576bec253f08d1ec5d360284cc38ebc1a6d3e283
