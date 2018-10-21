@@ -1,1 +1,1 @@
-Laravel#feature/wp-delete#f429320390ae410af195ac4155484d6a1f8471b4
+ModelConnectors#feature/publishUpVotedStudies#576bec253f08d1ec5d360284cc38ebc1a6d3e283
