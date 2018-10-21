@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/generateImagesAndSetUrls#265de3e0b564322cdbd0117505f977655937d58f
+Laravel#feature/generateImagesAndSetUrls#265de3e0b564322cdbd0117505f977655937d58f
