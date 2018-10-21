@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/publishUpVotedStudies#576bec253f08d1ec5d360284cc38ebc1a6d3e283
+Laravel#feature/publishUpVotedStudies#576bec253f08d1ec5d360284cc38ebc1a6d3e283
