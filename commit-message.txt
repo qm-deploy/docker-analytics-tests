@@ -1,1 +1,1 @@
-Laravel#feature/insertOrUpdateVote#796f3af50c037a82c0346768b33ccb4ae62b7a6a
+ModelConnectors#feature/PNG_ENABLED#47ffdadb09847299fb00b7de19de9be213aa0310
