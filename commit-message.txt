@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/getOptimalValueSentence#3b5f72c4aa2711dcd71e7c47f062fe414df8a9f1
+MeasurementsReminders#feature/getOptimalValueSentence#3b5f72c4aa2711dcd71e7c47f062fe414df8a9f1
