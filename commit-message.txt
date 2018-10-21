@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/setPrimaryOutcomeVariable#4eddfacda9af77980259edaa29aaaaad5bc0fa82
+AppSettingsControllers#feature/setPrimaryOutcomeVariable#4eddfacda9af77980259edaa29aaaaad5bc0fa82
