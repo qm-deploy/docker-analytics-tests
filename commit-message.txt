@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/publishUpVotedStudies#0e4e956a7548033b2418f5549b8d0f17ba2072e1
+MeasurementsReminders#feature/publishUpVotedStudies#0e4e956a7548033b2418f5549b8d0f17ba2072e1
