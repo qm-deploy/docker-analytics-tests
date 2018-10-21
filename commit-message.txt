@@ -1,1 +1,1 @@
-ModelConnectors#feature/PNG_ENABLED#e862471efc94f118b212f99ca19bd077a8e025b9
+AnalyticsTasks#feature/PNG_ENABLED#e862471efc94f118b212f99ca19bd077a8e025b9
