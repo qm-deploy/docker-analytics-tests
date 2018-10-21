@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/generateImagesAndSetUrls#af361f7a3474296a94cbacf0f8febc29110c0b3a
+AppSettingsControllers#feature/generateImagesAndSetUrls#af361f7a3474296a94cbacf0f8febc29110c0b3a
