@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getOptimalValueSentence#6006bbec36930a45708e61f1f5101da001751292
+AppSettingsControllers#feature/getOptimalValueSentence#6006bbec36930a45708e61f1f5101da001751292
