@@ -1,1 +1,1 @@
-ModelConnectors#feature/generateImagesAndSetUrls#e38dac5e753bcf177ba4e7230d16e1bc89060929
+AnalyticsTasks#feature/generateImagesAndSetUrls#e38dac5e753bcf177ba4e7230d16e1bc89060929
