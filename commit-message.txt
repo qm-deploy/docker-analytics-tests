@@ -1,1 +1,1 @@
-Laravel#feature/generateImagesAndSetUrls#d0c0b3b2830268427bededa72d59bf6c04764a3e
+ModelConnectors#feature/generateImagesAndSetUrls#f5b10bd75516960e67d5cee0b259b9f156dd5e78
