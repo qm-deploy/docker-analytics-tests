@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/vote-test#c3b86f90a884c16e4ac7618931151eecc16eb295
+AppSettingsControllers#feature/vote-test#c3b86f90a884c16e4ac7618931151eecc16eb295
