@@ -1,1 +1,1 @@
-Laravel#feature/getOptimalValueSentence#0e05f2aa97672edcce4b5ad9c0c04bb0b0d5cff9
+ModelConnectors#feature/publishUpVotedStudies#0e4e956a7548033b2418f5549b8d0f17ba2072e1
