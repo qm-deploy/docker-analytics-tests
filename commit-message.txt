@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/tag-validation#189c87b098568c1fbba08480ba18f774e1bd5e8b
+AppSettingsControllers#feature/tag-validation#189c87b098568c1fbba08480ba18f774e1bd5e8b
