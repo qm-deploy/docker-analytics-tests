@@ -1,1 +1,1 @@
-Laravel#feature/vote-test#4f540afadd6fcc9a46ff28e179d737936933fddf
+ModelConnectors#feature/vote-test#23721e05da444aa984ac6d689574654188373fab
