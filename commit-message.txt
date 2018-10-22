@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/update-errors#7c11cd5f40be6902d7a39c0eab8bfd8964c36d5b
+Laravel#feature/update-errors#7c11cd5f40be6902d7a39c0eab8bfd8964c36d5b
