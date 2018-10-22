@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/vote-test#d95d819f68749fa95236e75ad471f9c39d18640b
+Laravel#feature/vote-test#d95d819f68749fa95236e75ad471f9c39d18640b
