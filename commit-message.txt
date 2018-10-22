@@ -1,1 +1,1 @@
-ModelConnectors#feature/vote-test#23721e05da444aa984ac6d689574654188373fab
+AnalyticsTasks#feature/vote-test#23721e05da444aa984ac6d689574654188373fab
