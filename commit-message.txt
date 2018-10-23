@@ -1,1 +1,1 @@
-ModelConnectors#feature/setGaugeImage#1b2f24c8f0a6477a1439aa731564e3f9c961c3e9
+AnalyticsTasks#feature/setGaugeImage#1b2f24c8f0a6477a1439aa731564e3f9c961c3e9
