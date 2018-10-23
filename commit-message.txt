@@ -1,1 +1,1 @@
-ModelConnectors#feature/getUniqueIndex#93ad6a21e9d61bd4c8ff2877f006ae216a30f3b1
+AnalyticsTasks#feature/getUniqueIndex#93ad6a21e9d61bd4c8ff2877f006ae216a30f3b1
