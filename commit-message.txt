@@ -1,1 +1,1 @@
-ModelConnectors#feature/deleteClientVariablesForCategory#2661ad23c636b464870058ee76ba18a033e44f16
+AnalyticsTasks#feature/deleteClientVariablesForCategory#2661ad23c636b464870058ee76ba18a033e44f16
