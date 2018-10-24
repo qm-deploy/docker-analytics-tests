@@ -1,1 +1,1 @@
-Laravel#feature/payment-tags#2433bed21c173bd23a6bb63f69fd074ffb25a49d
+ModelConnectors#feature/createUserVariablesForWeatherCommonTags#ae8a3c768921d8eff3188104ce256356986bb630
