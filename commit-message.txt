@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/study-creation-test#cad480a4d4c6652d836f46b0ac9b746476f7cb6d
+AppSettingsControllers#feature/study-creation-test#cad480a4d4c6652d836f46b0ac9b746476f7cb6d
