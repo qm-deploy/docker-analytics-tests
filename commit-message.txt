@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/publishToWordPressAndMediaWiki#3911bf63d654aa72578127d419d36a736d75c461
+Laravel#feature/publishToWordPressAndMediaWiki#3911bf63d654aa72578127d419d36a736d75c461
