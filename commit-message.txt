@@ -1,1 +1,1 @@
-ModelConnectors#feature/dbFieldNameToPropertyNameMap#e6d4fe0488805f2c59d552c74d3009384cb86590
+AnalyticsTasks#feature/dbFieldNameToPropertyNameMap#e6d4fe0488805f2c59d552c74d3009384cb86590
