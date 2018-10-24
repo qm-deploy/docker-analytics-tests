@@ -1,1 +1,1 @@
-ModelConnectors#feature/GetAppSettingsForAppBuilderTest#b4168a52f33ea7da1acce6044ea5db440572cb4b
+AnalyticsTasks#feature/GetAppSettingsForAppBuilderTest#b4168a52f33ea7da1acce6044ea5db440572cb4b
