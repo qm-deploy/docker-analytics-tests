@@ -1,1 +1,1 @@
-Laravel#feature/roundStartTime#6e0865ffb64d046f8615db3af029971c52b5176b
+ModelConnectors#feature/getWordpressSlug#c8e98d8bfbe5d3755a1a801e13df5fb51aed5572
