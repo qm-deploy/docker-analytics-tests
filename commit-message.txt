@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/statistics#81d566fd90668ed74192e13741b032f8c0820ed1
+Laravel#feature/statistics#81d566fd90668ed74192e13741b032f8c0820ed1
