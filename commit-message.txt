@@ -1,1 +1,1 @@
-ModelConnectors#feature/statistics#51bb3ef6ba864fd0674562b34575961f4cb53ad2
+AnalyticsTasks#feature/statistics#51bb3ef6ba864fd0674562b34575961f4cb53ad2
