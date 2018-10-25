@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/redundant-charts#01d8654fa24e649dec4e66774db95a8ffa7eac12
+AppSettingsControllers#feature/redundant-charts#01d8654fa24e649dec4e66774db95a8ffa7eac12
