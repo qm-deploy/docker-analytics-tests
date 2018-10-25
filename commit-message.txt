@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/getWordpressSlug#c9f40a3247b55346be810eb7ccd12ea7ca855fb8
+MeasurementsReminders#feature/getWordpressSlug#c9f40a3247b55346be810eb7ccd12ea7ca855fb8
