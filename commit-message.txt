@@ -1,1 +1,1 @@
-Laravel#feature/getWordpressSlug#c8e98d8bfbe5d3755a1a801e13df5fb51aed5572
+ModelConnectors#feature/redundant-charts#01d8654fa24e649dec4e66774db95a8ffa7eac12
