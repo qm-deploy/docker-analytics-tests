@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getWordpressSlug#3b71706397d98504ed5bc7bf6525d367bd872013
+AppSettingsControllers#feature/getWordpressSlug#3b71706397d98504ed5bc7bf6525d367bd872013
