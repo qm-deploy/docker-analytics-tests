@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/get-all-posts#2fdd47fe41b01bde4368b890b4e77a86df1cb1b4
+Laravel#feature/get-all-posts#2fdd47fe41b01bde4368b890b4e77a86df1cb1b4
