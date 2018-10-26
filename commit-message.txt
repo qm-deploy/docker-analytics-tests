@@ -1,1 +1,1 @@
-ModelConnectors#feature/get-all-posts#1f4863e050e2d683e4354e22044c3346b89bdfce
+AnalyticsTasks#feature/get-all-posts#1f4863e050e2d683e4354e22044c3346b89bdfce
