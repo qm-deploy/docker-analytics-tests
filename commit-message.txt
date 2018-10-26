@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/variable-name#0a3a53b4710f3534a6beebe4cde8a01dcf2e6690
+Laravel#feature/variable-name#0a3a53b4710f3534a6beebe4cde8a01dcf2e6690
