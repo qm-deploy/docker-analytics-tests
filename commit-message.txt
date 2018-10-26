@@ -1,1 +1,1 @@
-Laravel#feature/image-caching#ac4b98293fca49721da053d1d01639ef4bf9dbd8
+ModelConnectors#feature/weShouldGenerateFullStudyWithChartsCssAndInstructions#5fd68c0e35ea18dc16e1713758a91e19983d9729
