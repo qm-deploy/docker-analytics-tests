@@ -1,1 +1,1 @@
-Laravel#feature/get-all-posts#1630813deccd2f608db878c37587baad2afe810a
+ModelConnectors#feature/get-all-posts#1f4863e050e2d683e4354e22044c3346b89bdfce
