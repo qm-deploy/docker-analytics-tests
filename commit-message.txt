@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/skipChartGeneration#90f0c08ccc77df24c48f639b1cb11d77b28fd4a3
+AppSettingsControllers#feature/skipChartGeneration#90f0c08ccc77df24c48f639b1cb11d77b28fd4a3
