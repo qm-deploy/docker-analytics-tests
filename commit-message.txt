@@ -1,1 +1,1 @@
-Laravel#feature/getSiteUrl#26d8d95fbe0742f55c9af9fe198e6013e35ae965
+ModelConnectors#feature/skipChartGeneration#084ec90edab105e07aeafa394df3f2646f7685b3
