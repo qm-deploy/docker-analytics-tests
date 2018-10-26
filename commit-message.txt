@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/CACHE_LIFETIME#cfa513dc82221b74c6dfa6f0fafa2f4ba56b0c0b
+Laravel#feature/CACHE_LIFETIME#cfa513dc82221b74c6dfa6f0fafa2f4ba56b0c0b
