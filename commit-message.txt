@@ -1,1 +1,1 @@
-Laravel#feature/skipChartGeneration#084ec90edab105e07aeafa394df3f2646f7685b3
+ModelConnectors#feature/skipChartGeneration#90f0c08ccc77df24c48f639b1cb11d77b28fd4a3
