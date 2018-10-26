@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getEmailAddress#5f445cdb725b9237326d0623f68435cac6c1cab0
+Laravel#feature/getEmailAddress#5f445cdb725b9237326d0623f68435cac6c1cab0
