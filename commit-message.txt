@@ -1,1 +1,1 @@
-Laravel#feature/weShouldGenerateFullStudyWithChartsCssAndInstructions#5fd68c0e35ea18dc16e1713758a91e19983d9729
+ModelConnectors#feature/studyTextHtml#27651f2c3c31afb8c83086bc32e10b9656560c63
