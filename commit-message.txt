@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/CACHE_LIFETIME#885c0c08a01dd930e3a60efe5595a0bd32c0e012
+AppSettingsControllers#feature/CACHE_LIFETIME#885c0c08a01dd930e3a60efe5595a0bd32c0e012
