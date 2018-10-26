@@ -1,1 +1,1 @@
-Laravel#feature/getWordpressSlug#3b71706397d98504ed5bc7bf6525d367bd872013
+ModelConnectors#feature/variable-name#6d6d00f56dac19adb07f1094d1a70db38c353cc7
