@@ -1,1 +1,1 @@
-Laravel#feature/variable-name#640146f62e5d3454df0b20bc269f95a954d6b609
+ModelConnectors#feature/getEmailAddress#5f445cdb725b9237326d0623f68435cac6c1cab0
