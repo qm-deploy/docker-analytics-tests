@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/setNewMeasurementItems#20ef46fcd7d2796296b4e149c54cc5c22f01fb1f
+AppSettingsControllers#feature/setNewMeasurementItems#20ef46fcd7d2796296b4e149c54cc5c22f01fb1f
