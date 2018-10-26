@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/convertHtmlToWiki#a1a7248c1babe508fe6b700a5ea0391929e96d67
+AppSettingsControllers#feature/convertHtmlToWiki#a1a7248c1babe508fe6b700a5ea0391929e96d67
