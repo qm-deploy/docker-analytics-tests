@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/skipChartGeneration#8bdacd8dc3e63614db9883df15d95179c7042ebb
+MeasurementsReminders#feature/skipChartGeneration#8bdacd8dc3e63614db9883df15d95179c7042ebb
