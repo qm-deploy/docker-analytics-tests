@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/skipChartGeneration#7ba9dade1191b192f2ad2bea76fb7b524cce6e8e
+Laravel#feature/skipChartGeneration#7ba9dade1191b192f2ad2bea76fb7b524cce6e8e
