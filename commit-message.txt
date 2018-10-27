@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/setAxisTitles#3b414524e3e6c8377ae2c239b1d1323b93235366
+Laravel#feature/setAxisTitles#3b414524e3e6c8377ae2c239b1d1323b93235366
