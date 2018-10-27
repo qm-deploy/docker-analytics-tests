@@ -1,1 +1,1 @@
-ModelConnectors#feature/skipChartGeneration#8bdacd8dc3e63614db9883df15d95179c7042ebb
+AnalyticsTasks#feature/skipChartGeneration#8bdacd8dc3e63614db9883df15d95179c7042ebb
