@@ -1,1 +1,1 @@
-ModelConnectors#feature/measurements-update#9b98418d5904326585a9983563b8784edf3f2194
+AnalyticsTasks#feature/measurements-update#9b98418d5904326585a9983563b8784edf3f2194
