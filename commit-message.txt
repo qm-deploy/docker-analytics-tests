@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/getImageDataAndUploadToS3#a92d4e6ba1e9a68d5daeb0ac21fc5401993b1f52
+MeasurementsReminders#feature/getImageDataAndUploadToS3#a92d4e6ba1e9a68d5daeb0ac21fc5401993b1f52
