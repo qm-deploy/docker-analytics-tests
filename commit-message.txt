@@ -1,1 +1,1 @@
-Laravel#feature/getImageDataAndUploadToS3#a92d4e6ba1e9a68d5daeb0ac21fc5401993b1f52
+ModelConnectors#feature/measurements-update#0f4a593a3c3c960b1387503d37a75783f8f7a20f
