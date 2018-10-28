@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getImageDataAndUploadToS3#dad8d1052e49b71814dda11f1715145d77099c0b
+AppSettingsControllers#feature/getImageDataAndUploadToS3#dad8d1052e49b71814dda11f1715145d77099c0b
