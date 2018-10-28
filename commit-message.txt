@@ -1,1 +1,1 @@
-Laravel#feature/setStatisticsTableHtml#0805fc31d7ed6b8334f296e81c052fe456bf237e
+ModelConnectors#feature/setExcerpt#2c7c03e57b84529888e2c774107c92bc2ff40cf4
