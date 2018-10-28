@@ -1,1 +1,1 @@
-ModelConnectors#feature/setStatisticsTableHtml#0805fc31d7ed6b8334f296e81c052fe456bf237e
+AnalyticsTasks#feature/setStatisticsTableHtml#0805fc31d7ed6b8334f296e81c052fe456bf237e
