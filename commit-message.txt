@@ -1,1 +1,1 @@
-ModelConnectors#feature/rescuetime#5a4b4b4cf7ad0daefe8972c144149ed1116aefe0
+AnalyticsTasks#feature/rescuetime#5a4b4b4cf7ad0daefe8972c144149ed1116aefe0
