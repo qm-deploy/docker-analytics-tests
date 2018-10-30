@@ -1,1 +1,1 @@
-Laravel#feature/score-duration#743fbf755d225adc0089af1bc4ad0a5623a8e12a
+ModelConnectors#feature/rescuetime-cleanup#47a750c49d176e5b84a2fc027f849ddfe0ce0234
