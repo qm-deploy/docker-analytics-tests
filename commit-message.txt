@@ -1,1 +1,1 @@
-Laravel#feature/rescuetime-cleanup#1fc37f279ee3daf12788b8b91823dbba77daf272
+ModelConnectors#feature/isRating#d7dd24ddc6a0dfec4ec6cc660e66e364eb68accb
