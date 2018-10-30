@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/isRating#711d70eb203237855a607074aef483fd41ef7b5e
+Laravel#feature/isRating#711d70eb203237855a607074aef483fd41ef7b5e
