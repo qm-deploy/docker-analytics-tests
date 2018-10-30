@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/score-duration#743fbf755d225adc0089af1bc4ad0a5623a8e12a
+Laravel#feature/score-duration#743fbf755d225adc0089af1bc4ad0a5623a8e12a
