@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/lectins#74ab34ef8bcf04bf97b8319c18cfa70342796aca
+MeasurementsReminders#feature/lectins#74ab34ef8bcf04bf97b8319c18cfa70342796aca
