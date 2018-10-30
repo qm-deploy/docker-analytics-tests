@@ -1,1 +1,1 @@
-Laravel#feature/isRating#ada29e0f21b7679f01d962bee78fe1c162d3406f
+ModelConnectors#feature/LineHighchartConfig#70b4d874bc6fff005a8e749b2b72e6577aa41cc6
