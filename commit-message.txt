@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/lectins#9512914a9de43396e68c7ed7e3ffc73d4b297db4
+Laravel#feature/lectins#9512914a9de43396e68c7ed7e3ffc73d4b297db4
