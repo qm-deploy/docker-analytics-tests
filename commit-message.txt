@@ -1,1 +1,1 @@
-ModelConnectors#feature/isRating#ada29e0f21b7679f01d962bee78fe1c162d3406f
+AnalyticsTasks#feature/isRating#ada29e0f21b7679f01d962bee78fe1c162d3406f
