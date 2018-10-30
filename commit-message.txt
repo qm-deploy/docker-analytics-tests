@@ -1,1 +1,1 @@
-ModelConnectors#feature/haveImages#d1512090314321902dcbd65895a60df564c2a7fa
+AnalyticsTasks#feature/haveImages#d1512090314321902dcbd65895a60df564c2a7fa
