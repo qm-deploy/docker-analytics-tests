@@ -1,1 +1,1 @@
-ModelConnectors#feature/lectins#9512914a9de43396e68c7ed7e3ffc73d4b297db4
+AnalyticsTasks#feature/lectins#9512914a9de43396e68c7ed7e3ffc73d4b297db4
