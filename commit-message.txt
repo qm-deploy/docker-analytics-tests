@@ -1,1 +1,1 @@
-ModelConnectors#feature/score-duration#7daf78abe787c598e0dfb7456ade9d218ef9c8e8
+AnalyticsTasks#feature/score-duration#7daf78abe787c598e0dfb7456ade9d218ef9c8e8
