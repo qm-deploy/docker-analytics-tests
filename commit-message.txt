@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/haveImages#2c4a6837e7dfb22afd26866ca3ca18e85548efa2
+Laravel#feature/haveImages#2c4a6837e7dfb22afd26866ca3ca18e85548efa2
