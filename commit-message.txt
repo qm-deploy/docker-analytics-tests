@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/global-variables#54231d2c13a636847d8567c11a9dc57d1ee0b022
+MeasurementsReminders#feature/global-variables#54231d2c13a636847d8567c11a9dc57d1ee0b022
