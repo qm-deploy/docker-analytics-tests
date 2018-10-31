@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/QMWP#4b46ea389fec59b427cf76a3ff51f8a1048fca23
+Laravel#feature/QMWP#4b46ea389fec59b427cf76a3ff51f8a1048fca23
