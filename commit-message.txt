@@ -1,1 +1,1 @@
-ModelConnectors#feature/LineHighchartConfig#e94d44a0e6771114ffa2cb0521e962e4193d83e8
+AnalyticsTasks#feature/LineHighchartConfig#e94d44a0e6771114ffa2cb0521e962e4193d83e8
