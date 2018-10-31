@@ -1,1 +1,1 @@
-Laravel#feature/LineHighchartConfig#a8bb044ff79aed49dd2804ab79cf24c14919aa00
+ModelConnectors#feature/LineHighchartConfig#e94d44a0e6771114ffa2cb0521e962e4193d83e8
