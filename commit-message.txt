@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/predictor-category#e0f47ba8cc84d958664edc316f9efc491abb782c
+MeasurementsReminders#feature/predictor-category#e0f47ba8cc84d958664edc316f9efc491abb782c
