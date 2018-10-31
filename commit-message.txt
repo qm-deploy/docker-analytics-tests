@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/LineHighchartConfig#a8bb044ff79aed49dd2804ab79cf24c14919aa00
+AppSettingsControllers#feature/LineHighchartConfig#a8bb044ff79aed49dd2804ab79cf24c14919aa00
