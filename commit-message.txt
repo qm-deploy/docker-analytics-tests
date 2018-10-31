@@ -1,1 +1,1 @@
-Laravel#feature/isRating#0a57c0fa91b1fc151d2a1aeb90072a009dc24010
+ModelConnectors#feature/wp-api#cf0ed57e46dc6689c8528935bedc455afa07a6b6
