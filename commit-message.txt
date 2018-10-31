@@ -1,1 +1,1 @@
-Laravel#feature/includePublic#3bc1f8dd2963ca0dfa41dc56835c19ccb443cf8b
+ModelConnectors#feature/isRating#8a06115d699c29dcce402352e1885652a7541a23
