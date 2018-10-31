@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/LineHighchartConfig#a8bb044ff79aed49dd2804ab79cf24c14919aa00
+Laravel#feature/LineHighchartConfig#a8bb044ff79aed49dd2804ab79cf24c14919aa00
