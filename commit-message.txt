@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/isRating#797c2b710f9a2b50004d50e73721e92a44bf1653
+AppSettingsControllers#feature/isRating#797c2b710f9a2b50004d50e73721e92a44bf1653
