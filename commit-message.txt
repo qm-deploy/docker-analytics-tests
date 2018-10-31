@@ -1,1 +1,1 @@
-Laravel#feature/isRating#8a06115d699c29dcce402352e1885652a7541a23
+ModelConnectors#feature/QMWP#bb0806d4da012735016737e29ad62d15788f22a3
