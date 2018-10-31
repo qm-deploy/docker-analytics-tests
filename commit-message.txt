@@ -1,1 +1,1 @@
-ModelConnectors#feature/wp-api#2baa86ff0825236005c77c7f4893efe0bb6875ff
+AnalyticsTasks#feature/wp-api#2baa86ff0825236005c77c7f4893efe0bb6875ff
