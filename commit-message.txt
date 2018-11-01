@@ -1,1 +1,1 @@
-ModelConnectors#feature/getDbFieldNameForProperty#8d6a653e32552acd5a900e308adf6438ce6238f5
+AnalyticsTasks#feature/getDbFieldNameForProperty#8d6a653e32552acd5a900e308adf6438ce6238f5
