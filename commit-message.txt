@@ -1,1 +1,1 @@
-Laravel#feature/WpUser#de90f598857d466a18ad55629e8c6d82eff76135
+ModelConnectors#feature/WpUser#39112f90948aa01b5492b4662140e56733465c08
