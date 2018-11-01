@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/code-generator#d30b688255cc7be352fa52baa916d6b8ea1f1999
+AppSettingsControllers#feature/code-generator#d30b688255cc7be352fa52baa916d6b8ea1f1999
