@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/getDbFieldNameForProperty#11e1431256b6bfebdfcce621a54cc2e9a1b73f10
+MeasurementsReminders#feature/getDbFieldNameForProperty#11e1431256b6bfebdfcce621a54cc2e9a1b73f10
