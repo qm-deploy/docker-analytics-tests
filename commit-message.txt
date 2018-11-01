@@ -1,1 +1,1 @@
-Laravel#feature/reminders#fef2f42e568e2aac81483086f934de90ccb78761
+ModelConnectors#feature/PostRatingReminderTest#1c358ea55e2ff077580349c1bc4b4d4398cb2436
