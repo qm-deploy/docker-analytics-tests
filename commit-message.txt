@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/unit-max#b99651d03e62d2ee18e2f7420ca46c1da9141da6
+Laravel#feature/unit-max#b99651d03e62d2ee18e2f7420ca46c1da9141da6
