@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getDbFieldNameForProperty#08a68ae1eebb14e35eca8d4769a2b1d1a318df82
+Laravel#feature/getDbFieldNameForProperty#08a68ae1eebb14e35eca8d4769a2b1d1a318df82
