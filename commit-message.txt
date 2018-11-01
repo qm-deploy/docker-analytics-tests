@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getDbFieldNameForProperty#067bcaaead9e7ddae800e1bdab02f3f34805f801
+AppSettingsControllers#feature/getDbFieldNameForProperty#067bcaaead9e7ddae800e1bdab02f3f34805f801
