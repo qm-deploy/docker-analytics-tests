@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/get#f8f8380f7c105fe25cfa4cc2d365b5e65fc27182
+Laravel#feature/get#f8f8380f7c105fe25cfa4cc2d365b5e65fc27182
