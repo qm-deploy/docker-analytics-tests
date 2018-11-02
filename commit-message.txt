@@ -1,1 +1,1 @@
-ModelConnectors#feature/chart-generation#d81e86904fa203b855651ee90242b3e5190f0e5b
+AnalyticsTasks#feature/chart-generation#d81e86904fa203b855651ee90242b3e5190f0e5b
