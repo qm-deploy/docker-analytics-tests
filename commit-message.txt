@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/study-join#22134ec0e7934c04d540fa26092a4c301ebddde0
+AppSettingsControllers#feature/study-join#22134ec0e7934c04d540fa26092a4c301ebddde0
