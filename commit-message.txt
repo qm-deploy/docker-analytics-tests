@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/study-join#d412943ecc8fe7e1f4ffe12d999225a02164803a
+Laravel#feature/study-join#d412943ecc8fe7e1f4ffe12d999225a02164803a
