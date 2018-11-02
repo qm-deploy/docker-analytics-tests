@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/chart-generation#e18b7ba537df501e87d8cc07169c01618a88cbcd
+Laravel#feature/chart-generation#e18b7ba537df501e87d8cc07169c01618a88cbcd
