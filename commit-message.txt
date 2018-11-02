@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/allMeasurementsAreSet#0667acb7dcd9bc8a6f2fad0141ea05f3826df0a5
+AppSettingsControllers#feature/allMeasurementsAreSet#0667acb7dcd9bc8a6f2fad0141ea05f3826df0a5
