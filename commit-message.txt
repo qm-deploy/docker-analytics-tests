@@ -1,1 +1,1 @@
-Laravel#feature/chart-generation#d81e86904fa203b855651ee90242b3e5190f0e5b
+ModelConnectors#feature/chart-generation#4693650221c913800380ecca22d24196f84f3e99
