@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/instantiate-if-necessary#9461bbaadb93ae6086390efff594efe9d0e45632
+Laravel#feature/instantiate-if-necessary#9461bbaadb93ae6086390efff594efe9d0e45632
