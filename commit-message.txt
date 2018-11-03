@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/indexedByNameOrId#a9f856ea0ad23b250b187b2cc917fe52a8dc28cf
+Laravel#feature/indexedByNameOrId#a9f856ea0ad23b250b187b2cc917fe52a8dc28cf
