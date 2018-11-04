@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/GetCommonVariablesRequest#ea4e8badfad7b0f952546c9a2cca4420a832dd42
+AppSettingsControllers#feature/GetCommonVariablesRequest#ea4e8badfad7b0f952546c9a2cca4420a832dd42
