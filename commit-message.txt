@@ -1,1 +1,1 @@
-ModelConnectors#feature/GetCommonVariablesRequest#cfdd5be9fa944d8282006ebd02d53dacfdad00dc
+AnalyticsTasks#feature/GetCommonVariablesRequest#cfdd5be9fa944d8282006ebd02d53dacfdad00dc
