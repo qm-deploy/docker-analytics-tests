@@ -1,1 +1,1 @@
-Laravel#feature/qm-variable#cdce6e78a35ebc9dabdfc7b088c90fab3b9d776a
+ModelConnectors#feature/qm-variable#1f680b9c0260146c3be96b59e5b2b5a11ab8c4b9
