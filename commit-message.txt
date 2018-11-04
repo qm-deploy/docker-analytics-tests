@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/qm-connection#24d4a9d8add2cb28af22c7c9aa06e3bf0af0ffe3
+Laravel#feature/qm-connection#24d4a9d8add2cb28af22c7c9aa06e3bf0af0ffe3
