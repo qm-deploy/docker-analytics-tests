@@ -1,1 +1,1 @@
-ModelConnectors#feature/qm-connection#574b89ebf3b2581394f3158c69e24a8aa3efcef1
+AnalyticsTasks#feature/qm-connection#574b89ebf3b2581394f3158c69e24a8aa3efcef1
