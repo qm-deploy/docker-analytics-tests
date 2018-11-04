@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/qm-variable#db50648b9453215ffcf6e136429a0058a3ba9eef
+Laravel#feature/qm-variable#db50648b9453215ffcf6e136429a0058a3ba9eef
