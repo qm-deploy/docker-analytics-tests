@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/qm-variable#cdce6e78a35ebc9dabdfc7b088c90fab3b9d776a
+AppSettingsControllers#feature/qm-variable#cdce6e78a35ebc9dabdfc7b088c90fab3b9d776a
