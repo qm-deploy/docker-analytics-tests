@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/intro-settings#2d2229a5fcf35f3eedb6c78f0dfc9956a80093a8
+Laravel#feature/intro-settings#2d2229a5fcf35f3eedb6c78f0dfc9956a80093a8
