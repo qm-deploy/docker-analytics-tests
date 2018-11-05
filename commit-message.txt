@@ -1,1 +1,1 @@
-Laravel#feature/analyze#0d8084ff2627ce07dc068d9e0ab54e00705e54b2
+ModelConnectors#feature/getLastAnalysisAt#58b27bfdf614ac2c8e9b7346e170548fb2c4e7a4
