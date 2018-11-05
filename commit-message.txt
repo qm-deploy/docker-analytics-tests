@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/charts#20f67da553852d1f2cdef37fc58b037fb4cad3c5
+AppSettingsControllers#feature/charts#20f67da553852d1f2cdef37fc58b037fb4cad3c5
