@@ -1,1 +1,1 @@
-ModelConnectors#feature/process-menu-items#97eadcece798b57cb4fc8abec7205a133c8da694
+AnalyticsTasks#feature/process-menu-items#97eadcece798b57cb4fc8abec7205a133c8da694
