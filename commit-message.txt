@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/analyzeIfNotApiRequest#bef4e72957df153e517e05f75823b02817dd0d8c
+AppSettingsControllers#feature/analyzeIfNotApiRequest#bef4e72957df153e517e05f75823b02817dd0d8c
