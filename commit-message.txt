@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/logging#e86ec3def0610dd107577e2c47d247adecb17de6
+Laravel#feature/logging#e86ec3def0610dd107577e2c47d247adecb17de6
