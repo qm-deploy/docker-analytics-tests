@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/cacheToMongoDb#0d0d12d388a008ac7c464470c4ee2a55163fa634
+MeasurementsReminders#feature/cacheToMongoDb#0d0d12d388a008ac7c464470c4ee2a55163fa634
