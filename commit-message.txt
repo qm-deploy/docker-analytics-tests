@@ -1,1 +1,1 @@
-ModelConnectors#feature/getLatestTaggedMeasurementTime#0f3ff2efeea887a0eaa9ec6d37e30aeabfa5c38f
+AnalyticsTasks#feature/getLatestTaggedMeasurementTime#0f3ff2efeea887a0eaa9ec6d37e30aeabfa5c38f
