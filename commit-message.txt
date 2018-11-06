@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getEffectName#cef3af44692e0679e23870b411c923847de68946
+AppSettingsControllers#feature/getEffectName#cef3af44692e0679e23870b411c923847de68946
