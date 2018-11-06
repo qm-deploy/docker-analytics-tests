@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/sortingScore#691d283a3ee674c8faffa784040d9042476ffdf8
+MeasurementsReminders#feature/sortingScore#691d283a3ee674c8faffa784040d9042476ffdf8
