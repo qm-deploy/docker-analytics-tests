@@ -1,1 +1,1 @@
-Laravel#feature/setSortingScore#c6f40675bb816bf0e88433364d5f16d13006968b
+ModelConnectors#feature/setSortingScore#04e3a6a3f53a2de57e0fc1281777d70c0ae46174
