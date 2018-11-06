@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/setSortingScore#c6f40675bb816bf0e88433364d5f16d13006968b
+Laravel#feature/setSortingScore#c6f40675bb816bf0e88433364d5f16d13006968b
