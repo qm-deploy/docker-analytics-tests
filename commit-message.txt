@@ -1,1 +1,1 @@
-ModelConnectors#feature/cacheToMongoDb#780b7870bc379ece1f53dc0577a3ed29a56bb960
+AnalyticsTasks#feature/cacheToMongoDb#780b7870bc379ece1f53dc0577a3ed29a56bb960
