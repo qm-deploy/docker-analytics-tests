@@ -1,1 +1,1 @@
-ModelConnectors#feature/cache-aggregated#d0db61b9fdce6236e2510195af5e892466a6aeb6
+AnalyticsTasks#feature/cache-aggregated#d0db61b9fdce6236e2510195af5e892466a6aeb6
