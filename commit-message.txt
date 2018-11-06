@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/cache-aggregated#d0db61b9fdce6236e2510195af5e892466a6aeb6
+Laravel#feature/cache-aggregated#d0db61b9fdce6236e2510195af5e892466a6aeb6
