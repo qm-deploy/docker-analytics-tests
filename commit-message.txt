@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/analyzeIfNotApiRequest#0a987470611d37bb0ca123c0cfa77b7e8553a8b0
+Laravel#feature/analyzeIfNotApiRequest#0a987470611d37bb0ca123c0cfa77b7e8553a8b0
