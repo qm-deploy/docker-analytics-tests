@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getLatestTaggedMeasurementTime#00b8273c1b8bb787a4ab77e9080ac898a4814cd7
+Laravel#feature/getLatestTaggedMeasurementTime#00b8273c1b8bb787a4ab77e9080ac898a4814cd7
