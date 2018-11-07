@@ -1,1 +1,1 @@
-Laravel#feature/getLatestTaggedMeasurementTime#deb557f28c546f9c6e86aa0919cd2c92a3a37dd6
+ModelConnectors#feature/getLatestTaggedMeasurementTime#55266fe123442d1bc5d86ad09883c09554383f58
