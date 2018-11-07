@@ -1,1 +1,1 @@
-ModelConnectors#feature/getCharts#9400cd3f982a5425bdcd443f9846beef17b83f0c
+AnalyticsTasks#feature/getCharts#9400cd3f982a5425bdcd443f9846beef17b83f0c
