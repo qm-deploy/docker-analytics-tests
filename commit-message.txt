@@ -1,1 +1,1 @@
-ModelConnectors#feature/cache-user-studies#a0c289101a8789899a4703b81c1dd828775fec45
+AnalyticsTasks#feature/cache-user-studies#a0c289101a8789899a4703b81c1dd828775fec45
