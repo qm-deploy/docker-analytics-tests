@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/daily-grouping#cd7c6a974ea47684d701e62ed4b8d37fb3c8aaf8
+Laravel#feature/daily-grouping#cd7c6a974ea47684d701e62ed4b8d37fb3c8aaf8
