@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/MyFitnessPalConnector#ddc14ab963165cd3c57d1d851638249d80dacc37
+Laravel#feature/MyFitnessPalConnector#ddc14ab963165cd3c57d1d851638249d80dacc37
