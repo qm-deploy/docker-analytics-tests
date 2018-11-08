@@ -1,1 +1,1 @@
-ModelConnectors#feature/MyFitnessPalConnector#82d7531f0b5c467f5e3ec8f37550a1c4f95bf3b0
+AnalyticsTasks#feature/MyFitnessPalConnector#82d7531f0b5c467f5e3ec8f37550a1c4f95bf3b0
