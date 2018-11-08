@@ -1,1 +1,1 @@
-Laravel#feature/daily-grouping#cd7c6a974ea47684d701e62ed4b8d37fb3c8aaf8
+ModelConnectors#feature/daily-grouping#c0e62eb2f60718ad71aef212393f9adf1c650378
