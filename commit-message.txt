@@ -1,1 +1,1 @@
-Laravel#feature/pusher#3be8c846dd0d7ffabf1ee9537facca9ebc666d91
+ModelConnectors#feature/MyFitnessPalConnector#54b4003054ee254f7204769614aea8aecc9ae099
