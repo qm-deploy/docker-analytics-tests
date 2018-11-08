@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/MyFitnessPalConnector#ddc14ab963165cd3c57d1d851638249d80dacc37
+MeasurementsReminders#feature/MyFitnessPalConnector#ddc14ab963165cd3c57d1d851638249d80dacc37
