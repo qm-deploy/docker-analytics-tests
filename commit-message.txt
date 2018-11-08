@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/MyFitnessPalConnector#1369a6384124f3535668fef3eb86a5c8d411eabe
+AppSettingsControllers#feature/MyFitnessPalConnector#1369a6384124f3535668fef3eb86a5c8d411eabe
