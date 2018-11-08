@@ -1,1 +1,1 @@
-Laravel#feature/MyFitnessPalConnector#407ba5bd90d633b25e2551a1de355b2f1aac0f26
+ModelConnectors#feature/logErrorIfWeShouldNotBeCreatingReminder#f54e85e456d47d4a5fb521d35eb15013dd156fb1
