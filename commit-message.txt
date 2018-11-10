@@ -1,1 +1,1 @@
-Laravel#feature/setUpdatedAtInDbRowAndCheckForDuplicateUpdate#7322b17bb72416558f88c69558c1e8780fc928e5
+ModelConnectors#feature/QMTestCase#456e3f2ef659f88ec0f3cf05666dbbef50d68cf4
