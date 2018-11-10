@@ -1,1 +1,1 @@
-Laravel#feature/QMUser#fe1c5d9e4ae48e51a3f4e2989b4c61926dff547e
+ModelConnectors#feature/getFromDbInstantiateAndSaveResult#d03bcf4b540a2a075a3d30b32f0a85aa7bbee49f
