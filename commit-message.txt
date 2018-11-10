@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/QMTestCase#ea7798715d3ee10f4f40159048d3e4d933de0e11
+MeasurementsReminders#feature/QMTestCase#ea7798715d3ee10f4f40159048d3e4d933de0e11
