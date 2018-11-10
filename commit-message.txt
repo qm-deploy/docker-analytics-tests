@@ -1,1 +1,1 @@
-Laravel#feature/QMGlobals#5784a204701f1131b5dc10cb9b76a67e0e990ce7
+ModelConnectors#feature/QMTestCase#657f66b8fe55f84b001178df9297673b0fa3c2d9
