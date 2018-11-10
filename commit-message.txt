@@ -1,1 +1,1 @@
-Laravel#feature/UserVariable#8902fa1c863f1a3fd2b31c62150d0dec2f65bfb7
+ModelConnectors#feature/QMUser#711dfb7b348d5d1c9c0d8e34e7ca3fe120eaa052
