@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/QMUser#eec20ea10ede93794900124007f4cb422dd5078a
+Laravel#feature/QMUser#eec20ea10ede93794900124007f4cb422dd5078a
