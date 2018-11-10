@@ -1,1 +1,1 @@
-Laravel#feature/getFromDbInstantiateAndSaveResult#d03bcf4b540a2a075a3d30b32f0a85aa7bbee49f
+ModelConnectors#feature/getMatchingQbWhereClauses#e67fae81c3ea93efd2bfd746b1825ecf10034cc4
