@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/QMGlobals#5784a204701f1131b5dc10cb9b76a67e0e990ce7
+MeasurementsReminders#feature/QMGlobals#5784a204701f1131b5dc10cb9b76a67e0e990ce7
