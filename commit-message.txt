@@ -1,1 +1,1 @@
-Laravel#feature/getUrlParamsForHref#7c5f54330cbe8e2d2e9e27bf14df73eeedb0b95a
+ModelConnectors#feature/isRating#9ae20422aed6ac793c72e3ee73195027ccfde497
