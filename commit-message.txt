@@ -1,1 +1,1 @@
-Laravel#feature/isRating#9ae20422aed6ac793c72e3ee73195027ccfde497
+ModelConnectors#feature/globals#9dca9fdb816976554b58a8674c26e3e0396c96e8
