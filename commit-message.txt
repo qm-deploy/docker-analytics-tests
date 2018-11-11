@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getUrlParamsForHref#7c5f54330cbe8e2d2e9e27bf14df73eeedb0b95a
+AppSettingsControllers#feature/getUrlParamsForHref#7c5f54330cbe8e2d2e9e27bf14df73eeedb0b95a
