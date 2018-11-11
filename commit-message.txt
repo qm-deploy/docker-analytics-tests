@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getFromDbInstantiateAndSaveResult#3c7784e3156dddfa350911a4bbfd7d35c1fa2e35
+Laravel#feature/getFromDbInstantiateAndSaveResult#3c7784e3156dddfa350911a4bbfd7d35c1fa2e35
