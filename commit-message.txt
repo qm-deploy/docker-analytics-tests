@@ -1,1 +1,1 @@
-ModelConnectors#feature/QMTestCase#b0d8960b008244ad45d07abcff054f242b08874b
+AnalyticsTasks#feature/QMTestCase#b0d8960b008244ad45d07abcff054f242b08874b
