@@ -1,1 +1,1 @@
-Laravel#feature/getFromDbInstantiateAndSaveResult#5f040cd297b05e6a2687a96da0c80d8da2ced6e4
+ModelConnectors#feature/getFromDbInstantiateAndSaveResult#3153cf3b49ec2ae6e371aa7d6259d07304cd29d6
