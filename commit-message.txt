@@ -1,1 +1,1 @@
-ModelConnectors#feature/getUrlParamsForHref#b062366a3fd806ce694977a827096eb23f7c393e
+AnalyticsTasks#feature/getUrlParamsForHref#b062366a3fd806ce694977a827096eb23f7c393e
