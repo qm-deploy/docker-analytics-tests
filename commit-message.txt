@@ -1,1 +1,1 @@
-ModelConnectors#feature/getFromDbInstantiateAndSaveResult#3153cf3b49ec2ae6e371aa7d6259d07304cd29d6
+AnalyticsTasks#feature/getFromDbInstantiateAndSaveResult#3153cf3b49ec2ae6e371aa7d6259d07304cd29d6
