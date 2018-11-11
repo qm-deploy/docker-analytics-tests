@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/QMTestCase#69e031340d9ed4d3c091b2f51cec75a6e2289c9d
+Laravel#feature/QMTestCase#69e031340d9ed4d3c091b2f51cec75a6e2289c9d
