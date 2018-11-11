@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/db-logs#fe71d5bd20830f5e3315e5f12eab055b02bcaba3
+Laravel#feature/db-logs#fe71d5bd20830f5e3315e5f12eab055b02bcaba3
