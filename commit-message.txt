@@ -1,1 +1,1 @@
-Laravel#feature/getFromDbInstantiateAndSaveResult#7d7f1640b5f089318ee8aaf32fe22d1770f9cc5e
+ModelConnectors#feature/QMTestCase#b0d8960b008244ad45d07abcff054f242b08874b
