@@ -1,1 +1,1 @@
-Laravel#feature/getMatchingQbWhereClauses#385fb011c624beb1540d306d7e75f660774f306e
+ModelConnectors#feature/getMatchingQbWhereClauses#821b64c1de61ecc554d2762e5116c947ea9f9513
