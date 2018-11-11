@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getMatchingQbWhereClauses#e7d3e0f2d3c5046e0b773a0d3846d9a44851746a
+Laravel#feature/getMatchingQbWhereClauses#e7d3e0f2d3c5046e0b773a0d3846d9a44851746a
