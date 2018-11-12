@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/DBModel#1cb5b247963c06e1b126bf1a7152bfaa00874f1f
+Laravel#feature/DBModel#1cb5b247963c06e1b126bf1a7152bfaa00874f1f
