@@ -1,1 +1,1 @@
-Laravel#feature/validate-values#bf98ef5103c9c2355d2ac27f51bde0a2c26dd4c7
+ModelConnectors#feature/StringHelper#56a4c6f02637e261af466aaa39f7765e668df11c
