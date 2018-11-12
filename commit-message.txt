@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/validate-values#bf98ef5103c9c2355d2ac27f51bde0a2c26dd4c7
+Laravel#feature/validate-values#bf98ef5103c9c2355d2ac27f51bde0a2c26dd4c7
