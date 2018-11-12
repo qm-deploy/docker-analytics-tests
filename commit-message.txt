@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/settings-menu-item#380e31af26d6c525d99ec77191824fa40123af1d
+MeasurementsReminders#feature/settings-menu-item#380e31af26d6c525d99ec77191824fa40123af1d
