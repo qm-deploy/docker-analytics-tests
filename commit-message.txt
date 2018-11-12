@@ -1,1 +1,1 @@
-Laravel#feature/convertSecondsToHumanString#432d99ea3a41abae72874ceb186ac5e8439972b1
+ModelConnectors#feature/QMGlobals#781fb26e3cae03cd9f24f5124fe9951f22ea7b54
