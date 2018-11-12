@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/convertSecondsToHumanString#ecbd0d45f8ce47fde892c30259e01a7b57645f16
+AppSettingsControllers#feature/convertSecondsToHumanString#ecbd0d45f8ce47fde892c30259e01a7b57645f16
