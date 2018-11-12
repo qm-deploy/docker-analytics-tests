@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/from-mongo#7cf9608e305e565fb7519a3d76736b5ace97ffcd
+Laravel#feature/from-mongo#7cf9608e305e565fb7519a3d76736b5ace97ffcd
