@@ -1,1 +1,1 @@
-ModelConnectors#feature/QMGlobals#781fb26e3cae03cd9f24f5124fe9951f22ea7b54
+AnalyticsTasks#feature/QMGlobals#781fb26e3cae03cd9f24f5124fe9951f22ea7b54
