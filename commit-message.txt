@@ -1,1 +1,1 @@
-Laravel#feature/StringHelper#56a4c6f02637e261af466aaa39f7765e668df11c
+ModelConnectors#feature/DBModel#1cb5b247963c06e1b126bf1a7152bfaa00874f1f
