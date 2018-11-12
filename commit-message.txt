@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/globals#02d790b0f01b16dfc4bc229809f45804eeadf41a
+Laravel#feature/globals#02d790b0f01b16dfc4bc229809f45804eeadf41a
