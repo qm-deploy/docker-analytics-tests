@@ -1,1 +1,1 @@
-ModelConnectors#feature/convertSecondsToHumanString#432d99ea3a41abae72874ceb186ac5e8439972b1
+AnalyticsTasks#feature/convertSecondsToHumanString#432d99ea3a41abae72874ceb186ac5e8439972b1
