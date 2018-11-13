@@ -1,1 +1,1 @@
-Laravel#feature/menu-fixes#616b899d6e63eec287764496a9a605f3238c21aa
+ModelConnectors#feature/getDebugUrl#0fc7f9c4f97074306be7edfe317addd1e8b1fc7e
