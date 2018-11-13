@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getDebugUrl#0fc7f9c4f97074306be7edfe317addd1e8b1fc7e
+Laravel#feature/getDebugUrl#0fc7f9c4f97074306be7edfe317addd1e8b1fc7e
