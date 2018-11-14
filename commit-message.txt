@@ -1,1 +1,1 @@
-ModelConnectors#feature/crypto#a21c503313e30cb76d896b8922e97787d8e762b3
+AnalyticsTasks#feature/crypto#a21c503313e30cb76d896b8922e97787d8e762b3
