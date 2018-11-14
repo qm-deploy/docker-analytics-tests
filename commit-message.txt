@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/addQueryParamAndRequestParamsToUrl#80bc790ea4298564dfa6fb614bcb1488a4ac298c
+Laravel#feature/addQueryParamAndRequestParamsToUrl#80bc790ea4298564dfa6fb614bcb1488a4ac298c
