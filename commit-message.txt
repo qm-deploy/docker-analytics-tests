@@ -1,1 +1,1 @@
-ModelConnectors#feature/last-analysis#d028ca99b4f249719de4ec64bf3a2b7f13628284
+AnalyticsTasks#feature/last-analysis#d028ca99b4f249719de4ec64bf3a2b7f13628284
