@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/last-analysis#900e9c9b111789a1981cfb8fab09eff766353c56
+Laravel#feature/last-analysis#900e9c9b111789a1981cfb8fab09eff766353c56
