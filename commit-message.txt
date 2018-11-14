@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/newUserVariableDbInsertionArray#db2d03a4212625597704293407a570779ce65195
+Laravel#feature/newUserVariableDbInsertionArray#db2d03a4212625597704293407a570779ce65195
