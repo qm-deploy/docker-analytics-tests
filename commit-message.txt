@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/isSecretWord#44a49f264c7285a9fd47c2389dfd91134def2014
+Laravel#feature/isSecretWord#44a49f264c7285a9fd47c2389dfd91134def2014
