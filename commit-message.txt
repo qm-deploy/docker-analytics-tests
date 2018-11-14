@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/QMApplication#0b48150490b931fda5bc9ad3545a655bba256d0e
+Laravel#feature/QMApplication#0b48150490b931fda5bc9ad3545a655bba256d0e
