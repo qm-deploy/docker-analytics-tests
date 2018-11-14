@@ -1,1 +1,1 @@
-Laravel#feature/isSecretWord#90a61cbab29a9717cc14f74bbfe0fc5d0cc84de9
+ModelConnectors#feature/last-analysis#900e9c9b111789a1981cfb8fab09eff766353c56
