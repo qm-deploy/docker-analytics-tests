@@ -1,1 +1,1 @@
-ModelConnectors#feature/newUserVariableDbInsertionArray#a34f49a55c5038e71099639489f65de8848723bb
+AnalyticsTasks#feature/newUserVariableDbInsertionArray#a34f49a55c5038e71099639489f65de8848723bb
