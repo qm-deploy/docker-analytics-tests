@@ -1,1 +1,1 @@
-ModelConnectors#feature/isSecretWord#a8ce844ff6bfede42198b29a7d7bcec45ef06521
+AnalyticsTasks#feature/isSecretWord#a8ce844ff6bfede42198b29a7d7bcec45ef06521
