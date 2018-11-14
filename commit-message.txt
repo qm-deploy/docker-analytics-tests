@@ -1,1 +1,1 @@
-ModelConnectors#feature/PRODUCTION_TESTS_PATH#fb85511b4cff6915653dcba2f2ff8ef98e42014f
+AnalyticsTasks#feature/PRODUCTION_TESTS_PATH#fb85511b4cff6915653dcba2f2ff8ef98e42014f
