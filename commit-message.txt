@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/QMQueryBuilder#0e1e2f0be19fd6957c82b8263ee070f61703020f
+AppSettingsControllers#feature/QMQueryBuilder#0e1e2f0be19fd6957c82b8263ee070f61703020f
