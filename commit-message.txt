@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/QMQueryBuilder#ab6f3351577c07f490fadf8d23bc2ebff12b4fe7
+Laravel#feature/QMQueryBuilder#ab6f3351577c07f490fadf8d23bc2ebff12b4fe7
