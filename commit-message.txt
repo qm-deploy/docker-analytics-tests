@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/PRODUCTION_TESTS_PATH#549bc819d8d527416bffa8eda2325bdaec95f857
+AppSettingsControllers#feature/PRODUCTION_TESTS_PATH#549bc819d8d527416bffa8eda2325bdaec95f857
