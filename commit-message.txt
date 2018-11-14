@@ -1,1 +1,1 @@
-Laravel#feature/QMRefreshToken#705504a691bede2299d203e5bac4e862aedad961
+ModelConnectors#feature/QMApplication#0b48150490b931fda5bc9ad3545a655bba256d0e
