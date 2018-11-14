@@ -1,1 +1,1 @@
-Laravel#feature/Measurement#ec1c685c4ab4407f83a733a49ff055e0310e788a
+ModelConnectors#feature/QMQueryBuilder#0e1e2f0be19fd6957c82b8263ee070f61703020f
