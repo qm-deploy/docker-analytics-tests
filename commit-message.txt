@@ -1,1 +1,1 @@
-Laravel#feature/QMQueryBuilder#7ad9129c9ee3d4dd6f0a673febe6aca8b1fdf3cc
+ModelConnectors#feature/Vote#37de158b8fbd3293bcf4be0815927e5395026d54
