@@ -1,1 +1,1 @@
-Laravel#feature/addQueryParamAndRequestParamsToUrl#80bc790ea4298564dfa6fb614bcb1488a4ac298c
+ModelConnectors#feature/last-analysis#e78fd18b727dd578fee7a468338c1237fe9be8fe
