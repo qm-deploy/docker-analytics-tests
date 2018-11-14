@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/Collaborator#0364e3c6fa127747b956456770ee2d02c24910a7
+Laravel#feature/Collaborator#0364e3c6fa127747b956456770ee2d02c24910a7
