@@ -1,1 +1,1 @@
-ModelConnectors#feature/QMPurchase#5b5c275982cbd9edab2a59a408a9731c4d1cd504
+AnalyticsTasks#feature/QMPurchase#5b5c275982cbd9edab2a59a408a9731c4d1cd504
