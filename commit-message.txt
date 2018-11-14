@@ -1,1 +1,1 @@
-ModelConnectors#feature/QMQueryBuilder#7ad9129c9ee3d4dd6f0a673febe6aca8b1fdf3cc
+AnalyticsTasks#feature/QMQueryBuilder#7ad9129c9ee3d4dd6f0a673febe6aca8b1fdf3cc
