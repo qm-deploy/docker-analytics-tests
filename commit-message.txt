@@ -1,1 +1,1 @@
-Laravel#feature/FIELD_LAST_SUCCESSFUL_UPDATE_TIME#73d9e4ddf7f5efdfc769b307326d550daf58ad96
+ModelConnectors#feature/variableUserSources#3348d0141f7755123484f430526b345b723abed0
