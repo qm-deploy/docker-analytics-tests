@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/recalculate#ed53fa3f9dd81fe2c2d8d664452da4c058f9f74f
+MeasurementsReminders#feature/recalculate#ed53fa3f9dd81fe2c2d8d664452da4c058f9f74f
