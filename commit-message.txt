@@ -1,1 +1,1 @@
-Laravel#feature/recalculate#ed53fa3f9dd81fe2c2d8d664452da4c058f9f74f
+ModelConnectors#feature/logPropertySizes#0447aa019fc6bb9834b4b5c8f214b0313c20bcb8
