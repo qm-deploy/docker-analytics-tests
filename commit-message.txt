@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/recalculate#33e97568b6b6d84596358c3fa3d9468d5ef3e898
+Laravel#feature/recalculate#33e97568b6b6d84596358c3fa3d9468d5ef3e898
