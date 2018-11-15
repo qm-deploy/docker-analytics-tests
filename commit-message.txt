@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/getLatestTaggedMeasurementTime#6750019ff869df62501b6d1ec508a5b4c134f3b3
+MeasurementsReminders#feature/getLatestTaggedMeasurementTime#6750019ff869df62501b6d1ec508a5b4c134f3b3
