@@ -1,1 +1,1 @@
-Laravel#feature/QMQB#00a7a6235d5a5c7c80b043301eabfa61fc04bf1d
+ModelConnectors#feature/cache-qm-scores#d7a14cee552485b0a4bf9849a2fc4e3a551868fd
