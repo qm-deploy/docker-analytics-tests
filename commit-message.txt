@@ -1,1 +1,1 @@
-Laravel#feature/QMQB#b862a807aa0e329981b14a5501b2ce00b3c4bc27
+ModelConnectors#feature/QMQB#cf8c75289635001f57d44f234f728465f4001b2f
