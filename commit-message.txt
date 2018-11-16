@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/cache-qm-scores#581c38c1014405016a3ece7c7f07c4bde58a0f9d
+AppSettingsControllers#feature/cache-qm-scores#581c38c1014405016a3ece7c7f07c4bde58a0f9d
