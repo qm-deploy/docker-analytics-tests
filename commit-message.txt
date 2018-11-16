@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/logPropertySizes#cb28a957eda67fa2c7d16d8bc6240e7754a881fc
+Laravel#feature/logPropertySizes#cb28a957eda67fa2c7d16d8bc6240e7754a881fc
