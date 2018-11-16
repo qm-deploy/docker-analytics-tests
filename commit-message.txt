@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/QMQB#cf8c75289635001f57d44f234f728465f4001b2f
+MeasurementsReminders#feature/QMQB#cf8c75289635001f57d44f234f728465f4001b2f
