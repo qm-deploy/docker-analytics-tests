@@ -1,1 +1,1 @@
-Laravel#feature/logPropertySizes#bbafa8d23cabba207ca2b72860a9e01a67a69f3b
+ModelConnectors#feature/QMQB#fce34d9a588e95517e53c373e16338d6a537dc01
