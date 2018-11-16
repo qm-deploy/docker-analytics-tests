@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/QMQB#ad72a08ef2d95ad1721438eb893376b40952e57a
+Laravel#feature/QMQB#ad72a08ef2d95ad1721438eb893376b40952e57a
