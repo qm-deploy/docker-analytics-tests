@@ -1,1 +1,1 @@
-ModelConnectors#feature/logPropertySizes#bbafa8d23cabba207ca2b72860a9e01a67a69f3b
+AnalyticsTasks#feature/logPropertySizes#bbafa8d23cabba207ca2b72860a9e01a67a69f3b
