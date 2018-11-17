@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/delete-stupid-tags#b5fa1d05b214f6cbee1f508ed3368ad2a89f0b8a
+MeasurementsReminders#feature/delete-stupid-tags#b5fa1d05b214f6cbee1f508ed3368ad2a89f0b8a
