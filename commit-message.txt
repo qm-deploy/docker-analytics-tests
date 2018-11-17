@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/delete-stupid-tags#2937b57a20a66f42986e117c844227b14a6660b3
+Laravel#feature/delete-stupid-tags#2937b57a20a66f42986e117c844227b14a6660b3
