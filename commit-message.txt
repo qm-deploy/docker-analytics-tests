@@ -1,1 +1,1 @@
-ModelConnectors#feature/delete-stupid-tags#57b58d1c9fdbf6a89f07738ac982a398b5ce8d52
+AnalyticsTasks#feature/delete-stupid-tags#57b58d1c9fdbf6a89f07738ac982a398b5ce8d52
