@@ -1,1 +1,1 @@
-Laravel#feature/weather#286ec375ec04f981974961060e42ff38c0bec586
+ModelConnectors#feature/wheres#15e35246289805d5e7f4d593e9de3ad22f2733af
