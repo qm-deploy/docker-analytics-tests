@@ -1,1 +1,1 @@
-Laravel#feature/tagLine#597ace90eed9860d6222b920f1fbcb671ff7dde7
+ModelConnectors#feature/QMQB#022e100f2d0269629b5872e3b201ceee4bb0170f
