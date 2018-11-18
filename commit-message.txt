@@ -1,1 +1,1 @@
-ModelConnectors#feature/bugsnagNotifyException#b9217667050b32e68b06818623a982a79665dfc7
+AnalyticsTasks#feature/bugsnagNotifyException#b9217667050b32e68b06818623a982a79665dfc7
