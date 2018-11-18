@@ -1,1 +1,1 @@
-Laravel#feature/bugsnagNotifyException#b9217667050b32e68b06818623a982a79665dfc7
+ModelConnectors#feature/user-feed#02b0f80ae69ac9658a2efdac8c691da9ee218ed2
