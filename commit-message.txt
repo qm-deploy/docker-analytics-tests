@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/bugsnag#11f496a77164f5f4478cc3b57f2cd5df5e985c48
+Laravel#feature/bugsnag#11f496a77164f5f4478cc3b57f2cd5df5e985c48
