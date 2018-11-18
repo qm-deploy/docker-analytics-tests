@@ -1,1 +1,1 @@
-Laravel#feature/getEarliestMeasurementTime#711959c3e5757daf410f789adb6156f64051caa6
+ModelConnectors#feature/hasReadOnlyDatabaseConnectionString#37bddb56ce5f33dca4127ad206d0036bdae75b85
