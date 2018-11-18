@@ -1,1 +1,1 @@
-Laravel#feature/logVariableSettingsLink#2e94679c0f4e6d58137b65a67d859fb5c8f39717
+ModelConnectors#feature/bugsnagNotifyException#b9217667050b32e68b06818623a982a79665dfc7
