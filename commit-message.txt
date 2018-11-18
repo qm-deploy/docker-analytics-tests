@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/user_study_text#6ea4cf0838a7af4fdfaa948a791c582018780d96
+AppSettingsControllers#feature/user_study_text#6ea4cf0838a7af4fdfaa948a791c582018780d96
