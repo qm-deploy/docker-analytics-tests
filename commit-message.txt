@@ -1,1 +1,1 @@
-ModelConnectors#feature/user_study_text#426bc26f8a6f6d21f89b9d5bd49d8ea134ed05d1
+AnalyticsTasks#feature/user_study_text#426bc26f8a6f6d21f89b9d5bd49d8ea134ed05d1
