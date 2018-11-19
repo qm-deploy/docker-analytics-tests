@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/tests#459b177888e1fe209cce785081de2b2b3c52ebaa
+Laravel#feature/tests#459b177888e1fe209cce785081de2b2b3c52ebaa
