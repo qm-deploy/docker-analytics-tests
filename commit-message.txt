@@ -1,1 +1,1 @@
-Laravel#feature/user-feed#23c0d21c6c930497e970c9ecad9f4de687b08405
+ModelConnectors#feature/measurement-values#f19954ed6477922c4614eface929e4a3f3d3c365
