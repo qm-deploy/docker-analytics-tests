@@ -1,1 +1,1 @@
-ModelConnectors#feature/testCohortStudyCreation#4f8b34d4a2aca4f17bbefa7c37614da1be88121a
+AnalyticsTasks#feature/testCohortStudyCreation#4f8b34d4a2aca4f17bbefa7c37614da1be88121a
