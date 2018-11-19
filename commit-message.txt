@@ -1,1 +1,1 @@
-ModelConnectors#feature/deleteExpired#1df54161ec2b8952b1a0795eaac10d438370872a
+AnalyticsTasks#feature/deleteExpired#1df54161ec2b8952b1a0795eaac10d438370872a
