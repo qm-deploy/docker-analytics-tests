@@ -9,6 +9,13 @@ services:
   - mysql
   - memcached
   - pandoc
+addons:
+  apt:
+    sources:
+    - mysql-5.7-trusty
+    packages:
+    - mysql-server
+    - mysql-client
 before_cache:
   # Save tagged docker images
   - >
@@ -24,6 +31,9 @@ env:
     #- HUGO_VERSION=0.20.2 # Maybe use this for documentation at some point
     - PHP_VERSION=7.1 BUILD_SERVICE="msyql workspace mongo"
 before_install:
+  - sudo mysql -e "use mysql; update user set authentication_string=PASSWORD('') where User='root'; update user set plugin='mysql_native_password';FLUSH PRIVILEGES;"
+  - sudo mysql_upgrade -u root
+  - sudo service mysql restart
   - mysql -e 'CREATE DATABASE quantimodo_test;'
   - sudo apt-get update
   - sudo apt-get -y install pandoc
