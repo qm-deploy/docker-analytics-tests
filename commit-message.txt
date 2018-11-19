@@ -1,1 +1,1 @@
-ModelConnectors#feature/user-feed#50f314d3c38d9a120df14cdfb173ca3ed3b9eb97
+AnalyticsTasks#feature/user-feed#50f314d3c38d9a120df14cdfb173ca3ed3b9eb97
