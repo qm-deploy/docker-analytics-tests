@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/sendPredictorEmail#5def78ebc458db4cfcb77d6586446492e86e3640
+AppSettingsControllers#feature/sendPredictorEmail#5def78ebc458db4cfcb77d6586446492e86e3640
