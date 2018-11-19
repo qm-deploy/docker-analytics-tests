@@ -1,1 +1,1 @@
-Laravel#feature/sendPredictorEmail#5def78ebc458db4cfcb77d6586446492e86e3640
+ModelConnectors#feature/sendPredictorEmail#6c67f62e68aa534aa435b96ce89a4b413a5f0000
