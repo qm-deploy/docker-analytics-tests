@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/setAllValidAccessTokens#c97b2508f801ffb089fd20fa1bbda01b9b00bbc1
+AppSettingsControllers#feature/setAllValidAccessTokens#c97b2508f801ffb089fd20fa1bbda01b9b00bbc1
