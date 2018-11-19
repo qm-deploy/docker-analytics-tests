@@ -1,1 +1,1 @@
-Laravel#feature/user-feed#f678de4074d9a589f96fcd233cb9328f4418ac67
+ModelConnectors#feature/user-feed#7ddbb145ce680b5ef20ed3fcdd200618b54ab320
