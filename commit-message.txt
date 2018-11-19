@@ -1,1 +1,1 @@
-ModelConnectors#feature/sendPredictorEmail#2dc67fb3e052a065496c13758bb4c7d773133af1
+AnalyticsTasks#feature/sendPredictorEmail#2dc67fb3e052a065496c13758bb4c7d773133af1
