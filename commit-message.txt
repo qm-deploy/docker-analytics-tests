@@ -1,1 +1,1 @@
-Laravel#feature/sendPredictorEmail#2dc67fb3e052a065496c13758bb4c7d773133af1
+ModelConnectors#feature/getQMDockerBranchName#42d371cf35ef43d9a0d11cedfeaccbb6be1ba79f
