@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/sendPredictorEmail#fd6821ef94263a5646dc27053e74ed2fa337ea09
+MeasurementsReminders#feature/sendPredictorEmail#fd6821ef94263a5646dc27053e74ed2fa337ea09
