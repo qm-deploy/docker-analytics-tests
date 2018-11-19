@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/YmdHis#7517d112d760e592b355f59d35aaff7f87b7f4ad
+Laravel#feature/YmdHis#7517d112d760e592b355f59d35aaff7f87b7f4ad
