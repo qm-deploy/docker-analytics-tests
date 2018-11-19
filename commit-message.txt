@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/testCohortStudyCreation#212eaa960c3dc5eaf5adf87d192ba07a81b3f1eb
+AppSettingsControllers#feature/testCohortStudyCreation#212eaa960c3dc5eaf5adf87d192ba07a81b3f1eb
