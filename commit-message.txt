@@ -1,1 +1,1 @@
-ModelConnectors#feature/logging#0bfab9f2d9463937a3553ab6e2f3e96d1937431c
+AnalyticsTasks#feature/logging#0bfab9f2d9463937a3553ab6e2f3e96d1937431c
