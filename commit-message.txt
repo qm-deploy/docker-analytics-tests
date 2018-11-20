@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/empty-exceptions#ef1ca8b170c2fae49a1439dd68f2f330d72822a0
+Laravel#feature/empty-exceptions#ef1ca8b170c2fae49a1439dd68f2f330d72822a0
