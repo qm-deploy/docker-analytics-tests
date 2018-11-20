@@ -1,1 +1,1 @@
-Laravel#feature/logging#ab73bdcef847964987e60e202e4134673a40ff81
+ModelConnectors#feature/logging#e039169c7d81483328317d260b03ef014a273df7
