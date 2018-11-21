@@ -1,1 +1,1 @@
-AnalyticsTasks#feature/study-join#b20bad721850c2e772dd319b5e4faad837e0a65e
+MeasurementsReminders#feature/study-join#b20bad721850c2e772dd319b5e4faad837e0a65e
