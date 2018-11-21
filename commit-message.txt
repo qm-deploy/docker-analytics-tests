@@ -1,1 +1,1 @@
-Laravel#feature/study-join#b20bad721850c2e772dd319b5e4faad837e0a65e
+ModelConnectors#feature/getPropertySizesMessage#f358bf0d0264a5bba7fb315efa25c819302e9702
