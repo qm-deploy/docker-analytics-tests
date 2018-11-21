@@ -1,1 +1,1 @@
-Laravel#feature/empty-exceptions#e04b49203271efd37e66344465c95b638f4e9fca
+ModelConnectors#feature/getPropertySizesMessage#9336ae125e9edb52191349e6d94520e619a808f3
