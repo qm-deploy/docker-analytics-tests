@@ -1,1 +1,1 @@
-Laravel#feature/study-join#8f60abe3d8e27f0e6f6005df050ab911fc33a16d
+ModelConnectors#feature/study-join#b20bad721850c2e772dd319b5e4faad837e0a65e
