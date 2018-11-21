@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getPropertySizesMessage#f358bf0d0264a5bba7fb315efa25c819302e9702
+AppSettingsControllers#feature/getPropertySizesMessage#f358bf0d0264a5bba7fb315efa25c819302e9702
