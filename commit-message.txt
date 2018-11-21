@@ -1,1 +1,1 @@
-ModelConnectors#feature/getPropertySizesMessage#9336ae125e9edb52191349e6d94520e619a808f3
+AnalyticsTasks#feature/getPropertySizesMessage#9336ae125e9edb52191349e6d94520e619a808f3
