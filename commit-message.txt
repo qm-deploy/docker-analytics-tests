@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getPropertySizesMessage#2695d61076668e45439831d4c3cd3d24ac734be5
+Laravel#feature/getPropertySizesMessage#2695d61076668e45439831d4c3cd3d24ac734be5
