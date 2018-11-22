@@ -1,1 +1,1 @@
-ModelConnectors#feature/post-tests#7bb7ecc962ce960731dae1bac541a7edb36677af
+AnalyticsTasks#feature/post-tests#7bb7ecc962ce960731dae1bac541a7edb36677af
