@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/logQueriesAndCallers#cf7cc1144be3aa749a286ac89b4167bf63a3962f
+Laravel#feature/logQueriesAndCallers#cf7cc1144be3aa749a286ac89b4167bf63a3962f
