@@ -1,1 +1,1 @@
-Laravel#feature/bugsnagNotifyException#5bf89675cbff805ab12a318eed0a40289b12bf0b
+ModelConnectors#feature/parseAccessTokenResponse#86169061596866b732b6e87615c46498143cce50
