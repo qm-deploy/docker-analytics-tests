@@ -1,1 +1,1 @@
-Laravel#feature/Throwable#60bb36a289bc3b6521b1ba6acd6d284e3d73d75a
+ModelConnectors#feature/bugsnagNotifyException#5bf89675cbff805ab12a318eed0a40289b12bf0b
