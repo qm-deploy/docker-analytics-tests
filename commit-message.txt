@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/StaticAppData-getCommonVariables#1e34df152f9133efcf6fb56784b471c8ce793c7c
+AppSettingsControllers#feature/StaticAppData-getCommonVariables#1e34df152f9133efcf6fb56784b471c8ce793c7c
