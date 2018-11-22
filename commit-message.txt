@@ -1,1 +1,1 @@
-Laravel#feature/Readonly#339aad79fca638b829fb4cb6c1d714dbf0c4d81c
+ModelConnectors#feature/Writable#96ec5d51311e9af8393071ede14fe3a00a23cc15
