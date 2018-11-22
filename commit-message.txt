@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getTestDbUrlComponents#f1f15891cbdd36e9e11ec3bf4a2dad9c45d29cfb
+AppSettingsControllers#feature/getTestDbUrlComponents#f1f15891cbdd36e9e11ec3bf4a2dad9c45d29cfb
