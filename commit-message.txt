@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/variableSettingsUrl#d0a28c59c740ba3f4ed279e7113f7c88c0dd2a00
+AppSettingsControllers#feature/variableSettingsUrl#d0a28c59c740ba3f4ed279e7113f7c88c0dd2a00
