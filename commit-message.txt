@@ -1,1 +1,1 @@
-ModelConnectors#feature/getQuantiModoClientAliasSubDomains#134fb649778e954e2ad1564f2dae48d875e62f96
+AnalyticsTasks#feature/getQuantiModoClientAliasSubDomains#134fb649778e954e2ad1564f2dae48d875e62f96
