@@ -1,1 +1,1 @@
-ModelConnectors#feature/variableSettingsUrl#bf6c63c481e82bee77773a7984d85ed0799fd923
+AnalyticsTasks#feature/variableSettingsUrl#bf6c63c481e82bee77773a7984d85ed0799fd923
