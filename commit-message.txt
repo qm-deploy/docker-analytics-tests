@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/variableSettingsUrl#c397e061d62667d16dd6615fdb4a720f374e4c4c
+Laravel#feature/variableSettingsUrl#c397e061d62667d16dd6615fdb4a720f374e4c4c
