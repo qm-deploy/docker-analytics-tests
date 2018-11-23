@@ -1,1 +1,1 @@
-ModelConnectors#feature/DeleteTags#0b25cf7a38e4cab122ebfbf6ec1fda6b9b66bf23
+AnalyticsTasks#feature/DeleteTags#0b25cf7a38e4cab122ebfbf6ec1fda6b9b66bf23
