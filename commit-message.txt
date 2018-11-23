@@ -1,1 +1,1 @@
-Laravel#feature/variableSettingsUrl#c397e061d62667d16dd6615fdb4a720f374e4c4c
+ModelConnectors#feature/variableSettingsUrl#d0a28c59c740ba3f4ed279e7113f7c88c0dd2a00
