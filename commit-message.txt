@@ -1,1 +1,1 @@
-Laravel#feature/isProductionTesting#eeb562088a4cc454c7da4a44076a51c30b8a5852
+ModelConnectors#feature/getQuantiModoClientAliasSubDomains#134fb649778e954e2ad1564f2dae48d875e62f96
