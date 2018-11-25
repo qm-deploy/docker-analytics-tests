@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/phpunit-php-code-coverage-6.x#31a8166d79ac12fbf169c37932254e70b79639d7
+AppSettingsControllers#renovate/phpunit-php-code-coverage-6.x#31a8166d79ac12fbf169c37932254e70b79639d7
