@@ -1,1 +1,1 @@
-Analytics#renovate/hautelook-phpass-1.x#2a7b36f877ec409656c36e3171cd9d59034af0fc
+MeasurementsReminders#renovate/hautelook-phpass-1.x#2a7b36f877ec409656c36e3171cd9d59034af0fc
