@@ -1,1 +1,1 @@
-Laravel#feature/variableSettingsUrl#d0a28c59c740ba3f4ed279e7113f7c88c0dd2a00
+Laravel#feature/idea#1660c2f3232f4c8bea540b6cf82547d35a04b4e1
