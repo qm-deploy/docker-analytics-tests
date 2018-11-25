@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/bugsnag-bugsnag-3.x#bdccc49f4045046f977c7e1ae775cf314722e5ff
+Laravel#renovate/bugsnag-bugsnag-3.x#bdccc49f4045046f977c7e1ae775cf314722e5ff
