@@ -1,1 +1,1 @@
-Analytics#renovate/phpoffice-phpexcel-1.x#476a98b9cb78994872b4e304dc5ab9e0ec6683de
+MeasurementsReminders#renovate/phpoffice-phpexcel-1.x#476a98b9cb78994872b4e304dc5ab9e0ec6683de
