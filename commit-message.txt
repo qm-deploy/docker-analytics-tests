@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/monolog-monolog-1.x#c2ce5e4bb4b4259ab3748f4c36dc1192999d5ffe
+ModelConnectors#renovate/phpoffice-phpexcel-1.x#792d8007dd18d6650dc28edc64e1754ce9c1b451
