@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/google-cloud-dialogflow-0.x#babcd20d959915544c2e999f62a0da9100463647
+ModelConnectors#renovate/geoip2-geoip2-2.x#465af17199a6316dc4fe3689b8f018ad592a5afc
