@@ -1,1 +1,1 @@
-ModelConnectors#renovate/phpunit-dbunit-1.x#63e66c5f09968a15944ca2652d1396d055d1fb12
+AnalyticsTasks#renovate/phpunit-dbunit-1.x#63e66c5f09968a15944ca2652d1396d055d1fb12
