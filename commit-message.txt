@@ -1,1 +1,1 @@
-Analytics#renovate/symfony-console-3.x#6bcd1d5bdc974affd89fe86e3672ba57db00b06f
+MeasurementsReminders#renovate/symfony-console-3.x#6bcd1d5bdc974affd89fe86e3672ba57db00b06f
