@@ -1,1 +1,1 @@
-ModelConnectors#renovate/monolog-monolog-1.x#cfb7bcd959b3c78731a69f68672504fee855f349
+Tasks#renovate/monolog-monolog-1.x#cfb7bcd959b3c78731a69f68672504fee855f349
