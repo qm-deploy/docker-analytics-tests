@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/hautelook-phpass-1.x#bd27d4950ccad0487f05891a741952c1f1c6213c
+ModelConnectors#renovate/phpunit-php-code-coverage-2.x#87f94b94e625fe17afded3a77f343b8ed7d82933
