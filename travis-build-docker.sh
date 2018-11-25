@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 export TEST_REPO_PATH="$PWD"
-export QM_DOCKER_PATH="$PWD/QM-Docker"
+export QM_DOCKER_PATH="$PWD/${REPO_TO_TEST}"
 echo "HOSTNAME is ${HOSTNAME} and QM_DOCKER_PATH is $QM_DOCKER_PATH"
 export TEST_SUITE=Analytics
 
 source ${TEST_REPO_PATH}/update-status.sh --sha=${TRAVIS_COMMIT_MESSAGE} \
-   --repo=mikepsinn/QM-Docker \
+   --repo=mikepsinn/${REPO_TO_TEST} \
    --status=pending \
    --message="Starting ${TEST_SUITE} tests" \
    --context="Travis/${TEST_SUITE}" \
@@ -21,10 +21,10 @@ echo '##### Print environment'
 env | sort
 
 echo "Checking out revision ${TRAVIS_COMMIT_MESSAGE}"
-mkdir QM-Docker || true
-cd QM-Docker
+mkdir ${REPO_TO_TEST} || true
+cd ${REPO_TO_TEST}
 git init || true
-git remote add origin https://${GITHUB_ACCESS_TOKEN}@github.com/mikepsinn/QM-Docker.git || true
+git remote add origin https://${GITHUB_ACCESS_TOKEN}@github.com/mikepsinn/${REPO_TO_TEST}.git || true
 git fetch --depth 1 origin ${TRAVIS_COMMIT_MESSAGE}
 git checkout FETCH_HEAD
 
@@ -38,8 +38,8 @@ export MONGO_DB_CONNECTION=mongodb://127.0.0.1:27017
 ENV_COMMAND="export TEST_CLEARDB_DATABASE_URL=${TEST_CLEARDB_DATABASE_URL} && export TEST_CLEARDB_DATABASE_URL_READONLY=${TEST_CLEARDB_DATABASE_URL_READONLY} && export MONGO_DB_CONNECTION=${MONGO_DB_CONNECTION} && "
 mkdir ${QM_DOCKER_PATH}/phpunit || true
 
-echo "Copying slim/envs/circleci.env to .env"
-cp ${QM_DOCKER_PATH}/slim/envs/circleci.env ${QM_DOCKER_PATH}/.env
+echo "Copying envs/circleci.env to .env"
+cp ${QM_DOCKER_PATH}/envs/circleci.env ${QM_DOCKER_PATH}/.env
 cp ${TEST_REPO_PATH}/test.env ${QM_DOCKER_PATH}/laradock/.env
 
 cd ${QM_DOCKER_PATH}/laradock
@@ -57,13 +57,13 @@ docker-compose exec workspace bash -c "${ENV_COMMAND} cd slim && composer instal
 if [ ${TEST_SUITE} = "Laravel" ]
  then
     docker-compose exec workspace bash -c "${ENV_COMMAND} cd laravel && composer install --optimize-autoloader"
-    docker-compose exec workspace bash -c "${ENV_COMMAND} slim/vendor/phpunit/phpunit/phpunit --configuration laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit phpunit/${TEST_SUITE}.xml"
+    docker-compose exec workspace bash -c "${ENV_COMMAND} vendor/phpunit/phpunit/phpunit --configuration laravel/phpunit.xml --stop-on-error --stop-on-failure --log-junit phpunit/${TEST_SUITE}.xml"
  else
-    docker-compose exec workspace bash -c "${ENV_COMMAND} slim/vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration slim/tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml slim/tests/Api/${TEST_SUITE}"
+    docker-compose exec workspace bash -c "${ENV_COMMAND} vendor/phpunit/phpunit/phpunit --stop-on-error --stop-on-failure --configuration tests/phpunit.xml --log-junit phpunit/${TEST_SUITE}.xml tests/Api/${TEST_SUITE}"
 fi
 
 source ${TEST_REPO_PATH}/update-status.sh --sha=${TRAVIS_COMMIT_MESSAGE} \
-   --repo=mikepsinn/QM-Docker \
+   --repo=mikepsinn/${REPO_TO_TEST} \
    --status=success \
    --message="${TEST_SUITE} tests successful!" \
    --context=${TEST_SUITE} \

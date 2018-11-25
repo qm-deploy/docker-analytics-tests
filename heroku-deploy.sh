@@ -2,7 +2,7 @@
 echo '##### Print environment'
 env | sort
 export TEST_REPO_PATH="$PWD"
-export QM_DOCKER_PATH="$PWD/QM-Docker"
+export QM_DOCKER_PATH="$PWD/${REPO_TO_TEST}"
 echo "HOSTNAME is ${HOSTNAME} and QM_DOCKER_PATH is $QM_DOCKER_PATH"
 export TEST_SUITE=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f1 -d#)
 export BRANCH=$(echo ${TRAVIS_COMMIT_MESSAGE} | cut -f2 -d#)

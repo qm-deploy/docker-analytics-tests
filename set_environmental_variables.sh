@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 export TEST_REPO_PATH="$PWD"
-export QM_DOCKER_PATH="$PWD/QM-Docker"
+export QM_DOCKER_PATH="$PWD/${REPO_TO_TEST}"
 echo "HOSTNAME is ${HOSTNAME} and QM_DOCKER_PATH is $QM_DOCKER_PATH"
 # Must use TRAVIS_TEST_GROUP instead of TEST_SUITE variable because the ambiguity causes problems
 if [ -z "$TRAVIS_TEST_GROUP" ];
