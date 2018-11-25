@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/guzzle-guzzle-3.x#7b0b7964747037c87888715289af0a4873c9f1ee
+Laravel#renovate/guzzle-guzzle-3.x#7b0b7964747037c87888715289af0a4873c9f1ee
