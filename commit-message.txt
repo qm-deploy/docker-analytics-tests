@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/doctrine-migrations-1.x#e81ac6e265dcc6fe5097f7210b115cca2a2b0b86
+ModelConnectors#renovate/google-apiclient-2.x#3ccae7f8c8b03ced8812a4549c2e11b7c86828f0
