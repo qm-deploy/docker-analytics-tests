@@ -3,7 +3,7 @@ source ${TRAVIS_BUILD_DIR}/set_environmental_variables.sh
 run_test_suite () {
     export J_UNIT_FILE=${QM_DOCKER_PATH}/phpunit/$1.xml
     export TEST_SUITE=$1
-    source ${QM_DOCKER_PATH}/scripts/phpunit_tests.sh
+    source ${QM_DOCKER_PATH}/tests/phpunit_tests.sh
 }
 cd ${QM_DOCKER_PATH}
 set -x
@@ -14,7 +14,7 @@ if [[ $TRAVIS_TEST_GROUP = *"Laravel"* ]]; then
     export LARAVEL=1
     export TEST_SUITE=Laravel
     cd ${QM_DOCKER_PATH}/laravel && composer install --prefer-dist --optimize-autoloader
-    source ${QM_DOCKER_PATH}/scripts/phpunit_tests.sh
+    source ${QM_DOCKER_PATH}/tests/phpunit_tests.sh
 fi
 if [[ $TRAVIS_TEST_GROUP = *"Analytics"* ]]; then run_test_suite Analytics; fi
 if [[ $TRAVIS_TEST_GROUP = *"AppSettings"* ]]; then run_test_suite AppSettings; fi
