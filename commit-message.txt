@@ -1,1 +1,1 @@
-Laravel#renovate/wixel-gump-1.x#c0edcc5fc59f3f8b212f1247db0d6efd80265c3f
+ModelConnectors#renovate/dts-ebay-sdk-php-18.x#3e37bafcfa5bc799c7f17fda4663e5a304ef13ae
