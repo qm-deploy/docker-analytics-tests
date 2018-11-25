@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/idea#f4890a726dafd3fd5b7dbfe563efbfc3772df393
+Laravel#feature/idea#f4890a726dafd3fd5b7dbfe563efbfc3772df393
