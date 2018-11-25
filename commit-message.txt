@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/hautelook-phpass-0.x#455500fdac85eff82c2aaa24ccc5a3e87faee4dd
+ModelConnectors#renovate/illuminate-database-5.x#6e013bb0113c4c2dbbae00e1b96a06b048c64e19
