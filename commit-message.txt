@@ -1,1 +1,1 @@
-Laravel#renovate/hautelook-phpass-0.x#6b2864e577d75e18fc228878598a2a7b6341b38e
+ModelConnectors#renovate/illuminate-database-5.x#8e76260c3f7bb31ff84888e177b00964ed11915f
