@@ -1,1 +1,1 @@
-Tasks#renovate/doctrine-migrations-1.x#325246318db6294e7b1fb8ef8f2046fe223c68f5
+Analytics#renovate/doctrine-migrations-1.x#325246318db6294e7b1fb8ef8f2046fe223c68f5
