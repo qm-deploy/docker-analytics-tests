@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/monolog-monolog-1.x#a7a5ed8f722f06aae04e3d78cdb4fee7fd8b4e3e
+ModelConnectors#renovate/cmfcmf-openweathermap-php-api-2.x#424a5e6f1bd72579e7940e5c095bbaef0f7dbfb7
