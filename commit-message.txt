@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/phpunit-dbunit-4.x#8260394ef9377c648f8798fe4d50cfb11f7dbf1e
+ModelConnectors#renovate/cmfcmf-openweathermap-php-api-2.x#6a355300cd0f0c821cfcb8bb5073c777feae03c9
