@@ -1,1 +1,1 @@
-Tasks#renovate/phpoffice-phpspreadsheet-1.x#a73cfac1d9b2e076223926ef124e81fa7849657e
+Analytics#renovate/phpoffice-phpspreadsheet-1.x#a73cfac1d9b2e076223926ef124e81fa7849657e
