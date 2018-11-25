@@ -1,1 +1,1 @@
-ModelConnectors#renovate/hautelook-phpass-0.x#455500fdac85eff82c2aaa24ccc5a3e87faee4dd
+Tasks#renovate/hautelook-phpass-0.x#455500fdac85eff82c2aaa24ccc5a3e87faee4dd
