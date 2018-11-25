@@ -1,1 +1,1 @@
-ModelConnectors#renovate/phpoffice-phpspreadsheet-1.x#39c9ed978c835e962748752beeae9fd546bd8b64
+Tasks#renovate/phpoffice-phpspreadsheet-1.x#39c9ed978c835e962748752beeae9fd546bd8b64
