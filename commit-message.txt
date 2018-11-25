@@ -1,1 +1,1 @@
-AnalyticsTasks#renovate/geoip2-geoip2-2.x#3cf716c08d985d490646852b426206056d7cd800
+MeasurementsReminders#renovate/geoip2-geoip2-2.x#3cf716c08d985d490646852b426206056d7cd800
