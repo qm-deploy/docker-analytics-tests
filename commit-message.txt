@@ -1,1 +1,1 @@
-Laravel#renovate/google-apiclient-2.x#4edd43fffbf2279400169030d7fdd9c036eea411
+ModelConnectors#renovate/google-cloud-dialogflow-0.x#6dcd8930f13de7ea05509d12e647a361c62c1074
