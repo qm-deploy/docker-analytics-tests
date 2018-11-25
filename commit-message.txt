@@ -1,1 +1,1 @@
-ModelConnectors#renovate/dts-ebay-sdk-php-18.x#3e37bafcfa5bc799c7f17fda4663e5a304ef13ae
+AnalyticsTasks#renovate/dts-ebay-sdk-php-18.x#3e37bafcfa5bc799c7f17fda4663e5a304ef13ae
