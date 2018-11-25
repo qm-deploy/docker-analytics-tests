@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/node-6.x#f2f44d4dc2fd521a42230f964828704d5d321003
+AppSettingsControllers#renovate/node-6.x#f2f44d4dc2fd521a42230f964828704d5d321003
