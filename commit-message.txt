@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/cmfcmf-openweathermap-php-api-2.x#3d1f7d4ac8b1e38031a4533d4a78b999635d4077
+AppSettingsControllers#renovate/cmfcmf-openweathermap-php-api-2.x#3d1f7d4ac8b1e38031a4533d4a78b999635d4077
