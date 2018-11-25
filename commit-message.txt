@@ -1,1 +1,1 @@
-ModelConnectors#renovate/google-cloud-dialogflow-0.x#babcd20d959915544c2e999f62a0da9100463647
+Tasks#renovate/google-cloud-dialogflow-0.x#babcd20d959915544c2e999f62a0da9100463647
