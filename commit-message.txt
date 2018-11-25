@@ -1,1 +1,1 @@
-Tasks#renovate/monolog-monolog-1.x#110d4a0cd2eed6bed23f2b01f2300d75c9e24e53
+Analytics#renovate/monolog-monolog-1.x#110d4a0cd2eed6bed23f2b01f2300d75c9e24e53
