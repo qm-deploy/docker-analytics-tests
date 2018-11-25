@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/symfony-console-3.x#984cfc4679fa66fa74c955bf7d2e87e3193f3db1
+ModelConnectors#renovate/symfony-console-3.x#984cfc4679fa66fa74c955bf7d2e87e3193f3db1
