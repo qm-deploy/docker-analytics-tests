@@ -1,1 +1,1 @@
-ModelConnectors#feature/bugsnag-bugsnag-3.x#ea7e2e9c2c242b4e7b41961de6fdbd9c88358447
+AnalyticsTasks#feature/bugsnag-bugsnag-3.x#ea7e2e9c2c242b4e7b41961de6fdbd9c88358447
