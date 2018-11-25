@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/symfony-console-4.x#b02ef6e29a183bdb652cdd1d40d0f51fd9d68484
+ModelConnectors#renovate/phpunit-php-code-coverage-6.x#f392f4120e28ced7141d99555042a736861c38c7
