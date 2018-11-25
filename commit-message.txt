@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/symfony-console-4.x#b60c97c93b687a7163f2db2a326c3eb3667efbf9
+ModelConnectors#renovate/cmfcmf-openweathermap-php-api-2.x#389323f4b4eb6e25beaa796e13077d5cf1e3f617
