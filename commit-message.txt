@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/illuminate-database-5.x#8e76260c3f7bb31ff84888e177b00964ed11915f
+Laravel#renovate/illuminate-database-5.x#8e76260c3f7bb31ff84888e177b00964ed11915f
