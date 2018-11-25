@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/phpunit-phpunit-4.x#5693f675925815fb6c289bab2a57a5c66ada5f8b
+ModelConnectors#renovate/symfony-console-3.x#e99b51017d8806e6ed550f2666a504d677e2d06b
