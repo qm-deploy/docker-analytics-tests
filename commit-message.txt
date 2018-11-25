@@ -1,1 +1,1 @@
-Laravel#renovate/node-6.x#f2f44d4dc2fd521a42230f964828704d5d321003
+ModelConnectors#renovate/bugsnag-bugsnag-3.x#bdccc49f4045046f977c7e1ae775cf314722e5ff
