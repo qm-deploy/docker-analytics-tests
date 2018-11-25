@@ -1,1 +1,1 @@
-ModelConnectors#renovate/doctrine-annotations-1.x#be29c04326c0feff338e7f5416e0ee559a96f3a8
+Tasks#renovate/doctrine-annotations-1.x#be29c04326c0feff338e7f5416e0ee559a96f3a8
