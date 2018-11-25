@@ -1,1 +1,1 @@
-ModelConnectors#renovate/doctrine-migrations-1.x#a6ad97365e2410fc74881f41312b2e9d8cc9d01b
+AnalyticsTasks#renovate/doctrine-migrations-1.x#a6ad97365e2410fc74881f41312b2e9d8cc9d01b
