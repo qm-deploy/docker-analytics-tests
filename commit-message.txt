@@ -1,1 +1,1 @@
-ModelConnectors#renovate/phpunit-php-code-coverage-2.x#bce5eb872883cc6757a79f6f0709710fda6ce7ad
+Tasks#renovate/phpunit-php-code-coverage-2.x#bce5eb872883cc6757a79f6f0709710fda6ce7ad
