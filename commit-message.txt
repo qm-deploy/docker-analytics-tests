@@ -1,1 +1,1 @@
-Laravel#renovate/doctrine-migrations-1.x#a6ad97365e2410fc74881f41312b2e9d8cc9d01b
+ModelConnectors#renovate/geoip2-geoip2-2.x#bc141fb253b2f99017373640b57624eb249d30ab
