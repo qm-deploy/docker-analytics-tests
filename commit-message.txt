@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/dts-ebay-sdk-php-18.x#36c430d21ebe4892cf12f755d9e781463230dfd5
+ModelConnectors#renovate/wixel-gump-1.x#21da525b382249d5fd6763e676989eeed2a9fb39
