@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/illuminate-database-5.x#5566aa53645becede01bbeefb22adb6b965fb03e
+ModelConnectors#renovate/monolog-monolog-1.x#c2ce5e4bb4b4259ab3748f4c36dc1192999d5ffe
