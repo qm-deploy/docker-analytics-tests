@@ -1,1 +1,1 @@
-ModelConnectors#renovate/illuminate-database-5.x#d10d0ae5b9b7f7ae2971ae34645052ca62e9c48a
+Tasks#renovate/illuminate-database-5.x#d10d0ae5b9b7f7ae2971ae34645052ca62e9c48a
