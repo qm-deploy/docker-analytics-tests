@@ -1,1 +1,1 @@
-Analytics#renovate/illuminate-database-5.x#70c0f34a7569649cb6eb3b77deb6db3df155fa73
+MeasurementsReminders#renovate/illuminate-database-5.x#70c0f34a7569649cb6eb3b77deb6db3df155fa73
