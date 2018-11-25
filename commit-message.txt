@@ -1,1 +1,1 @@
-Laravel#renovate/doctrine-annotations-1.x#89d7bb5ffc67ded22005858b88c515eb74f85af1
+ModelConnectors#renovate/geoip2-geoip2-2.x#bbba956270e84e5ecdc08ba736ad7fa96564167c
