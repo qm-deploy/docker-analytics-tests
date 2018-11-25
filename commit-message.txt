@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/phpunit-php-code-coverage-2.x#2e4e68bef97814b36d4e9f7094280ea856e0fdc6
+ModelConnectors#renovate/cmfcmf-openweathermap-php-api-2.x#3d1f7d4ac8b1e38031a4533d4a78b999635d4077
