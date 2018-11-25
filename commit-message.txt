@@ -1,1 +1,1 @@
-Laravel#renovate/doctrine-annotations-1.x#2ea9a89af241a056525b6354a5d807312d113539
+ModelConnectors#renovate/doctrine-migrations-1.x#f03fcd1df8cba53d00fec07df4d7b9be8761e630
