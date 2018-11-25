@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/geoip2-geoip2-2.x#bbba956270e84e5ecdc08ba736ad7fa96564167c
+Laravel#renovate/geoip2-geoip2-2.x#bbba956270e84e5ecdc08ba736ad7fa96564167c
