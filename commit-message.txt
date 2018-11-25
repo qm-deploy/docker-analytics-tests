@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/phpoffice-phpexcel-1.x#b195597b3fb4ab521b4004dbf94c0467d8e13b37
+ModelConnectors#renovate/phpoffice-phpspreadsheet-1.x#a73cfac1d9b2e076223926ef124e81fa7849657e
