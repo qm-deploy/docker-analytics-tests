@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/guzzle-guzzle-3.x#1ba98f95cfba3f99523c898f94e333e433710302
+ModelConnectors#renovate/hautelook-phpass-0.x#56c93c0062135904750a7925fb7132bb979a04bf
