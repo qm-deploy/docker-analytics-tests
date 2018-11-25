@@ -1,1 +1,1 @@
-Laravel#feature/node-6.x#5f6ade1ecce277b874e801fea2da8e5320b4c4fe
+ModelConnectors#feature/bshaffer-oauth2-server-php-1.x#3ae42af9795f23b0641d21366d98773f03929d78
