@@ -1,1 +1,1 @@
-Laravel#renovate/illuminate-database-5.x#8e76260c3f7bb31ff84888e177b00964ed11915f
+ModelConnectors#renovate/mongodb-mongodb-1.x#dbfae2ee2031169edd0ea04588d50bc756beedbd
