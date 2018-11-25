@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/illuminate-database-5.x#2cca9cf31825ea6523837327e56a440ce0f0f88f
+ModelConnectors#renovate/mongodb-mongodb-1.x#fde7d7a29cba9433b5bda04a76756bca8b41059a
