@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/google-cloud-dialogflow-0.x#9b26ac894956815244b73e48494ce67b090878cf
+ModelConnectors#renovate/guzzle-guzzle-3.x#ad71058be21f858d19bc22107136568b8cbd9c8e
