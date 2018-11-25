@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/vlucas-phpdotenv-2.x#9e5d8009a9b580b3d594c1a0553436ec53608c61
+AppSettingsControllers#renovate/vlucas-phpdotenv-2.x#9e5d8009a9b580b3d594c1a0553436ec53608c61
