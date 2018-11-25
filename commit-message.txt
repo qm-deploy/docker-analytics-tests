@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/wixel-gump-1.x#c0edcc5fc59f3f8b212f1247db0d6efd80265c3f
+AppSettingsControllers#renovate/wixel-gump-1.x#c0edcc5fc59f3f8b212f1247db0d6efd80265c3f
