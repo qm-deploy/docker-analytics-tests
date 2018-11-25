@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/vlucas-phpdotenv-2.x#d25f7382a5dc3ed56a9d6d3c28182ee1ce724dc6
+ModelConnectors#renovate/vlucas-phpdotenv-2.x#d25f7382a5dc3ed56a9d6d3c28182ee1ce724dc6
