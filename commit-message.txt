@@ -1,1 +1,1 @@
-Laravel#renovate/guzzle-guzzle-3.x#7b0b7964747037c87888715289af0a4873c9f1ee
+ModelConnectors#renovate/hautelook-phpass-0.x#6b2864e577d75e18fc228878598a2a7b6341b38e
