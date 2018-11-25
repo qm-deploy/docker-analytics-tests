@@ -1,1 +1,1 @@
-Tasks#renovate/phpmailer-phpmailer-6.x#2c5d83ede45d8077a090f561213b07b9cc0b5287
+Analytics#renovate/phpmailer-phpmailer-6.x#2c5d83ede45d8077a090f561213b07b9cc0b5287
