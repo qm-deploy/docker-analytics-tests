@@ -1,1 +1,1 @@
-ModelConnectors#renovate/cmfcmf-openweathermap-php-api-2.x#424a5e6f1bd72579e7940e5c095bbaef0f7dbfb7
+Tasks#renovate/cmfcmf-openweathermap-php-api-2.x#424a5e6f1bd72579e7940e5c095bbaef0f7dbfb7
