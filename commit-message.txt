@@ -1,1 +1,1 @@
-Laravel#renovate/google-apiclient-2.x#f1ed3f8e9511f205de5992ca0af64fd57b1e81c1
+ModelConnectors#renovate/node-6.x#f2f44d4dc2fd521a42230f964828704d5d321003
