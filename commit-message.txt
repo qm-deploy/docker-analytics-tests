@@ -1,1 +1,1 @@
-Analytics#renovate/doctrine-annotations-1.x#2b18ceaa6310fc9a6dc683062960ca33af903147
+MeasurementsReminders#renovate/doctrine-annotations-1.x#2b18ceaa6310fc9a6dc683062960ca33af903147
