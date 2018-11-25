@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/hautelook-phpass-0.x#18bc45a3b13f96d227abda37965b03f6d1c79e0f
+AppSettingsControllers#renovate/hautelook-phpass-0.x#18bc45a3b13f96d227abda37965b03f6d1c79e0f
