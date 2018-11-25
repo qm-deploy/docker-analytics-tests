@@ -1,1 +1,1 @@
-Laravel#renovate/geoip2-geoip2-2.x#bbba956270e84e5ecdc08ba736ad7fa96564167c
+ModelConnectors#renovate/cmfcmf-openweathermap-php-api-2.x#4aaf3f21b10f7ecbf58aa29e9bb03f0b8fc11bdf
