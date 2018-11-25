@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/doctrine-migrations-1.x#f03fcd1df8cba53d00fec07df4d7b9be8761e630
+Laravel#renovate/doctrine-migrations-1.x#f03fcd1df8cba53d00fec07df4d7b9be8761e630
