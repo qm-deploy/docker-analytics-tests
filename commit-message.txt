@@ -1,1 +1,1 @@
-Laravel#feature/BRANCH_PREFIX#30dfebd447dfb8c3001c2bebc03bf05f340412ac
+ModelConnectors#renovate/bshaffer-oauth2-server-php-1.x#847a0d891a210cbd441e55eb7bed5e0f64700c23
