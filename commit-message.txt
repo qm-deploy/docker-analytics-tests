@@ -1,1 +1,1 @@
-Laravel#renovate/cmfcmf-openweathermap-php-api-2.x#4aaf3f21b10f7ecbf58aa29e9bb03f0b8fc11bdf
+ModelConnectors#renovate/doctrine-annotations-1.x#57e5f50f5f9c097149a7f989981c4d94e2a828b5
