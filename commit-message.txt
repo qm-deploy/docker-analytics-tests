@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/doctrine-annotations-1.x#1c667c64d14115cc20a469c5e95b998fa4f52c86
+ModelConnectors#renovate/doctrine-migrations-1.x#325246318db6294e7b1fb8ef8f2046fe223c68f5
