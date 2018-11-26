@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/illuminate-database-5.x#bf8c07d784c92e5dbcbfb6f6642aad2a6ded6acb
+ModelConnectors#renovate/symfony-console-3.x#3d1d645a342f0c47d03b6a7b3c88179e6d5103f6
