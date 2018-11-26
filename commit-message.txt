@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/google-apiclient-2.x#fe3c68088a88ed2b4112d3f47f89df4b2cbdf31a
+ModelConnectors#renovate/hautelook-phpass-0.x#2a31153146f2874b2bd377e70dc62bdc08eae81a
