@@ -1,1 +1,1 @@
-Analytics#renovate/mongodb-mongodb-1.x#e83087952240c9efe5398147bc0ce6a85cac0bce
+MeasurementsReminders#renovate/mongodb-mongodb-1.x#e83087952240c9efe5398147bc0ce6a85cac0bce
