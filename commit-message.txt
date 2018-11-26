@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/cmfcmf-openweathermap-php-api-2.x#5eb6246cc4cca52703434c29756d8ff66d86a18a
+ModelConnectors#renovate/google-apiclient-2.x#c605fafef501303a7d48041b094e74f88c58b977
