@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/envs#6674e8adbdd7e58a3e347afe41f4d30cd1691771
+ModelConnectors#renovate/cmfcmf-openweathermap-php-api-2.x#131255c027a7193574cacb8b204b5eb411413522
