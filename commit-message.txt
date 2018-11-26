@@ -1,1 +1,1 @@
-Tasks#renovate/phpunit-php-code-coverage-2.x#3d13e6d19b7524b15937fa32ce2b999a9b90d296
+Analytics#renovate/phpunit-php-code-coverage-2.x#3d13e6d19b7524b15937fa32ce2b999a9b90d296
