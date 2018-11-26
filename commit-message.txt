@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getAllTablesList#71a23f353d3356f52fe7e2933e7b58cbcef9a383
+AppSettingsControllers#feature/getAllTablesList#71a23f353d3356f52fe7e2933e7b58cbcef9a383
