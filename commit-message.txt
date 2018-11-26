@@ -1,1 +1,1 @@
-ModelConnectors#renovate/mongodb-mongodb-1.x#e26f3526484f47abdd07922c1eaed2d611fe8b5a
+Tasks#renovate/mongodb-mongodb-1.x#e26f3526484f47abdd07922c1eaed2d611fe8b5a
