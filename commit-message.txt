@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/symfony-console-3.x#9f84af36b939030f4524e0aa3015d122bd9f3f28
+ModelConnectors#renovate/doctrine-annotations-1.x#0bbe782d91b1708bf1940b06e440760af277dc5f
