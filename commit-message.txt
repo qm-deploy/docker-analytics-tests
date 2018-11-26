@@ -1,1 +1,1 @@
-Tasks#renovate/symfony-console-3.x#3d1d645a342f0c47d03b6a7b3c88179e6d5103f6
+Analytics#renovate/symfony-console-3.x#3d1d645a342f0c47d03b6a7b3c88179e6d5103f6
