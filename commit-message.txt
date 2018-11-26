@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/monolog-monolog-1.x#df9cdb96ae48dbae173b5e164a80c198fbab41ac
+ModelConnectors#renovate/monolog-monolog-1.x#df9cdb96ae48dbae173b5e164a80c198fbab41ac
