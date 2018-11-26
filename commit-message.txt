@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/mongodb-mongodb-1.x#40cf1d5a5763fe7515b5976b3c7f9c8b4977c5c0
+ModelConnectors#renovate/monolog-monolog-1.x#4dc48b5c0d410bb5e67b0d8bc831ca2cf8ccfc98
