@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/geoip2-geoip2-2.x#63b09d82158bc49532d36caefbe79e489cd8ba76
+ModelConnectors#renovate/google-apiclient-2.x#08070d22db4d24d4f5b1813d4e00360d2aaa2ddc
