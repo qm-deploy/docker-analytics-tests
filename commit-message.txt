@@ -1,1 +1,1 @@
-ModelConnectors#renovate/geoip2-geoip2-2.x#5ea0aeb8326fecc888eba9c8c2e1c283af14998b
+Tasks#renovate/geoip2-geoip2-2.x#5ea0aeb8326fecc888eba9c8c2e1c283af14998b
