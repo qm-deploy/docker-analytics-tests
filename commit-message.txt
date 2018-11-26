@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/illuminate-database-5.x#bf8c07d784c92e5dbcbfb6f6642aad2a6ded6acb
+AppSettingsControllers#renovate/illuminate-database-5.x#bf8c07d784c92e5dbcbfb6f6642aad2a6ded6acb
