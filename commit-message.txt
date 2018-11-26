@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/guzzle-guzzle-3.x#403412d5e550cc676f44eabbfa76e7adcb0967ec
+ModelConnectors#renovate/cmfcmf-openweathermap-php-api-2.x#5c0670f0d09305111d5d3b585fcb73e6815be802
