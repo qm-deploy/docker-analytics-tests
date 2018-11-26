@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/phpoffice-phpexcel-1.x#738de1884a47e350ac2014e1ab3a393819bc3a07
+AppSettingsControllers#renovate/phpoffice-phpexcel-1.x#738de1884a47e350ac2014e1ab3a393819bc3a07
