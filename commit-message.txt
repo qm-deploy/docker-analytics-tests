@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/guzzle-guzzle-3.x#a83cff78bfea30a8685c779a4016dfc7eff983dc
+AppSettingsControllers#renovate/guzzle-guzzle-3.x#a83cff78bfea30a8685c779a4016dfc7eff983dc
