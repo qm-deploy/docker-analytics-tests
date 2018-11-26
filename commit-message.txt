@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/google-cloud-dialogflow-0.x#65b452b4319b2457a46c542644e4b5290e25f286
+ModelConnectors#renovate/google-apiclient-2.x#1d35885ce2bcb41e1ee94777452a803a6f99be5c
