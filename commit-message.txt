@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/google-cloud-dialogflow-0.x#65b452b4319b2457a46c542644e4b5290e25f286
+AppSettingsControllers#renovate/google-cloud-dialogflow-0.x#65b452b4319b2457a46c542644e4b5290e25f286
