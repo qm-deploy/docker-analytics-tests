@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getAllTablesList#de78522479733f35446139664ff81458120e7d42
+ModelConnectors#feature/botman#c809bb344f2066789934b92244809ea30e2d936c
