@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/monolog-monolog-1.x#235608569c31745688ee2e61b711582b4597098f
+AppSettingsControllers#renovate/monolog-monolog-1.x#235608569c31745688ee2e61b711582b4597098f
