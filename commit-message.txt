@@ -1,1 +1,1 @@
-Tasks#renovate/illuminate-database-5.x#861a480f465f527ba7b5c9f047950453c73e8add
+Analytics#renovate/illuminate-database-5.x#861a480f465f527ba7b5c9f047950453c73e8add
