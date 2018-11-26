@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/cmfcmf-openweathermap-php-api-2.x#c056a0994462f030c87cb8432a6f0e92fa7085f5
+ModelConnectors#renovate/doctrine-annotations-1.x#69bcb42307f696fd7d74050944d3160e5e1646b8
