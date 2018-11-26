@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/google-apiclient-2.x#2ef648c28c43aed0d26a3465f917155a969cc74f
+ModelConnectors#renovate/guzzle-guzzle-3.x#3afacdb3131617734b9db07d168e7191390dbbfe
