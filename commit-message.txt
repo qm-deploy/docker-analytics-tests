@@ -1,1 +1,1 @@
-Analytics#renovate/doctrine-migrations-1.x#1f2eb95705a31d0bf687b07caaa8197c6418b949
+MeasurementsReminders#renovate/doctrine-migrations-1.x#1f2eb95705a31d0bf687b07caaa8197c6418b949
