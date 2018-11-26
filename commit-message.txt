@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/mongodb-mongodb-1.x#40cf1d5a5763fe7515b5976b3c7f9c8b4977c5c0
+AppSettingsControllers#renovate/mongodb-mongodb-1.x#40cf1d5a5763fe7515b5976b3c7f9c8b4977c5c0
