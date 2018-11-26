@@ -1,1 +1,1 @@
-Analytics#renovate/phpunit-php-code-coverage-2.x#526cdb2b326ecba98047ee5aa89d17a1de753763
+MeasurementsReminders#renovate/phpunit-php-code-coverage-2.x#526cdb2b326ecba98047ee5aa89d17a1de753763
