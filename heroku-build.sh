@@ -26,8 +26,8 @@ export TEST_CLEARDB_DATABASE_URL_READONLY=${JAWSDB_URL}
 export MONGO_DB_CONNECTION=${MONGODB_URI}
 ENV_COMMAND="export TEST_CLEARDB_DATABASE_URL=${TEST_CLEARDB_DATABASE_URL} && export TEST_CLEARDB_DATABASE_URL_READONLY=${TEST_CLEARDB_DATABASE_URL_READONLY} && export MONGO_DB_CONNECTION=${MONGO_DB_CONNECTION} && "
 mkdir ${QM_DOCKER_PATH}/phpunit || true
-echo "Copying envs/circleci.env to .env"
-cp ${QM_DOCKER_PATH}/envs/circleci.env ${QM_DOCKER_PATH}/.env
+echo "Copying envs/testing.env to .env"
+cp ${QM_DOCKER_PATH}/envs/testing.env ${QM_DOCKER_PATH}/.env
 cd slim && composer install --prefer-dist --optimize-autoloader
 cd ${QM_DOCKER_PATH}
 if [[ ${TEST_SUITE} = "Laravel" ]]

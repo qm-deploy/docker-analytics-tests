@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 source ${TRAVIS_BUILD_DIR}/set_environmental_variables.sh
-echo "Copying ${QM_DOCKER_PATH}/envs/circleci.env to .env"
-cp ${QM_DOCKER_PATH}/envs/circleci.env ${QM_DOCKER_PATH}/.env
+echo "Copying ${QM_DOCKER_PATH}/envs/testing.env to .env"
+cp ${QM_DOCKER_PATH}/envs/testing.env ${QM_DOCKER_PATH}/.env
 sudo chown -R ${USER} ~/.composer/
 
 if [[ ${REPO_TO_TEST} != "QM-Docker" ]]; then
