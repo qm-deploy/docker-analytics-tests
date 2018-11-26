@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/doctrine-migrations-1.x#4a8b5519e5106f2f013e327ad5c5899eac1f207e
+ModelConnectors#renovate/geoip2-geoip2-2.x#43b9478a210ac72dc9f572c705e3d328b4f3ed7f
