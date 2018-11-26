@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/google-apiclient-2.x#fe3c68088a88ed2b4112d3f47f89df4b2cbdf31a
+AppSettingsControllers#renovate/google-apiclient-2.x#fe3c68088a88ed2b4112d3f47f89df4b2cbdf31a
