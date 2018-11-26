@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/google-apiclient-2.x#b5549def8e57f30b1399fab586b9482ba4bd4d64
+ModelConnectors#renovate/illuminate-database-5.x#5c3619f967c2b47c0865742dcdb98f6ff2ff127f
