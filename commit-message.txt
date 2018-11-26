@@ -1,1 +1,1 @@
-Tasks#renovate/phpoffice-phpexcel-1.x#87190813da6a8a3a6f010a13422fb71e05f67344
+Analytics#renovate/phpoffice-phpexcel-1.x#87190813da6a8a3a6f010a13422fb71e05f67344
