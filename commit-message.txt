@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/doctrine-annotations-1.x#275bc14de20ab73bafd8c0c12dfd734bc898e68a
+AppSettingsControllers#renovate/doctrine-annotations-1.x#275bc14de20ab73bafd8c0c12dfd734bc898e68a
