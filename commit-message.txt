@@ -1,1 +1,1 @@
-Analytics#renovate/google-apiclient-2.x#2d661f10e654af4e15d00916f06181448cce6802
+MeasurementsReminders#renovate/google-apiclient-2.x#2d661f10e654af4e15d00916f06181448cce6802
