@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/botman#5b1e20f74b8fda87e1cc79d7a327e68a844162d3
+ModelConnectors#renovate/cmfcmf-openweathermap-php-api-2.x#13bf85df0b2ac22d1ea9c7b20214247fb4509b17
