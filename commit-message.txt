@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/geoip2-geoip2-2.x#3a572f629fa2f3abcaa8e554f2a8c1302e92d7f6
+AppSettingsControllers#renovate/geoip2-geoip2-2.x#3a572f629fa2f3abcaa8e554f2a8c1302e92d7f6
