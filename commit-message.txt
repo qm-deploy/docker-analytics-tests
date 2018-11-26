@@ -1,1 +1,1 @@
-Analytics#renovate/cmfcmf-openweathermap-php-api-2.x#13d5f9d1f48023e6d05b7966895e498520357780
+MeasurementsReminders#renovate/cmfcmf-openweathermap-php-api-2.x#13d5f9d1f48023e6d05b7966895e498520357780
