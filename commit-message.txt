@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/doctrine-annotations-1.x#69bcb42307f696fd7d74050944d3160e5e1646b8
+ModelConnectors#renovate/geoip2-geoip2-2.x#3a572f629fa2f3abcaa8e554f2a8c1302e92d7f6
