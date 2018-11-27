@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/symfony-console-3.x#c0deda5324bc4147cdd1120a287357281900f662
+ModelConnectors#renovate/guzzle-guzzle-3.x#277a968f042f53b1bc52b68af60060526923db91
