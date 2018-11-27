@@ -1,1 +1,1 @@
-ModelConnectors#renovate/symfony-console-3.x#a6ebeda911a117ae2934a5dc3b79ce049dd59215
+Tasks#renovate/symfony-console-3.x#a6ebeda911a117ae2934a5dc3b79ce049dd59215
