@@ -1,1 +1,1 @@
-ModelConnectors#renovate/bugsnag-bugsnag-3.x#e3c8e54fd0426e082fad505fac3c49b7691a15ca
+Tasks#renovate/bugsnag-bugsnag-3.x#e3c8e54fd0426e082fad505fac3c49b7691a15ca
