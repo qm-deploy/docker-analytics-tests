@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/doctrine-migrations-1.x#6b0995185d42f64db440bdde13e546592e2e6686
+AppSettingsControllers#renovate/doctrine-migrations-1.x#6b0995185d42f64db440bdde13e546592e2e6686
