@@ -1,1 +1,1 @@
-Analytics#renovate/wixel-gump-1.x#65a6f69e628049b54c890626b471a78d30113ab8
+MeasurementsReminders#renovate/wixel-gump-1.x#65a6f69e628049b54c890626b471a78d30113ab8
