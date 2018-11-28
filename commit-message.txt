@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/symfony-console-4.x#d8ae30f119ed9c17d545da128a8a89f68bbca0d2
+ModelConnectors#renovate/symfony-yaml-4.x#073f1bcfb60ab9d104074dd069cb6e525859697d
