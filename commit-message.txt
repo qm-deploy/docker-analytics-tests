@@ -1,1 +1,1 @@
-Tasks#renovate/bshaffer-oauth2-server-php-1.x#83ce459aa29a8654244ddd32cec4f4e64f94e74b
+Analytics#renovate/bshaffer-oauth2-server-php-1.x#83ce459aa29a8654244ddd32cec4f4e64f94e74b
