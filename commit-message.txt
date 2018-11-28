@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/phpunit-dbunit-4.x#e8190d4b9a35e43b7903a313e20a7d9f100eb9c8
+AppSettingsControllers#renovate/phpunit-dbunit-4.x#e8190d4b9a35e43b7903a313e20a7d9f100eb9c8
