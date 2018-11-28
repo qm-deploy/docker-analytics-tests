@@ -1,1 +1,1 @@
-Tasks#renovate/guzzle-guzzle-3.x#f76239ec7f8ab78382e080f4db7119eec8f29015
+Analytics#renovate/guzzle-guzzle-3.x#f76239ec7f8ab78382e080f4db7119eec8f29015
