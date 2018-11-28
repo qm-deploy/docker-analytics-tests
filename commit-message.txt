@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/symfony-console-3.x#a6ebeda911a117ae2934a5dc3b79ce049dd59215
+ModelConnectors#feature/registerWithPrevious#ce7d8bd45e39c631d7d4c9667779a78ca90266d4
