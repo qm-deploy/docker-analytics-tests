@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/phpunit-php-code-coverage-6.x#d286747e6db39fadd245c3d24e87502a0455318e
+ModelConnectors#renovate/phpunit-phpunit-7.x#123d6371e459aba1fb4be659396793100e014cdb
