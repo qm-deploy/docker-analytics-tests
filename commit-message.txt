@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/buildSettings#cec3b47886d4f66880c5e28053287f8ad4c2c11b
+AppSettingsControllers#feature/buildSettings#cec3b47886d4f66880c5e28053287f8ad4c2c11b
