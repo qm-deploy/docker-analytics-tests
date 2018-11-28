@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/migrations#2501490087624ea6510d8bebd625d8321e712630
+ModelConnectors#renovate/bshaffer-oauth2-server-php-1.x#90f2cca2cbc53c1d135980f3f436bd123b576c81
