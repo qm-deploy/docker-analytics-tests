@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/base-model#c18d1433ea58ac635297213967b08de16a72d534
+ModelConnectors#renovate/bshaffer-oauth2-server-php-1.x#82596f9f08891b30a79f9a125f42f8b2124997a1
