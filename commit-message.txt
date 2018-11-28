@@ -1,1 +1,1 @@
-Tasks#feature/QMLogger#8235b94b552ecf13a9a3769e1e94cf8ce267a89d
+Analytics#feature/QMLogger#8235b94b552ecf13a9a3769e1e94cf8ce267a89d
