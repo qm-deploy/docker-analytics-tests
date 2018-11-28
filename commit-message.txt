@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/envs#4e880b0b2b248d3922cd8aa45220c48a5bb6c64d
+ModelConnectors#feature/VendorPatch#7b485dddb535b221c5c41912fb95cf71214c62d5
