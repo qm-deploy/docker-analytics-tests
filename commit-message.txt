@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/phpunit-phpunit-7.x#dba9668cab424546079d7ef4d8132d2cde854b48
+ModelConnectors#renovate/slim-slim-3.x#555aeaee566ade53a2900eef39c181b90ced9116
