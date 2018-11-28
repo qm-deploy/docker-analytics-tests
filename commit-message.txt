@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/bugsnag-bugsnag-3.x#3dec092ca07645700e89ae5a1b30cc82ab38e28b
+AppSettingsControllers#renovate/bugsnag-bugsnag-3.x#3dec092ca07645700e89ae5a1b30cc82ab38e28b
