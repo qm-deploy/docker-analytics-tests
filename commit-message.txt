@@ -1,1 +1,1 @@
-Analytics#renovate/bshaffer-oauth2-server-php-1.x#337d3096d0eddd4dccd9cd5d0571508ee2c6eb0c
+MeasurementsReminders#renovate/bshaffer-oauth2-server-php-1.x#337d3096d0eddd4dccd9cd5d0571508ee2c6eb0c
