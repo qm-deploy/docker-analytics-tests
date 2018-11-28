@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/dts-ebay-sdk-php-18.x#3093e501b37835f2af40320f08f536f2667c1f4a
+ModelConnectors#renovate/bshaffer-oauth2-server-php-1.x#337d3096d0eddd4dccd9cd5d0571508ee2c6eb0c
