@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/slim-scripts#d237be5946f5de8380caf26011079e31616d035c
+ModelConnectors#feature/slim-scripts#702332b355b7c647d0afbdb1c2bee7cab66c4489
