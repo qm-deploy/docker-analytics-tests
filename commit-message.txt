@@ -1,1 +1,1 @@
-Tasks#renovate/bugsnag-bugsnag-3.x#0935d4c1b95df794eefb4d038878519079225060
+Analytics#renovate/bugsnag-bugsnag-3.x#0935d4c1b95df794eefb4d038878519079225060
