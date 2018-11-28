@@ -1,1 +1,1 @@
-Analytics#renovate/symfony-yaml-4.x#42f90395fb1e6c19b72d5caa99554e1f4cdaeb25
+MeasurementsReminders#renovate/symfony-yaml-4.x#42f90395fb1e6c19b72d5caa99554e1f4cdaeb25
