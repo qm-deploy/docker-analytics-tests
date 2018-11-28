@@ -1,1 +1,1 @@
-ModelConnectors#renovate/bshaffer-oauth2-server-php-1.x#82596f9f08891b30a79f9a125f42f8b2124997a1
+Tasks#renovate/bshaffer-oauth2-server-php-1.x#82596f9f08891b30a79f9a125f42f8b2124997a1
