@@ -1,1 +1,1 @@
-Tasks#renovate/symfony-console-4.x#e0f2e8fa189e47cc520dfee1211d2e2b6dce8c0c
+Analytics#renovate/symfony-console-4.x#e0f2e8fa189e47cc520dfee1211d2e2b6dce8c0c
