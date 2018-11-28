@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/bshaffer-oauth2-server-php-1.x#d51e06545c232f64b364037893d12cb0c0f78137
+ModelConnectors#renovate/bugsnag-bugsnag-3.x#3dec092ca07645700e89ae5a1b30cc82ab38e28b
