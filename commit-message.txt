@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/bshaffer-oauth2-server-php-1.x#e77ab1e07d8bb52eef184e9f3934f283a5033cdd
+AppSettingsControllers#renovate/bshaffer-oauth2-server-php-1.x#e77ab1e07d8bb52eef184e9f3934f283a5033cdd
