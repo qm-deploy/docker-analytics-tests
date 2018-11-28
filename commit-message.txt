@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/symfony-console-4.x#d0fe46fed7a41038550b10b12464a835eae20459
+ModelConnectors#renovate/bshaffer-oauth2-server-php-1.x#e4c79c0bcb875f7e0b2ee8f0b7e9d4d8e8641bf0
