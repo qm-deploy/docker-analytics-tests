@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/phpunit-phpunit-4.x#63a702baffa831ff5e5c268259c009f19564b36e
+ModelConnectors#renovate/wixel-gump-1.x#65a6f69e628049b54c890626b471a78d30113ab8
