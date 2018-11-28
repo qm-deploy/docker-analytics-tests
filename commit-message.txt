@@ -1,1 +1,1 @@
-Analytics#renovate/guzzle-guzzle-3.x#04c798dab71111c25efdd69432812868f75b599a
+MeasurementsReminders#renovate/guzzle-guzzle-3.x#04c798dab71111c25efdd69432812868f75b599a
