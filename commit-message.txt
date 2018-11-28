@@ -1,1 +1,1 @@
-ModelConnectors#renovate/guzzle-guzzle-3.x#f84c492f384256dbf099f36fd9b98542a823016b
+Tasks#renovate/guzzle-guzzle-3.x#f84c492f384256dbf099f36fd9b98542a823016b
