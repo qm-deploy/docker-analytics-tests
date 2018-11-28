@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/FIELD_PRICE#54652cbae20481dc08ddad139e01a09a8d8a1548
+AppSettingsControllers#feature/FIELD_PRICE#54652cbae20481dc08ddad139e01a09a8d8a1548
