@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/dts-ebay-sdk-php-18.x#013ef8c77f74672b415326caaf164695623141fc
+ModelConnectors#renovate/hautelook-phpass-1.x#c69591eea884002a4b1ec0240bfe4e05cbb602ac
