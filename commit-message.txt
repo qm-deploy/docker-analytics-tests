@@ -1,1 +1,1 @@
-Analytics#renovate/bugsnag-bugsnag-3.x#5a39ee994c7ae0d94441bb49b422ddab12381f7e
+MeasurementsReminders#renovate/bugsnag-bugsnag-3.x#5a39ee994c7ae0d94441bb49b422ddab12381f7e
