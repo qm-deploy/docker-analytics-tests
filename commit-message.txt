@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/jobs#409821f7dfe921e1dd03baaec8bdb1ed88d784fb
+ModelConnectors#renovate/bshaffer-oauth2-server-php-1.x#83ce459aa29a8654244ddd32cec4f4e64f94e74b
