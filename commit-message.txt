@@ -1,1 +1,1 @@
-ModelConnectors#renovate/slim-slim-3.x#555aeaee566ade53a2900eef39c181b90ced9116
+Tasks#renovate/slim-slim-3.x#555aeaee566ade53a2900eef39c181b90ced9116
