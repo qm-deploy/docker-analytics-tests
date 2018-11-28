@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/symfony-console-4.x#ae158816e0a9fedab291072a3b7bc97a11c31a41
+AppSettingsControllers#renovate/symfony-console-4.x#ae158816e0a9fedab291072a3b7bc97a11c31a41
