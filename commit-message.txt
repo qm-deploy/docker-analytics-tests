@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/phpunit-dbunit-1.x#4ece7591d2c96837aa01b53ebe379c47a02d0ff0
+ModelConnectors#renovate/guzzle-guzzle-3.x#9039580f220bb4d5ef4c8a88483bccad3a812901
