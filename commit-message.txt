@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/slim-scripts#be3d6fa6be4db9db38bc8d6da31d16daa0fce4b1
+ModelConnectors#renovate/dts-ebay-sdk-php-18.x#79a73ab85e4fa539dc89f70ae158631369c27f04
