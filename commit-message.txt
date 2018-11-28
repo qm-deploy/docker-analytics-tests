@@ -1,1 +1,1 @@
-ModelConnectors#renovate/symfony-yaml-4.x#073f1bcfb60ab9d104074dd069cb6e525859697d
+Tasks#renovate/symfony-yaml-4.x#073f1bcfb60ab9d104074dd069cb6e525859697d
