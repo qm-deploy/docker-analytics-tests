@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/doctrine-migrations-1.x#0fdb8a63b273cb6624176b685b30813247c0f197
+ModelConnectors#renovate/guzzle-guzzle-3.x#4a51f9a0b2105eecc0158dfa5fbc8840dd1a86a7
