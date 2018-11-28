@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/slim-slim-3.x#129e00f0e2fbb65fc79925fbed4b3c7737d79afc
+AppSettingsControllers#renovate/slim-slim-3.x#129e00f0e2fbb65fc79925fbed4b3c7737d79afc
