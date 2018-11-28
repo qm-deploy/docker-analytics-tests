@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/mongodb-mongodb-1.x#48e3c349a93a1ab36ce676385e1871f1200e5f9e
+ModelConnectors#renovate/guzzle-guzzle-3.x#8972d93fe51edadb19720fc1ff8a6d3d08d01de3
