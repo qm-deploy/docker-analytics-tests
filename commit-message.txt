@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/bugsnag-bugsnag-3.x#e3c8e54fd0426e082fad505fac3c49b7691a15ca
+ModelConnectors#renovate/guzzle-guzzle-3.x#04c798dab71111c25efdd69432812868f75b599a
