@@ -1,1 +1,1 @@
-Tasks#renovate/wixel-gump-1.x#687d77bd10cf5b3317c56be35f15dcea3a5247ff
+Analytics#renovate/wixel-gump-1.x#687d77bd10cf5b3317c56be35f15dcea3a5247ff
