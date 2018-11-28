@@ -1,1 +1,1 @@
-Tasks#renovate/dts-ebay-sdk-php-18.x#013ef8c77f74672b415326caaf164695623141fc
+Analytics#renovate/dts-ebay-sdk-php-18.x#013ef8c77f74672b415326caaf164695623141fc
