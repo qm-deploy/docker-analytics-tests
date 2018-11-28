@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/illuminate-database-5.x#667fd39b5cba829d715085483e7973d2162ff88e
+ModelConnectors#renovate/wixel-gump-1.x#eaeb30fa17474de7579cd0372bb555f8d1298b69
