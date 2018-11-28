@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/FIELD_PRICE#54652cbae20481dc08ddad139e01a09a8d8a1548
+ModelConnectors#feature/description#39c5a6f2fd3253bf8781dcc9aa8489443bb22b84
