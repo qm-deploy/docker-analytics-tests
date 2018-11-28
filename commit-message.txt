@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/guzzle-guzzle-3.x#6a1df630bcb08352a66cbaf0d282e7be754275cf
+ModelConnectors#renovate/illuminate-database-5.x#cccf43448e64809edf5c8b33e93a9aa6beabdfba
