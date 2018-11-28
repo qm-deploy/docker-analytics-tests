@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/bshaffer-oauth2-server-php-1.x#709105cd1690452f423e16de3ed7eed522f52e0d
+ModelConnectors#renovate/guzzle-guzzle-3.x#f84c492f384256dbf099f36fd9b98542a823016b
