@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/bugsnag-bugsnag-3.x#8668d6f3cad7ae5df040e4d218f8e1c8901b30c0
+ModelConnectors#renovate/doctrine-migrations-1.x#6b0995185d42f64db440bdde13e546592e2e6686
