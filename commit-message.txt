@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/illuminate#1840dbc8d4428b3ed8cf096767313f611f74b6d3
+ModelConnectors#renovate/major-symfony#b86e6a5a1710bbbc5e5c1ae8f4694bf6ca308857
