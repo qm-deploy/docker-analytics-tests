@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/pin-dependencies#6cd2a8b05889d1a5c7495d7dd8a6980c41dae6f0
+ModelConnectors#renovate/illuminate#939ca96c1f32002146b9a30f3ac8dc5d4c81bc28
