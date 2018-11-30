@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/exceptionIfPostRequest#86bcd13e207b79eac0a17c021fbf33cf617d0adc
+AppSettingsControllers#feature/exceptionIfPostRequest#86bcd13e207b79eac0a17c021fbf33cf617d0adc
