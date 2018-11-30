@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/illuminate#156465f506fe12ae6aeef68e2237e61b8abee86e
+ModelConnectors#renovate/illuminate#1840dbc8d4428b3ed8cf096767313f611f74b6d3
