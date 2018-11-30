@@ -1,1 +1,1 @@
-Tasks#renovate/illuminate#40a405e1388584c05d9f0a5db6c8162c3b75b2b1
+Analytics#renovate/illuminate#40a405e1388584c05d9f0a5db6c8162c3b75b2b1
