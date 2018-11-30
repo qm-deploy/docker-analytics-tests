@@ -1,6 +1,6 @@
 language: php
 php:
-  - '7.1.18'
+  - '7.2'
 pandoc_version: 2.0
 sudo: required
 services:
@@ -30,7 +30,7 @@ env:
     - REPO_TO_TEST=qm-api
   matrix:
     #- HUGO_VERSION=0.20.2 # Maybe use this for documentation at some point
-    - PHP_VERSION=7.1 BUILD_SERVICE="mysql workspace mongo"
+    - PHP_VERSION=7.2 BUILD_SERVICE="mysql workspace mongo"
 before_install:
   - sudo mysql -e "use mysql; update user set authentication_string=PASSWORD('') where User='root'; update user set plugin='mysql_native_password';FLUSH PRIVILEGES;"
   - sudo mysql_upgrade -u root
