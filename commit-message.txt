@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/major-symfony#d035e17db4055e87c5b16bce2921ad73c6dfa095
+AppSettingsControllers#renovate/major-symfony#d035e17db4055e87c5b16bce2921ad73c6dfa095
