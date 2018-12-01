@@ -16,11 +16,11 @@ if [[ $TRAVIS_TEST_GROUP = *"Laravel"* ]]; then
     cd ${QM_DOCKER_PATH}/laravel && composer install --prefer-dist --optimize-autoloader
     source ${QM_DOCKER_PATH}/tests/phpunit_tests.sh
 fi
-if [[ $TRAVIS_TEST_GROUP = *"Analytics"* ]]; then run_test_suite Analytics; fi
-if [[ $TRAVIS_TEST_GROUP = *"AppSettings"* ]]; then run_test_suite AppSettings; fi
-if [[ $TRAVIS_TEST_GROUP = *"Connectors"* ]]; then run_test_suite Connectors; fi
-if [[ $TRAVIS_TEST_GROUP = *"Controllers"* ]]; then run_test_suite Controllers; fi
-if [[ $TRAVIS_TEST_GROUP = *"Measurements"* ]]; then run_test_suite Measurements; fi
-if [[ $TRAVIS_TEST_GROUP = *"Model"* ]]; then run_test_suite Model; fi
-if [[ $TRAVIS_TEST_GROUP = *"Tasks"* ]]; then run_test_suite Tasks; fi
+if [[ ${TRAVIS_TEST_GROUP} = *"Analytics"* ]]; then run_test_suite Analytics; fi
+if [[ ${TRAVIS_TEST_GROUP} = *"AppSettings"* ]]; then run_test_suite AppSettings; fi
+if [[ ${TRAVIS_TEST_GROUP} = *"Connectors"* ]]; then run_test_suite Connectors; fi
+if [[ ${TRAVIS_TEST_GROUP} = *"Controllers"* ]]; then run_test_suite Controllers; fi
+if [[ ${TRAVIS_TEST_GROUP} = *"Measurements"* ]]; then run_test_suite Measurements; fi
+if [[ ${TRAVIS_TEST_GROUP} = *"Model"* ]]; then run_test_suite Model; fi
+if [[ ${TRAVIS_TEST_GROUP} = *"Tasks"* ]]; then run_test_suite Tasks; fi
 echo "Done!"
