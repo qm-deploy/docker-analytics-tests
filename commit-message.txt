@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/pin-dependencies#66572b3ded8c00478308fd23009edce0292127e2
+ModelConnectors#renovate/major-symfony#2e5043be777274680897d5d0b7c4a532b85e10a7
