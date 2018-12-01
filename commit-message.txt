@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/laravel#d7bcc66950e4ded8d64066a89af1cc468b2db013
+ModelConnectors#renovate/pin-dependencies#66572b3ded8c00478308fd23009edce0292127e2
