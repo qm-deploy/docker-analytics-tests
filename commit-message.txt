@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/ide-helper#b384701e6b33c81ad89b3f79ca44554472c79d3c
+ModelConnectors#feature/QMLog#771f8bea66fe330a44181c3c1ea8ed484ea218b1
