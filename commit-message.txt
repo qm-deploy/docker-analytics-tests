@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/pin-dependencies#7fb77fd68b0ff66d4e3674d5919f9e2e3b96ed13
+ModelConnectors#renovate/bshaffer-oauth2-server-php-1.x#a9756c1cf31900954f0710b1c90684fa3f27a29d
