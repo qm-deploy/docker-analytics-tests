@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/QMLog#771f8bea66fe330a44181c3c1ea8ed484ea218b1
+ModelConnectors#feature/QMLog#78d458c7db48057488777c6261cb14a23e339686
