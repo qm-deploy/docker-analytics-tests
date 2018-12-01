@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/php-7.2#31d6068e4e21484ef5c7cb9b72c022c0ee95d8db
+ModelConnectors#renovate/pin-dependencies#18f015844b58280c5c946edaac9bf8ed1a380916
