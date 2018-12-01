@@ -1,1 +1,1 @@
-Tasks#renovate/major-symfony#2e5043be777274680897d5d0b7c4a532b85e10a7
+Analytics#renovate/major-symfony#2e5043be777274680897d5d0b7c4a532b85e10a7
