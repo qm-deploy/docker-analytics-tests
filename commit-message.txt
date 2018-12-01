@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/illuminate#159481d6205b4656cbf4b7555d48c9291c3f388a
+ModelConnectors#feature/laravel#744117407b3a513bc42e325e6155aa7822552c84
