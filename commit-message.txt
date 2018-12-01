@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/phpunit-7#9b89810603e49d94f94f43f9577f7b26420cffbd
+ModelConnectors#renovate/laravel-framework-5.x#ff9dd6c2129f2ec0dd6012894feb536e6c1d17ec
