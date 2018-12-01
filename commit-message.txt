@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/pin-dependencies#1135761dda899fe9122b83483f7beff27a4e1bc3
+AppSettingsControllers#renovate/pin-dependencies#1135761dda899fe9122b83483f7beff27a4e1bc3
