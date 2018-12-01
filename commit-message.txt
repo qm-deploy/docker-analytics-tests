@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/laravel#884e842fde754b02b2dbfb0697e3b275dfc717b2
+ModelConnectors#feature/laravel#17d9abb344ddf07675e408e460f7cdd38efcaca5
