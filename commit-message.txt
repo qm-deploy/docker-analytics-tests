@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/bshaffer-oauth2-server-php-1.x#a9756c1cf31900954f0710b1c90684fa3f27a29d
+ModelConnectors#renovate/illuminate#159481d6205b4656cbf4b7555d48c9291c3f388a
