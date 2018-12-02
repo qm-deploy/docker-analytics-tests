@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/login-page#43b3352cf960db19bf94212486285fee71a14c8a
+ModelConnectors#renovate/quantimodo-quantimodo-sdk-php-5.x#00eb675865818a13db439785d6228c60bfac194c
