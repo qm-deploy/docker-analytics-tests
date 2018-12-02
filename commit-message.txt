@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/tableIsProtected#e024fdfbc80dbb495cd8cf16b25952570d5e0ab0
+ModelConnectors#feature/line-endings#f48a73c3b9dc33cacddb0f1b320a849a4c090ce1
