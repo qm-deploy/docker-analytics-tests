@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/pin-dependencies#c94234b768613adec4fcac2415b37010d5c07f19
+ModelConnectors#renovate/quantimodo-quantimodo-sdk-php-5.x#2cc96bbb91fb62b894b86fab0e59aff63ba15e31
