@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/deleteCookie#ba651e11118818a74238325cd62efc0842fb370b
+AppSettingsControllers#feature/deleteCookie#ba651e11118818a74238325cd62efc0842fb370b
