@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/quantimodo-quantimodo-sdk-php-5.x#b8128e366806a0226b9c5e6c8909f0a720b5eb03
+AppSettingsControllers#renovate/quantimodo-quantimodo-sdk-php-5.x#b8128e366806a0226b9c5e6c8909f0a720b5eb03
