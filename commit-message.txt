@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/maatwebsite-excel-3.x#a16145985aed0f8a0c35eba9f818ef003528748b
+AppSettingsControllers#renovate/maatwebsite-excel-3.x#a16145985aed0f8a0c35eba9f818ef003528748b
