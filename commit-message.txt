@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/quantimodo-quantimodo-sdk-php-5.x#2cc96bbb91fb62b894b86fab0e59aff63ba15e31
+ModelConnectors#renovate/laravel-socialite-3.x#28fc3f4089ece862d7104ebc2b3f18e761804af6
