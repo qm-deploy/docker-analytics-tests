@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/PhpConsole#8b1a3b11be9d030b1fa6512bbaa9d0667aa68cb0
+ModelConnectors#renovate/laravel-socialite-3.x#2e1bdd50ac1054ec4389f50728e8b6918da769de
