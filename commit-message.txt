@@ -1,1 +1,1 @@
-ModelConnectors#renovate/quantimodo-quantimodo-sdk-php-5.x#54cbec7edc47bb609d6b016de0c0d8c2a8a45b5e
+Tasks#renovate/quantimodo-quantimodo-sdk-php-5.x#54cbec7edc47bb609d6b016de0c0d8c2a8a45b5e
