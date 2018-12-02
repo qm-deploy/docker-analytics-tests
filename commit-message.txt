@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/QMClient#f364bbaa46ec3c9541ff8e2a296dcc70933e2147
+AppSettingsControllers#feature/QMClient#f364bbaa46ec3c9541ff8e2a296dcc70933e2147
