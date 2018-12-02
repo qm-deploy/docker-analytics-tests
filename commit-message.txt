@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/laravel-socialite-3.x#f39c68443adc645c048b8425aae31c331059fcc4
+ModelConnectors#feature/AppMode#b7dde8ea5d6f3d6628187f5444caadfa69898d48
