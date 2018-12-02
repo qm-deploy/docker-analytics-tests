@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/laravel-socialite-3.x#f6775d58fe0edee90f4299e5d9c4531783c43107
+ModelConnectors#renovate/pin-dependencies#70002a6227b1fb087811e73a68b697524b8d48ef
