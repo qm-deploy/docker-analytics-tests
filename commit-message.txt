@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/tableIsProtected#e454b449182fa994addc5ea49fb594ab65bb90ea
+AppSettingsControllers#feature/tableIsProtected#e454b449182fa994addc5ea49fb594ab65bb90ea
