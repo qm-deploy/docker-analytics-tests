@@ -1,1 +1,1 @@
-Tasks#renovate/pin-dependencies#b1b1ef515673b6dc60cd1006763085d2ea290a22
+Analytics#renovate/pin-dependencies#b1b1ef515673b6dc60cd1006763085d2ea290a22
