@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/phpunit-production#03d7ccd0c07011a47d3fea8a8b2489aed5c1b7fe
+ModelConnectors#renovate/laravel-socialite-3.x#eb79c71ea24e82adea8ea6c25e665743769de728
