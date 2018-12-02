@@ -1,1 +1,1 @@
-Tasks#renovate/laravel-socialite-3.x#f6775d58fe0edee90f4299e5d9c4531783c43107
+Analytics#renovate/laravel-socialite-3.x#f6775d58fe0edee90f4299e5d9c4531783c43107
