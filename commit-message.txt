@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/laravel-socialite-3.x#7b95fd6e61956c9013f61af07e996940136d8d82
+ModelConnectors#feature/LoginCtrl#1764acaefabaae47fce18ef4fc4abef9863e3042
