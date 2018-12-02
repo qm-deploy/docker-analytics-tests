@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/QMAuthenticator#255c43e1e2b50e0cec22bee5ed432b82c0861632
+ModelConnectors#renovate/pin-dependencies#c94234b768613adec4fcac2415b37010d5c07f19
