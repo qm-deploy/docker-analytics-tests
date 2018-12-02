@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/login-page#ea319ea105dea5905d4390e9ea58711fe8fe9360
+ModelConnectors#feature/QMAuthenticator#d080cbb4b294d14d5fb050cb672fa7b8cc5854d7
