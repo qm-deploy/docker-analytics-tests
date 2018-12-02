@@ -1,1 +1,1 @@
-ModelConnectors#renovate/laravel-socialite-3.x#28fc3f4089ece862d7104ebc2b3f18e761804af6
+Tasks#renovate/laravel-socialite-3.x#28fc3f4089ece862d7104ebc2b3f18e761804af6
