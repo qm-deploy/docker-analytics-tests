@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/login-page#07b76ccee09f937ea9a8005699997e15ad3b7a94
+ModelConnectors#renovate/pin-dependencies#bf3ecd163e2e0dd6b7c16c1c5be28ca2ea267ba2
