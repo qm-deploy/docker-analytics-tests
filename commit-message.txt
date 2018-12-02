@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/pin-dependencies#bf3ecd163e2e0dd6b7c16c1c5be28ca2ea267ba2
+ModelConnectors#feature/AppMode#5504aa4da7ff72ea211e5a528515a2d6d71be652
