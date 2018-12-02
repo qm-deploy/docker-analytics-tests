@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/LoginCtrl#77e3a68a4a123001ce48db90f60445049268ec6c
+ModelConnectors#feature/QMClient#e9afd15ce120745a40476e27760418fafcf087f9
