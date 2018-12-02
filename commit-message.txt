@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/cache#cbc09acc5628c414453ea1b7efe80cc0c33a5302
+ModelConnectors#renovate/laravel-socialite-3.x#dbe4169903ad745947a877de560666ea7914a786
