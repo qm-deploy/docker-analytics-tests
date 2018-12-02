@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/laravel-socialite-3.x#f5fc54d6f311310b739cfd0be6a4d61b24310830
+ModelConnectors#feature/dusk#92ebe3008aed4a16e01fa5a3c3a3c237e87ddd55
