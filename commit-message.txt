@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/fallback-redirect#59895e524335628c87254d1f0cedfdf4754c34f3
+ModelConnectors#feature/getIonicAppUrl#b212b55c9551c1026b18a97fc36d1a0569411300
