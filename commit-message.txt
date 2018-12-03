@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/truncate#534040eccd4ef15609cada8082529e7f32c8fc88
+ModelConnectors#feature/LaravelTracyServiceProvider#b11a580bf74d1ef0aecfa87779fbe5374a923a7c
