@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getIonicAppUrl#b37043844e49b86662831698424e0f9fb9d3e35a
+ModelConnectors#feature/getIonicAppUrl#98b460f3c8a5ab99f1424f9c2e3ae483d38ef093
