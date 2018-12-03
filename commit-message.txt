@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/truncate#f67b6e30361a9c97677c5492769875ef1d343645
+AppSettingsControllers#feature/truncate#f67b6e30361a9c97677c5492769875ef1d343645
