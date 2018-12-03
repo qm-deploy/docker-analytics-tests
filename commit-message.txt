@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getIonicAppUrl#ddba2182e3ca299a4bccf4896238aca5b8895de2
+AppSettingsControllers#feature/getIonicAppUrl#ddba2182e3ca299a4bccf4896238aca5b8895de2
