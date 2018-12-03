@@ -1,1 +1,1 @@
-MeasurementsReminders#renovate/phpunit-phpunit-7.x#c42fda5b47dc96bb7251c381a050855850641b52
+AppSettingsControllers#renovate/phpunit-phpunit-7.x#c42fda5b47dc96bb7251c381a050855850641b52
