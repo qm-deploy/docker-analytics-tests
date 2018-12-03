@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/QB-override#71d7a368d118562cfa1f3018456e21883f688b87
+ModelConnectors#feature/truncate#93e312ef3157cad5350d247030c988e1ecd0704d
