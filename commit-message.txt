@@ -1,1 +1,1 @@
-Tasks#feature/truncate#020ca183397ce750a6306d9b13d32d9d2e818a70
+Analytics#feature/truncate#020ca183397ce750a6306d9b13d32d9d2e818a70
