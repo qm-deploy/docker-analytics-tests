@@ -30,8 +30,8 @@ export TEST_CLEARDB_DATABASE_URL_READONLY=mysql://root:root@mysql/${TEST_SUITE}?
 export MONGO_DB_CONNECTION=mongodb://127.0.0.1:27017
 ENV_COMMAND="export TEST_CLEARDB_DATABASE_URL=${TEST_CLEARDB_DATABASE_URL} && export TEST_CLEARDB_DATABASE_URL_READONLY=${TEST_CLEARDB_DATABASE_URL_READONLY} && export MONGO_DB_CONNECTION=${MONGO_DB_CONNECTION} && "
 mkdir ${QM_DOCKER_PATH}/phpunit || true
-echo "Copying .testing.env to .env"
-cp ${QM_DOCKER_PATH}/.testing.env ${QM_DOCKER_PATH}/.env
+echo "Copying .env.testing to .env"
+cp ${QM_DOCKER_PATH}/.env.testing ${QM_DOCKER_PATH}/.env
 cp ${TEST_REPO_PATH}/test.env ${QM_DOCKER_PATH}/laradock/.env
 cd ${QM_DOCKER_PATH}/laradock
 docker-compose build mysql
