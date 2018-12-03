@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/truncate#93e312ef3157cad5350d247030c988e1ecd0704d
+ModelConnectors#feature/no_drop#644492a8c3feed7726588ed154b0b78362882bed
