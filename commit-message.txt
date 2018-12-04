@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/travis_build_trigger#09fd4b1443a0fa3b7dfab5c390949e1344a40dc9
+ModelConnectors#feature/test-scripts#3c075797c32d934839cf6db61e2dba2dc449492e
