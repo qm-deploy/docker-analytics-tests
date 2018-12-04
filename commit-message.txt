@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/bootstrap#f56a04895fa8f144d9462316aabe938f4c1c1be9
+ModelConnectors#feature/NotEnoughDataException#edc2c6aa27b7f40b5bcac1b62a18f56479f6c2d8
