@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/Stripe#f487e79705bd37ddc23f2fbcdcc5392603dc83ad
+ModelConnectors#renovate/bshaffer-oauth2-server-php-1.x#9b180cda9a8aaf4aee602d290f6a3b0aceb467c6
