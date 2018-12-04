@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getTestAppAndClearCache#1b26672efb445621d8c3b3dfbc60a3249f23e175
+ModelConnectors#feature/composer-update#c75821bb491d3b9eee27deab32a476c4345fe677
