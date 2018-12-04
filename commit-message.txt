@@ -1,1 +1,1 @@
-Tasks#feature/email-service#dbb88aff26ec334fd7d7026bfaa10ea118f936c7
+Analytics#feature/email-service#dbb88aff26ec334fd7d7026bfaa10ea118f936c7
