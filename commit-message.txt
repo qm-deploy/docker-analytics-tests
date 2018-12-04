@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/JsonResponses#eea3132b8189c1e69a4eac68efab6a9747138211
+AppSettingsControllers#feature/JsonResponses#eea3132b8189c1e69a4eac68efab6a9747138211
