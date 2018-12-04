@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/logging#54cb08ae0342920eff8eddc13384addd15866aa9
+ModelConnectors#feature/properties#3f4848f224bf1168ff2da0aab975e8c5a145a20b
