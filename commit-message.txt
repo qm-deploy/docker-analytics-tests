@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/credentials-check#f14421545879e08e62c4bd1795c3ab5c26bd99b8
+AppSettingsControllers#feature/credentials-check#f14421545879e08e62c4bd1795c3ab5c26bd99b8
