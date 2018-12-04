@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/test-scripts#6ab6f455183b85ffbc443f8c217c66692f611deb
+AppSettingsControllers#feature/test-scripts#6ab6f455183b85ffbc443f8c217c66692f611deb
