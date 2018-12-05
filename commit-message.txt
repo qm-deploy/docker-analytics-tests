@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/guzzle-guzzle-3.x#4b11b9438210e661888e30db4f26dddd42518a3e
+ModelConnectors#renovate/pin-dependencies#cb75f2e6e56843529549157e6d9aa70d6f5aac1e
