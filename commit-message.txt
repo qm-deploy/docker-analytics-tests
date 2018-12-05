@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/test-token#a5fe85b51bda348821c1ed5d9acb793ecf45e709
+ModelConnectors#renovate/pin-dependencies#50dc321975254079089eb99f0c5bf7dcc128af94
