@@ -1,1 +1,1 @@
-Laravel#renovate/guzzle-guzzle-3.x#4b11b9438210e661888e30db4f26dddd42518a3e
+Analytics#renovate/guzzle-guzzle-3.x#4b11b9438210e661888e30db4f26dddd42518a3e
