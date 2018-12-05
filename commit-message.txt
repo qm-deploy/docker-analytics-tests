@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/guzzle-guzzle-3.x#f8d5a50b8055e6de939c4f73bae7b40adfb67dd4
+ModelConnectors#renovate/laravel-framework-5.x#8f0412d6199ac2ee0259026f24406c0130cafdc3
