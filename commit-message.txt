@@ -1,1 +1,1 @@
-Laravel#feature/getQuantiModoClientAliasSubDomains#0cf339fed514bd943c6f6478d8f48a08f63b56df
+Analytics#feature/getQuantiModoClientAliasSubDomains#0cf339fed514bd943c6f6478d8f48a08f63b56df
