@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/laravel-framework-5.x#8f0412d6199ac2ee0259026f24406c0130cafdc3
+ModelConnectors#renovate/laravel-framework-5.x#56340634b05a1076b0e4dc3da378e7bc753a0358
