@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/eloquence#ef61cb10f37e3ea8e70153732db9644585d9fcc3
+ModelConnectors#feature/bugsnag-config#cdb56efb8d9fa0cd9498374144e41f9c7d415237
