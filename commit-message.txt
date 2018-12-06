@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/user-is-collaborator#34ab20f69fd842daa531e138d3033e7fcf1c0bbb
+AppSettingsControllers#feature/user-is-collaborator#34ab20f69fd842daa531e138d3033e7fcf1c0bbb
