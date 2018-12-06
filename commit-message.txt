@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/bugsnag#e71e02cf274a0035e7e3030396fc4275d158b67b
+ModelConnectors#feature/query-logger#06766be5c4d1e79f8a42c3127e9de1575de8f5b6
