@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/ide-helper#965d0c998bdcd12c863510b2cc8efdaf8bb979c9
+ModelConnectors#feature/model-properties#4e0f4845a3ea42b2330e52d7e4209f444073f1f2
