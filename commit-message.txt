@@ -1,1 +1,1 @@
-Laravel#feature/dev-providers#fe1089a2397293b4917f4697dff121d2dd6ae057
+Analytics#feature/dev-providers#fe1089a2397293b4917f4697dff121d2dd6ae057
