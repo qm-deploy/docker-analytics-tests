@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/query-logger#06766be5c4d1e79f8a42c3127e9de1575de8f5b6
+ModelConnectors#feature/eloquence#ef61cb10f37e3ea8e70153732db9644585d9fcc3
