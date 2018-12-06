@@ -1,1 +1,1 @@
-ModelConnectors#feature/query-logger#06766be5c4d1e79f8a42c3127e9de1575de8f5b6
+Tasks#feature/query-logger#06766be5c4d1e79f8a42c3127e9de1575de8f5b6
