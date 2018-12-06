@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/bugsnag#4df1ed40045a8f763c6c6319669b929e52fe4535
+ModelConnectors#feature/artisan-publish#76eb60fee46c19623537bc84d616dbf67e8a46b6
