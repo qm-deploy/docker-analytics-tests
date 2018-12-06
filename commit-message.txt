@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/user-is-collaborator#0f434cfea32370a2888ac737b15963d986eafabd
+ModelConnectors#renovate/barryvdh-laravel-ide-helper-2.x#753a17061ca3e89affff93aa632a95d020879bbe
