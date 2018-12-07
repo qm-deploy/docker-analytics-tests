@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/updateCallbackUrls#0763d33aceb595081fc24f75bd26b537fa26af3b
+ModelConnectors#feature/updateCallbackUrls#b09eb00865406987c6303103ab105979fe893d8c
