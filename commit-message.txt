@@ -1,1 +1,1 @@
-Tasks#feature/setBugsnagMessage#2666a74811dc957e32ab347d83d3b54ed6ed9219
+Laravel#feature/setBugsnagMessage#2666a74811dc957e32ab347d83d3b54ed6ed9219
