@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/LaravelProductionTestCase#a1dacc1c477d816dee23d7282d182565936465ed
+ModelConnectors#feature/LaravelProductionTestCase#8785c2677035d715c2ecebbf1a2005a8d1d0b042
