@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/updateCallbackUrls#1c0b2231d8d7f09f54a2c3f492d9d8ca81b0f288
+ModelConnectors#feature/setBugsnagMessage#2666a74811dc957e32ab347d83d3b54ed6ed9219
