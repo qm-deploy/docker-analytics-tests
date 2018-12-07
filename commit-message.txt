@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/logout#b15bee6762cbde35584dc0e6cff07fb5c0bb01ff
+ModelConnectors#feature/logout#521a60eb5cf60aec65ba1da6bbb76a2bd57cdd96
