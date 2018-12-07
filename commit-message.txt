@@ -1,1 +1,1 @@
-Laravel#feature/LaravelProductionTestCase#a1dacc1c477d816dee23d7282d182565936465ed
+Analytics#feature/LaravelProductionTestCase#a1dacc1c477d816dee23d7282d182565936465ed
