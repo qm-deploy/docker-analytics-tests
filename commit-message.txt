@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getOrAuthenticateUser#ee6d29b606c9426f8fd9b88460be082eed29b4d2
+ModelConnectors#feature/getOrAuthenticateUser#7258284a856f9a4e78c1085a02d3c2629737e994
