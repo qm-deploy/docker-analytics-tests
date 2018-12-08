@@ -1,1 +1,1 @@
-TasksLaravel#renovate/barryvdh-laravel-ide-helper-2.x#8ee7600af1700d5e624d708d834c18c022b9e257
+Analytics#renovate/barryvdh-laravel-ide-helper-2.x#8ee7600af1700d5e624d708d834c18c022b9e257
