@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/test-generator#43e6fbb57a322fb8bf3c729ebf2935ce0faf5051
+Laravel#feature/test-generator#43e6fbb57a322fb8bf3c729ebf2935ce0faf5051
