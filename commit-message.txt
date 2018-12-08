@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/phpdocs#265fc5f0f9d788849fe9fae70db152540bf62d4b
+ModelConnectors#renovate/barryvdh-laravel-ide-helper-2.x#8ee7600af1700d5e624d708d834c18c022b9e257
