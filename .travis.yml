@@ -42,23 +42,23 @@ before_install:
 
 before_script:
   - ./clone.sh
-  - ./mark_pending_on_github.sh
+  - ./qm-api/tests/travis/mark_pending_on_github.sh
   - pecl channel-update pecl.php.net
   - pecl -q install mongodb || true
   - echo "extension=mongodb.so" >> `php --ini | grep "Loaded Configuration" | sed -e "s|.*:\s*||"`
   - echo "extension = memcached.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
-  - ./tideways.sh
-  - ./xhgui.sh
-  - ./composer.sh
+  - ./qm-api/tests/travis/tideways.sh
+  - ./qm-api/tests/travis/xhgui.sh
+  - ./qm-api/tests/travis/composer.sh
 
 script:
-  - ./phpunit.sh
+  - ./qm-api/tests/travis/phpunit.sh
 
 after_failure:
-  - ./mark_failed_on_github.sh
+  - ./qm-api/tests/travis/mark_failed_on_github.sh
 
 after_success:
-  - ./mark_succeeded_on_github.sh
+  - ./qm-api/tests/travis/mark_succeeded_on_github.sh
 
 notifications:
   email: false
