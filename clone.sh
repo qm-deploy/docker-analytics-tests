@@ -14,3 +14,4 @@ fi
 set -x
 cd ${REPO_TO_TEST} && git stash && git pull origin ${BRANCH}
 git submodule update --init --recursive
+chmod +x tests/travis/*.sh

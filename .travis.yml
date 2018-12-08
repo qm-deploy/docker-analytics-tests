@@ -42,7 +42,7 @@ before_install:
 
 before_script:
   - ./clone.sh
-  - chmod +x ./*.sh
+  - chmod +x ./qm-api/tests/travis/*.sh
   - ./qm-api/tests/travis/mark_pending_on_github.sh
   - pecl channel-update pecl.php.net
   - pecl -q install mongodb || true
