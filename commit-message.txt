@@ -1,1 +1,1 @@
-AppSettingsControllers#renovate/guzzle-guzzle-3.x#7f8e97f97dcdf0f9374793b6a84bec0b7c22d44b
+ModelConnectors#renovate/slim-slim-3.x#b6095f623cec60fcddf51c9082bf859786975074
