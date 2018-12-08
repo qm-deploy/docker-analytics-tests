@@ -1,1 +1,1 @@
-Laravel#feature/test-generator#43e6fbb57a322fb8bf3c729ebf2935ce0faf5051
+ModelConnectors#feature/jobs#4bde725424e47990c7265130f0197ac055e57ba1
