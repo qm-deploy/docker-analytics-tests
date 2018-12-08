@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-export TEST_REPO_PATH="$PWD"
 export QM_API="$PWD/${REPO_TO_TEST}"
+export TESTS_TRAVIS="$QM_API/tests/travis"
 echo "HOSTNAME is ${HOSTNAME} and QM_API is $QM_API"
 # Must use TRAVIS_TEST_GROUP instead of TEST_SUITE variable because the ambiguity causes problems
 if [[ -z "$TRAVIS_TEST_GROUP" ]];
