@@ -1,1 +1,1 @@
-TasksLaravel#feature/variance-exception#7966514c3738300188fc1a41b4aa21887d229ec9
+Analytics#feature/variance-exception#7966514c3738300188fc1a41b4aa21887d229ec9
