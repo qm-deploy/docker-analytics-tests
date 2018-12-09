@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/BadRequestHttpException#1b40e854883cb56afd9cc03fc559e2614ff4c5f0
+AppSettingsControllers#feature/BadRequestHttpException#1b40e854883cb56afd9cc03fc559e2614ff4c5f0
