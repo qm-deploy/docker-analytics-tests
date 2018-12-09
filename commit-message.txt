@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/deletion-exceptions#4be628b68e955399c170af7c80e2506c8999248c
+ModelConnectors#feature/BadRequestHttpException#1b40e854883cb56afd9cc03fc559e2614ff4c5f0
