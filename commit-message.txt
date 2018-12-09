@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/composer-update#d6c5168c836daa2feeceffd6023cd9dc9c6785db
+ModelConnectors#feature/useless-exception-docs#bd8ede93fc490b8be8a48740073d73e205253fba
