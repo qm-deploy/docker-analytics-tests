@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/variance-exception#cd77b0abead57b74232ca12c0c075bec6f96614c
+ModelConnectors#feature/variance-exception#d3ed0b5853889a3bb4bb77c5ac041997cb669eb2
