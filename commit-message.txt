@@ -1,1 +1,1 @@
-TasksLaravel#feature/deletion-exceptions#4be628b68e955399c170af7c80e2506c8999248c
+Analytics#feature/deletion-exceptions#4be628b68e955399c170af7c80e2506c8999248c
