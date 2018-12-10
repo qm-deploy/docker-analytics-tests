@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/laravel-tests#34290b0eb51516932c0af38e6ae505dec2e35c4f
+ModelConnectors#feature/laravel-tests#c23b0fb20170b2441cf065570a65ad593dcc159f
