@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/exception-docs#6b55e7a8d8ba70993969d4e7f41e5bcc14628023
+ModelConnectors#feature/laravel-tests#ef83b6ecdfc7e8f7c95dfda545367dda3189d886
