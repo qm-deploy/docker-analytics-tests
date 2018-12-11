@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/truncate#efbacaddc7a79293bb5617adaf26feec3af5ff1a
+ModelConnectors#feature/hideBuyNowButtons#5ab65036784553bc534111cb6f4dd22960738774
