@@ -1,1 +1,1 @@
-TasksLaravel#feature/LogicExceptions#e6a1f30aa929ee9676620d207cd9163a30ffe535
+Analytics#feature/LogicExceptions#e6a1f30aa929ee9676620d207cd9163a30ffe535
