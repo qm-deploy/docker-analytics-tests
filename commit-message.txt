@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/PushNotification#e2e4d8362354c0859d2a25cda31205c39e21c467
+AppSettingsControllers#feature/PushNotification#e2e4d8362354c0859d2a25cda31205c39e21c467
