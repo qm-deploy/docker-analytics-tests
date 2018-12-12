@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getBillingEnabled#21de4d99406d08c1b1eec760f8c22fcd959f84f8
+ModelConnectors#feature/getBillingEnabled#96b711224646de9e08638f433f7a51175667cefb
