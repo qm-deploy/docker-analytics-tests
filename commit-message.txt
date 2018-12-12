@@ -1,1 +1,1 @@
-ModelConnectors#renovate/laravel-framework-5.x#b0560ca513ee28685b32836b1f2335a2b9409216
+TasksLaravel#renovate/laravel-framework-5.x#b0560ca513ee28685b32836b1f2335a2b9409216
