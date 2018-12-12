@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/hideBuyNowButtons#10b78410cb13529c3fb409fad0cc372c26537540
+AppSettingsControllers#feature/hideBuyNowButtons#10b78410cb13529c3fb409fad0cc372c26537540
