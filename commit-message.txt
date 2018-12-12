@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/hideBuyNowButtons#e287b8122bcd2da0d666d632178731115e2f837d
+ModelConnectors#feature/hideBuyNowButtons#10b78410cb13529c3fb409fad0cc372c26537540
