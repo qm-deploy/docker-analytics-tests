@@ -1,1 +1,1 @@
-ModelConnectors#feature/truncate#d08d1f702078689e39b5cd81d04bf911a554a9c4
+TasksLaravel#feature/truncate#d08d1f702078689e39b5cd81d04bf911a554a9c4
