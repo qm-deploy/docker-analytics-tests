@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/testThatMemcachedIsWorking#9f0d8b35681927be363979c3e9fb9f031ca9cd53
+ModelConnectors#feature/stupidCategoryPairs#8789907901d62cab70259ccdbfd2e185795b25db
