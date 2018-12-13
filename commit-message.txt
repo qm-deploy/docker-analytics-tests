@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/LaravelMigrations#18609a980fe3f30cd0746ed02b54d6ac5a50340e
+ModelConnectors#feature/LaravelMigrations#d2f3322943801d2e393e49bafacb4b53cdb53d99
