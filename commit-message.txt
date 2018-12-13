@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/isStupidCategory#e815918e4cfb04e0fc210ed036e9b7df2a54f73f
+ModelConnectors#feature/isStupidCategory#6520b6048ba276fb192b7e88de8ae6305d591526
