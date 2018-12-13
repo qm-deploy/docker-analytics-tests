@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/testThatMemcachedIsWorking#64ac1fbef053499694e418d7dc30090946afb0ba
+AppSettingsControllers#feature/testThatMemcachedIsWorking#64ac1fbef053499694e418d7dc30090946afb0ba
