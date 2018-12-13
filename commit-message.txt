@@ -1,1 +1,1 @@
-Analytics#feature/speed-trap#cda810328c88cec0aa3454352cb082679b8df1ac
+MeasurementsReminders#feature/speed-trap#cda810328c88cec0aa3454352cb082679b8df1ac
