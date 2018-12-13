@@ -1,1 +1,1 @@
-Analytics#feature/memcached#30ba25ee1810b76de1864d3ac58b29dd7fef677b
+MeasurementsReminders#feature/memcached#30ba25ee1810b76de1864d3ac58b29dd7fef677b
