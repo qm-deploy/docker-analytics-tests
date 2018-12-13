@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/isStupidCategory#6520b6048ba276fb192b7e88de8ae6305d591526
+ModelConnectors#feature/memcached-available#da40210c6f9bdf04498aa5db5922339ceb8c39b6
