@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/LocationsActivities#ec1f0193cd16a3879953a9b653152fd5b68fdf55
+ModelConnectors#feature/memcached#30ba25ee1810b76de1864d3ac58b29dd7fef677b
