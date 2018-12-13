@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/updateVariableCategoryIdInMeasurementsTableIfNecessary#29f88d9fb5aa41e8ad45e6e54a7c0c09d7218137
+ModelConnectors#feature/ext-curl#9c6f1f41b31baae2192deab20b6be6fd2ae26a9e
