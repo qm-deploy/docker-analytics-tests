@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/memcached-available#3422cfc3aa2bbd1fe5cb517e1db4c8b99ac0ed6c
+ModelConnectors#feature/validateTagCategories#189401bf5efbdd55d3a394211d11169cc7a094b1
