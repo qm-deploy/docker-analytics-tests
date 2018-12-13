@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/test-helper#96252a09770af35d58cdbec46cfd35410c32e349
+ModelConnectors#feature/memcached#47c4c5fb334d4a713ca56e4b9dcc47bfc54e61b1
