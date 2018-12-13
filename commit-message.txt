@@ -1,1 +1,1 @@
-TasksLaravel#feature/memcached-available#da40210c6f9bdf04498aa5db5922339ceb8c39b6
+Analytics#feature/memcached-available#da40210c6f9bdf04498aa5db5922339ceb8c39b6
