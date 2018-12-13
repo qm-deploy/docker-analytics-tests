@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/memcached#30ba25ee1810b76de1864d3ac58b29dd7fef677b
+ModelConnectors#feature/memcached#865da4cda180671bd46c4be0ef17ebb4865dd6f5
