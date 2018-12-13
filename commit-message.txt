@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getCommonTagVariables#d805c4ea55afd823cd8a2abb96c8f24ff8c3ec5a
+ModelConnectors#feature/InitializeMemcached#eaccef4988bc643fdc20eafa0b191b3c679a5d77
