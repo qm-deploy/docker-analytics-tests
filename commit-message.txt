@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/CauseOfIllness#03ee0d8ff3a2f229b4930e57d9e2f7f56fe40433
+ModelConnectors#feature/isStupidCategory#e815918e4cfb04e0fc210ed036e9b7df2a54f73f
