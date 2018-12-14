@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/states-json#3794c954fd5030b864179cfffc725f8cb3acecf0
+ModelConnectors#feature/getCommonVariablesWithMeasurementsBelowAllowedRanges#1abb80a34a31aa4cfb2a75b50cd136707caae015
