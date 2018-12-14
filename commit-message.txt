@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/memcached-ini-set#65447bfd9987709eadbe7ef9a1eb3bc5fd758fec
+AppSettingsControllers#feature/memcached-ini-set#65447bfd9987709eadbe7ef9a1eb3bc5fd758fec
