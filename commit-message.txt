@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/SessionHelper#dea11289623e375b16017280f5aadad173eb7592
+ModelConnectors#feature/facebook#f9823b2f88f2b8549919419f97a8b6c3674d155d
