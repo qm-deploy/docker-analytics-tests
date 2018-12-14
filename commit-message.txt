@@ -1,1 +1,1 @@
-TasksLaravel#feature/testNumberOfConnectorUpdatesInLastHour#4b808e54c4770649114a9d49e9162c832ac8da2d
+Analytics#feature/testNumberOfConnectorUpdatesInLastHour#4b808e54c4770649114a9d49e9162c832ac8da2d
