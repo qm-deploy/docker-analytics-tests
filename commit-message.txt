@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/facebook#f9823b2f88f2b8549919419f97a8b6c3674d155d
+ModelConnectors#feature/validateTagCategories#11d88e70a8b0825ee5105d4caee96f3bcdb48995
