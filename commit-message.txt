@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/UPDATE_DATABASE#2875893be30e655b39aa55d7eb2fbf5b7be557a3
+ModelConnectors#feature/getQMDockerBranchName#4f7f6941c569e00585e7470fee7260a83788548c
