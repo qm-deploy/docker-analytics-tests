@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/use-bugsnag#44e20d8299cd949777a33f44b7ddb1325a42027b
+AppSettingsControllers#feature/use-bugsnag#44e20d8299cd949777a33f44b7ddb1325a42027b
