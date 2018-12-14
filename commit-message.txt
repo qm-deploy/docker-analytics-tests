@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/NewRelicGetUserTest#10509e005466190f9c2358a4562fd1772dbe7cbd
+ModelConnectors#feature/use-bugsnag#44e20d8299cd949777a33f44b7ddb1325a42027b
