@@ -1,1 +1,1 @@
-TasksLaravel#feature/use-bugsnag#44e20d8299cd949777a33f44b7ddb1325a42027b
+Analytics#feature/use-bugsnag#44e20d8299cd949777a33f44b7ddb1325a42027b
