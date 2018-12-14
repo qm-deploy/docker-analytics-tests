@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/memcached-ini-set#65447bfd9987709eadbe7ef9a1eb3bc5fd758fec
+ModelConnectors#feature/states-json#3794c954fd5030b864179cfffc725f8cb3acecf0
