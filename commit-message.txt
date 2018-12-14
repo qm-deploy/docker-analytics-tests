@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getQMDockerBranchName#4f7f6941c569e00585e7470fee7260a83788548c
+AppSettingsControllers#feature/getQMDockerBranchName#4f7f6941c569e00585e7470fee7260a83788548c
