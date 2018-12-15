@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/setAppVersion#41b20f7b0d8a660de277d8920ef84773f91950f9
+ModelConnectors#feature/debugbar#016ed11c7873d85612a9b5a58d267c61844060ce
