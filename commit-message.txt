@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getRedirectToUrlFromRequest#18990da0f7a400e4df192d43b8fd1555f18d6f7a
+AppSettingsControllers#feature/getRedirectToUrlFromRequest#18990da0f7a400e4df192d43b8fd1555f18d6f7a
