@@ -1,1 +1,1 @@
-ModelConnectors#feature/QuantiModoConnector#707dd001ad22aafc3306e057d70016489807cac6
+TasksLaravel#feature/QuantiModoConnector#707dd001ad22aafc3306e057d70016489807cac6
