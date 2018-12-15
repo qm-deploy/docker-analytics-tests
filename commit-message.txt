@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getCommitHashAndDate#8970ae2d47a7b0c2ddf7dbb8ba056306857904f8
+AppSettingsControllers#feature/getCommitHashAndDate#8970ae2d47a7b0c2ddf7dbb8ba056306857904f8
