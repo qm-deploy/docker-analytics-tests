@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/QuantiModoConnector#707dd001ad22aafc3306e057d70016489807cac6
+ModelConnectors#feature/UPDATE_ERROR_MESSAGE_NO_NEW_MEASUREMENTS#43fb2301e2d15ca51a2d2c174353e03088e09b5c
