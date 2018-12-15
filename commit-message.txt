@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getCurrentConnection#cc2a99e627dfdea8b676378f96c2d73a5424f971
+AppSettingsControllers#feature/getCurrentConnection#cc2a99e627dfdea8b676378f96c2d73a5424f971
