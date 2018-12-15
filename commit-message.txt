@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/getCurrentConnection#1250dd5242ae9da618b5da3734e50076bfaef86d
+ModelConnectors#feature/checkSessionToken#f70e441dcb597304c8ce35c003e40936d83d229d
