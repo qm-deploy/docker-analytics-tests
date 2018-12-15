@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/image-urls#187edf681966750b78ffc1fa975f97f265fab35b
+ModelConnectors#feature/hostOriginWithProtocol#2846a6c196403d6753175040d7fa8959e7938ac8
