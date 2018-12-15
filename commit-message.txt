@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/PusherPushNotification#1d4139dc5ec3c5ebfed5db95af564b5ff558d04b
+ModelConnectors#feature/PusherPushNotification#234cc18408ce09550ecee0da995d76f532087af2
