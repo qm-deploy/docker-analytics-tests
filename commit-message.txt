@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/excludeNonApiUpdateConnectors#2f5306c4e4dd553665ed13dd359ffece54c1a0c3
+ModelConnectors#feature/getCurrentConnection#cc2a99e627dfdea8b676378f96c2d73a5424f971
