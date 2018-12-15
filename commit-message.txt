@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/isTestVariable#2e86c5d8c17080c3b85361c034cf4e05a8752fcd
+ModelConnectors#feature/logPropertySizes#0731557b11cdcf51998ff9825c842496c2cce776
