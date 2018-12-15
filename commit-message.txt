@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/NotRegistered#afdb1aa10dbf9c98f6f06b061e636817001b9ac7
+ModelConnectors#feature/QuantiModoConnector#707dd001ad22aafc3306e057d70016489807cac6
