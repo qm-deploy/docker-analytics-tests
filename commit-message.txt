@@ -1,1 +1,1 @@
-TasksLaravel#feature/throwable#8362fb46a42c7e980ef4f3e1020c4109023cd7d6
+Analytics#feature/throwable#8362fb46a42c7e980ef4f3e1020c4109023cd7d6
