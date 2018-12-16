@@ -1,1 +1,1 @@
-Reminders#renovate/cloudinary-cloudinary_php-1.x#bbcb2e040785e8b250732274d7bca54550329cb0
+AppSettings#renovate/cloudinary-cloudinary_php-1.x#bbcb2e040785e8b250732274d7bca54550329cb0
