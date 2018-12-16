@@ -1,1 +1,1 @@
-Reminders#getStdOAuthToken#
+AppSettings#getStdOAuthToken#
