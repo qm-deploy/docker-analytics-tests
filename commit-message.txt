@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/isGhostInspector#4d8fa372ec1002b5f211f6757908e224f6cb4083
+ModelConnectors#feature/isGhostInspector#dcdef644698526a783beadb1adfe9661f07ccaa3
