@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/case2554#72aa724d7dfdda92944ed33f8a93c9648207bf24
+ModelConnectors#feature/WithingsConnector#9ab22a58f76a030c4a7ebe2ab4c3f8ab87ef1ce6
