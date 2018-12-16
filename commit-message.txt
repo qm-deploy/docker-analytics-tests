@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/getStdOAuthToken#a806fcb3e686a3c4fd251b4225086712689fb23a
+AppSettingsControllers#feature/getStdOAuthToken#a806fcb3e686a3c4fd251b4225086712689fb23a
