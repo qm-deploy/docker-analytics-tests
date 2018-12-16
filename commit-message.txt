@@ -1,1 +1,1 @@
-MeasurementsReminders#feature/case2554#72aa724d7dfdda92944ed33f8a93c9648207bf24
+AppSettingsControllers#feature/case2554#72aa724d7dfdda92944ed33f8a93c9648207bf24
