@@ -1,1 +1,1 @@
-Reminders#feature/runkeeper#a4ce3f498a2f700b7d4fe9ceb87c80a3baf6206b
+AppSettings#feature/runkeeper#a4ce3f498a2f700b7d4fe9ceb87c80a3baf6206b
