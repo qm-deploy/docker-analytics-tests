@@ -1,1 +1,1 @@
-Reminders#feature/phpunit-heroku#bf7c9df6b6a1f4aaa8f2ad589fc2c04e9be32634
+AppSettings#feature/phpunit-heroku#bf7c9df6b6a1f4aaa8f2ad589fc2c04e9be32634
