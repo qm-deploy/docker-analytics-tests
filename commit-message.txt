@@ -1,1 +1,1 @@
-AppSettings#getStdOAuthToken#
+Controllers#getStdOAuthToken#
