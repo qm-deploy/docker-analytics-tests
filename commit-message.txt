@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/RunKeeperConnector#4cddf4398e26dbc601cf82f2095f89fbdabf158a
+ModelConnectors#feature/case2554#72aa724d7dfdda92944ed33f8a93c9648207bf24
