@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/delete#b1e4a2ffc7256648a3dcac3ae73c9e558370ec5b
+ModelConnectors#feature/validateLatestMeasurementTimeAndNumberOfMeasurements#36bb8b048d614b28d013850c8b1f07c2e1ce2dd0
