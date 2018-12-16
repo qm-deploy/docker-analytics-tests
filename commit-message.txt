@@ -1,1 +1,1 @@
-Reminders#feature/RunKeeperConnector#4a584e0f92928234e6764ab7667ea45d59db3ec2
+AppSettings#feature/RunKeeperConnector#4a584e0f92928234e6764ab7667ea45d59db3ec2
