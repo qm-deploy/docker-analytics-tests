@@ -1,1 +1,1 @@
-AppSettings#feature/RunKeeperConnector#ce443988401ffff056f3881754456ad36bde0922
+Controllers#feature/RunKeeperConnector#ce443988401ffff056f3881754456ad36bde0922
