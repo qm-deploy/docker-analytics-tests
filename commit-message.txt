@@ -1,1 +1,1 @@
-Controllers#feature/RunKeeperConnector#486424d02b0c323999600eb2f5e0eff31b7854ec
+Analytics#feature/RunKeeperConnector#ce443988401ffff056f3881754456ad36bde0922
