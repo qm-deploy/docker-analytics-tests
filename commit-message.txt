@@ -1,1 +1,1 @@
-Measurements#feature/RunKeeperConnector#486424d02b0c323999600eb2f5e0eff31b7854ec
+Reminders#feature/RunKeeperConnector#486424d02b0c323999600eb2f5e0eff31b7854ec
