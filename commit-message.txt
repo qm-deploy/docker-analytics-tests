@@ -1,1 +1,1 @@
-AppSettingsControllers#feature/WithingsConnector#9ab22a58f76a030c4a7ebe2ab4c3f8ab87ef1ce6
+ModelConnectors#feature/RunKeeperConnector#c77b79f4fe7a9fd3ac49db38868f829783355300
