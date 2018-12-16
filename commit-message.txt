@@ -1,1 +1,1 @@
-TasksLaravel#feature/sendPushNotificationsSimple#48fe2eb58f279577ba97051136d2dd96926d9e8d
+Analytics#feature/sendPushNotificationsSimple#48fe2eb58f279577ba97051136d2dd96926d9e8d
