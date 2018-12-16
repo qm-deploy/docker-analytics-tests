@@ -1,1 +1,1 @@
-TasksLaravel#feature/isGhostInspector#4d8fa372ec1002b5f211f6757908e224f6cb4083
+Analytics#feature/isGhostInspector#4d8fa372ec1002b5f211f6757908e224f6cb4083
