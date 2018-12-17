@@ -1,1 +1,1 @@
-Reminders#feature/metaData#8460ad3f4f4056dc048fc297b4457d7accd9a5a3
+AppSettings#feature/metaData#8460ad3f4f4056dc048fc297b4457d7accd9a5a3
