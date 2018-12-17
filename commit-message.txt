@@ -1,1 +1,1 @@
-AppSettings#feature/sendPushNotificationsForAllUsers#da6b0483c21c6287caf59501fe1a4344e14dc083
+Controllers#feature/sendPushNotificationsForAllUsers#da6b0483c21c6287caf59501fe1a4344e14dc083
