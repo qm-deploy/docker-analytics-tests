@@ -1,1 +1,1 @@
-Reminders#feature/IndividualPushNotificationData#8e11200d3ae9c2deefb7102dec98b8db6a3cec1b
+AppSettings#feature/IndividualPushNotificationData#8e11200d3ae9c2deefb7102dec98b8db6a3cec1b
