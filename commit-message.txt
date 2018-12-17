@@ -1,1 +1,1 @@
-Reminders#feature/convertUtcSecondsToUserTimeZoneString#6bbab7ee27488d5e1d55ea559e123d1416c852cf
+AppSettings#feature/convertUtcSecondsToUserTimeZoneString#6bbab7ee27488d5e1d55ea559e123d1416c852cf
