@@ -1,1 +1,1 @@
-Controllers#feature/sendPushNotificationsForAllUsers#da6b0483c21c6287caf59501fe1a4344e14dc083
+Analytics#renovate/laravel-cashier-9.x#3154c956564db46d491bf0e72d8bf2b9bad29b6d
