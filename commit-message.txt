@@ -1,1 +1,1 @@
-Reminders#feature/filterByUnitCategoryName#06764e1f05e318359257b0ce58fdffecd68925cd
+AppSettings#feature/filterByUnitCategoryName#06764e1f05e318359257b0ce58fdffecd68925cd
