@@ -1,1 +1,1 @@
-Reminders#feature/CredentialsNotFoundException#62acae59fd615bcd768a41901d06a3014266bba4
+AppSettings#feature/CredentialsNotFoundException#62acae59fd615bcd768a41901d06a3014266bba4
