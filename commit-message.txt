@@ -1,1 +1,1 @@
-AppSettings#feature/isBot#8b170fb7677be6163340d39430f6900a91f6dd97
+Controllers#feature/isBot#8b170fb7677be6163340d39430f6900a91f6dd97
