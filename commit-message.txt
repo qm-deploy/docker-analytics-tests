@@ -1,1 +1,1 @@
-Reminders#feature/crypto#ca3d79869b1aba9890afddba320e4847ea6d0582
+AppSettings#feature/crypto#ca3d79869b1aba9890afddba320e4847ea6d0582
