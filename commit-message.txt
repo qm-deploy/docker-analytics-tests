@@ -1,1 +1,1 @@
-Controllers#renovate/laravel-framework-5.x#1feff6349b0e702f5c7df43632d633625b200c30
+Analytics#feature/crypto#ca3d79869b1aba9890afddba320e4847ea6d0582
