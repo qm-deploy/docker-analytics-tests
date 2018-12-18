@@ -1,1 +1,1 @@
-Reminders#feature/getCommonVariablesFromCacheIfPossible#bec05afdbd890b6ff028469b52353856d0231c73
+AppSettings#feature/getCommonVariablesFromCacheIfPossible#bec05afdbd890b6ff028469b52353856d0231c73
