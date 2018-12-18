@@ -1,1 +1,1 @@
-Reminders#feature/AddTimezoneColumnToUsersTablePackage#c9e845d85fb75d654c736a94fa4105a5e1e49892
+AppSettings#feature/AddTimezoneColumnToUsersTablePackage#c9e845d85fb75d654c736a94fa4105a5e1e49892
