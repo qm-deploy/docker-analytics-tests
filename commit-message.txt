@@ -1,1 +1,1 @@
-AppSettings#renovate/laravel-socialite-4.x#a836ffb4ec42d90a2ab4125e29e6d352dcb29325
+Controllers#renovate/laravel-socialite-4.x#a836ffb4ec42d90a2ab4125e29e6d352dcb29325
