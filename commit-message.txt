@@ -1,1 +1,1 @@
-AppSettings#renovate/laravel-framework-5.x#59362b43bdd59344e2e0f2b6d8ebd7acb3ba7b1b
+Controllers#renovate/laravel-framework-5.x#59362b43bdd59344e2e0f2b6d8ebd7acb3ba7b1b
