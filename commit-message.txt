@@ -1,1 +1,1 @@
-Reminders#feature/hardDeleteUserVariableAndRelatedRecords#634335f6876dcb1c56bc2aaa109474ce0d95b92b
+AppSettings#feature/hardDeleteUserVariableAndRelatedRecords#634335f6876dcb1c56bc2aaa109474ce0d95b92b
