@@ -1,1 +1,1 @@
-Reminders#feature/getTimeZoneOffsetInMinutes#daadc6a551612b3939f5e692a85350ba451a5f90
+AppSettings#feature/getTimeZoneOffsetInMinutes#daadc6a551612b3939f5e692a85350ba451a5f90
