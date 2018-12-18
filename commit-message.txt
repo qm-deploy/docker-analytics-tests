@@ -1,1 +1,1 @@
-Controllers#feature/checkUserVariableStats#8a55f9aaf9012848fe723d9662c439daadad0a4d
+Analytics#feature/laravel-tests#d6004cdd05f80830a4890545d07c2798daba9d17
