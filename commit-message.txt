@@ -1,1 +1,1 @@
-Reminders#feature/disconnectAndDeleteCredentials#5b74fa318c7fc6811551117146aa98d4f9196eb0
+AppSettings#feature/disconnectAndDeleteCredentials#5b74fa318c7fc6811551117146aa98d4f9196eb0
