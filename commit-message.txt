@@ -1,1 +1,1 @@
-Controllers#renovate/bugsnag-bugsnag-3.x#e60793b1f7f7f5e7e4952579d4693d87b52c8615
+Analytics#feature/getChartsUrl#474e2544c5242650bacd9b05ace9895fce9906ce
