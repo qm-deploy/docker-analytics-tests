@@ -1,1 +1,1 @@
-Reminders#feature/containsLoggyWord#b9d02403e160268e2c505107f4a85a28417f8e03
+AppSettings#feature/containsLoggyWord#b9d02403e160268e2c505107f4a85a28417f8e03
