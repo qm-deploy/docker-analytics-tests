@@ -1,1 +1,1 @@
-Controllers#renovate/bugsnag-bugsnag-3.x#afd4f77a405c163630b87da8446f6b89abbd725d
+Analytics#renovate/laravel-dusk-4.x#18982379a6c9c5759d0c131866e2bea62eeeffb7
