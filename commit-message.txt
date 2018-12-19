@@ -1,1 +1,1 @@
-Controllers#feature/user-variables#cce77fd6098536d8fd31f0d365a91230f6719782
+Analytics#renovate/bugsnag-bugsnag-3.x#ba9dadc0ecd461361b702c497a1dc9564a0afee8
