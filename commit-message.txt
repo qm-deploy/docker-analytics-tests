@@ -1,1 +1,1 @@
-Reminders#feature/user-variables#e8b9a182db0a7c4ae24758a47f9d75151005ba1c
+AppSettings#feature/user-variables#e8b9a182db0a7c4ae24758a47f9d75151005ba1c
