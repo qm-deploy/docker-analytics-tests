@@ -1,1 +1,1 @@
-AppSettings#renovate/bugsnag-bugsnag-3.x#afd4f77a405c163630b87da8446f6b89abbd725d
+Controllers#renovate/bugsnag-bugsnag-3.x#afd4f77a405c163630b87da8446f6b89abbd725d
