@@ -1,1 +1,1 @@
-Controllers#renovate/bugsnag-bugsnag-3.x#ba9dadc0ecd461361b702c497a1dc9564a0afee8
+Analytics#feature/device-tokens#8b5d714625bcf5d9b9454ce9ed95c078d293a808
