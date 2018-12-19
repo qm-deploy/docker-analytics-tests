@@ -1,1 +1,1 @@
-Analytics#renovate/laravel-dusk-4.x#18982379a6c9c5759d0c131866e2bea62eeeffb7
+Measurements#renovate/laravel-dusk-4.x#18982379a6c9c5759d0c131866e2bea62eeeffb7
