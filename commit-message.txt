@@ -1,1 +1,1 @@
-Controllers#feature/whatpulse#3ac0bf3b6cd1c38be362fd29fa40144f5ee40bf7
+Analytics#renovate/bugsnag-bugsnag-3.x#e20f8ead14d1aeb1fc9cb33a5509f94e13eefee3
