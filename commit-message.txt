@@ -1,1 +1,1 @@
-Controllers#feature/getChartsUrl#474e2544c5242650bacd9b05ace9895fce9906ce
+Analytics#feature/containsLoggyWord#d786f900f17585ed7408885feca02a5e092596e8
