@@ -1,1 +1,1 @@
-Reminders#feature/whatpulse#3ac0bf3b6cd1c38be362fd29fa40144f5ee40bf7
+AppSettings#feature/whatpulse#3ac0bf3b6cd1c38be362fd29fa40144f5ee40bf7
