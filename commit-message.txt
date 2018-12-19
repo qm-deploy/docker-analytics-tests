@@ -1,1 +1,1 @@
-AppSettings#renovate/barryvdh-laravel-ide-helper-2.x#a1d8e0d35f2ad8ca790e49012a3b31bd3f8e2a58
+Controllers#renovate/barryvdh-laravel-ide-helper-2.x#a1d8e0d35f2ad8ca790e49012a3b31bd3f8e2a58
