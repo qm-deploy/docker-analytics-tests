@@ -1,1 +1,1 @@
-Controllers#feature/setAppVersion#d5c7a4d51b52a50ea1aeb0774b1c0f82d05fe195
+Analytics#renovate/bugsnag-bugsnag-3.x#07d47435420bda79784acf91e680a5fb3b94300f
