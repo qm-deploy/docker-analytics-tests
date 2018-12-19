@@ -1,1 +1,1 @@
-Reminders#feature/analyzeIfWrongNumberOfRawMeasurements#62c0d7743f7f101b705a7e8af41f1fd292cc9444
+AppSettings#feature/analyzeIfWrongNumberOfRawMeasurements#62c0d7743f7f101b705a7e8af41f1fd292cc9444
