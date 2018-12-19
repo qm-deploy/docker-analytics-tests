@@ -1,1 +1,1 @@
-Analytics#feature/getChartsUrl#474e2544c5242650bacd9b05ace9895fce9906ce
+Measurements#feature/getChartsUrl#474e2544c5242650bacd9b05ace9895fce9906ce
