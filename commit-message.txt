@@ -1,1 +1,1 @@
-Reminders#feature/getPHPUnitTestUrlForUpdate#47a7f61d44b4bbace030613a66b822be35550fa2
+AppSettings#feature/getPHPUnitTestUrlForUpdate#47a7f61d44b4bbace030613a66b822be35550fa2
