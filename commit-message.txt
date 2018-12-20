@@ -1,1 +1,1 @@
-Controllers#feature/laradock#55bc0330187c42b14a7385926073804e8a22df53
+Analytics#feature/laradock#5ae24ae93564b8286bbef9cd9994761c6590cb83
