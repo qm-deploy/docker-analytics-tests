@@ -1,1 +1,1 @@
-AppSettings#feature/measurement-deletion#9e801e0a25fa25d3f99b5154e2d699c323b5a37c
+Reminders#feature/measurement-deletion#9e801e0a25fa25d3f99b5154e2d699c323b5a37c
