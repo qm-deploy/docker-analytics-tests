@@ -1,1 +1,1 @@
-AppSettings#feature/laradock#55bc0330187c42b14a7385926073804e8a22df53
+Controllers#feature/laradock#55bc0330187c42b14a7385926073804e8a22df53
