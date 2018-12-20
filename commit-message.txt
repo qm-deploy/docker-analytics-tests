@@ -1,1 +1,1 @@
-Reminders#feature/NoResponseException#ec2610a92197e51609bbc954dceb2ac386f9dc1d
+AppSettings#feature/NoResponseException#ec2610a92197e51609bbc954dceb2ac386f9dc1d
