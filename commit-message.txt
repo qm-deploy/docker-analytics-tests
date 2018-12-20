@@ -1,1 +1,1 @@
-Reminders#feature/MoodPandaConnector#e9e1e10c2ffa03eb85ccaf369b3e682f667f53b2
+AppSettings#feature/MoodPandaConnector#e9e1e10c2ffa03eb85ccaf369b3e682f667f53b2
