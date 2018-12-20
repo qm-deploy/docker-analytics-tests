@@ -1,1 +1,1 @@
-Analytics#feature/CONNECTOR_UPDATE_TEST#543f90c289879c322cb53ec9bf25d0b24bebd4cc
+Measurements#feature/CONNECTOR_UPDATE_TEST#543f90c289879c322cb53ec9bf25d0b24bebd4cc
