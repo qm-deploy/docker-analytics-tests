@@ -1,1 +1,1 @@
-Reminders#feature/too-many-measurements#8b92fbdd3596627c0c1504cc4d755a0f018c4e40
+AppSettings#feature/too-many-measurements#8b92fbdd3596627c0c1504cc4d755a0f018c4e40
