@@ -1,1 +1,1 @@
-Reminders#feature/NumberOfAggregateCorrelations#94eb18be868cae2813ab3bb37685fd4b09d35a9c
+AppSettings#feature/NumberOfAggregateCorrelations#94eb18be868cae2813ab3bb37685fd4b09d35a9c
