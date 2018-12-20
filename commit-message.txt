@@ -1,1 +1,1 @@
-Measurements#feature/qm-variable#bbf63eef33208a4dc21ed8f75d815dfcf9ebedee
+AppSettings#feature/qm-variable#bbf63eef33208a4dc21ed8f75d815dfcf9ebedee
