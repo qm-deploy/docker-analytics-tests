@@ -1,1 +1,1 @@
-Reminders#feature/laradock#5ae24ae93564b8286bbef9cd9994761c6590cb83
+AppSettings#feature/laradock#5ae24ae93564b8286bbef9cd9994761c6590cb83
