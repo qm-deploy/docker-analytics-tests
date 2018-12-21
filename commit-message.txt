@@ -1,1 +1,1 @@
-Measurements#feature/UserVariableUpdateJobTest#8ebd393410efe08451321c9f9e5f620b8773c7d1
+AppSettings#feature/UserVariableUpdateJobTest#8ebd393410efe08451321c9f9e5f620b8773c7d1
