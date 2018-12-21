@@ -1,1 +1,1 @@
-Measurements#feature/getFillingValueIfValid#e915852e270bb083b2c7902479b5e0a360208e2c
+AppSettings#feature/getFillingValueIfValid#e915852e270bb083b2c7902479b5e0a360208e2c
