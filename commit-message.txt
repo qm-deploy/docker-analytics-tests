@@ -1,1 +1,1 @@
-Measurements#feature/calculateSecondMostCommonValue#e7ddc387185d1919ebeac1889bc221e995648eee
+AppSettings#feature/calculateSecondMostCommonValue#e7ddc387185d1919ebeac1889bc221e995648eee
