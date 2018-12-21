@@ -1,1 +1,1 @@
-Measurements#feature/renameVariables#01ef4bdb44ac0d167b6b15f7cca38ae39afeb7b3
+AppSettings#feature/renameVariables#01ef4bdb44ac0d167b6b15f7cca38ae39afeb7b3
