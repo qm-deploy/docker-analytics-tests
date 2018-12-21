@@ -1,1 +1,1 @@
-Measurements#feature/db-validation#06fe997dae6cffb2ac9c54911076aa1fa6521b4a
+AppSettings#feature/db-validation#06fe997dae6cffb2ac9c54911076aa1fa6521b4a
