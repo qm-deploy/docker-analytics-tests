@@ -1,1 +1,1 @@
-Measurements#feature/xDebugActive#ceddf0ce6069d16dea06301373b7b2ed62580f2c
+AppSettings#feature/xDebugActive#ceddf0ce6069d16dea06301373b7b2ed62580f2c
