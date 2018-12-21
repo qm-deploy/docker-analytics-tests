@@ -1,1 +1,1 @@
-AppSettings#feature/StudyJoinByIdTest#94aa21ae2c47322f716ab64f6f6ec2e819924139
+Reminders#feature/StudyJoinByIdTest#94aa21ae2c47322f716ab64f6f6ec2e819924139
