@@ -1,1 +1,1 @@
-Controllers#feature/NiceArtisan#e9e562162aa9d32ac6c17d539de53c0993c212e4
+Analytics#feature/NiceArtisan#e9e562162aa9d32ac6c17d539de53c0993c212e4
