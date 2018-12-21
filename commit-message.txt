@@ -1,1 +1,1 @@
-Measurements#feature/cacheToMongoDb#5fbc8b0a5adba0a99dffcad70a30048ba5cdba86
+AppSettings#feature/cacheToMongoDb#5fbc8b0a5adba0a99dffcad70a30048ba5cdba86
