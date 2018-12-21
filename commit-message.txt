@@ -1,1 +1,1 @@
-AppSettings#feature/importDurationExceeds#ac4296731efadff660d47e9b91da07eaf5f55211
+Reminders#feature/importDurationExceeds#ac4296731efadff660d47e9b91da07eaf5f55211
