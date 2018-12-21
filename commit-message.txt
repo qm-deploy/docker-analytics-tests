@@ -1,1 +1,1 @@
-AppSettings#renovate/rollback-bestmomo-nice-artisan-1.x#0838606ff246c73d364f61c3ccdf0200ca0be85b
+Reminders#renovate/rollback-bestmomo-nice-artisan-1.x#0838606ff246c73d364f61c3ccdf0200ca0be85b
