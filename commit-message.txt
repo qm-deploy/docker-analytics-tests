@@ -1,1 +1,1 @@
-Measurements#feature/moodpanda#40ac66029d0128b9537099fa276d327e3895900d
+AppSettings#feature/moodpanda#40ac66029d0128b9537099fa276d327e3895900d
