@@ -1,1 +1,1 @@
-Measurements#feature/common-variable-cleanup#81bc5d3ad43d613eb3499e3820e7faecda2a791a
+AppSettings#feature/common-variable-cleanup#81bc5d3ad43d613eb3499e3820e7faecda2a791a
