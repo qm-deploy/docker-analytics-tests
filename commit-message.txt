@@ -1,1 +1,1 @@
-Measurements#feature/rescuetime#f4f6284091333944b13b2cebf51520f7a3ec2464
+AppSettings#feature/rescuetime#f4f6284091333944b13b2cebf51520f7a3ec2464
