@@ -1,1 +1,1 @@
-AppSettings#feature/docs.quantimo.do#05cd4db3141e8a187aa2a2f2e32188d242a9cda2
+Reminders#feature/docs.quantimo.do#05cd4db3141e8a187aa2a2f2e32188d242a9cda2
