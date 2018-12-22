@@ -1,1 +1,1 @@
-Analytics#feature/calculateLatestTaggedMeasurementTime#b5a536f3eb4f2a1526a0e96e8497da4f59eed6fd
+Measurements#feature/calculateLatestTaggedMeasurementTime#b5a536f3eb4f2a1526a0e96e8497da4f59eed6fd
