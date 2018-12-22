@@ -1,1 +1,1 @@
-AppSettings#feature/getSunriseSunsetMeasurements#e188c20307850306e5615bd40863ab8aff51b163
+Reminders#feature/getSunriseSunsetMeasurements#e188c20307850306e5615bd40863ab8aff51b163
