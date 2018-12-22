@@ -1,1 +1,1 @@
-AppSettings#feature/isCalculatedValueKey#a6eb376a176a8681d5cb11b50d00f099415ed8be
+Reminders#feature/isCalculatedValueKey#a6eb376a176a8681d5cb11b50d00f099415ed8be
