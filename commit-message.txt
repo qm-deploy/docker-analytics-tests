@@ -1,1 +1,1 @@
-Measurements#feature/qm-user#7bf226d79aa71a108473c522d993b8800c87954f
+AppSettings#feature/qm-user#7bf226d79aa71a108473c522d993b8800c87954f
