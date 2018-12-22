@@ -1,1 +1,1 @@
-Measurements#feature/getNotificationsCurrentlyDue#f4c7e41a093e877fbc4ade52c46bd6e8f04ffa17
+AppSettings#feature/getNotificationsCurrentlyDue#f4c7e41a093e877fbc4ade52c46bd6e8f04ffa17
