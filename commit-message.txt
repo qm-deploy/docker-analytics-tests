@@ -1,1 +1,1 @@
-AppSettings#feature/isValidKey#2cc0a15d1b75b39b45f46bd12213f3396d627060
+Reminders#feature/isValidKey#2cc0a15d1b75b39b45f46bd12213f3396d627060
