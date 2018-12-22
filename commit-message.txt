@@ -1,1 +1,1 @@
-Measurements#feature/setDefaultValueInUserUnit#e570718de12c9d2994213f65f1fb0f2fa51708e6
+AppSettings#feature/setDefaultValueInUserUnit#e570718de12c9d2994213f65f1fb0f2fa51708e6
