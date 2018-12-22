@@ -1,1 +1,1 @@
-Measurements#feature/AbstractService#9d729fb2a9adfba5b453a72c738267b3b875c4a0
+AppSettings#feature/AbstractService#9d729fb2a9adfba5b453a72c738267b3b875c4a0
