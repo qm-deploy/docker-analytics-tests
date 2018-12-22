@@ -1,1 +1,1 @@
-Measurements#feature/docs.quantimo.do#6a0799522f60875b274669483bb7459ef880737d
+AppSettings#feature/docs.quantimo.do#6a0799522f60875b274669483bb7459ef880737d
