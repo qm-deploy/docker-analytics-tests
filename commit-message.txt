@@ -1,1 +1,1 @@
-Measurements#feature/calculateLatestTaggedMeasurementTime#5987225003402caf7fef6546608470eb81aef174
+AppSettings#feature/calculateLatestTaggedMeasurementTime#5987225003402caf7fef6546608470eb81aef174
