@@ -1,1 +1,1 @@
-AppSettings#renovate/ktamas77-firebase-php-2.x#49c1b29c79e055ef0bd8e35d98e4eafc1f7adc9e
+Reminders#renovate/ktamas77-firebase-php-2.x#49c1b29c79e055ef0bd8e35d98e4eafc1f7adc9e
