@@ -1,1 +1,1 @@
-Analytics#renovate/ktamas77-firebase-php-2.x#43858476348f0f77822a221e986be75c483ef198
+Measurements#renovate/ktamas77-firebase-php-2.x#43858476348f0f77822a221e986be75c483ef198
