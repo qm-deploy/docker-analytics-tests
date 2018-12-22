@@ -1,1 +1,1 @@
-Measurements#feature/getSunriseSunsetMeasurements#e188c20307850306e5615bd40863ab8aff51b163
+AppSettings#feature/getSunriseSunsetMeasurements#e188c20307850306e5615bd40863ab8aff51b163
