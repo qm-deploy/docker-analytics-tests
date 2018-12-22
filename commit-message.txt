@@ -1,1 +1,1 @@
-Measurements#feature/deleteTooFrequentMeasurements#a30962ef375f22194283ba3178710cb4f23066c7
+AppSettings#feature/deleteTooFrequentMeasurements#a30962ef375f22194283ba3178710cb4f23066c7
