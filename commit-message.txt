@@ -1,1 +1,1 @@
-Measurements#feature/sendPushNotifications#a5eb9382f02cbdd45bfdcba4cef8e57b6c76d524
+AppSettings#feature/sendPushNotifications#a5eb9382f02cbdd45bfdcba4cef8e57b6c76d524
