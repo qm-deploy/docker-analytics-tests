@@ -1,1 +1,1 @@
-Analytics#feature/getSunriseSunsetMeasurements#58e83b40bba7083b34a8b8f2672d5c2e2b426f8e
+Measurements#feature/getSunriseSunsetMeasurements#58e83b40bba7083b34a8b8f2672d5c2e2b426f8e
