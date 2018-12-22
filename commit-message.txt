@@ -1,1 +1,1 @@
-Measurements#feature/calculateMaximumRecordedValue#6c7e276b4c4d7620f468c59fdc4caa260b4bbbc2
+AppSettings#feature/calculateMaximumRecordedValue#6c7e276b4c4d7620f468c59fdc4caa260b4bbbc2
