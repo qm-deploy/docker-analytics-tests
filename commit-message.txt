@@ -1,1 +1,1 @@
-Measurements#feature/fitbit-test#a3993870355328538a72b5461c4749d47b8176eb
+AppSettings#feature/fitbit-test#a3993870355328538a72b5461c4749d47b8176eb
