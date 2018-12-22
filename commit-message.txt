@@ -1,1 +1,1 @@
-Controllers#feature/rescuetime#f4f6284091333944b13b2cebf51520f7a3ec2464
+Analytics#feature/rescuetime#f4f6284091333944b13b2cebf51520f7a3ec2464
