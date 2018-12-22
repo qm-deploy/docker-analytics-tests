@@ -1,1 +1,1 @@
-Measurements#feature/is_numeric#b1b47d134f3265530009df5969b688edab9f2777
+AppSettings#feature/is_numeric#b1b47d134f3265530009df5969b688edab9f2777
