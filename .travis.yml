@@ -63,4 +63,8 @@ after_success:
 
 notifications:
   email: false
-  slack: quantimodo:BijCp5nmBJtuwXTnJ1ALT6xo
+  slack:
+    rooms:
+      - quantimodo:BijCp5nmBJtuwXTnJ1ALT6xo#web
+    on_success: never 
+    on_failure: always
