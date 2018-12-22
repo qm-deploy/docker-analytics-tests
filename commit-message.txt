@@ -1,1 +1,1 @@
-Measurements#feature/fixValuesLessThanMinimumForUnit#99e1059d2931d4e109176d9862f8f5566883d137
+AppSettings#feature/fixValuesLessThanMinimumForUnit#99e1059d2931d4e109176d9862f8f5566883d137
