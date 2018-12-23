@@ -1,1 +1,1 @@
-AppSettings#feature/ConnectionsLatestMeasurementAt#b7b9991ede59a8463f52da2fe14478d2d1aeb10e
+Reminders#feature/ConnectionsLatestMeasurementAt#b7b9991ede59a8463f52da2fe14478d2d1aeb10e
