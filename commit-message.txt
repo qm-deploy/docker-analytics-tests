@@ -1,1 +1,1 @@
-Analytics#feature/google-fit#23f4e5e1d7298d6422a0f7becef899630daf993b
+Measurements#feature/google-fit#23f4e5e1d7298d6422a0f7becef899630daf993b
