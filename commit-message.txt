@@ -1,1 +1,1 @@
-Reminders#feature/latest_measurement_at#9ca084a381d2a6dd7c2993c094816a5bc6725af9
+Controllers#feature/minimum_allowed_seconds_between_measurements#0ce64f4ea8e167fe16c1cfef80625bf65223c5f0
