@@ -1,1 +1,1 @@
-Controllers#feature/docs.quantimo.do#54230b7f74d6d1d54496ed7ae50c18d18b68190f
+Analytics#feature/docs.quantimo.do#54230b7f74d6d1d54496ed7ae50c18d18b68190f
