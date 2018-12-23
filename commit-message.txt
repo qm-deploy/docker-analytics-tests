@@ -1,1 +1,1 @@
-AppSettings#feature/sendPushNotifications#c8374afaa629d1d9e31400a92bbb233863adac68
+Reminders#feature/sendPushNotifications#c8374afaa629d1d9e31400a92bbb233863adac68
