@@ -1,1 +1,1 @@
-Measurements#feature/ConnectionsLatestMeasurementAt#161f30137b2c0720ff4f7a929a72d33053075a22
+AppSettings#feature/ConnectionsLatestMeasurementAt#161f30137b2c0720ff4f7a929a72d33053075a22
