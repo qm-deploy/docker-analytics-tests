@@ -1,1 +1,1 @@
-Measurements#feature/isValidKey#640e6f9b1c12dd4c3ec65e86eb871a7ce29d6e1c
+AppSettings#feature/isValidKey#640e6f9b1c12dd4c3ec65e86eb871a7ce29d6e1c
