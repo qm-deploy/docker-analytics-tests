@@ -1,1 +1,1 @@
-AppSettings#feature/sharing-buttons#a271552a984bed9b889f421af2012a7f993a3df2
+Reminders#feature/sharing-buttons#a271552a984bed9b889f421af2012a7f993a3df2
