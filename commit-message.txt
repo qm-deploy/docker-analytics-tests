@@ -1,1 +1,1 @@
-Measurements#feature/setDebugUrlAndUpdate#2f2e3daad5b1f53293108e8dc0b61743bf111016
+AppSettings#feature/setDebugUrlAndUpdate#2f2e3daad5b1f53293108e8dc0b61743bf111016
