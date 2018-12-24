@@ -1,1 +1,1 @@
-Controllers#feature/deleteTooFrequentMeasurements#838270e75cca442e4be747e2ea936a7178a05b1c
+Analytics#feature/deleteTooFrequentMeasurements#838270e75cca442e4be747e2ea936a7178a05b1c
