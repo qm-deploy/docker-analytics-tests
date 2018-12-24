@@ -1,1 +1,1 @@
-Measurements#feature/sharing-buttons#91853c68ff8255947351b2d21571248ca1e26b5d
+AppSettings#feature/sharing-buttons#91853c68ff8255947351b2d21571248ca1e26b5d
