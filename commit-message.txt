@@ -1,1 +1,1 @@
-AppSettings#feature/ChartsWithOneMeasurement#fe72bd94ed907f5efee39c944defcfc9176aa2a9
+Reminders#feature/ChartsWithOneMeasurement#fe72bd94ed907f5efee39c944defcfc9176aa2a9
