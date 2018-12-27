@@ -1,1 +1,1 @@
-AppSettings#feature/isQuantiModoAliasClientId#3f22bf3d81a2d0e4a635b582927ca1bbbb731f37
+Reminders#feature/isQuantiModoAliasClientId#3f22bf3d81a2d0e4a635b582927ca1bbbb731f37
