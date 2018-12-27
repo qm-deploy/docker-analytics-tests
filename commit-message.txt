@@ -1,1 +1,1 @@
-Measurements#feature/WordPressPostDatabaseTest#ed6234b1f377f5aa99096a38793f4e3db2e7ac83
+AppSettings#feature/WordPressPostDatabaseTest#ed6234b1f377f5aa99096a38793f4e3db2e7ac83
