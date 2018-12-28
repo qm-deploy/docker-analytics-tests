@@ -1,1 +1,1 @@
-Controllers#feature/deleteAllPosts#309b19c462cda23d60a3e732e508a61eaa505f87
+Analytics#feature/deleteAllPosts#309b19c462cda23d60a3e732e508a61eaa505f87
