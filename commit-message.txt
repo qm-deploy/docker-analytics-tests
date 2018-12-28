@@ -1,1 +1,1 @@
-AppSettings#feature/deleteAllPosts#e59b8ce8765dbcc84b4caad51baa5ea311031407
+Reminders#feature/deleteAllPosts#e59b8ce8765dbcc84b4caad51baa5ea311031407
