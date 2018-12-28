@@ -1,1 +1,1 @@
-AppSettings#feature/study-images#5552a28d24cc7183b926f200943656f83c37750c
+Reminders#feature/study-images#5552a28d24cc7183b926f200943656f83c37750c
