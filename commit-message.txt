@@ -1,1 +1,1 @@
-Measurements#feature/assertValidHtml#f0cff777547e7526b95018a105ab64eb4d6380d8
+AppSettings#feature/assertValidHtml#f0cff777547e7526b95018a105ab64eb4d6380d8
