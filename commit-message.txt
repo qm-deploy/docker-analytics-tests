@@ -1,1 +1,1 @@
-Controllers#feature/chart-html#d4ba2ae0444f0c1f70d2b925fde87634fe044ab7
+Analytics#feature/chart-html#d4ba2ae0444f0c1f70d2b925fde87634fe044ab7
