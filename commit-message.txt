@@ -1,1 +1,1 @@
-Measurements#feature/deleteAllPosts#ea83ca028e69386e77847b25f45e7f2ea3ac1bc6
+AppSettings#feature/deleteAllPosts#ea83ca028e69386e77847b25f45e7f2ea3ac1bc6
