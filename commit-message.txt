@@ -1,1 +1,1 @@
-AppSettings#feature/getPairsOfAverages#79f63f9f07ea95707671f1dd871c83056d4ecd96
+Reminders#feature/getPairsOfAverages#79f63f9f07ea95707671f1dd871c83056d4ecd96
