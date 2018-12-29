@@ -1,1 +1,1 @@
-Controllers#feature/GaugeAndImagesWithTagLine#f813fcc2ea09f37895c718e722f93145327a718f
+Analytics#feature/GaugeAndImagesWithTagLine#f813fcc2ea09f37895c718e722f93145327a718f
