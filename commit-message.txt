@@ -1,1 +1,1 @@
-Reminders#feature/alreadyPosted#a712a02fe2e9b00cd0e38c0d04abab7d8f462961
+Controllers#feature/getPairsOfAverages#79f63f9f07ea95707671f1dd871c83056d4ecd96
