@@ -1,1 +1,1 @@
-Measurements#feature/redirector#a11513759484f273880da73da7527460a4308931
+AppSettings#feature/redirector#a11513759484f273880da73da7527460a4308931
