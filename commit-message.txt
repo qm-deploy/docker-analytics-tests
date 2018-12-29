@@ -1,1 +1,1 @@
-Reminders#feature/getPairsOfAverages#79f63f9f07ea95707671f1dd871c83056d4ecd96
+Controllers#feature/score#a2e7bf21c1f4426ff20e5fcf1d94fceae2778e3d
