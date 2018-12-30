@@ -1,1 +1,1 @@
-Measurements#feature/lastLoginAt#99ad6fe9dc14c75bc1fd5de5bb5e3dd4e32f9e41
+AppSettings#feature/lastLoginAt#99ad6fe9dc14c75bc1fd5de5bb5e3dd4e32f9e41
