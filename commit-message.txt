@@ -1,1 +1,1 @@
-Measurements#feature/cors#cb29250cb9c6d49071f679468eb79f6f8c08b832
+AppSettings#feature/cors#cb29250cb9c6d49071f679468eb79f6f8c08b832
