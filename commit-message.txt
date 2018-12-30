@@ -1,1 +1,1 @@
-AppSettings#feature/getImageDataAndSaveToFile#de10800843899d9ff79a7a891cc31de68c379150
+Reminders#feature/getImageDataAndSaveToFile#de10800843899d9ff79a7a891cc31de68c379150
