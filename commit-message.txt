@@ -1,1 +1,1 @@
-Controllers#feature/weShouldReturnJsonResponse#6669536b54d5e081df79c643095ab652b9ae9636
+Analytics#feature/weShouldReturnJsonResponse#6669536b54d5e081df79c643095ab652b9ae9636
