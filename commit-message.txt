@@ -1,1 +1,1 @@
-Measurements#feature/weShouldReturnJsonResponse#6669536b54d5e081df79c643095ab652b9ae9636
+AppSettings#feature/weShouldReturnJsonResponse#6669536b54d5e081df79c643095ab652b9ae9636
