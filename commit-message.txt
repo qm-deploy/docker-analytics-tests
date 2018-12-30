@@ -1,1 +1,1 @@
-Reminders#feature/weShouldReturnJsonResponse#6669536b54d5e081df79c643095ab652b9ae9636
+Controllers#feature/BadRequestException#151dbe432bacbdc9e77f64ec6d04f51c032ae901
