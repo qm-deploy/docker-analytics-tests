@@ -1,1 +1,1 @@
-AppSettings#feature/redirector#f65b5f1f59ab5f0f1cdce0e677ff98050870c8c6
+Reminders#feature/redirector#f65b5f1f59ab5f0f1cdce0e677ff98050870c8c6
