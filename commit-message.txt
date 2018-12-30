@@ -1,1 +1,1 @@
-Measurements#feature/Auth#954f9df32b442d62277906508b284a053c90ff2b
+AppSettings#feature/Auth#954f9df32b442d62277906508b284a053c90ff2b
