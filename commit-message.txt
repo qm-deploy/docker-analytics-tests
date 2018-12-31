@@ -1,1 +1,1 @@
-Measurements#feature/get-study#7cba1a429a6049bc1c120bdc5c038d30abae8228
+AppSettings#feature/get-study#7cba1a429a6049bc1c120bdc5c038d30abae8228
