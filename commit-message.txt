@@ -1,1 +1,1 @@
-Controllers#feature/get-study#7a7ad5f602d5bdaed159774f5ad428205f8dce0a
+Analytics#feature/get-study#7a7ad5f602d5bdaed159774f5ad428205f8dce0a
