@@ -1,1 +1,1 @@
-Controllers#feature/setIsLaravel#1353c988938ef183feba54f396444f23b05a0e09
+Analytics#feature/setIsLaravel#1353c988938ef183feba54f396444f23b05a0e09
