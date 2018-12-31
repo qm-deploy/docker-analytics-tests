@@ -1,1 +1,1 @@
-Reminders#feature/user-variable#a60d32f5a6526441b4a4b1934ecfc752625df5b8
+Controllers#feature/study-text#b05047f83b9caf7a1256ba1612a4a0269278e3c5
