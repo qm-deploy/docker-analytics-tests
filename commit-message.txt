@@ -1,1 +1,1 @@
-Reminders#feature/excludeNonApiUpdateAndDisabledConnectors#6ac047d2b625db08f18ded40aef2c6a8f0bcb269
+Controllers#feature/ConnectorManager#1d084766199bdeb5dbe8667bd8d4be0be36ab7fe
