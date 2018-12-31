@@ -1,1 +1,1 @@
-Measurements#feature/profile-html#dad9f97c29cff6351427da56ea96eb50098ed387
+AppSettings#feature/profile-html#dad9f97c29cff6351427da56ea96eb50098ed387
