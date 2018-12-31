@@ -1,1 +1,1 @@
-Measurements#feature/ConnectorManager#1d084766199bdeb5dbe8667bd8d4be0be36ab7fe
+AppSettings#feature/ConnectorManager#1d084766199bdeb5dbe8667bd8d4be0be36ab7fe
