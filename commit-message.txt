@@ -1,1 +1,1 @@
-Measurements#feature/setIsLaravel#ceae008a7f05f98435c632faf8d42eae02033f01
+AppSettings#feature/setIsLaravel#ceae008a7f05f98435c632faf8d42eae02033f01
