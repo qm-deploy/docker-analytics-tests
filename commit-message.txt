@@ -1,1 +1,1 @@
-Measurements#feature/study-controller#800608157951572f9056d97c76a78e60b952bb98
+AppSettings#feature/study-controller#800608157951572f9056d97c76a78e60b952bb98
