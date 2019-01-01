@@ -1,1 +1,1 @@
-Controllers#feature/getNumberAnalyzedInLastDay#c178ebf0e92083a9d9f53363e5f597892ef301a0
+Analytics#feature/getNumberAnalyzedInLastDay#c178ebf0e92083a9d9f53363e5f597892ef301a0
