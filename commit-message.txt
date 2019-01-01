@@ -1,1 +1,1 @@
-Measurements#feature/convertToSvgConfig#41f16d13a8c7643f7b9aeda546aef56b3d0514cc
+AppSettings#feature/convertToSvgConfig#41f16d13a8c7643f7b9aeda546aef56b3d0514cc
