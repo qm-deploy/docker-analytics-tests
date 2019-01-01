@@ -1,1 +1,1 @@
-AppSettings#feature/study-charts#d9b470df6193ad975fb49be5cd6fc84e7dee3fb3
+Reminders#feature/study-charts#d9b470df6193ad975fb49be5cd6fc84e7dee3fb3
