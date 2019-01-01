@@ -1,1 +1,1 @@
-Measurements#feature/PostLoginRedirectUrlWithAccessToken#a97fa20fe9336ef3cec741574bc5ea250d30472b
+AppSettings#feature/PostLoginRedirectUrlWithAccessToken#a97fa20fe9336ef3cec741574bc5ea250d30472b
