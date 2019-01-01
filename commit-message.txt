@@ -1,1 +1,1 @@
-Controllers#feature/study-charts#5110e8c6d90649ee8e95d50bae06deda0ee763f3
+Analytics#feature/study-charts#5110e8c6d90649ee8e95d50bae06deda0ee763f3
