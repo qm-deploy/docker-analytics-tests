@@ -1,1 +1,1 @@
-AppSettings#feature/test-case#4876a377e78e634d10043428b0403bcd5ff7d4f9
+Reminders#feature/test-case#4876a377e78e634d10043428b0403bcd5ff7d4f9
