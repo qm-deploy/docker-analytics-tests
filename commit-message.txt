@@ -1,1 +1,1 @@
-Analytics#renovate/laravel-socialite-4.x#19f07476a87e63a35a7521bc591aac06811fbd3e
+Measurements#renovate/laravel-socialite-4.x#19f07476a87e63a35a7521bc591aac06811fbd3e
