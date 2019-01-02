@@ -1,1 +1,1 @@
-Measurements#renovate/rollback-bestmomo-nice-artisan-1.x#9cdb11a4ce43c0e8074885fb58f929db8d29b949
+AppSettings#renovate/rollback-bestmomo-nice-artisan-1.x#9cdb11a4ce43c0e8074885fb58f929db8d29b949
