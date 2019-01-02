@@ -1,1 +1,1 @@
-Reminders#renovate/rollback-bestmomo-nice-artisan-1.x#9cdb11a4ce43c0e8074885fb58f929db8d29b949
+Controllers#renovate/laravel-framework-5.x#a24257190aa8e2d30a11b9d2c98236eb275b3927
