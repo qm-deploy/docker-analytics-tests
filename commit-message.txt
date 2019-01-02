@@ -1,1 +1,1 @@
-Measurements#feature/publish-studies#d5fe7ace366b4298fd9e8238e7a9b6c7433ae9e1
+AppSettings#feature/publish-studies#d5fe7ace366b4298fd9e8238e7a9b6c7433ae9e1
