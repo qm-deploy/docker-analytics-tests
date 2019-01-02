@@ -1,1 +1,1 @@
-Measurements#feature/getTestDeviceTokensFromFirebase#9a55f69935dad4ea92dd273c2afca621e154e02b
+AppSettings#feature/getTestDeviceTokensFromFirebase#9a55f69935dad4ea92dd273c2afca621e154e02b
