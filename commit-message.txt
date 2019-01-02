@@ -1,1 +1,1 @@
-Controllers#renovate/phpoffice-phpspreadsheet-1.x#d7ef86e2ae3b9d2afad14f6022b09564c4d6df24
+Analytics#renovate/phpoffice-phpspreadsheet-1.x#d7ef86e2ae3b9d2afad14f6022b09564c4d6df24
