@@ -1,1 +1,1 @@
-Reminders#feature/publish-studies#e588fc60dd7511a2eba79ad5f9a596fe49df71db
+Controllers#feature/publish-studies#336889eba68ab60280c2d839e3b264e2c977f1f5
