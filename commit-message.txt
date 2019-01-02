@@ -1,1 +1,1 @@
-Measurements#renovate/vlucas-phpdotenv-2.x#64526dc60e22b44fc79330bd656eb665c6c7f9af
+AppSettings#renovate/vlucas-phpdotenv-2.x#64526dc60e22b44fc79330bd656eb665c6c7f9af
