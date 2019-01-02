@@ -1,1 +1,1 @@
-Measurements#feature/json_decode#e2cbd327f39f84972202769a58a5fcd2837fe32c
+AppSettings#feature/json_decode#e2cbd327f39f84972202769a58a5fcd2837fe32c
