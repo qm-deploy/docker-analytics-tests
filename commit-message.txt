@@ -1,1 +1,1 @@
-Measurements#feature/getInterestingFactor#8e84a02ce389f20cf54d987c40807aaed00c4c5f
+AppSettings#feature/getInterestingFactor#8e84a02ce389f20cf54d987c40807aaed00c4c5f
