@@ -1,1 +1,1 @@
-Measurements#feature/deleteByIds#7fe25d3380ca8c63e37022b767432ddc70191d19
+AppSettings#feature/deleteByIds#7fe25d3380ca8c63e37022b767432ddc70191d19
