@@ -1,1 +1,1 @@
-Measurements#feature/user-service#b97387a888fec8bffc49378d77f180b54db1d895
+AppSettings#feature/user-service#b97387a888fec8bffc49378d77f180b54db1d895
