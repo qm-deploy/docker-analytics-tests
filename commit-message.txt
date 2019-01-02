@@ -1,1 +1,1 @@
-AppSettings#feature/BadRequestException#4b1bacb8ffe1c024a169590393c6259070d1371b
+Reminders#feature/BadRequestException#4b1bacb8ffe1c024a169590393c6259070d1371b
