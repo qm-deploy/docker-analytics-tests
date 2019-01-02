@@ -1,1 +1,1 @@
-Measurements#feature/QueryBuilderHelper#f61f6cb5eb0ecdc4b2800b3283e682d2b6dac9f6
+AppSettings#feature/QueryBuilderHelper#f61f6cb5eb0ecdc4b2800b3283e682d2b6dac9f6
