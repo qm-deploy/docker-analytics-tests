@@ -1,1 +1,1 @@
-Reminders#feature/email-service#ed3127da6f05bd2ca2325ec1dc9a4c5721259119
+Controllers#feature/getStudy#d0ea8e7b52571b63f2e093c7accdda3e0494a8a2
