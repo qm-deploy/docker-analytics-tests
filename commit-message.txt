@@ -1,1 +1,1 @@
-Measurements#feature/embedded-svgs#56949e44bad0bf46d3bb8370ffbe66c5b5efb2f2
+AppSettings#feature/embedded-svgs#56949e44bad0bf46d3bb8370ffbe66c5b5efb2f2
