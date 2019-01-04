@@ -1,1 +1,1 @@
-Measurements#feature/boring-variables#a1fd2dbca31d8199617fa96ae33b9580b7981fdf
+AppSettings#feature/boring-variables#a1fd2dbca31d8199617fa96ae33b9580b7981fdf
