@@ -1,1 +1,1 @@
-Controllers#feature/getIsPublic#baa657eab470a0824b44131e1156968d562204eb
+Analytics#feature/getIsPublic#baa657eab470a0824b44131e1156968d562204eb
