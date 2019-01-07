@@ -1,1 +1,1 @@
-AppSettings#feature/embedded-svgs#548fd9b451c98fb69cc00ad85fb11b7db327ffd7
+Reminders#feature/embedded-svgs#548fd9b451c98fb69cc00ad85fb11b7db327ffd7
