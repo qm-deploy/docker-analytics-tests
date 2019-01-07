@@ -1,1 +1,1 @@
-Reminders#feature/joinStudy#ba91338c9b132bec427540fa70caed085b6cb230
+Controllers#feature/getIsPublic#baa657eab470a0824b44131e1156968d562204eb
