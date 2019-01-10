@@ -1,1 +1,1 @@
-Measurements#feature/Nameable#fb66a007df99d3c8b33246187889e3c55ca59910
+AppSettings#feature/Nameable#fb66a007df99d3c8b33246187889e3c55ca59910
