@@ -1,1 +1,1 @@
-Measurements#feature/model-generator#53fdf9a1875a9b089564ea45f297218ca8ab0b10
+AppSettings#feature/model-generator#53fdf9a1875a9b089564ea45f297218ca8ab0b10
