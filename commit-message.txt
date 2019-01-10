@@ -1,1 +1,1 @@
-Reminders#feature/ionic-subdomain#8ebddeced7bfd9390d17b465f2d8cd4549fd97d7
+Controllers#renovate/doctrine-migrations-2.x#769ce9585ecbf579c2f75df9e0af3c5a5700fe8f
