@@ -1,1 +1,1 @@
-Measurements#feature/DuplicateNotificationException#9801eb8384adf37941a0406abff2d0ba3bb8946d
+AppSettings#feature/DuplicateNotificationException#9801eb8384adf37941a0406abff2d0ba3bb8946d
