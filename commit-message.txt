@@ -1,1 +1,1 @@
-AppSettings#feature/github-studies#2b2de24a60cf64f7552c7458128b1ecd352ffee1
+Reminders#feature/github-studies#2b2de24a60cf64f7552c7458128b1ecd352ffee1
