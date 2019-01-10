@@ -1,1 +1,1 @@
-Controllers#feature/ChartTitle#a98e17eaed924fdcf03d0931c57f28a2b008c595
+Analytics#feature/ChartTitle#a98e17eaed924fdcf03d0931c57f28a2b008c595
