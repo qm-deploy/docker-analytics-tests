@@ -1,1 +1,1 @@
-Controllers#feature/Nameable#fb66a007df99d3c8b33246187889e3c55ca59910
+Analytics#feature/Nameable#fb66a007df99d3c8b33246187889e3c55ca59910
