@@ -1,1 +1,1 @@
-Measurements#feature/wordpress-studies#ffb8895a01942ba480993ed2d1afb23ff957155c
+AppSettings#feature/wordpress-studies#ffb8895a01942ba480993ed2d1afb23ff957155c
