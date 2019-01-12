@@ -1,1 +1,1 @@
-Analytics#feature/getAveragedByDate#39609d19e5a02c36a2b5272f438297f75f4d016b
+Measurements#feature/getAveragedByDate#39609d19e5a02c36a2b5272f438297f75f4d016b
