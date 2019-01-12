@@ -1,1 +1,1 @@
-Analytics#feature/dailyMeasurements#cf8872dd08e309cd84a1ee5d65631c2a53545e0d
+Measurements#feature/dailyMeasurements#cf8872dd08e309cd84a1ee5d65631c2a53545e0d
