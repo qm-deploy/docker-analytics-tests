@@ -1,1 +1,1 @@
-AppSettings#feature/contradictions#e5e9166c9c72f1b8c5c859a06531661bb9d2a415
+Reminders#feature/contradictions#e5e9166c9c72f1b8c5c859a06531661bb9d2a415
