@@ -1,1 +1,1 @@
-Measurements#feature/getTagLine#0806f8456a1715e22614d21623807a7642a8d3e4
+AppSettings#feature/getTagLine#0806f8456a1715e22614d21623807a7642a8d3e4
