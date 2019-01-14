@@ -1,1 +1,1 @@
-Measurements#feature/test-db#817b9696a7c300b3d94863a18c0ab2cc6e1cb115
+AppSettings#feature/test-db#817b9696a7c300b3d94863a18c0ab2cc6e1cb115
