@@ -1,1 +1,1 @@
-Measurements#feature/getStdOAuthToken#e305bd1d82466de14076fb2c7c72d4671ac0cc99
+AppSettings#feature/getStdOAuthToken#e305bd1d82466de14076fb2c7c72d4671ac0cc99
