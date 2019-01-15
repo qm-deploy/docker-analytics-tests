@@ -1,1 +1,1 @@
-Measurements#feature/containsChartTitle#ea143a6a0661b1f733c22eba5c7fab6c6bcb5d59
+AppSettings#feature/containsChartTitle#ea143a6a0661b1f733c22eba5c7fab6c6bcb5d59
