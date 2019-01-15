@@ -1,1 +1,1 @@
-Controllers#feature/getStrengthSentence#c6faad5f7a8ec33c5f674f375d28e14e12a17829
+Analytics#feature/getStrengthSentence#c6faad5f7a8ec33c5f674f375d28e14e12a17829
