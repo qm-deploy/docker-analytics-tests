@@ -1,1 +1,1 @@
-Reminders#feature/test-db#0856ddf65bda2ba5b310ea1be742088ce6a83bb5
+Controllers#feature/getStrengthSentence#36792eff76d44440995d5c8d9fb175908becd316
