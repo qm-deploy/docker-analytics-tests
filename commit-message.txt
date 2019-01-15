@@ -1,1 +1,1 @@
-Measurements#feature/study-charts#ce1da4cf90ab33cf96ee1bf7d5b2664505c50043
+AppSettings#feature/study-charts#ce1da4cf90ab33cf96ee1bf7d5b2664505c50043
