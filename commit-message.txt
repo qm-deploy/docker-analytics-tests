@@ -1,1 +1,1 @@
-AppSettings#feature/chartId#c44d27a71a72b82db525bb18201a429427f084b7
+Reminders#feature/chartId#c44d27a71a72b82db525bb18201a429427f084b7
