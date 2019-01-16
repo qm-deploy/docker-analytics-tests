@@ -1,1 +1,1 @@
-AppSettings#feature/ImportMeasurementSpreadsheetTaskTest#b8259bded5d446e230c48f0497dd70791bf56ded
+Reminders#feature/ImportMeasurementSpreadsheetTaskTest#b8259bded5d446e230c48f0497dd70791bf56ded
