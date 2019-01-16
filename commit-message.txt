@@ -1,1 +1,1 @@
-Controllers#feature/delete-measurements#c02fb69ced11907f6a82eb1b756938281cbff363
+Analytics#feature/delete-measurements#c02fb69ced11907f6a82eb1b756938281cbff363
