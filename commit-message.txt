@@ -1,1 +1,1 @@
-Measurements#feature/getServing#431c001ff95f6a37347b6af1504296a4fc739845
+AppSettings#feature/getServing#431c001ff95f6a37347b6af1504296a4fc739845
