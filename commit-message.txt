@@ -1,1 +1,1 @@
-AppSettings#feature/getServing#357c03f8953396bbf02d183f49cea0ac8a69f074
+Reminders#feature/getServing#357c03f8953396bbf02d183f49cea0ac8a69f074
