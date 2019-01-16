@@ -1,1 +1,1 @@
-Measurements#feature/numberOfRawMeasurements#7e156d9b3c18776626b09b7e9055fac7dd60aabb
+AppSettings#feature/numberOfRawMeasurements#7e156d9b3c18776626b09b7e9055fac7dd60aabb
