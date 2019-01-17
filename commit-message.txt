@@ -1,1 +1,1 @@
-Measurements#feature/fixServingMeasurements#ea27a53403253943e98a50d64032e8193dc78141
+AppSettings#feature/fixServingMeasurements#ea27a53403253943e98a50d64032e8193dc78141
