@@ -1,1 +1,1 @@
-Measurements#feature/suffix#14c042d7f523510a5b62687b7f7b69cfaa40bd33
+AppSettings#feature/suffix#14c042d7f523510a5b62687b7f7b69cfaa40bd33
