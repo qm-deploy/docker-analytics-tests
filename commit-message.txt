@@ -1,1 +1,1 @@
-AppSettings#feature/getStudyLinks#2daee5bb5c3203775dc87d705b4e7c7fc466ae4a
+Reminders#feature/getStudyLinks#2daee5bb5c3203775dc87d705b4e7c7fc466ae4a
