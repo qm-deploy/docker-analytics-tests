@@ -1,1 +1,1 @@
-Measurements#feature/create-study#2c86a5be0f28ba4d420af277f351ff7996abb7b9
+AppSettings#feature/create-study#2c86a5be0f28ba4d420af277f351ff7996abb7b9
