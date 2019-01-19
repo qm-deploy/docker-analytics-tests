@@ -1,1 +1,1 @@
-Measurements#feature/api-validator#25f4c116c963d9fdc3351ef8f7f7dc988a8bc2a1
+AppSettings#feature/api-validator#25f4c116c963d9fdc3351ef8f7f7dc988a8bc2a1
