@@ -1,1 +1,1 @@
-AppSettings#feature/setEffectProcessedDailyMeasurements#92f15b332e4dc14fb5341706b0289f02e4bef908
+Reminders#feature/setEffectProcessedDailyMeasurements#92f15b332e4dc14fb5341706b0289f02e4bef908
