@@ -1,1 +1,1 @@
-Controllers#feature/SlackConnector#d478b8a699d35de231e6fbcf1f86980286a2d80c
+Analytics#feature/SlackConnector#d478b8a699d35de231e6fbcf1f86980286a2d80c
