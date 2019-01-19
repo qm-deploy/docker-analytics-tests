@@ -1,1 +1,1 @@
-Measurements#feature/composer-update#5b84cfe64a73a796a590e9e59e4301259a92999b
+AppSettings#feature/composer-update#5b84cfe64a73a796a590e9e59e4301259a92999b
