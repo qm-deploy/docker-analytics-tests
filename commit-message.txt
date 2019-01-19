@@ -1,1 +1,1 @@
-Controllers#feature/deleteFromDatabase#06b83e16a597fa4894045c5e682a63bffa0e21d5
+Analytics#feature/deleteFromDatabase#06b83e16a597fa4894045c5e682a63bffa0e21d5
