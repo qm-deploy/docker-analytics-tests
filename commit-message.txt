@@ -1,1 +1,1 @@
-AppSettings#feature/GetPairRequest#067ef7a5cbbd9b835c7d300f9aabec2a8ce3439d
+Reminders#feature/GetPairRequest#067ef7a5cbbd9b835c7d300f9aabec2a8ce3439d
