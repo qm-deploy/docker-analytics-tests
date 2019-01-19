@@ -1,1 +1,1 @@
-AppSettings#feature/softDelete#77964b469c18a361b8b3b67a3b16a23dd5177123
+Reminders#feature/softDelete#77964b469c18a361b8b3b67a3b16a23dd5177123
