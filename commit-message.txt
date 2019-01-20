@@ -1,1 +1,1 @@
-Measurements#feature/zipCodeValidForCountry#b0fad21000b7c59070debdcdf06511fb3bf2ad55
+AppSettings#feature/zipCodeValidForCountry#b0fad21000b7c59070debdcdf06511fb3bf2ad55
