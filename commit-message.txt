@@ -1,1 +1,1 @@
-Measurements#feature/joinStudy#86634b772ddff9235dc682f0874230da6694ec74
+AppSettings#feature/joinStudy#86634b772ddff9235dc682f0874230da6694ec74
