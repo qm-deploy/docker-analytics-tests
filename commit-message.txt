@@ -1,1 +1,1 @@
-AppSettings#feature/getSortingScore#f7c64adf114dba724c0234a62ff7944103c7259d
+Reminders#feature/getSortingScore#f7c64adf114dba724c0234a62ff7944103c7259d
