@@ -1,1 +1,1 @@
-Measurements#feature/getFindOutHowItAffectsYouButton#a28f234ff1a9f935fc11a49bb9c183bd26789503
+AppSettings#feature/getFindOutHowItAffectsYouButton#a28f234ff1a9f935fc11a49bb9c183bd26789503
