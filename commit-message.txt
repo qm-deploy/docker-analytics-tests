@@ -1,1 +1,1 @@
-AppSettings#feature/getFindOutHowItAffectsYouButton#e94b246396c342d914f5a8de5d1fc8d5b1e4f2c5
+Reminders#feature/getFindOutHowItAffectsYouButton#e94b246396c342d914f5a8de5d1fc8d5b1e4f2c5
