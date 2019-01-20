@@ -1,1 +1,1 @@
-Measurements#feature/getSortingScore#ff7b6221dc50914ea69919c7e9541a7b6a7e8487
+AppSettings#feature/getSortingScore#ff7b6221dc50914ea69919c7e9541a7b6a7e8487
