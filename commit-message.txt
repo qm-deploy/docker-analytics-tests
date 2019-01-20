@@ -1,1 +1,1 @@
-Measurements#feature/getAggregated#f2b59f085d4baec9f1665d8010c82da40ceb7c11
+AppSettings#feature/getAggregated#f2b59f085d4baec9f1665d8010c82da40ceb7c11
