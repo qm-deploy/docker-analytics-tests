@@ -1,1 +1,1 @@
-Reminders#feature/wp_capabilities#0390f14c301b09a3256157aac1f15195ce63334f
+Controllers#feature/getSortingScore#0c2f1078482834a335b76e0809535102ac7ed9c7
