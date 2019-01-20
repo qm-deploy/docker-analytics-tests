@@ -1,1 +1,1 @@
-Reminders#feature/getSortingScore#70bb931b90bf0b385efe2950873060beb2c0d38a
+Controllers#feature/getSortingScore#f7c64adf114dba724c0234a62ff7944103c7259d
