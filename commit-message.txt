@@ -1,1 +1,1 @@
-Measurements#feature/BadRequestException#7cb11fb4d69598be9f401aeb1962c1aec0de9d4f
+AppSettings#feature/BadRequestException#7cb11fb4d69598be9f401aeb1962c1aec0de9d4f
