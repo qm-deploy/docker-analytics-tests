@@ -1,1 +1,1 @@
-Reminders#feature/joinStudy#56679eb842ed5b8dc88d55ccd7fe08d5202652a5
+Controllers#feature/joinStudy#86634b772ddff9235dc682f0874230da6694ec74
