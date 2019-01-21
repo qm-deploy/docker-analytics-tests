@@ -1,1 +1,1 @@
-Measurements#feature/getStudyLinkDynamic#8ed73fd6ccafede707841e409e2fa1593523f7f8
+AppSettings#feature/getStudyLinkDynamic#8ed73fd6ccafede707841e409e2fa1593523f7f8
