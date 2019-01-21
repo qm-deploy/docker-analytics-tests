@@ -1,1 +1,1 @@
-AppSettings#feature/isStupidVariable#37ac4f1664b6f7de689558e0ce75729ebd1a91bc
+Reminders#feature/isStupidVariable#37ac4f1664b6f7de689558e0ce75729ebd1a91bc
