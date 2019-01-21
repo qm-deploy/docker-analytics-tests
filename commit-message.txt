@@ -1,1 +1,1 @@
-AppSettings#feature/OAUTH_SERVICE_NAME#cdc2ab9d5490cea47c1da726cff6587061e1ab39
+Reminders#feature/OAUTH_SERVICE_NAME#cdc2ab9d5490cea47c1da726cff6587061e1ab39
