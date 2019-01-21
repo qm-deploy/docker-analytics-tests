@@ -1,1 +1,1 @@
-Measurements#feature/OAUTH_SERVICE_NAME#000d09cc9c97c240b7316d7ae6cc8dbdcaff9798
+AppSettings#feature/OAUTH_SERVICE_NAME#000d09cc9c97c240b7316d7ae6cc8dbdcaff9798
