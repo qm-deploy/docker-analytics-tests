@@ -1,1 +1,1 @@
-AppSettings#feature/pairs#c61d11e583fcc30be1f7eceee264cbefcb41538e
+Reminders#feature/pairs#c61d11e583fcc30be1f7eceee264cbefcb41538e
