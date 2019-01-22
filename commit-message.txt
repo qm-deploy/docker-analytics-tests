@@ -1,1 +1,1 @@
-Measurements#feature/wordpress-buttons#15a28bcd60eac2fc4e090814bc6485d3a9a123a1
+AppSettings#feature/wordpress-buttons#15a28bcd60eac2fc4e090814bc6485d3a9a123a1
