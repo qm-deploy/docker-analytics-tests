@@ -1,1 +1,1 @@
-AppSettings#feature/getDataAnalysisParagraph#e3b711d2880a046c926d1504d0f46e5b20c10c1e
+Reminders#feature/getDataAnalysisParagraph#e3b711d2880a046c926d1504d0f46e5b20c10c1e
