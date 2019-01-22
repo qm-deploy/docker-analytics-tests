@@ -1,1 +1,1 @@
-Measurements#feature/pairs#2717d9d3d698bc7813697b3e926afe7d25b36168
+AppSettings#feature/pairs#2717d9d3d698bc7813697b3e926afe7d25b36168
