@@ -1,1 +1,1 @@
-Measurements#renovate/bugsnag-bugsnag-3.x#442fcb3d6866242f81ad591267119eacdab081fa
+AppSettings#renovate/bugsnag-bugsnag-3.x#442fcb3d6866242f81ad591267119eacdab081fa
