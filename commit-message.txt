@@ -1,1 +1,1 @@
-Controllers#feature/toSlug#1d33ff1fd548fa5a6d4bde1e43976f10d750792e
+Analytics#feature/toSlug#1d33ff1fd548fa5a6d4bde1e43976f10d750792e
