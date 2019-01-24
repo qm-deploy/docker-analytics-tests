@@ -1,1 +1,1 @@
-AppSettings#feature/study-excerpts#540a347612baf0099cfe5bc93d7366527d67950c
+Reminders#feature/study-excerpts#540a347612baf0099cfe5bc93d7366527d67950c
