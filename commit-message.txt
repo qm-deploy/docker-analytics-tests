@@ -1,1 +1,1 @@
-Measurements#feature/setStudyButtons#dedbfe5b302e058b956bfb57773ade52dfff7277
+AppSettings#feature/setStudyButtons#dedbfe5b302e058b956bfb57773ade52dfff7277
