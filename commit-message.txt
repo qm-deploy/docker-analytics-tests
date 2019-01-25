@@ -1,1 +1,1 @@
-AppSettings#feature/getOptionsListCard#189ec156e59d134083b257ef0626ca69cede79cb
+Reminders#feature/getOptionsListCard#189ec156e59d134083b257ef0626ca69cede79cb
