@@ -1,1 +1,1 @@
-Measurements#feature/register_shutdown_function#f20d1956145047885db20578d2303d8640e2ef7e
+AppSettings#feature/register_shutdown_function#f20d1956145047885db20578d2303d8640e2ef7e
