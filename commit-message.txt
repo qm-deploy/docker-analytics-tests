@@ -1,1 +1,1 @@
-Measurements#feature/dialogflow-buttons#635b74774d8b12c441b384bda25e5188456a82d7
+AppSettings#feature/dialogflow-buttons#635b74774d8b12c441b384bda25e5188456a82d7
