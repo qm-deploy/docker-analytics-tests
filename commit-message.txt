@@ -1,1 +1,1 @@
-AppSettings#feature/amazon#a6f19594fd90c83177ad0587812ac315b8449aec
+Reminders#feature/amazon#a6f19594fd90c83177ad0587812ac315b8449aec
