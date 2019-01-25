@@ -1,1 +1,1 @@
-AppSettings#feature/stupidCategoryPairs#b54d09f8bc55a756b3fe8d7642e3f91339a4e835
+Reminders#feature/stupidCategoryPairs#b54d09f8bc55a756b3fe8d7642e3f91339a4e835
