@@ -1,1 +1,1 @@
-Controllers#feature/getInterestingFactor#20dbbf2f6b250d996a15a455d1d331650d387dee
+Analytics#feature/getInterestingFactor#20dbbf2f6b250d996a15a455d1d331650d387dee
