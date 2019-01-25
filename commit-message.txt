@@ -1,1 +1,1 @@
-Analytics#renovate/major-symfony#a16dbcfa040355c48c056a161bad9a86b7c34555
+Measurements#renovate/major-symfony#a16dbcfa040355c48c056a161bad9a86b7c34555
