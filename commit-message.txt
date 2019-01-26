@@ -1,1 +1,1 @@
-Measurements#feature/TrackingReminderNotificationsTest#bf310346af07e92768508b5f6e45c5cad00585e5
+AppSettings#feature/TrackingReminderNotificationsTest#bf310346af07e92768508b5f6e45c5cad00585e5
