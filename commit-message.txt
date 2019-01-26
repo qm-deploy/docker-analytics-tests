@@ -1,1 +1,1 @@
-Controllers#feature/getStudyLinkStatic2#8fc91b620fc46a2082eca7d05dbae98919c61bcb
+Analytics#feature/getStudyLinkStatic2#8fc91b620fc46a2082eca7d05dbae98919c61bcb
