@@ -1,1 +1,1 @@
-Measurements#feature/getStudyLinkStatic#4b7fdb1b1176b21b74d13c29ae6eae2f4f7cccc8
+AppSettings#feature/getStudyLinkStatic#4b7fdb1b1176b21b74d13c29ae6eae2f4f7cccc8
