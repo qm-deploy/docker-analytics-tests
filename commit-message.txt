@@ -1,1 +1,1 @@
-Measurements#feature/runkeeper#3ca8e16a1f1e1bc4bff9a97e2dbb189791217801
+AppSettings#feature/runkeeper#3ca8e16a1f1e1bc4bff9a97e2dbb189791217801
