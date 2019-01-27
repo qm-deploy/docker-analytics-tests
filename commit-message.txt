@@ -1,1 +1,1 @@
-Measurements#feature/retryWithThirdPartyIfNecessary#5f6fdde3e70008a7d789c550826f3806edc12c09
+AppSettings#feature/retryWithThirdPartyIfNecessary#5f6fdde3e70008a7d789c550826f3806edc12c09
