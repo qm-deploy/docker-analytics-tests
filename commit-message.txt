@@ -1,1 +1,1 @@
-AppSettings#feature/reset#d07a5aeb601880ab5ffafed34f922c1195696b1f
+Reminders#feature/reset#d07a5aeb601880ab5ffafed34f922c1195696b1f
