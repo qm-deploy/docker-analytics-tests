@@ -1,1 +1,1 @@
-AppSettings#feature/GooglePushNotification#f01c9df9c6ab8a53ed6d13f9267e42784438e192
+Reminders#feature/GooglePushNotification#f01c9df9c6ab8a53ed6d13f9267e42784438e192
