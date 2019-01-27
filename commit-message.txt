@@ -1,1 +1,1 @@
-Measurements#feature/storeCorrelation#5642bc5032cf81815e8936f2d9455b44f49c2109
+AppSettings#feature/storeCorrelation#5642bc5032cf81815e8936f2d9455b44f49c2109
