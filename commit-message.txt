@@ -1,1 +1,1 @@
-Measurements#feature/getAllUserCorrelationsForPair#c8ca7cef80696b61e8c35cedfc612aa6fb4ffe4e
+AppSettings#feature/getAllUserCorrelationsForPair#c8ca7cef80696b61e8c35cedfc612aa6fb4ffe4e
