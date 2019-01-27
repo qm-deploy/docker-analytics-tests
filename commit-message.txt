@@ -1,1 +1,1 @@
-AppSettings#feature/writeResponseDataToFile#991d2afed52e92416a334afeff76ea7b7e267207
+Reminders#feature/writeResponseDataToFile#991d2afed52e92416a334afeff76ea7b7e267207
