@@ -1,1 +1,1 @@
-Measurements#feature/workers#0b9277e2a6fd3a5dc12dc4534e2b1e32127780e5
+AppSettings#feature/workers#0b9277e2a6fd3a5dc12dc4534e2b1e32127780e5
