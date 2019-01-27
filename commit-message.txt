@@ -1,1 +1,1 @@
-Measurements#feature/IONIC_IMAGE_URL#75f1a16b50ce20af2913af68d0f2e95e560e40d3
+AppSettings#feature/IONIC_IMAGE_URL#75f1a16b50ce20af2913af68d0f2e95e560e40d3
