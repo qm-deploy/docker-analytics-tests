@@ -1,1 +1,1 @@
-Reminders#feature/retryWithThirdPartyIfNecessary#4f16b3fbafdcd94c670958cf316c5b18195e8162
+Controllers#feature/getStudy#2a1251b5586fd2077ba62a8bb5b1f52eb25de7f7
