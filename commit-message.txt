@@ -1,1 +1,1 @@
-Measurements#feature/MongoCache#a7a24e5c6d9a30935fd220939bba5714e8fdaa62
+AppSettings#feature/MongoCache#a7a24e5c6d9a30935fd220939bba5714e8fdaa62
