@@ -1,1 +1,1 @@
-AppSettings#renovate/slim-slim-3.x#325368aebd04acc86abb40452c6852c004133a5b
+Reminders#renovate/slim-slim-3.x#325368aebd04acc86abb40452c6852c004133a5b
