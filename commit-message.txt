@@ -1,1 +1,1 @@
-AppSettings#feature/updateVariableCategoryIdIfNecessary#10a538ff52e0f0d0c8d49d393bf2bf750617a6fb
+Reminders#feature/updateVariableCategoryIdIfNecessary#10a538ff52e0f0d0c8d49d393bf2bf750617a6fb
