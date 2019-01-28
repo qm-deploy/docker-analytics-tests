@@ -1,1 +1,1 @@
-Measurements#feature/testUserStudyRecalculationCardioMood#d09f5c4bcb1e23e4c861d26d3ecd0bd04940eca8
+AppSettings#feature/testUserStudyRecalculationCardioMood#d09f5c4bcb1e23e4c861d26d3ecd0bd04940eca8
