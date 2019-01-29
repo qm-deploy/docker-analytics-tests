@@ -1,1 +1,1 @@
-Measurements#feature/getChartsUrl#0b21022631996a2d378049f2ad0f9ce46a7d2c33
+AppSettings#feature/getChartsUrl#0b21022631996a2d378049f2ad0f9ce46a7d2c33
