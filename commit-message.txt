@@ -1,1 +1,1 @@
-AppSettings#renovate/bugsnag-bugsnag-3.x#bdaf57d8f457f1e94e5aab27f3b37ac287455f0b
+Reminders#renovate/bugsnag-bugsnag-3.x#bdaf57d8f457f1e94e5aab27f3b37ac287455f0b
