@@ -1,1 +1,1 @@
-AppSettings#feature/setEffectValueStatistics#44194045b9758d3348ded911cb422688f584027b
+Reminders#feature/setEffectValueStatistics#44194045b9758d3348ded911cb422688f584027b
