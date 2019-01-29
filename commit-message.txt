@@ -1,1 +1,1 @@
-Measurements#feature/VARIABLE_NAME_BLOOD_PRESSURE#88a9b53d1223bc72c4ed5ae96d0bacbe4d19d3af
+AppSettings#feature/VARIABLE_NAME_BLOOD_PRESSURE#88a9b53d1223bc72c4ed5ae96d0bacbe4d19d3af
