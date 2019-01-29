@@ -1,1 +1,1 @@
-AppSettings#feature/getAllUserTagVariableTypes#2d1fec9b3cb20227827e4b1957f0313772f53266
+Reminders#feature/getAllUserTagVariableTypes#2d1fec9b3cb20227827e4b1957f0313772f53266
