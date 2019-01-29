@@ -1,1 +1,1 @@
-AppSettings#feature/deleteMeasurementsOutSideAllowedRange#36a5e46df364ae07a7c02e41d5c3d9e60fabfc91
+Reminders#feature/deleteMeasurementsOutSideAllowedRange#36a5e46df364ae07a7c02e41d5c3d9e60fabfc91
