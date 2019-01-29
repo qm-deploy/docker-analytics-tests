@@ -1,1 +1,1 @@
-AppSettings#feature/validateCalculation#ebb93ca5fff9d73af0e2a9c2473c828533fad9a3
+Reminders#feature/validateCalculation#ebb93ca5fff9d73af0e2a9c2473c828533fad9a3
