@@ -1,1 +1,1 @@
-Controllers#feature/getAllUserTagVariableTypes#afdd1437125daed762f20dfe97ad1b5253cc17bb
+Analytics#feature/getAllUserTagVariableTypes#afdd1437125daed762f20dfe97ad1b5253cc17bb
