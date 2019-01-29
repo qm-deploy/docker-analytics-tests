@@ -1,1 +1,1 @@
-Controllers#feature/typeCategory#54d3e8254456535c5970df3cf84c761b93ea5e2b
+Analytics#feature/typeCategory#54d3e8254456535c5970df3cf84c761b93ea5e2b
