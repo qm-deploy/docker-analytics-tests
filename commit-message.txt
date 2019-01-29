@@ -1,1 +1,1 @@
-Reminders#renovate/bugsnag-bugsnag-3.x#5f4258500ff63dca497b8be44f25fe40c8db7e0a
+Controllers#feature/setEffectValueStatistics#66c83d83c908a1b2f6ac1f9847e9cdde55240861
