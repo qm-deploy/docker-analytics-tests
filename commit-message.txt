@@ -1,1 +1,1 @@
-Controllers#renovate/bugsnag-bugsnag-3.x#4c196d64c5dd028c7067c5a32d853fbae7acd62a
+Analytics#renovate/bugsnag-bugsnag-3.x#4c196d64c5dd028c7067c5a32d853fbae7acd62a
