@@ -1,1 +1,1 @@
-Controllers#feature/getConnectionByConnectorId#dbae29bb0e9802754337cb4d7bd7d33821a7d0c6
+Analytics#feature/getConnectionByConnectorId#dbae29bb0e9802754337cb4d7bd7d33821a7d0c6
