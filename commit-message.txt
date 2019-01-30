@@ -1,1 +1,1 @@
-Controllers#feature/time-spent#b2fbe5b7c1bf1448a8e1622b44eeac8281c8f720
+Analytics#feature/time-spent#b2fbe5b7c1bf1448a8e1622b44eeac8281c8f720
