@@ -1,1 +1,1 @@
-Measurements#feature/LogicException#6817c2cf8fb253e00a6b07a1f6a128086610ab0b
+AppSettings#feature/LogicException#6817c2cf8fb253e00a6b07a1f6a128086610ab0b
