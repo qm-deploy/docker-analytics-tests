@@ -1,1 +1,1 @@
-Measurements#feature/getAllUserTagVariableTypes#645b8912bd7595ea13410b5a5af364e0d6c3be07
+AppSettings#feature/getAllUserTagVariableTypes#645b8912bd7595ea13410b5a5af364e0d6c3be07
