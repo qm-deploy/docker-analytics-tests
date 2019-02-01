@@ -1,1 +1,1 @@
-AppSettings#feature/InsufficientVarianceException#099d5451d691c2ad8a4a61e746c118d1a31a6815
+Reminders#feature/InsufficientVarianceException#099d5451d691c2ad8a4a61e746c118d1a31a6815
