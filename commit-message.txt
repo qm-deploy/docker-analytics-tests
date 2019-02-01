@@ -1,1 +1,1 @@
-Measurements#feature/setStatusInDatabase#cd0a433dd121accdd45b828a244a4301327ed787
+AppSettings#feature/setStatusInDatabase#cd0a433dd121accdd45b828a244a4301327ed787
