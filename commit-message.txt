@@ -1,1 +1,1 @@
-Measurements#feature/fetchAll#b6306dd68c622105bbd9904fc4f4a62b5db45ad8
+AppSettings#feature/fetchAll#b6306dd68c622105bbd9904fc4f4a62b5db45ad8
