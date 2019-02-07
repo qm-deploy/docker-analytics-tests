@@ -1,1 +1,1 @@
-AppSettings#feature/postToWordPress#e0b620e4e6836ddd727739874bc2c7c4900f6fbe
+Reminders#feature/postToWordPress#e0b620e4e6836ddd727739874bc2c7c4900f6fbe
