@@ -1,1 +1,1 @@
-Controllers#renovate/mockery-mockery-1.x#8eb45e384b4cc9e4c02562f177bf1f4e20016e4e
+Analytics#renovate/mockery-mockery-1.x#8eb45e384b4cc9e4c02562f177bf1f4e20016e4e
