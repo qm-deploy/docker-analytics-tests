@@ -1,1 +1,1 @@
-Controllers#renovate/barryvdh-laravel-debugbar-3.x#be312601cb156bf890e6094b5534df181ba37305
+Analytics#renovate/barryvdh-laravel-debugbar-3.x#be312601cb156bf890e6094b5534df181ba37305
