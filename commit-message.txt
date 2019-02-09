@@ -1,1 +1,1 @@
-Reminders#renovate/ghost-inspector-3.x#33768003698bf4747e0501b37db21755355b81a6
+Controllers#renovate/laravel-framework-5.x#a00bdb7081f9a372ea427cbf203e75e72bba0e11
