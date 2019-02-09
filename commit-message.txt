@@ -1,1 +1,1 @@
-Reminders#renovate/barryvdh-laravel-debugbar-3.x#be312601cb156bf890e6094b5534df181ba37305
+Controllers#renovate/ghost-inspector-3.x#33768003698bf4747e0501b37db21755355b81a6
