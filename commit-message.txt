@@ -1,1 +1,1 @@
-Reminders#renovate/alcaeus-mongo-php-adapter-1.x#32bf1f27ccf5d30915f39792fbfa95f3195d0b24
+Controllers#renovate/barryvdh-laravel-debugbar-3.x#be312601cb156bf890e6094b5534df181ba37305
