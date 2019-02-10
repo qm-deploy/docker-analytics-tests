@@ -1,1 +1,1 @@
-Measurements#feature/postToWordPress#7fa6b2a03eaf2ee455184862a082022985492053
+AppSettings#feature/postToWordPress#7fa6b2a03eaf2ee455184862a082022985492053
