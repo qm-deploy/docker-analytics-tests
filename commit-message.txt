@@ -1,1 +1,1 @@
-Measurements#feature/activities-outcome#0229edcd1c9c624c5826985446a497f8fd9fe1b9
+AppSettings#feature/activities-outcome#0229edcd1c9c624c5826985446a497f8fd9fe1b9
