@@ -1,1 +1,1 @@
-Measurements#feature/convertToDisplayName#faec794fe01db3af58d81da6f77ac858bdf14e5c
+AppSettings#feature/convertToDisplayName#faec794fe01db3af58d81da6f77ac858bdf14e5c
