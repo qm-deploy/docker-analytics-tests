@@ -1,1 +1,1 @@
-Reminders#renovate/mockery-mockery-1.x#b3ad8029908cf822a2ace0679ecf0977774f7718
+Controllers#renovate/alcaeus-mongo-php-adapter-1.x#71567f6a41a486f2c9d9ef8aad9dc90bf88e8363
