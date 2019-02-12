@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-dusk-5.x#7660c1668008dc418e61e5ec53709fa55b5892c9
+Controllers#renovate/laravel-framework-5.x#a7de67b992315fff47169b636893de9eabb65ffd
