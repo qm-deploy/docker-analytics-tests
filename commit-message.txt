@@ -1,1 +1,1 @@
-Reminders#renovate/mockery-mockery-1.x#f15173288abbe3cf9b23a56e359fb1b7697df851
+Controllers#renovate/laravel-dusk-5.x#7898f326c1629ce39bed722f43ae0fbf60b978f6
