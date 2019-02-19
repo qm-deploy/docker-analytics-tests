@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-socialite-4.x#b398efe5c69d876e5b41e8e07488377dbad45ea2
+Controllers#renovate/mockery-mockery-1.x#f15173288abbe3cf9b23a56e359fb1b7697df851
