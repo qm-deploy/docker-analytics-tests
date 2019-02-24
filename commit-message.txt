@@ -1,1 +1,1 @@
-Measurements#renovate/johnkary-phpunit-speedtrap-3.x#b35154223c1870aca594ebb692f6b9e0f34f175f
+AppSettings#renovate/johnkary-phpunit-speedtrap-3.x#b35154223c1870aca594ebb692f6b9e0f34f175f
