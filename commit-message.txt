@@ -1,1 +1,1 @@
-Reminders#renovate/soundasleep-html2text-1.x#be173b3b54ecad537b29f49cbec7e870b88c6bfb
+Controllers#renovate/alcaeus-mongo-php-adapter-1.x#b3e1d8503b6427183fe036aca359ac2b9330d69a
