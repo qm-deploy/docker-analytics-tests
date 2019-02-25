@@ -1,1 +1,1 @@
-Analytics#renovate/johnkary-phpunit-speedtrap-3.x#282637ddd568fc861b9e1ae5558a1e030081565c
+Measurements#renovate/johnkary-phpunit-speedtrap-3.x#282637ddd568fc861b9e1ae5558a1e030081565c
