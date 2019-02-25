@@ -1,1 +1,1 @@
-Reminders#renovate/johnkary-phpunit-speedtrap-3.x#dec3c6ef3d8fca9fdd62d671b4426ae6502fc162
+Controllers#renovate/laravel-socialite-4.x#852af41dc4992d25003370fe87e54c5a98eaafb1
