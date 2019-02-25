@@ -1,1 +1,1 @@
-Reminders#renovate/alcaeus-mongo-php-adapter-1.x#4256405de323d4ffc0df3ebdae4c39dbd5e103c0
+Controllers#renovate/johnkary-phpunit-speedtrap-3.x#dec3c6ef3d8fca9fdd62d671b4426ae6502fc162
