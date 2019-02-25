@@ -1,1 +1,1 @@
-Controllers#renovate/johnkary-phpunit-speedtrap-3.x#dec3c6ef3d8fca9fdd62d671b4426ae6502fc162
+Analytics#renovate/johnkary-phpunit-speedtrap-3.x#dec3c6ef3d8fca9fdd62d671b4426ae6502fc162
