@@ -1,1 +1,1 @@
-Reminders#renovate/yargs-13.x#11cfdfc7f00577a5baee2bd1e2e44bc2b43cb953
+Controllers#renovate/johnkary-phpunit-speedtrap-3.x#c719435364a693e63826ada49c96f9c32d32ede1
