@@ -1,1 +1,1 @@
-AppSettings#feature/skip-amazon#d04d6632ca86c697d73214757b600fe1e081d660
+Reminders#feature/skip-amazon#d04d6632ca86c697d73214757b600fe1e081d660
