@@ -1,1 +1,1 @@
-Measurements#renovate/alcaeus-mongo-php-adapter-1.x#b3e1d8503b6427183fe036aca359ac2b9330d69a
+AppSettings#renovate/alcaeus-mongo-php-adapter-1.x#b3e1d8503b6427183fe036aca359ac2b9330d69a
