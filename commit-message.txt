@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-socialite-4.x#99bd78e11ebe851abdb073c07b5fa3550bb1cdd1
+Controllers#renovate/alcaeus-mongo-php-adapter-1.x#e1a9c23dbe2e30330e44dfae710b094f4792d7a9
