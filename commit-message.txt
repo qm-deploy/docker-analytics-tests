@@ -1,1 +1,1 @@
-Analytics#renovate/soundasleep-html2text-1.x#706711c841181260c49cc5779c322f818cddbda2
+Measurements#renovate/soundasleep-html2text-1.x#706711c841181260c49cc5779c322f818cddbda2
