@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-dusk-5.x#417c0177ab19f4e7c61852c815e9a8837bff68ff
+Controllers#renovate/soundasleep-html2text-1.x#706711c841181260c49cc5779c322f818cddbda2
