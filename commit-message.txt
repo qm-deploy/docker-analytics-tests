@@ -1,1 +1,1 @@
-Reminders#renovate/tracy-tracy-2.x#5aec0b5ba1832a5cfe1709fa75c62728c217a397
+Controllers#renovate/laravel-dusk-5.x#48fcd62c34315b0e4ca102dd57986aafda2671e4
