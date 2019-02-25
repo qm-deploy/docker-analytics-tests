@@ -1,1 +1,1 @@
-AppSettings#renovate/soundasleep-html2text-1.x#be173b3b54ecad537b29f49cbec7e870b88c6bfb
+Reminders#renovate/soundasleep-html2text-1.x#be173b3b54ecad537b29f49cbec7e870b88c6bfb
