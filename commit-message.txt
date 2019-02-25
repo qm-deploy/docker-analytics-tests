@@ -1,1 +1,1 @@
-Measurements#feature/skip-amazon#220ebe76f6b6132fca6f569868b7396daa9aa67c
+AppSettings#feature/skip-amazon#220ebe76f6b6132fca6f569868b7396daa9aa67c
