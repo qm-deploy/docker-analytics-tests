@@ -1,1 +1,1 @@
-Reminders#renovate/soundasleep-html2text-1.x#be47cc42d822b75cc1d9be3e1625eaa759d23431
+Controllers#renovate/johnkary-phpunit-speedtrap-3.x#47830f2eac06c793319442a6721c1515bbcb8238
