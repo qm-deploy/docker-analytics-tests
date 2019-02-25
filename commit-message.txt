@@ -1,1 +1,1 @@
-Reminders#renovate/johnkary-phpunit-speedtrap-3.x#47830f2eac06c793319442a6721c1515bbcb8238
+Controllers#renovate/mockery-mockery-1.x#a36596bf7a17d7fd08532bd7c7064f270ac261d9
