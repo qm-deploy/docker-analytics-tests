@@ -1,1 +1,1 @@
-Reminders#renovate/soundasleep-html2text-1.x#1c725c9343c86e1a0bc360e8d98ca778593703d6
+Controllers#renovate/barryvdh-laravel-ide-helper-2.x#9f26234ee3c2121f485deddc116dd2ff0967d260
