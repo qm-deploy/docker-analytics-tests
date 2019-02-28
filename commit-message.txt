@@ -1,1 +1,1 @@
-Measurements#renovate/node-6.x#3dd14dd28bc9d2e2258edd8dce2341c6b863f143
+AppSettings#renovate/node-6.x#3dd14dd28bc9d2e2258edd8dce2341c6b863f143
