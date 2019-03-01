@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-dusk-5.x#814efce61c1c0ae2f35d45fb8d7bc8e17052721d
+Controllers#renovate/laravelium-sitemap-3.x#d1f6c107af6111150c89ea1a3107fe76a213fb00
