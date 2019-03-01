@@ -1,1 +1,1 @@
-Measurements#renovate/tracy-tracy-2.x#c3a44beaa96f1df344cc0fd3f1e033f98217a0c8
+AppSettings#renovate/tracy-tracy-2.x#c3a44beaa96f1df344cc0fd3f1e033f98217a0c8
