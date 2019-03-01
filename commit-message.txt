@@ -1,1 +1,1 @@
-Reminders#renovate/laravelium-sitemap-3.x#d1f6c107af6111150c89ea1a3107fe76a213fb00
+Controllers#renovate/recca0120-terminal-1.x#406f60a4d3ee467ae14cea94b54fc651aa6419d8
