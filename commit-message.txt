@@ -1,1 +1,1 @@
-Measurements#renovate/krlove-eloquent-model-generator-1.x#b8578fc81569a9f486bb5fa47fe69d78697a201d
+AppSettings#renovate/krlove-eloquent-model-generator-1.x#b8578fc81569a9f486bb5fa47fe69d78697a201d
