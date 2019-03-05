@@ -1,1 +1,1 @@
-Reminders#renovate/krlove-eloquent-model-generator-1.x#b8578fc81569a9f486bb5fa47fe69d78697a201d
+Controllers#renovate/node-6.x#a4d6436d2ae4b21d7416ab95ff83a9c767cc27be
