@@ -1,1 +1,1 @@
-Measurements#renovate/soundasleep-html2text-1.x#b42c1e5c9c8d3ca830f7d77c70b2e86773a2f173
+AppSettings#renovate/soundasleep-html2text-1.x#b42c1e5c9c8d3ca830f7d77c70b2e86773a2f173
