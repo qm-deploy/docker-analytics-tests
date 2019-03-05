@@ -1,1 +1,1 @@
-Reminders#renovate/soundasleep-html2text-1.x#b42c1e5c9c8d3ca830f7d77c70b2e86773a2f173
+Controllers#renovate/mockery-mockery-1.x#d10b6cd183b8b0b28d99090e5aa445f8fc9d0bc9
