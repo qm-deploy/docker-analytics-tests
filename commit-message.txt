@@ -1,1 +1,1 @@
-AppSettings#feature/fitbit#efa87b05e32ed0dada71f03920ca004f134fb9b8
+Reminders#feature/fitbit#efa87b05e32ed0dada71f03920ca004f134fb9b8
