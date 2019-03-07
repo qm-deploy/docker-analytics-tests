@@ -1,1 +1,1 @@
-Measurements#renovate/recca0120-laravel-tracy-1.x#2fbd7c0151e146b25b36657e64be042ea89915f0
+AppSettings#renovate/recca0120-laravel-tracy-1.x#2fbd7c0151e146b25b36657e64be042ea89915f0
