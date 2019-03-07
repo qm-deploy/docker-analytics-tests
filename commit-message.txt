@@ -1,1 +1,1 @@
-Reminders#renovate/node-6.x#8eff31c15a6722e3ee46a13fb5a6c6311ae9a574
+Controllers#renovate/barryvdh-laravel-debugbar-3.x#e9e7017ae2238d2cc0333b701b56e19e76153119
