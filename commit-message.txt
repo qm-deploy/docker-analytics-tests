@@ -1,1 +1,1 @@
-Measurements#feature/fitbit#8035ead513b6eab08234f2a3efb54ba8393c9d16
+AppSettings#feature/fitbit#8035ead513b6eab08234f2a3efb54ba8393c9d16
