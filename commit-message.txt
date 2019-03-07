@@ -1,1 +1,1 @@
-AppSettings#renovate/laravel-socialite-4.x#48cd48ca7935bb6d1d121a94a1b605e2728ef28c
+Reminders#renovate/laravel-socialite-4.x#48cd48ca7935bb6d1d121a94a1b605e2728ef28c
