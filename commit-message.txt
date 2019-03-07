@@ -1,1 +1,1 @@
-AppSettings#renovate/barryvdh-laravel-ide-helper-2.x#7053a5ec52a818861b09444b6f977bb972cc8135
+Reminders#renovate/barryvdh-laravel-ide-helper-2.x#7053a5ec52a818861b09444b6f977bb972cc8135
