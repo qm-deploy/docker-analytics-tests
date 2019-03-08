@@ -1,1 +1,1 @@
-Analytics#feature/fitbit#16c25a18ba4a042b82a3c8b15b8d5c8d68c32cac
+Measurements#feature/fitbit#16c25a18ba4a042b82a3c8b15b8d5c8d68c32cac
