@@ -1,1 +1,1 @@
-Controllers#renovate/laravelium-sitemap-3.x#abab9fea34b967c6da412d03f7e947dca2240f71
+Analytics#renovate/laravelium-sitemap-3.x#abab9fea34b967c6da412d03f7e947dca2240f71
