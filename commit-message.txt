@@ -1,1 +1,1 @@
-Controllers#renovate/barryvdh-laravel-ide-helper-2.x#7d11436350a89611a908f3550284bb082939f150
+Analytics#renovate/barryvdh-laravel-ide-helper-2.x#7d11436350a89611a908f3550284bb082939f150
