@@ -1,1 +1,1 @@
-Reminders#feature/clientSecret#92c48515a7f606a39a7e8eac54adc16187632fe8
+Controllers#renovate/barryvdh-laravel-ide-helper-2.x#7d11436350a89611a908f3550284bb082939f150
