@@ -1,1 +1,1 @@
-AppSettings#renovate/node-6.x#1ae2b319bbfd589a73a60656b65b47ed6aaa695a
+Reminders#renovate/node-6.x#1ae2b319bbfd589a73a60656b65b47ed6aaa695a
