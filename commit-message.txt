@@ -1,1 +1,1 @@
-Measurements#renovate/barryvdh-laravel-debugbar-3.x#b30ef2ca0e2a713638063d781f3b04a05cab6d87
+AppSettings#renovate/barryvdh-laravel-debugbar-3.x#b30ef2ca0e2a713638063d781f3b04a05cab6d87
