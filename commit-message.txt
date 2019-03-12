@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-socialite-4.x#ee6e0cad063489a7a1eeea8e48f1823fcf175aac
+Controllers#renovate/laravelium-sitemap-3.x#2928ff7a30e70162e7fd9f07cf0dca326125111f
