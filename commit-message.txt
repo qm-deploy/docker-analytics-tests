@@ -1,1 +1,1 @@
-Reminders#renovate/krlove-eloquent-model-generator-1.x#c0c0bd47e2a0ba6d65031667fd270a7f682b7d9f
+Controllers#renovate/barryvdh-laravel-ide-helper-2.x#2f42a04b1b6173f3f9b3fa995adf71c3b67a90f1
