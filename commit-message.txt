@@ -1,1 +1,1 @@
-Analytics#renovate/krlove-eloquent-model-generator-1.x#c0c0bd47e2a0ba6d65031667fd270a7f682b7d9f
+Measurements#renovate/krlove-eloquent-model-generator-1.x#c0c0bd47e2a0ba6d65031667fd270a7f682b7d9f
