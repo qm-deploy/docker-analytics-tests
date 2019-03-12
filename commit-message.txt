@@ -1,1 +1,1 @@
-Reminders#renovate/laravelium-sitemap-3.x#2928ff7a30e70162e7fd9f07cf0dca326125111f
+Controllers#renovate/mockery-mockery-1.x#b96692cc4ae8bf785ad621b130eaaf8c236ca585
