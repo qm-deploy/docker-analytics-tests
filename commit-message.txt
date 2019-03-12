@@ -1,1 +1,1 @@
-AppSettings#renovate/laravel-dusk-5.x#35a123d05e1f4a811f7372ab00244025d8af0ffa
+Reminders#renovate/laravel-dusk-5.x#35a123d05e1f4a811f7372ab00244025d8af0ffa
