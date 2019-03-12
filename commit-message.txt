@@ -1,1 +1,1 @@
-Controllers#renovate/tracy-tracy-2.x#7b826762b7f7571d7815cd5fc046d56ee59960a4
+Analytics#renovate/tracy-tracy-2.x#7b826762b7f7571d7815cd5fc046d56ee59960a4
