@@ -1,1 +1,1 @@
-Reminders#renovate/nunomaduro-collision-3.x#cce99697a9abb429a07e3e28cd2190d1763c8479
+Controllers#renovate/soundasleep-html2text-1.x#cb59e3ef33a1513046a70613fc0935bdfe06f433
