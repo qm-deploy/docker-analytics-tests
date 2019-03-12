@@ -1,1 +1,1 @@
-Measurements#renovate/barryvdh-laravel-ide-helper-2.x#dff6a3ea30044d2da8cc44129fe1a39821ea234c
+AppSettings#renovate/barryvdh-laravel-ide-helper-2.x#dff6a3ea30044d2da8cc44129fe1a39821ea234c
