@@ -1,1 +1,1 @@
-AppSettings#renovate/guzzle-guzzle-3.x#b1b7def347e74ab8f77b2a761abce32328a2f54a
+Reminders#renovate/guzzle-guzzle-3.x#b1b7def347e74ab8f77b2a761abce32328a2f54a
