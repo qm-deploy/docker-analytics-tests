@@ -1,1 +1,1 @@
-Measurements#feature/getUserIdParamFromQuery#59081ab686c0c902662b378f35de0aca69e8d316
+AppSettings#feature/getUserIdParamFromQuery#59081ab686c0c902662b378f35de0aca69e8d316
