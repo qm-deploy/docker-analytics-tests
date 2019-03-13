@@ -1,1 +1,1 @@
-Reminders#renovate/guzzle-guzzle-3.x#2fb90507a95efceaaf5dfcf8d24b06b6e5a61e76
+Controllers#renovate/krlove-eloquent-model-generator-1.x#f2e850e30572e9b5725f19c4f3b2db8a80279b82
