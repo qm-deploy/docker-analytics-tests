@@ -1,1 +1,1 @@
-Measurements#renovate/nunomaduro-collision-3.x#8bd3d27f466703964b53b1ed37f8539f65c46cd8
+AppSettings#renovate/nunomaduro-collision-3.x#8bd3d27f466703964b53b1ed37f8539f65c46cd8
