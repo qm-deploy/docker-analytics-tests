@@ -1,1 +1,1 @@
-Reminders#renovate/soundasleep-html2text-1.x#7cc87aff22f5eee3e820e5c98b78c7e17969c360
+Controllers#renovate/guzzle-guzzle-3.x#1e9cab6818ef57fb02e000bb41961068c48f69d6
