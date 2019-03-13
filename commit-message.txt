@@ -1,1 +1,1 @@
-Measurements#renovate/guzzle-guzzle-3.x#1fd89964cbb23480538ff340d249f52910b8b295
+AppSettings#renovate/guzzle-guzzle-3.x#1fd89964cbb23480538ff340d249f52910b8b295
