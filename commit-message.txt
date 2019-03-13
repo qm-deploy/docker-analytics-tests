@@ -1,1 +1,1 @@
-Reminders#feature/fitbit#10dc64a6ffc4add93c0957dd6343570c0d16135d
+Controllers#renovate/guzzle-guzzle-3.x#1530e86b1fed13b4c6f23fe77d9bc3946d6c4d38
