@@ -1,1 +1,1 @@
-AppSettings#renovate/krlove-eloquent-model-generator-1.x#185c64528cf0e5b17359b19b39df40e4a12d0715
+Reminders#renovate/krlove-eloquent-model-generator-1.x#185c64528cf0e5b17359b19b39df40e4a12d0715
