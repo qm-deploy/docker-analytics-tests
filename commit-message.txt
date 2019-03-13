@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-cashier-9.x#6c112e61dc88ca16b8eca798a42d2042f0ee611e
+Controllers#renovate/mockery-mockery-1.x#4c8b931e3d9f3a443e286871483fb4be3c943c43
