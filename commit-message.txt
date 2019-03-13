@@ -1,1 +1,1 @@
-Reminders#renovate/yargs-13.x#2186b9a6c65789e4a91daa782e6aa4079a88bbc0
+Controllers#renovate/laravel-dusk-5.x#6454bcd6c60af5c86aec8a354a6d6c582c7d2e15
