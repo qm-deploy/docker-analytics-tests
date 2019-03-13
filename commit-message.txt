@@ -1,1 +1,1 @@
-Reminders#renovate/krlove-eloquent-model-generator-1.x#d300e645e658f393e49c745ef86d4f47355b0879
+Controllers#renovate/laravel-cashier-9.x#1b2f0ca8846c4ad572dcc189371de18e4e2819be
