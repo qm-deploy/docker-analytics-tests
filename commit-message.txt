@@ -1,1 +1,1 @@
-Controllers#renovate/laravel-dusk-5.x#deba2addeb54ba6a0bd4aad11742985c54968c6e
+Analytics#renovate/laravel-dusk-5.x#deba2addeb54ba6a0bd4aad11742985c54968c6e
