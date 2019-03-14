@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-dusk-5.x#deba2addeb54ba6a0bd4aad11742985c54968c6e
+Controllers#renovate/nunomaduro-collision-3.x#81108baaa3660a5d0232dbcfb59713d81b83e81a
