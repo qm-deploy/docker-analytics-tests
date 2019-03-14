@@ -1,1 +1,1 @@
-AppSettings#renovate/tracy-tracy-2.x#c8de954dfca24f179d455efd478525bd1fdf1785
+Reminders#renovate/tracy-tracy-2.x#c8de954dfca24f179d455efd478525bd1fdf1785
