@@ -1,1 +1,1 @@
-AppSettings#renovate/recca0120-laravel-tracy-1.x#f54344ce32a1f4ebe9904f8ee72bd16c832b6a7e
+Reminders#renovate/recca0120-laravel-tracy-1.x#f54344ce32a1f4ebe9904f8ee72bd16c832b6a7e
