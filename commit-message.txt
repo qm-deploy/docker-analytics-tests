@@ -1,1 +1,1 @@
-Controllers#renovate/soundasleep-html2text-1.x#d9c4e92a9ad5093ce4f9071d3d45f32b15a45070
+Analytics#renovate/soundasleep-html2text-1.x#d9c4e92a9ad5093ce4f9071d3d45f32b15a45070
