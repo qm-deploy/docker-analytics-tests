@@ -1,1 +1,1 @@
-Reminders#renovate/mockery-mockery-1.x#80e6abddfe9c578ef09880fe2225a729d0c552a3
+Controllers#renovate/guzzle-guzzle-3.x#8ff4787ba2197ee04f944a952f7fc20d449144d5
