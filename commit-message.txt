@@ -1,1 +1,1 @@
-Analytics#renovate/mockery-mockery-1.x#80e6abddfe9c578ef09880fe2225a729d0c552a3
+Measurements#renovate/mockery-mockery-1.x#80e6abddfe9c578ef09880fe2225a729d0c552a3
