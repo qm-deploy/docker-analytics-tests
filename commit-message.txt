@@ -1,1 +1,1 @@
-Measurements#renovate/laravel-cashier-9.x#7ce84870c13119459763eed66836e87dc384ec52
+AppSettings#renovate/laravel-cashier-9.x#7ce84870c13119459763eed66836e87dc384ec52
