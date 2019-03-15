@@ -1,1 +1,1 @@
-AppSettings#renovate/yargs-13.x#bdd4de3799a3f35649b2d42ffef12895e17a6456
+Reminders#renovate/yargs-13.x#bdd4de3799a3f35649b2d42ffef12895e17a6456
