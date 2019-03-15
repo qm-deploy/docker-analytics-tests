@@ -1,1 +1,1 @@
-Controllers#renovate/recca0120-laravel-tracy-1.x#fb4fb0dd3a5ab4b43af83d05060ccc38dce632c0
+Analytics#renovate/recca0120-laravel-tracy-1.x#fb4fb0dd3a5ab4b43af83d05060ccc38dce632c0
