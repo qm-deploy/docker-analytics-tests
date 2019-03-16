@@ -1,1 +1,1 @@
-AppSettings#feature/notifications#2b376217be41a0b4bd83b4cfb6bd3babb470fb63
+Reminders#feature/notifications#2b376217be41a0b4bd83b4cfb6bd3babb470fb63
