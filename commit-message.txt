@@ -1,1 +1,1 @@
-AppSettings#renovate/recca0120-terminal-1.x#dbc73bb29cb70e9ec34cc44d2d052f91d3bd5671
+Reminders#renovate/recca0120-terminal-1.x#dbc73bb29cb70e9ec34cc44d2d052f91d3bd5671
