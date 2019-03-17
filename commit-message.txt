@@ -1,1 +1,1 @@
-AppSettings#renovate/nunomaduro-collision-3.x#d8d6c443879c578b58799e7f0056872fd37a06cb
+Reminders#renovate/nunomaduro-collision-3.x#d8d6c443879c578b58799e7f0056872fd37a06cb
