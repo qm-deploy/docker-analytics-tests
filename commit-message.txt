@@ -1,1 +1,1 @@
-Analytics#renovate/recca0120-laravel-tracy-1.x#6bcf1bc17529bd562b28e6173a54954925b95ba5
+Measurements#renovate/recca0120-laravel-tracy-1.x#6bcf1bc17529bd562b28e6173a54954925b95ba5
