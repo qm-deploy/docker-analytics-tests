@@ -1,1 +1,1 @@
-Analytics#renovate/nunomaduro-collision-3.x#abe1ad6bb27d8af3a89dad63504dd58ac1c45960
+Measurements#renovate/nunomaduro-collision-3.x#abe1ad6bb27d8af3a89dad63504dd58ac1c45960
