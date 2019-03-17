@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-socialite-4.x#b2ff8c0c34ad38ffaa26ab77aa2245d7eb3c3fb8
+Controllers#renovate/recca0120-terminal-1.x#dbc73bb29cb70e9ec34cc44d2d052f91d3bd5671
