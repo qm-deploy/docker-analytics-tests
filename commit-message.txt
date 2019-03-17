@@ -1,1 +1,1 @@
-Measurements#feature/google-client-id#858e6a7c6ba49a91f30252328b164a3ac741b0af
+AppSettings#feature/google-client-id#858e6a7c6ba49a91f30252328b164a3ac741b0af
