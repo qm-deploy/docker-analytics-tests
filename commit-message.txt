@@ -1,1 +1,1 @@
-Reminders#feature/notifications#53e0dc3111389116fc2f4cb7b35c134b25645a67
+Controllers#renovate/laravel-socialite-4.x#5e35ae7fb838c128e711eabbf3060272ec89b6b6
