@@ -1,1 +1,1 @@
-AppSettings#renovate/phpunit-phpunit-7.x#31474f9f674366aaaac62306f48a7245853a593a
+Reminders#renovate/phpunit-phpunit-7.x#31474f9f674366aaaac62306f48a7245853a593a
