@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-framework-5.x#0e8c68c4c2f840952d20515ec9713af2a237af5d
+Controllers#renovate/mockery-mockery-1.x#88aad6e9aaed813546a9ef6273cdbb0bd2831b67
