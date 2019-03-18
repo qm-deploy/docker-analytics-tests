@@ -1,1 +1,1 @@
-Measurements#feature/getUser#dd66f967e477d83a9bb80918f73ddf4a1ffbf04e
+AppSettings#feature/getUser#dd66f967e477d83a9bb80918f73ddf4a1ffbf04e
