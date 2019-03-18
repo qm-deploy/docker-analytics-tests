@@ -1,1 +1,1 @@
-Controllers#renovate/nunomaduro-collision-3.x#81b9d7d134d53136cdf2aa421eaadaf480f1b2df
+Analytics#renovate/nunomaduro-collision-3.x#81b9d7d134d53136cdf2aa421eaadaf480f1b2df
