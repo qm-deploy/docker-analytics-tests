@@ -1,1 +1,1 @@
-Reminders#renovate/recca0120-terminal-1.x#f35d5a34ebe15df4991418c5845fbac4033ebd2d
+Controllers#renovate/nunomaduro-collision-3.x#c8932b89efe2f5264badb2f344dbcfe0de8796ba
