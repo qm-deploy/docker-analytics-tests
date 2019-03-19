@@ -1,1 +1,1 @@
-Measurements#feature/git-config#b09df91ab814ffbe297002410b12f162a6f25e5a
+AppSettings#feature/git-config#b09df91ab814ffbe297002410b12f162a6f25e5a
