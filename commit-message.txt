@@ -1,1 +1,1 @@
-Reminders#feature/user-variable-globals#788d262b6ec8a77fffe4ce40457974dbce31b0f9
+Controllers#feature/publishUpVotedStudies#86433be14bbea71839dae8c4b2aaf7caf1a1db94
