@@ -1,1 +1,1 @@
-Measurements#feature/legend#c77ae08bd707697c647adc5920cfb952575270d2
+AppSettings#feature/legend#c77ae08bd707697c647adc5920cfb952575270d2
