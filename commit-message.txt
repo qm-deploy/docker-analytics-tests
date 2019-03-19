@@ -1,1 +1,1 @@
-Controllers#feature/publishUpVotedStudies#86433be14bbea71839dae8c4b2aaf7caf1a1db94
+Analytics#feature/publishUpVotedStudies#86433be14bbea71839dae8c4b2aaf7caf1a1db94
