@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-framework-5.x#be9d2a05193534ee23bcc54938eb45939b2672e9
+Controllers#renovate/soundasleep-html2text-1.x#8e8d0144c58976bb92423722b35158be38457562
