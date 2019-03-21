@@ -1,1 +1,1 @@
-AppSettings#feature/vote-cards#c57592c4ca52f44c303f0f8e95ca17ae9790202c
+Reminders#feature/vote-cards#c57592c4ca52f44c303f0f8e95ca17ae9790202c
