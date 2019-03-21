@@ -1,1 +1,1 @@
-Controllers#feature/vote-cards#669fbf55ad8a3978c9a5d93e7da8511fc05f7e90
+Analytics#feature/vote-cards#669fbf55ad8a3978c9a5d93e7da8511fc05f7e90
