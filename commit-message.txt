@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-framework-5.x#22960cf9556d6f74e61048ed7cba95fe06a7bb5a
+Controllers#feature/vote-cards#ab9edff8c0057de3000b6e71c1f5e31912b8da03
