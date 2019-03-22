@@ -1,1 +1,1 @@
-Reminders#feature/getTypeHumanized#be5b1e3265a62f038616e42abfd678354e0c632f
+Controllers#feature/check-pairs#a5b2288fbf90def17343d3240cfeddfd3374cd67
