@@ -1,1 +1,1 @@
-AppSettings#feature/commitToStudiesRepo#991468f76fc5c078496d93e97556ad3d2bc4a4b7
+Reminders#feature/commitToStudiesRepo#991468f76fc5c078496d93e97556ad3d2bc4a4b7
