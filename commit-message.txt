@@ -1,1 +1,1 @@
-AppSettings#feature/reset-password#d582f72de557d8a96f9e7bc67531bf308995d3fa
+Reminders#feature/reset-password#d582f72de557d8a96f9e7bc67531bf308995d3fa
