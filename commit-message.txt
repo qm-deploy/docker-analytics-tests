@@ -1,1 +1,1 @@
-Measurements#feature/check-pairs#83b81c790598cc2ef6499f77c7663ed81d748b90
+AppSettings#feature/check-pairs#83b81c790598cc2ef6499f77c7663ed81d748b90
