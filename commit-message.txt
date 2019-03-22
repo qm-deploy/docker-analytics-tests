@@ -1,1 +1,1 @@
-Reminders#feature/git-api#1be9792fdbe3985879082a86445bc7d48f17e1d2
+Controllers#feature/getTypeHumanized#be5b1e3265a62f038616e42abfd678354e0c632f
