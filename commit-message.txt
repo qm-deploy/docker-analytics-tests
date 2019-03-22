@@ -1,1 +1,1 @@
-Measurements#feature/git-api#1be9792fdbe3985879082a86445bc7d48f17e1d2
+AppSettings#feature/git-api#1be9792fdbe3985879082a86445bc7d48f17e1d2
