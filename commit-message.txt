@@ -1,1 +1,1 @@
-Controllers#feature/check-pairs#747e5678217f3c98ec83cf5bfe929269c6b42a01
+Analytics#feature/check-pairs#747e5678217f3c98ec83cf5bfe929269c6b42a01
