@@ -1,1 +1,1 @@
-Measurements#feature/connector-message#7870257feaf3fbdd390645fda148896118ae651d
+AppSettings#feature/connector-message#7870257feaf3fbdd390645fda148896118ae651d
