@@ -1,1 +1,1 @@
-Controllers#feature/getPluralizedClassName#0b5d433aaccf0c2dca91f49b3feddcaabb56563e
+Analytics#feature/getPluralizedClassName#0b5d433aaccf0c2dca91f49b3feddcaabb56563e
