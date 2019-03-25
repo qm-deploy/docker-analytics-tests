@@ -1,1 +1,1 @@
-Measurements#feature/url-helper#19485357a84ea2209599482f8c2f676810091544
+AppSettings#feature/url-helper#19485357a84ea2209599482f8c2f676810091544
