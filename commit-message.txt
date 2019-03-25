@@ -1,1 +1,1 @@
-Measurements#feature/getPluralizedClassName#0b5d433aaccf0c2dca91f49b3feddcaabb56563e
+AppSettings#feature/getPluralizedClassName#0b5d433aaccf0c2dca91f49b3feddcaabb56563e
