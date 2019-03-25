@@ -1,1 +1,1 @@
-Reminders#feature/getPluralizedClassName#5328c3adcff59177ec740aafb3d44bbd654c6b96
+Controllers#feature/getPluralizedClassName#0b5d433aaccf0c2dca91f49b3feddcaabb56563e
