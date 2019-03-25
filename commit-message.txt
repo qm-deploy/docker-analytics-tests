@@ -1,1 +1,1 @@
-Controllers#renovate/doctrine-annotations-1.x#73f015b8dc61377598a1df5c82bd15c35c614b2e
+Analytics#renovate/doctrine-annotations-1.x#73f015b8dc61377598a1df5c82bd15c35c614b2e
