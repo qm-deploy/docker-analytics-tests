@@ -1,1 +1,1 @@
-Controllers#feature/PhpUnhandledExceptionInspection#fef729b354c4332f3a8abe095db4f687a23d41e9
+Analytics#feature/PhpUnhandledExceptionInspection#fef729b354c4332f3a8abe095db4f687a23d41e9
