@@ -1,1 +1,1 @@
-Controllers#feature/publish-studies#dccc07c7262c98be5d24c081d7a1383eef36fe55
+Analytics#feature/publish-studies#dccc07c7262c98be5d24c081d7a1383eef36fe55
