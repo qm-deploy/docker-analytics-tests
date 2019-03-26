@@ -1,1 +1,1 @@
-Measurements#feature/PhpUnhandledExceptionInspection#fef729b354c4332f3a8abe095db4f687a23d41e9
+AppSettings#feature/PhpUnhandledExceptionInspection#fef729b354c4332f3a8abe095db4f687a23d41e9
