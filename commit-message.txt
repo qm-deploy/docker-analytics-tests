@@ -1,1 +1,1 @@
-Reminders#feature/publish-studies#15f7d2945fd0fb83d2dc86810036704a5d744aa2
+Controllers#renovate/barryvdh-laravel-ide-helper-2.x#ac110b78e14fcf2fcd883596e482c11c93210085
