@@ -1,1 +1,1 @@
-Measurements#feature/jawbone#aac277c27663acfb08ac3622aefe44999d80bc97
+AppSettings#feature/jawbone#aac277c27663acfb08ac3622aefe44999d80bc97
