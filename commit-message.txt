@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-framework-5.x#a22f00bdef5b59f491167756c8432c58394afa96
+Controllers#feature/sorting_score#33c92d4cb01ed2af447f71293e5e4915106eeccd
