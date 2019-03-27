@@ -1,1 +1,1 @@
-Analytics#renovate/quantimodo-quantimodo-sdk-php-5.x#7b275d7d41e53b81038a387765f3072ca00cd2e7
+Measurements#renovate/quantimodo-quantimodo-sdk-php-5.x#7b275d7d41e53b81038a387765f3072ca00cd2e7
