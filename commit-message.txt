@@ -1,1 +1,1 @@
-AppSettings#feature/title-case#f94a19ddf4f51adce682265d86890097d258c713
+Reminders#feature/title-case#f94a19ddf4f51adce682265d86890097d258c713
