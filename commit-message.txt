@@ -1,1 +1,1 @@
-Reminders#feature/jawbone#ebc36d7654f188aa5966fb4624a0d08e8a9dbb15
+Controllers#renovate/quantimodo-quantimodo-sdk-php-5.x#f517ff79ce1b317f34502b4d34a0160ab6065be7
