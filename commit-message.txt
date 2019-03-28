@@ -1,1 +1,1 @@
-Measurements#feature/chart-commits#9533ae7a445c8fb2ef0e22487aacff2f53d69a44
+AppSettings#feature/chart-commits#9533ae7a445c8fb2ef0e22487aacff2f53d69a44
