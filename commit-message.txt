@@ -1,1 +1,1 @@
-Measurements#feature/humanizeStudyText#8cb25b31d7090d32c4025fedf02dc52d8d7219d6
+AppSettings#feature/humanizeStudyText#8cb25b31d7090d32c4025fedf02dc52d8d7219d6
