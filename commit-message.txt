@@ -1,1 +1,1 @@
-AppSettings#renovate/quantimodo-quantimodo-sdk-php-5.x#67d7b79b2540f558dcde3d95b7213b5a0d84f575
+Reminders#renovate/quantimodo-quantimodo-sdk-php-5.x#67d7b79b2540f558dcde3d95b7213b5a0d84f575
