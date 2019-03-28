@@ -1,1 +1,1 @@
-AppSettings#feature/humanizeStudyText#f8c5457498b7794437868dfe4bf9041bf960f967
+Reminders#feature/humanizeStudyText#f8c5457498b7794437868dfe4bf9041bf960f967
