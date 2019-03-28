@@ -1,1 +1,1 @@
-Reminders#feature/humanizeStudyText#f8c5457498b7794437868dfe4bf9041bf960f967
+Controllers#feature/humanizeStudyText#8cb25b31d7090d32c4025fedf02dc52d8d7219d6
