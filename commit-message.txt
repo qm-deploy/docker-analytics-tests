@@ -1,1 +1,1 @@
-Measurements#feature/getPredictsStrengthPhrase#01661c7f1a510c03dc6b556c71ec63fabfe5da65
+AppSettings#feature/getPredictsStrengthPhrase#01661c7f1a510c03dc6b556c71ec63fabfe5da65
