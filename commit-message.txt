@@ -1,1 +1,1 @@
-Controllers#feature/study-tags#50917bc10cc3547a0b89292f15d2c26806a3f0e4
+Analytics#feature/study-tags#50917bc10cc3547a0b89292f15d2c26806a3f0e4
