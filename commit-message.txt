@@ -1,1 +1,1 @@
-Measurements#feature/static-data-job#71ca783000855f6a7a5a54f9864b8a146e41befb
+AppSettings#feature/static-data-job#71ca783000855f6a7a5a54f9864b8a146e41befb
