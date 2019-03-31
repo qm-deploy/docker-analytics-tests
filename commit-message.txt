@@ -1,1 +1,1 @@
-Measurements#feature/stripe#0947524763dec43c9ed5a956f5bc3f736ea64ef3
+AppSettings#feature/stripe#0947524763dec43c9ed5a956f5bc3f736ea64ef3
