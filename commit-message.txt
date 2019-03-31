@@ -1,1 +1,1 @@
-Reminders#feature/stripe#caaf23f123b179fae4c4e4cf0c5778ca35945053
+Controllers#feature/avatar#2562d146e4047894a0d37ab38e0c3b983acb905a
