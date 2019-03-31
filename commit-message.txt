@@ -1,1 +1,1 @@
-Measurements#feature/avatar#2562d146e4047894a0d37ab38e0c3b983acb905a
+AppSettings#feature/avatar#2562d146e4047894a0d37ab38e0c3b983acb905a
