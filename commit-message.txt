@@ -1,1 +1,1 @@
-Measurements#feature/rePublishStudiesLike#76520b9007039902ff6561b8cc41a6b8a679f704
+AppSettings#feature/rePublishStudiesLike#76520b9007039902ff6561b8cc41a6b8a679f704
