@@ -1,1 +1,1 @@
-Analytics#feature/requestIsSimple#a5b338dbf4d7bc19cdfbff6b482ff409ac1a2ea1
+Measurements#feature/requestIsSimple#a5b338dbf4d7bc19cdfbff6b482ff409ac1a2ea1
