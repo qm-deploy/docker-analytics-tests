@@ -1,1 +1,1 @@
-Reminders#feature/studies-buttons#119f82351bf4722f032f288ec82ade0592470616
+Controllers#feature/GetAuthorizationPageController#05f85e36ba185e4a06315db09443a4ffbeaeb082
