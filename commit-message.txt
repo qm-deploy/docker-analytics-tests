@@ -1,1 +1,1 @@
-Measurements#feature/GetAuthorizationPageController#05f85e36ba185e4a06315db09443a4ffbeaeb082
+AppSettings#feature/GetAuthorizationPageController#05f85e36ba185e4a06315db09443a4ffbeaeb082
