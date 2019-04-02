@@ -1,1 +1,1 @@
-Measurements#feature/requestIsSimple#00c5ab9d4d9150c39499b6f92e9c45ba5912a044
+AppSettings#feature/requestIsSimple#00c5ab9d4d9150c39499b6f92e9c45ba5912a044
