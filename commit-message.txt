@@ -1,1 +1,1 @@
-AppSettings#renovate/docker-php-7.x#ef845984499406df74f098f40c3f0ca54723a658
+Reminders#renovate/docker-php-7.x#ef845984499406df74f098f40c3f0ca54723a658
