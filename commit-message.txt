@@ -1,1 +1,1 @@
-Measurements#feature/clientSecret#224a1b360c940e07ce0b102c1bfe551581774aee
+AppSettings#feature/clientSecret#224a1b360c940e07ce0b102c1bfe551581774aee
