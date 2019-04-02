@@ -1,1 +1,1 @@
-AppSettings#feature/determineExperimentEndTime#bac2686c293ec17a4cdf3c06d558e660e7e1b37a
+Reminders#feature/determineExperimentEndTime#bac2686c293ec17a4cdf3c06d558e660e7e1b37a
