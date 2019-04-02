@@ -1,1 +1,1 @@
-Measurements#feature/iconUrl#54057292a0a5c6c6f8997c9996409a09993f7159
+AppSettings#feature/iconUrl#54057292a0a5c6c6f8997c9996409a09993f7159
