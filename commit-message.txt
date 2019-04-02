@@ -1,1 +1,1 @@
-Controllers#feature/GetAuthorizationPageController#05f85e36ba185e4a06315db09443a4ffbeaeb082
+Analytics#feature/GetAuthorizationPageController#05f85e36ba185e4a06315db09443a4ffbeaeb082
