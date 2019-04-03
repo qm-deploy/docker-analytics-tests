@@ -1,1 +1,1 @@
-AppSettings#feature/WEB_QUANTIMO_DO#7aea5e5996b8280f533dd037ddb66f5db8ced010
+Reminders#feature/WEB_QUANTIMO_DO#7aea5e5996b8280f533dd037ddb66f5db8ced010
