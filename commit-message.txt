@@ -1,1 +1,1 @@
-Measurements#feature/WEB_QUANTIMO_DO#39a61af870158e5e85ac301d01f756b7bef1a362
+AppSettings#feature/WEB_QUANTIMO_DO#39a61af870158e5e85ac301d01f756b7bef1a362
