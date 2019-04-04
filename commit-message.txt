@@ -1,1 +1,1 @@
-AppSettings#feature/publishIndividualCaseStudies#a1168d4dca1d55d7b3e0c2d3231bda0decd0746c
+Reminders#feature/publishIndividualCaseStudies#a1168d4dca1d55d7b3e0c2d3231bda0decd0746c
