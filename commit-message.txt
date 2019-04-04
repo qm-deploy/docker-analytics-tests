@@ -1,1 +1,1 @@
-AppSettings#feature/study-formatting#0b457e23f45c0231f37a0f7b98ab1f7c2a14fe14
+Reminders#feature/study-formatting#0b457e23f45c0231f37a0f7b98ab1f7c2a14fe14
