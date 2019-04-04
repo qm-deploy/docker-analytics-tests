@@ -1,1 +1,1 @@
-Measurements#feature/GetUserVariableRequest#3fc8fbde44d2812402fe5a82a9d5138e0103e375
+AppSettings#feature/GetUserVariableRequest#3fc8fbde44d2812402fe5a82a9d5138e0103e375
