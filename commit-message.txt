@@ -1,1 +1,1 @@
-Measurements#feature/app-design#67ff56585f361d46e6c30abf7162b28740b63881
+AppSettings#feature/app-design#67ff56585f361d46e6c30abf7162b28740b63881
