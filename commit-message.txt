@@ -1,1 +1,1 @@
-AppSettings#feature/getPathToJson#fbd21343a87db394bde9b9b3bcd9c405f1ae56f7
+Reminders#feature/getPathToJson#fbd21343a87db394bde9b9b3bcd9c405f1ae56f7
