@@ -1,1 +1,1 @@
-Controllers#feature/analyze#5c126e59e756c7e47d1fc4e937e7d8aed6884a8a
+Analytics#feature/analyze#5c126e59e756c7e47d1fc4e937e7d8aed6884a8a
