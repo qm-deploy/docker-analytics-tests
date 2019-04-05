@@ -1,1 +1,1 @@
-AppSettings#feature/enoughNewMeasurementsToUpdate#db1de40f2217a5ce73d41cc3e56cbaacecf8ac09
+Reminders#feature/enoughNewMeasurementsToUpdate#db1de40f2217a5ce73d41cc3e56cbaacecf8ac09
