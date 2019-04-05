@@ -1,1 +1,1 @@
-Analytics#feature/enoughNewMeasurementsToUpdate#0b5228ddc5f8078a975bf34a4c0237f67af2a4e4
+Measurements#feature/enoughNewMeasurementsToUpdate#0b5228ddc5f8078a975bf34a4c0237f67af2a4e4
