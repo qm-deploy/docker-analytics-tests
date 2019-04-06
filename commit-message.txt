@@ -1,1 +1,1 @@
-Measurements#feature/OutOfMemoryException#6f9c7a3802362b79f4a36bab25a5516c61f79219
+AppSettings#feature/OutOfMemoryException#6f9c7a3802362b79f4a36bab25a5516c61f79219
