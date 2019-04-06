@@ -1,1 +1,1 @@
-Controllers#feature/enoughNewMeasurementsToUpdate#a03efff8fc17926707b30a83f64f43a42f3c1a52
+Analytics#feature/enoughNewMeasurementsToUpdate#a03efff8fc17926707b30a83f64f43a42f3c1a52
