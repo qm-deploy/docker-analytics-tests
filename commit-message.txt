@@ -1,1 +1,1 @@
-Measurements#feature/enoughNewMeasurementsToUpdate#d62a36a435b0dc87a80c459ca16224d04f2636d6
+AppSettings#feature/enoughNewMeasurementsToUpdate#d62a36a435b0dc87a80c459ca16224d04f2636d6
