@@ -1,1 +1,1 @@
-AppSettings#renovate/pin-dependencies#a1ac150db07a319da8bf57352bd188dc9dddc074
+Reminders#renovate/pin-dependencies#a1ac150db07a319da8bf57352bd188dc9dddc074
