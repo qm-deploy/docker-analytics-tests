@@ -1,1 +1,1 @@
-Measurements#feature/TooManyMeasurementsException#b259edf1ae326e84203800f4a17e46802e756f57
+AppSettings#feature/TooManyMeasurementsException#b259edf1ae326e84203800f4a17e46802e756f57
