@@ -1,1 +1,1 @@
-Reminders#renovate/compress-images-1.x#83d12931899c9250833c6d0a03b16e0ebfb46222
+Controllers#renovate/laravel-framework-5.x#6ec58f6160ec9d9f4afc9f1eef5c22e2d209e7cd
