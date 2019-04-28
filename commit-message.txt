@@ -1,1 +1,1 @@
-Measurements#renovate/phpunit-phpunit-7.x#ff80082f03002507b726cc34f9231060001e0f49
+AppSettings#renovate/phpunit-phpunit-7.x#ff80082f03002507b726cc34f9231060001e0f49
