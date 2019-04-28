@@ -1,1 +1,1 @@
-Measurements#renovate/compress-images-1.x#0889a7a9591049cea30e3a8234a5203466ae0a02
+AppSettings#renovate/compress-images-1.x#0889a7a9591049cea30e3a8234a5203466ae0a02
