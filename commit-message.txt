@@ -1,1 +1,1 @@
-Controllers#renovate/compress-images-1.x#0d1342fec72322f2d750fdd9c00a0fce3a545d14
+Analytics#renovate/compress-images-1.x#0d1342fec72322f2d750fdd9c00a0fce3a545d14
