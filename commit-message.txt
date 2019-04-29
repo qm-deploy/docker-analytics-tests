@@ -1,1 +1,1 @@
-Reminders#renovate/phpunit-phpunit-7.x#ff80082f03002507b726cc34f9231060001e0f49
+Controllers#renovate/compress-images-1.x#30b2d6e3aa917f74b2a3e9293880298ad77417b6
