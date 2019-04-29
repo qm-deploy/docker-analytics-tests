@@ -1,1 +1,1 @@
-Reminders#renovate/compress-images-1.x#30b2d6e3aa917f74b2a3e9293880298ad77417b6
+Controllers#renovate/doctrine-migrations-2.x#f7d0c8897748e2aebbe58e2f4fab698fc1774899
