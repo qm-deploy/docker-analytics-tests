@@ -1,1 +1,1 @@
-Reminders#renovate/doctrine-migrations-2.x#3f66713077d4f4890fdec4d0ac881210fbf5f7f2
+Controllers#renovate/laravel-cashier-9.x#2c9b3d95368efd671e360569b1598ab37a4b78a5
