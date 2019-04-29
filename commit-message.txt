@@ -1,1 +1,1 @@
-AppSettings#renovate/laravel-framework-5.x#64c9f99e81e9ca9620b37223bd22421399319161
+Reminders#renovate/laravel-framework-5.x#64c9f99e81e9ca9620b37223bd22421399319161
