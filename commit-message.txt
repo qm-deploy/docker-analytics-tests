@@ -1,1 +1,1 @@
-AppSettings#feature/get-studies-test#cfb52ecb214536ac19fa2468aab56090069ab56c
+Reminders#feature/get-studies-test#cfb52ecb214536ac19fa2468aab56090069ab56c
