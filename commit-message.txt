@@ -1,1 +1,1 @@
-Controllers#feature/get-studies-test#bdad6a47f1c314df1db2f108ab14b98bf7433502
+Analytics#feature/get-studies-test#bdad6a47f1c314df1db2f108ab14b98bf7433502
