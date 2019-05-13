@@ -1,1 +1,1 @@
-Measurements#feature/getMessagesAndSaveMeasurements#3f3acf96c40098279cae1e164f41d5809d16dff7
+AppSettings#feature/getMessagesAndSaveMeasurements#3f3acf96c40098279cae1e164f41d5809d16dff7
