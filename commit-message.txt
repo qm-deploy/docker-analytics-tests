@@ -1,1 +1,1 @@
-Controllers#renovate/ipunkt-laravel-analytics-1.x#06705d74fdb39364a4e73ea3a5bd2d52e8698bf8
+Analytics#renovate/ipunkt-laravel-analytics-1.x#06705d74fdb39364a4e73ea3a5bd2d52e8698bf8
