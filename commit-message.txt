@@ -1,1 +1,1 @@
-Reminders#renovate/cloudinary-cloudinary_php-1.x#fad072f042e39e6ac087b2253033ea1eb779cb01
+Controllers#renovate/compress-images-1.x#15a34d56fe4c2bc38889cef5354094bc2c547bd9
