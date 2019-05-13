@@ -1,1 +1,1 @@
-Reminders#renovate/ipunkt-laravel-analytics-1.x#0aafe9609c4f65d96c44c06798bd2863cf45efeb
+Controllers#renovate/laravel-cashier-9.x#1d0591f50ab897be599b854325b8739c75c31042
