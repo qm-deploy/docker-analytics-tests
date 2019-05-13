@@ -1,1 +1,1 @@
-AppSettings#renovate/doctrine-migrations-2.x#347afa8dca81a502c40ab120c6bcc3d751a845af
+Reminders#renovate/doctrine-migrations-2.x#347afa8dca81a502c40ab120c6bcc3d751a845af
