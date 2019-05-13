@@ -1,1 +1,1 @@
-Analytics#renovate/compress-images-1.x#15a34d56fe4c2bc38889cef5354094bc2c547bd9
+Measurements#renovate/compress-images-1.x#15a34d56fe4c2bc38889cef5354094bc2c547bd9
