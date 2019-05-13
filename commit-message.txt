@@ -1,1 +1,1 @@
-AppSettings#feature/getParamsForVariablesToCorrelateWith#2766949dc4455ddc28d68ead5c80cf44e29392af
+Reminders#feature/getParamsForVariablesToCorrelateWith#2766949dc4455ddc28d68ead5c80cf44e29392af
