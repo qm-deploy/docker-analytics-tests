@@ -1,1 +1,1 @@
-Reminders#renovate/doctrine-migrations-2.x#347afa8dca81a502c40ab120c6bcc3d751a845af
+Controllers#renovate/ipunkt-laravel-analytics-1.x#06705d74fdb39364a4e73ea3a5bd2d52e8698bf8
