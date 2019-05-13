@@ -1,1 +1,1 @@
-Measurements#feature/stupid-names#c6946616c034cba7e0c5625af9f6a239c0f651b9
+AppSettings#feature/stupid-names#c6946616c034cba7e0c5625af9f6a239c0f651b9
