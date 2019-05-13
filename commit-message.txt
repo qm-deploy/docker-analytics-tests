@@ -1,1 +1,1 @@
-Measurements#renovate/cloudinary-cloudinary_php-1.x#b07155017f2fcb3f48de78c87ecbb3f71d1d832d
+AppSettings#renovate/cloudinary-cloudinary_php-1.x#b07155017f2fcb3f48de78c87ecbb3f71d1d832d
