@@ -1,1 +1,1 @@
-AppSettings#feature/slug-trimmer-errors#8043b18aff530fbaa2341cfd9cc5f9c88a6ed290
+Reminders#feature/slug-trimmer-errors#8043b18aff530fbaa2341cfd9cc5f9c88a6ed290
