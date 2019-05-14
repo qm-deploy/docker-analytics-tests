@@ -1,1 +1,1 @@
-Measurements#feature/onboarding-feed#1fb2e3f84e8c0d964719761e56be7309793d6cfd
+AppSettings#feature/onboarding-feed#1fb2e3f84e8c0d964719761e56be7309793d6cfd
