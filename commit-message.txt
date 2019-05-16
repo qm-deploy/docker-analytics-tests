@@ -1,1 +1,1 @@
-AppSettings#feature/validateNewVariableName#08a63221a9fc96c9244ef7c2b38fa9315326aa6a
+Reminders#feature/validateNewVariableName#08a63221a9fc96c9244ef7c2b38fa9315326aa6a
