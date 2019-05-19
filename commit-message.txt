@@ -1,1 +1,1 @@
-Controllers#feature/getJekyllStudyHtml#c811f568a80399253c9ae5a7298286db5e570382
+Analytics#feature/getJekyllStudyHtml#c811f568a80399253c9ae5a7298286db5e570382
