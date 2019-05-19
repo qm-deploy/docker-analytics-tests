@@ -1,1 +1,1 @@
-Reminders#feature/validateNewVariableName#e71d3298234535b3705abec6da6edd2c2884a316
+Controllers#renovate/compress-images-1.x#8331ea3550dacf6d2e5c8a54ada8425b8e6fdd3d
