@@ -1,1 +1,1 @@
-Measurements#feature/validateNewVariableName#869c0f6587c18041e85964c552e98b0edeebf89a
+AppSettings#feature/validateNewVariableName#869c0f6587c18041e85964c552e98b0edeebf89a
