@@ -1,1 +1,1 @@
-AppSettings#renovate/compress-images-1.x#fed1fb149c203e5315c9ee0537714619f71a7c69
+Reminders#renovate/compress-images-1.x#fed1fb149c203e5315c9ee0537714619f71a7c69
