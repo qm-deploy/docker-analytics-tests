@@ -1,1 +1,1 @@
-Reminders#renovate/compress-images-1.x#659594e4f1b2c9a3a97469632f35192bb37e85ae
+Controllers#renovate/compress-images-1.x#1b1ed51a3c6b9712d108ec33119b9182ec7df858
