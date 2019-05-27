@@ -1,1 +1,1 @@
-Reminders#renovate/compress-images-1.x#f2e298524b343fc4de5d934b6a616a586e19a190
+Controllers#renovate/laravel-cashier-9.x#bcd3f1bee278cd968961f953f3687fa694bd461e
