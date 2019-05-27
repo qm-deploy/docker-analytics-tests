@@ -1,1 +1,1 @@
-Controllers#renovate/laravel-cashier-9.x#bcd3f1bee278cd968961f953f3687fa694bd461e
+Analytics#renovate/laravel-cashier-9.x#bcd3f1bee278cd968961f953f3687fa694bd461e
