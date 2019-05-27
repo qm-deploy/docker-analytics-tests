@@ -1,1 +1,1 @@
-Controllers#feature/deleteBoringCorrelations#5f18887b8b1ac8381a8ccc8a38db420375ddc1fc
+Analytics#feature/deleteBoringCorrelations#5f18887b8b1ac8381a8ccc8a38db420375ddc1fc
