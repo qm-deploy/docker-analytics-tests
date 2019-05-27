@@ -1,1 +1,1 @@
-AppSettings#renovate/google-apiclient-2.x#247c3afc308dab3e25eb8f6bdebdfae6631b0440
+Reminders#renovate/google-apiclient-2.x#247c3afc308dab3e25eb8f6bdebdfae6631b0440
