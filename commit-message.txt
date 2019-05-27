@@ -1,1 +1,1 @@
-Reminders#feature/doNotGroup#26bcbf732d5ecff46d86d204b7e85794e556cefb
+Controllers#renovate/compress-images-1.x#b852cd67c91e93558dba289db9739630feaa2b89
