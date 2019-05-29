@@ -1,1 +1,1 @@
-Reminders#renovate/bugsnag-bugsnag-3.x#8474db039df062723488569aaa4186357d611b19
+Controllers#renovate/laravel-framework-5.x#cebee71ab63caa8a858eb472d9742d3f254d79c0
