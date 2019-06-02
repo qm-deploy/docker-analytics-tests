@@ -1,1 +1,1 @@
-AppSettings#feature/fix-qm-scores#d93ef6a8e0a341ef3a6f8eb473cd12194ecc7697
+Reminders#feature/fix-qm-scores#d93ef6a8e0a341ef3a6f8eb473cd12194ecc7697
