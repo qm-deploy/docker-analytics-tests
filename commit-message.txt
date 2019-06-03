@@ -1,1 +1,1 @@
-Analytics#renovate/phpoffice-phpspreadsheet-1.x#cdb1ffdcf6a7b832025c8d43b228fce935da37b5
+Measurements#renovate/phpoffice-phpspreadsheet-1.x#cdb1ffdcf6a7b832025c8d43b228fce935da37b5
