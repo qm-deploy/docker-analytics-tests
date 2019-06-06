@@ -1,1 +1,1 @@
-Reminders#renovate/doctrine-migrations-2.x#acb33fbf29242ce7769c516c7f30695723668409
+Controllers#renovate/doctrine-migrations-2.x#34343f33dbae0da4a1b084974c32c95d75b3a10e
