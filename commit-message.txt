@@ -1,1 +1,1 @@
-Controllers#renovate/cmfcmf-openweathermap-php-api-3.x#458bbc22964f12589ec6a8fd43cb2fb1a24b89d8
+Analytics#renovate/cmfcmf-openweathermap-php-api-3.x#458bbc22964f12589ec6a8fd43cb2fb1a24b89d8
