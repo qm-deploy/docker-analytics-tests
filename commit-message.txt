@@ -1,1 +1,1 @@
-Reminders#renovate/doctrine-migrations-2.x#34343f33dbae0da4a1b084974c32c95d75b3a10e
+Controllers#renovate/cmfcmf-openweathermap-php-api-3.x#458bbc22964f12589ec6a8fd43cb2fb1a24b89d8
