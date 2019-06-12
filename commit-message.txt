@@ -1,1 +1,1 @@
-Reminders#renovate/barryvdh-laravel-debugbar-3.x#dc3d9861a091621c488b5df8a08ad001fbfab26f
+Controllers#renovate/doctrine-migrations-2.x#f4afe9dacc9ac0b81c0101f5ee500ef373f6994d
