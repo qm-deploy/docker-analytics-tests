@@ -1,1 +1,1 @@
-AppSettings#feature/PushNotificationsToMikeTest#16a78519a4958e4d61d8acacfa99603567a1b821
+Reminders#feature/PushNotificationsToMikeTest#16a78519a4958e4d61d8acacfa99603567a1b821
