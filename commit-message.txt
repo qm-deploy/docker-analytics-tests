@@ -1,1 +1,1 @@
-Measurements#feature/commitAndPushToStudiesRepo#019d59b09e3264b28fd2898941331a72a84f7377
+AppSettings#feature/commitAndPushToStudiesRepo#019d59b09e3264b28fd2898941331a72a84f7377
