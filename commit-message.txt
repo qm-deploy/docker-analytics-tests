@@ -1,1 +1,1 @@
-Reminders#renovate/doctrine-migrations-2.x#4534c6fff437758370ca59ddb1a824cc921fe48e
+Controllers#renovate/google-apiclient-2.x#afa4d7b2eacec9f3ae049f5b027a447ed3007f5e
