@@ -1,1 +1,1 @@
-AppSettings#renovate/phpoffice-phpspreadsheet-1.x#2f3ff08ed6215f62b5ae0d14e02acdb5cc2d30f7
+Reminders#renovate/phpoffice-phpspreadsheet-1.x#2f3ff08ed6215f62b5ae0d14e02acdb5cc2d30f7
