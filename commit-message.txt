@@ -1,1 +1,1 @@
-AppSettings#feature/fcm-endpoint#1791927fd6b776c6dffe85f84f71393e5cf16891
+Reminders#feature/fcm-endpoint#1791927fd6b776c6dffe85f84f71393e5cf16891
