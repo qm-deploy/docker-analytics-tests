@@ -1,1 +1,1 @@
-AppSettings#renovate/barryvdh-laravel-debugbar-3.x#bef4e17dcce72e0bbd70d8cdff9b1470682aeba4
+Reminders#renovate/barryvdh-laravel-debugbar-3.x#bef4e17dcce72e0bbd70d8cdff9b1470682aeba4
