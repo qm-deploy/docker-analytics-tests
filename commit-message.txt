@@ -1,1 +1,1 @@
-Measurements#feature/fcm-endpoint#2c1e21fbc06787bb6d2b729c21c5f45fa4931610
+AppSettings#feature/fcm-endpoint#2c1e21fbc06787bb6d2b729c21c5f45fa4931610
