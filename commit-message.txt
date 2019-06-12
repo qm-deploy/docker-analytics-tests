@@ -1,1 +1,1 @@
-Reminders#renovate/cmfcmf-openweathermap-php-api-3.x#458bbc22964f12589ec6a8fd43cb2fb1a24b89d8
+Controllers#renovate/barryvdh-laravel-debugbar-3.x#ae1fbf1d400ce79b92eee2329c7d3fbe287a7f01
