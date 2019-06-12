@@ -1,1 +1,1 @@
-Controllers#renovate/google-apiclient-2.x#afa4d7b2eacec9f3ae049f5b027a447ed3007f5e
+Analytics#renovate/google-apiclient-2.x#afa4d7b2eacec9f3ae049f5b027a447ed3007f5e
