@@ -1,1 +1,1 @@
-Measurements#feature/PushNotificationsToMikeTest#74b95b635aee923cefc9f101b9f2b9285fd9491f
+AppSettings#feature/PushNotificationsToMikeTest#74b95b635aee923cefc9f101b9f2b9285fd9491f
