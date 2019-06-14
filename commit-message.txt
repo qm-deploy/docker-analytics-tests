@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-cashier-9.x#b782912a972501c9e9aa53c678ce2fa5c5c5d9d2
+Controllers#renovate/laravel-dusk-5.x#6defa88329199d6bde19c75b6902ff3b8c75c933
