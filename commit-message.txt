@@ -1,1 +1,1 @@
-Analytics#renovate/tracy-tracy-2.x#2c9b560d1f639d0ddfe037befee2181fcaa5ff0a
+Measurements#renovate/tracy-tracy-2.x#2c9b560d1f639d0ddfe037befee2181fcaa5ff0a
