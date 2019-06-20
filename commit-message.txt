@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-framework-5.x#da0e80a27e71459a64d7c0e9ad28695239228a66
+Controllers#renovate/doctrine-migrations-2.x#ec96ccf8aa0b42b5c0079ecbd09b7846d495e7d3
