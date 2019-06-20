@@ -1,1 +1,1 @@
-AppSettings#renovate/doctrine-migrations-2.x#ec96ccf8aa0b42b5c0079ecbd09b7846d495e7d3
+Controllers#renovate/laravel-cashier-9.x#7128b48b25087bce698fd1264af2f41935d56f21
