@@ -1,1 +1,1 @@
-Measurements#feature/treatments-symptoms#b6cac41636aee5ee585f20b30ad7ad71f2d4a55f
+AppSettings#feature/treatments-symptoms#b6cac41636aee5ee585f20b30ad7ad71f2d4a55f
