@@ -1,1 +1,1 @@
-Reminders#renovate/doctrine-migrations-2.x#a8cd2f5c795425bf2f2c5ead84bb3307cc2b649f
+Controllers#renovate/filp-whoops-2.x#a7a976d9fae10dda2ba204c0fa102f08f8101d42
