@@ -1,1 +1,1 @@
-AppSettings#renovate/filp-whoops-2.x#a7a976d9fae10dda2ba204c0fa102f08f8101d42
+Reminders#renovate/filp-whoops-2.x#a7a976d9fae10dda2ba204c0fa102f08f8101d42
