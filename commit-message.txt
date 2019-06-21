@@ -1,1 +1,1 @@
-Reminders#renovate/filp-whoops-2.x#089d7fa2e2b78613994c8dfbf75f3141fc93999b
+Controllers#renovate/laravel-cashier-9.x#adf7859c221de20cb8220f97fe184585cf76dde3
