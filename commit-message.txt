@@ -1,1 +1,1 @@
-Controllers#renovate/doctrine-migrations-2.x#a55a25e77a3db51f2fd4a3368ffa14634ff4c8ce
+Analytics#renovate/doctrine-migrations-2.x#a55a25e77a3db51f2fd4a3368ffa14634ff4c8ce
