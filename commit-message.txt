@@ -1,1 +1,1 @@
-Measurements#renovate/doctrine-migrations-2.x#d434331120e7a8904b203db81f2ab7e42920be29
+AppSettings#renovate/doctrine-migrations-2.x#d434331120e7a8904b203db81f2ab7e42920be29
