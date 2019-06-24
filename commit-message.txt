@@ -1,1 +1,1 @@
-Controllers#feature/setChartHtmlWithLinkedSvgs#9d281ec85bb32461e3be7d3005548e2055146515
+Analytics#feature/setChartHtmlWithLinkedSvgs#9d281ec85bb32461e3be7d3005548e2055146515
