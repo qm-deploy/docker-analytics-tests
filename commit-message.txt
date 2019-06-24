@@ -1,1 +1,1 @@
-Controllers#feature/chart-check#eba19bbcc02553a183e1a6af9f868073e6138a0b
+Analytics#feature/chart-check#eba19bbcc02553a183e1a6af9f868073e6138a0b
