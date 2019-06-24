@@ -1,1 +1,1 @@
-Analytics#feature/setChartHtmlWithLinkedSvgs#c8777a79d1ccc3d1ae00e2d61d15fc1d73cab7b0
+Measurements#feature/setChartHtmlWithLinkedSvgs#c8777a79d1ccc3d1ae00e2d61d15fc1d73cab7b0
