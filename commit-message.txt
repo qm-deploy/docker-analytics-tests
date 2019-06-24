@@ -1,1 +1,1 @@
-Reminders#feature/setChartHtmlWithLinkedSvgs#7d7ee820193a542536c34590e38711c9db2bdf46
+Controllers#feature/chart-check#7493e41964429ab4d8192fc7c941f49a958e4bb2
