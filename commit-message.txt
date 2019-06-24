@@ -1,1 +1,1 @@
-AppSettings#renovate/laravel-cashier-9.x#981d95881ae77aa4a489051a4f9dd899739a7c22
+Reminders#renovate/laravel-cashier-9.x#981d95881ae77aa4a489051a4f9dd899739a7c22
