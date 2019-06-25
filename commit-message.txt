@@ -1,1 +1,1 @@
-AppSettings#feature/setDelayAndDurationCharts#118fd4c15aadd46dcc93cedc44d84642cef4ce52
+Reminders#feature/setDelayAndDurationCharts#118fd4c15aadd46dcc93cedc44d84642cef4ce52
