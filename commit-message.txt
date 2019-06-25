@@ -1,1 +1,1 @@
-Measurements#feature/setChartHtmlWithLinkedSvgs#eac55862f837e82fe5df7d4ccacabdba43c46816
+AppSettings#feature/setChartHtmlWithLinkedSvgs#eac55862f837e82fe5df7d4ccacabdba43c46816
