@@ -1,1 +1,1 @@
-Reminders#feature/setDelayAndDurationCharts#175c11d039cd0d4be54b6c2f69625cae3dd38d21
+Controllers#feature/setChartHtmlWithLinkedSvgs#eac55862f837e82fe5df7d4ccacabdba43c46816
