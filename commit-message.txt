@@ -1,1 +1,1 @@
-Measurements#feature/maxDays#c9c89a5ad471518e3fbab53400ddd989b8fd43ae
+AppSettings#feature/maxDays#c9c89a5ad471518e3fbab53400ddd989b8fd43ae
