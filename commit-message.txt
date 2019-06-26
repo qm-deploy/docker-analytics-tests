@@ -1,1 +1,1 @@
-AppSettings#feature/spearman#5cabec75a4ba02b29d874b8fefeee7b1ef134e8d
+Reminders#feature/spearman#5cabec75a4ba02b29d874b8fefeee7b1ef134e8d
