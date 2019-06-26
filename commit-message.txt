@@ -1,1 +1,1 @@
-Measurements#feature/svgsContainChartTitle#b343078ee62b3257acc49d8a686a089aa5689f16
+AppSettings#feature/svgsContainChartTitle#b343078ee62b3257acc49d8a686a089aa5689f16
