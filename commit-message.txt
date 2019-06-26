@@ -1,1 +1,1 @@
-Analytics#renovate/laravel-framework-5.x#417057cca7b281f4111da9c5379a6c838b54992c
+Measurements#renovate/laravel-framework-5.x#417057cca7b281f4111da9c5379a6c838b54992c
