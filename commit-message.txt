@@ -1,1 +1,1 @@
-AppSettings#feature/study-cache-checks#f95bf52f5a4f70353dccbddc0eea31d4a847f05e
+Reminders#feature/study-cache-checks#f95bf52f5a4f70353dccbddc0eea31d4a847f05e
