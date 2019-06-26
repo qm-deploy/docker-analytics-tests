@@ -1,1 +1,1 @@
-Measurements#feature/svg#21f0b114d42455cc70e1c9ae8fe974976be31099
+AppSettings#feature/svg#21f0b114d42455cc70e1c9ae8fe974976be31099
