@@ -1,1 +1,1 @@
-AppSettings#feature/setChartHtmlWithLinkedSvgs#9528e111f8479c3cec153b5fd89cacf20fda25ae
+Reminders#feature/setChartHtmlWithLinkedSvgs#9528e111f8479c3cec153b5fd89cacf20fda25ae
