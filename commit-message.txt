@@ -1,1 +1,1 @@
-Controllers#feature/logInfo#01c8e04662b9770afdca23876dbab3de3a906dda
+Analytics#feature/logInfo#01c8e04662b9770afdca23876dbab3de3a906dda
