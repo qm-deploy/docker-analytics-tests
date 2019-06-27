@@ -1,1 +1,1 @@
-Reminders#feature/hasValidImage#ab75a7752c660f5a0a0d3e054cf7c74f3bc7af6d
+Controllers#feature/hasValidImage#93991bda960d45de37134a78315e85771fa3ae01
