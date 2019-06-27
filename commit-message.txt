@@ -1,1 +1,1 @@
-Reminders#feature/REGENERATE_DELAY_DURATION_CHARTS#595a6962bae56097222eeca55aeaab9a8b836093
+Controllers#feature/QMMemcached#a067272a07fa57689045ef6bf37fb513cec6c922
