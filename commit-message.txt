@@ -1,1 +1,1 @@
-Measurements#feature/upload-charts#83b5844aeb39a010d4462c6c6dd5f0b74a5abdcf
+AppSettings#feature/upload-charts#83b5844aeb39a010d4462c6c6dd5f0b74a5abdcf
