@@ -1,1 +1,1 @@
-Measurements#feature/republishUpVotedStudies#f1b16993688f2f31fa747a8b2765d1a72dd7a7eb
+AppSettings#feature/republishUpVotedStudies#f1b16993688f2f31fa747a8b2765d1a72dd7a7eb
