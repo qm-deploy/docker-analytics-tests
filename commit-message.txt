@@ -1,1 +1,1 @@
-Controllers#feature/study-emails#fbae250b9baea6fd03aca98aef941f34c471f4b7
+Analytics#feature/study-emails#fbae250b9baea6fd03aca98aef941f34c471f4b7
