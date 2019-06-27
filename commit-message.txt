@@ -1,1 +1,1 @@
-Controllers#feature/hasValidImage#9c277ca6120806e82bc5a3f61365f35e3e920f33
+Analytics#feature/hasValidImage#9c277ca6120806e82bc5a3f61365f35e3e920f33
