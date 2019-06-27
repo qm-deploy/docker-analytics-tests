@@ -1,1 +1,1 @@
-Controllers#feature/republishUpVotedStudies#3ee4395f57d257709d116c278a650eb6463cd2f1
+Analytics#feature/republishUpVotedStudies#3ee4395f57d257709d116c278a650eb6463cd2f1
