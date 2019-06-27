@@ -1,1 +1,1 @@
-Measurements#feature/hasValidImage#080a8f0ada587334e6aefbab45072eb47121b492
+AppSettings#feature/hasValidImage#080a8f0ada587334e6aefbab45072eb47121b492
