@@ -1,1 +1,1 @@
-AppSettings#feature/QMMemcached#a067272a07fa57689045ef6bf37fb513cec6c922
+Reminders#feature/QMMemcached#a067272a07fa57689045ef6bf37fb513cec6c922
