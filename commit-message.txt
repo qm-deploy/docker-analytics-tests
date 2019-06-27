@@ -1,1 +1,1 @@
-Analytics#feature/hasValidImage#080a8f0ada587334e6aefbab45072eb47121b492
+Measurements#feature/hasValidImage#080a8f0ada587334e6aefbab45072eb47121b492
