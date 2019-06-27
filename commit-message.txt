@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-framework-5.x#435478b36a76bccd2ccb0902f155d21569130bff
+Controllers#feature/hasValidImage#ab75a7752c660f5a0a0d3e054cf7c74f3bc7af6d
