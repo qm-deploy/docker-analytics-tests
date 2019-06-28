@@ -1,1 +1,1 @@
-Measurements#feature/new-stored#0ca3382df258a8f45c888d70169f36cdd52df3a3
+AppSettings#feature/new-stored#0ca3382df258a8f45c888d70169f36cdd52df3a3
