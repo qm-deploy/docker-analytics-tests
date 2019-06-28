@@ -1,1 +1,1 @@
-Controllers#feature/should-publish#a15dfd2f17a3049455e8e35765eed9d21d0237ca
+Analytics#feature/should-publish#a15dfd2f17a3049455e8e35765eed9d21d0237ca
