@@ -1,1 +1,1 @@
-Measurements#feature/json#b72fe2755442e2403110d88ff05396174eeff823
+AppSettings#feature/json#b72fe2755442e2403110d88ff05396174eeff823
