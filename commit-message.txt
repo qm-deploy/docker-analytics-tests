@@ -1,1 +1,1 @@
-Measurements#renovate/laravel-framework-5.x#6cff3f85da31ba6b547c2735d4bcecb5bb800b06
+AppSettings#renovate/laravel-framework-5.x#6cff3f85da31ba6b547c2735d4bcecb5bb800b06
