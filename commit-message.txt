@@ -1,1 +1,1 @@
-Reminders#feature/updateVote#867b169a43a6a33c10fd31e030d6de06db09ea2c
+Controllers#feature/QMMeasurementsChart#f3ca4a0b6417efcfb184319c1c565f71492f1982
