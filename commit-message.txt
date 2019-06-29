@@ -1,1 +1,1 @@
-Measurements#feature/updateVote#867b169a43a6a33c10fd31e030d6de06db09ea2c
+AppSettings#feature/updateVote#867b169a43a6a33c10fd31e030d6de06db09ea2c
