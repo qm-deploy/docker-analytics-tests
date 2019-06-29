@@ -1,1 +1,1 @@
-Analytics#renovate/laravel-cashier-9.x#8ad84f421ad34a6f1f5ee2ff6c8f06fe2a87baab
+Measurements#renovate/laravel-cashier-9.x#8ad84f421ad34a6f1f5ee2ff6c8f06fe2a87baab
