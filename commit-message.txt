@@ -1,1 +1,1 @@
-Measurements#feature/QMMeasurementsChart#f3ca4a0b6417efcfb184319c1c565f71492f1982
+AppSettings#feature/QMMeasurementsChart#f3ca4a0b6417efcfb184319c1c565f71492f1982
