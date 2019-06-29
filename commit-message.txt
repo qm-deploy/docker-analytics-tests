@@ -1,1 +1,1 @@
-Measurements#feature/refresh-charts#13f9f396a3428a32824b32d882faf34f07e0ae7d
+AppSettings#feature/refresh-charts#13f9f396a3428a32824b32d882faf34f07e0ae7d
