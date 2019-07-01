@@ -1,1 +1,1 @@
-Controllers#feature/sorting-score#6c700e6bb88472909d690c4b1cf6239a5c3c289e
+Analytics#feature/sorting-score#6c700e6bb88472909d690c4b1cf6239a5c3c289e
