@@ -1,1 +1,1 @@
-Measurements#feature/deleteFinalCallbackUrlCookie#9fdce3d6833adfb9c4b5b0575948d2b5cbbb9772
+AppSettings#feature/deleteFinalCallbackUrlCookie#9fdce3d6833adfb9c4b5b0575948d2b5cbbb9772
