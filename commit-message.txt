@@ -1,1 +1,1 @@
-AppSettings#feature/highchart-export#98e500042a5809c08d75ff1c686a913ca7254ac6
+Reminders#feature/highchart-export#98e500042a5809c08d75ff1c686a913ca7254ac6
