@@ -1,1 +1,1 @@
-Measurements#renovate/ghost-inspector-4.x#25a6313fd2b30c2e6a04395ef507f25895368816
+AppSettings#renovate/ghost-inspector-4.x#25a6313fd2b30c2e6a04395ef507f25895368816
