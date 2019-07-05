@@ -1,1 +1,1 @@
-Controllers#renovate/ghost-inspector-4.x#604368b6bc7a87d8c3e80dcb2d888394a5d4c6ea
+Analytics#renovate/ghost-inspector-4.x#604368b6bc7a87d8c3e80dcb2d888394a5d4c6ea
