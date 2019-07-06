@@ -1,1 +1,1 @@
-Reminders#feature/analysis-tables#92b0e7ac7e0b7f34ae83e173b102b38104118cb9
+Controllers#renovate/ghost-inspector-4.x#fc420c2bcd70baca9ebb2bb220efd6d7f3233998
