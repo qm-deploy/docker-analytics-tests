@@ -1,1 +1,1 @@
-Measurements#feature/analysis-tables#92b0e7ac7e0b7f34ae83e173b102b38104118cb9
+AppSettings#feature/analysis-tables#92b0e7ac7e0b7f34ae83e173b102b38104118cb9
