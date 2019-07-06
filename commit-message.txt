@@ -1,1 +1,1 @@
-Controllers#feature/delayAndDurationChartsAreSet#27d4f549597022db75f6efb6f6f96f03b4165d0c
+Analytics#feature/delayAndDurationChartsAreSet#27d4f549597022db75f6efb6f6f96f03b4165d0c
