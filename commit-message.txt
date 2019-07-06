@@ -1,1 +1,1 @@
-Controllers#feature/analysis-tables#14b3fe016821d3022287b74e4c74b90aac3a3266
+Analytics#feature/analysis-tables#14b3fe016821d3022287b74e4c74b90aac3a3266
