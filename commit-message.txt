@@ -1,1 +1,1 @@
-Measurements#feature/s3-path#ab40a66581b43595f37c2895d81190fcaa44314d
+AppSettings#feature/s3-path#ab40a66581b43595f37c2895d81190fcaa44314d
