@@ -1,1 +1,1 @@
-AppSettings#feature/treatments-symptoms#758c8ecd831bf2a0efda2e6620b6d712050b23a6
+Reminders#feature/treatments-symptoms#758c8ecd831bf2a0efda2e6620b6d712050b23a6
