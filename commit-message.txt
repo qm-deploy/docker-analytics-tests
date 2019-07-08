@@ -1,1 +1,1 @@
-Measurements#feature/dateTimeLabelFormats#7349b4e6d25c3293a060fa1c1d8106ef3ead2f19
+AppSettings#feature/dateTimeLabelFormats#7349b4e6d25c3293a060fa1c1d8106ef3ead2f19
