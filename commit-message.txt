@@ -1,1 +1,1 @@
-Measurements#feature/laravel-tests#5040936e0feaa3693a405615abb530b38f916318
+AppSettings#feature/laravel-tests#5040936e0feaa3693a405615abb530b38f916318
