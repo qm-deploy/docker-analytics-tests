@@ -1,1 +1,1 @@
-Controllers#feature/laravel-tests#e873351a52328cccefa2e1c43875b751ad18a4f5
+Analytics#feature/laravel-tests#e873351a52328cccefa2e1c43875b751ad18a4f5
