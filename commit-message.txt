@@ -1,1 +1,1 @@
-Measurements#renovate/phpoffice-phpspreadsheet-1.x#91724905e86e553cac28cc91359c2a8aa89595c8
+AppSettings#renovate/phpoffice-phpspreadsheet-1.x#91724905e86e553cac28cc91359c2a8aa89595c8
