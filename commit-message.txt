@@ -1,1 +1,1 @@
-Measurements#feature/updateError#c455db57692ae22c66d50233a9ebcc1e8310ab69
+AppSettings#feature/updateError#c455db57692ae22c66d50233a9ebcc1e8310ab69
