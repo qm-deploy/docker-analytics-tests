@@ -1,1 +1,1 @@
-AppSettings#feature/deleteAllUserCorrelationsForPair#1ec205792036ee4aa451c75d16dadb01dd6e4dd0
+Reminders#feature/deleteAllUserCorrelationsForPair#1ec205792036ee4aa451c75d16dadb01dd6e4dd0
