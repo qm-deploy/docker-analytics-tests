@@ -1,1 +1,1 @@
-AppSettings#feature/getOrCalculateExperimentEndTimeString#c15ef514606af658737f8620a3fbaff76afa790b
+Reminders#feature/getOrCalculateExperimentEndTimeString#c15ef514606af658737f8620a3fbaff76afa790b
