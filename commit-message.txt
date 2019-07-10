@@ -1,1 +1,1 @@
-Measurements#feature/RescueTimeConnector#b3bd4ee64cbc91fe1624ca1628f101daca5be97d
+AppSettings#feature/RescueTimeConnector#b3bd4ee64cbc91fe1624ca1628f101daca5be97d
