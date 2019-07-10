@@ -1,1 +1,1 @@
-Measurements#feature/needReviewSection#ee5ac50e579a8911dd79770c9af537ab9266cbf3
+AppSettings#feature/needReviewSection#ee5ac50e579a8911dd79770c9af537ab9266cbf3
