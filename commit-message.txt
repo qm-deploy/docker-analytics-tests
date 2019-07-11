@@ -1,1 +1,1 @@
-Reminders#feature/calculatePValue#6228c7be6ce5880e801dc77fe27a50cdfed5d8bf
+Controllers#feature/weShouldGenerateFullStudyWithChartsCssAndInstructions#d3602f89ed935377f75ff19e4ed701418fe2d354
