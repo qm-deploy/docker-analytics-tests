@@ -1,1 +1,1 @@
-Analytics#feature/withings-connector#2087c50034b4985aabb1ffae743facd159b5e939
+Measurements#feature/withings-connector#2087c50034b4985aabb1ffae743facd159b5e939
