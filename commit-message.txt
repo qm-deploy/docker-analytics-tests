@@ -1,1 +1,1 @@
-Controllers#feature/getUpVotedCorrelations#57af421c3703a26a33cd63766270e8b79cbb4b11
+Analytics#feature/getUpVotedCorrelations#57af421c3703a26a33cd63766270e8b79cbb4b11
