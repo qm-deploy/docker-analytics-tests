@@ -1,1 +1,1 @@
-Reminders#feature/getUpVotedCorrelations#992a1ab8ea4be792672e3945b36e7d7fefbd7627
+Controllers#feature/weShouldGenerateFullStudyWithChartsCssAndInstructions#1a2cd0eee8771101ae7e267934d2c33c3abfa34b
