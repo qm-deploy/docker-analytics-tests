@@ -1,1 +1,1 @@
-Controllers#feature/highchart-export#bcef2a5e85af2772eb4ad10662c8b47b569d9783
+Analytics#feature/highchart-export#bcef2a5e85af2772eb4ad10662c8b47b569d9783
