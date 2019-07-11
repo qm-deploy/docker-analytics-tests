@@ -1,1 +1,1 @@
-AppSettings#feature/htmlWithEmbeddedPngs#1e60b8544f92335dfc5c560ddfe691f3ae5452d1
+Reminders#feature/htmlWithEmbeddedPngs#1e60b8544f92335dfc5c560ddfe691f3ae5452d1
