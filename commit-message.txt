@@ -1,1 +1,1 @@
-Measurements#feature/MAXIMUM_NUMBER_OF_STUDIES#dcc1fa6aa0a22f8d8c87ef50a6b96056e5a84af2
+AppSettings#feature/MAXIMUM_NUMBER_OF_STUDIES#dcc1fa6aa0a22f8d8c87ef50a6b96056e5a84af2
