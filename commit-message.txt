@@ -1,1 +1,1 @@
-Measurements#feature/getGaugeAndVariableImages#da890443f2fff68e6aaa01ed52b8abc70d0247f1
+AppSettings#feature/getGaugeAndVariableImages#da890443f2fff68e6aaa01ed52b8abc70d0247f1
