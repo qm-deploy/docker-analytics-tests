@@ -1,1 +1,1 @@
-Measurements#feature/getChangeColumnExplanation#a7f7e8f090ec86a675c0da519e298ac032c775ca
+AppSettings#feature/getChangeColumnExplanation#a7f7e8f090ec86a675c0da519e298ac032c775ca
