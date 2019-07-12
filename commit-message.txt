@@ -1,1 +1,1 @@
-Reminders#feature/appendExistingStudyPDFS#a7790286bbd2f542935e4f9f03820259b7b76874
+Controllers#feature/getGaugeAndVariableImages#da890443f2fff68e6aaa01ed52b8abc70d0247f1
