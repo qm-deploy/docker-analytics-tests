@@ -1,1 +1,1 @@
-Controllers#feature/minimumSecondsBetweenEmails#d265ddbaa34abbde0d3aa55706de8c505609abf3
+Analytics#feature/minimumSecondsBetweenEmails#d265ddbaa34abbde0d3aa55706de8c505609abf3
