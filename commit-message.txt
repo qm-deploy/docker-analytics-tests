@@ -1,1 +1,1 @@
-Controllers#feature/QMChart#9cb6c38018b0467b27a16695a7f43f76d39694d8
+Analytics#feature/QMChart#9cb6c38018b0467b27a16695a7f43f76d39694d8
