@@ -1,1 +1,1 @@
-AppSettings#feature/getChangeColumnExplanation#28e8bc5934ac68655347e9bc2e296fdbb720846d
+Reminders#feature/getChangeColumnExplanation#28e8bc5934ac68655347e9bc2e296fdbb720846d
