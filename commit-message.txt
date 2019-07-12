@@ -1,1 +1,1 @@
-AppSettings#feature/minimumSecondsBetweenEmails#d265ddbaa34abbde0d3aa55706de8c505609abf3
+Reminders#feature/minimumSecondsBetweenEmails#d265ddbaa34abbde0d3aa55706de8c505609abf3
