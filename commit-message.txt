@@ -1,1 +1,1 @@
-Measurements#feature/local-images#f5a32396d0acc1fac39bf510b0d602be96cf6276
+AppSettings#feature/local-images#f5a32396d0acc1fac39bf510b0d602be96cf6276
