@@ -1,1 +1,1 @@
-Measurements#feature/jpg#2ec59a1d2c790791fa330a5633cfb6734b2ae9fd
+AppSettings#feature/jpg#2ec59a1d2c790791fa330a5633cfb6734b2ae9fd
