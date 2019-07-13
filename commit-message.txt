@@ -1,1 +1,1 @@
-Controllers#feature/exceptionIfTooSoonToSendAnotherEmail#758c3704e687322176765c3893ec0388ba41d5ed
+Analytics#feature/exceptionIfTooSoonToSendAnotherEmail#758c3704e687322176765c3893ec0388ba41d5ed
