@@ -1,1 +1,1 @@
-Reminders#feature/getPercentEffectChangeFromLowCauseToHighCause#682ec4a4b4400ebdb9206e0fc2f7fb92206ed81f
+Controllers#feature/publishUpVotedStudies#82db145540042c3bcaf13713aef393b057f9f61f
