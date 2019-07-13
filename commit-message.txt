@@ -1,1 +1,1 @@
-Measurements#feature/UserCorrelationCharts#6b3dbaab86db9e7f72de7533301a350d23e777b5
+AppSettings#feature/UserCorrelationCharts#6b3dbaab86db9e7f72de7533301a350d23e777b5
