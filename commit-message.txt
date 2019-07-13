@@ -1,1 +1,1 @@
-Measurements#feature/qm-test#a7600921bb0fe49889e6c35fd313e938b248fb61
+AppSettings#feature/qm-test#a7600921bb0fe49889e6c35fd313e938b248fb61
