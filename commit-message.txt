@@ -1,1 +1,1 @@
-Measurements#feature/study-email#430ec41dd96e2caf20741c5f70e4a6e4c64b5b9e
+AppSettings#feature/study-email#430ec41dd96e2caf20741c5f70e4a6e4c64b5b9e
