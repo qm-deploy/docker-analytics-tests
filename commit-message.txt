@@ -1,1 +1,1 @@
-Measurements#feature/unsetAllCommonTagTypes#dbc9510505cffe09809f98f7558bc8704fb8540c
+AppSettings#feature/unsetAllCommonTagTypes#dbc9510505cffe09809f98f7558bc8704fb8540c
