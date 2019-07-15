@@ -1,1 +1,1 @@
-Measurements#feature/unit-in-variable-names#87c8bd60a55404f4af491656ffc22a0a7bc9a152
+AppSettings#feature/unit-in-variable-names#87c8bd60a55404f4af491656ffc22a0a7bc9a152
