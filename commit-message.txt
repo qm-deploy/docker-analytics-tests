@@ -1,1 +1,1 @@
-Measurements#feature/logging#5a78995b78f05bcbf060439dc9d068ec43a13183
+AppSettings#feature/logging#5a78995b78f05bcbf060439dc9d068ec43a13183
