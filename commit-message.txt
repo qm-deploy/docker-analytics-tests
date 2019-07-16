@@ -1,1 +1,1 @@
-Measurements#feature/bpm#4e34b18fb57ddf7fc08dcdf060abddc5576d243b
+AppSettings#feature/bpm#4e34b18fb57ddf7fc08dcdf060abddc5576d243b
