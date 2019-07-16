@@ -1,1 +1,1 @@
-Measurements#feature/NotEnoughDataException#f1b6826fa4e506db42b29a99fe851da27caf27cb
+AppSettings#feature/NotEnoughDataException#f1b6826fa4e506db42b29a99fe851da27caf27cb
