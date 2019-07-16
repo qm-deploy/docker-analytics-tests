@@ -1,1 +1,1 @@
-Measurements#feature/getOrCalculateLowercaseDataSourceNames-2#801dacd9de25be78f63eb8e0e8699a437c2eca9e
+AppSettings#feature/getOrCalculateLowercaseDataSourceNames-2#801dacd9de25be78f63eb8e0e8699a437c2eca9e
