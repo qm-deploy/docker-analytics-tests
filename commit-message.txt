@@ -1,1 +1,1 @@
-Measurements#feature/isAnalyzing#033ba013e1a045449edaaf75ee4a85e7c559656a
+AppSettings#feature/isAnalyzing#033ba013e1a045449edaaf75ee4a85e7c559656a
