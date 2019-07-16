@@ -1,1 +1,1 @@
-Controllers#feature/isRatioScale#a8044dfb3cb06dcd61c2a37eac4b9c6d35804a39
+Analytics#feature/isRatioScale#a8044dfb3cb06dcd61c2a37eac4b9c6d35804a39
