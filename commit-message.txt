@@ -1,1 +1,1 @@
-Measurements#feature/fromMemcached#e6e864c3487cd11394146b8b32fdc112ed787f5a
+AppSettings#feature/fromMemcached#e6e864c3487cd11394146b8b32fdc112ed787f5a
