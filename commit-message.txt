@@ -1,1 +1,1 @@
-Measurements#feature/disconnectConnectorForForAllUsers#47001da742274a5f0f62e144a3aa5909f42addef
+AppSettings#feature/disconnectConnectorForForAllUsers#47001da742274a5f0f62e144a3aa5909f42addef
