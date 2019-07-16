@@ -1,1 +1,1 @@
-AppSettings#feature/disconnectForForAllUsers#ba9ed72737468cab6f748ebdaa4997961686a6c4
+Reminders#feature/disconnectForForAllUsers#ba9ed72737468cab6f748ebdaa4997961686a6c4
