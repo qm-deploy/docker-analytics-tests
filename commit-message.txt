@@ -1,1 +1,1 @@
-Measurements#feature/USDAFoodSpreadsheetImporterJobTest#410c61534c56987cf8c59bcc9b5902897a07a9dc
+AppSettings#feature/USDAFoodSpreadsheetImporterJobTest#410c61534c56987cf8c59bcc9b5902897a07a9dc
