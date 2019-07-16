@@ -1,1 +1,1 @@
-Measurements#feature/storage-queue#2c7e21783d9686435ebae8fca90b91ac202fc121
+AppSettings#feature/storage-queue#2c7e21783d9686435ebae8fca90b91ac202fc121
