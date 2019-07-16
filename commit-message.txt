@@ -1,1 +1,1 @@
-Controllers#feature/isAnalyzing#7336dac3bc004d0c7d52630410c1485b7a3ecb3e
+Analytics#feature/isAnalyzing#7336dac3bc004d0c7d52630410c1485b7a3ecb3e
