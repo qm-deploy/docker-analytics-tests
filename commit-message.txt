@@ -1,1 +1,1 @@
-AppSettings#feature/fromMemcached#aebbb7d7a0974fc04174542c7426cd67815ebb40
+Reminders#feature/fromMemcached#aebbb7d7a0974fc04174542c7426cd67815ebb40
