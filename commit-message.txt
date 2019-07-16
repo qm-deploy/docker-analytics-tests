@@ -1,1 +1,1 @@
-AppSettings#feature/getOrCalculateLowercaseDataSourceNames#7ec8b12a9d89bfe291c75fabfaafc8b40dd432db
+Reminders#feature/getOrCalculateLowercaseDataSourceNames#7ec8b12a9d89bfe291c75fabfaafc8b40dd432db
