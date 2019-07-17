@@ -1,1 +1,1 @@
-Controllers#feature/exceptionIfStupidVariable#2f1e044dace4502fe9c9e463d83e3a634d3f0646
+Analytics#feature/exceptionIfStupidVariable#2f1e044dace4502fe9c9e463d83e3a634d3f0646
