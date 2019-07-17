@@ -1,1 +1,1 @@
-AppSettings#feature/exceptionIfStupidVariable#1db3d1d24f358a59d5bf31cbbaa3dbb1507a1ed2
+Reminders#feature/exceptionIfStupidVariable#1db3d1d24f358a59d5bf31cbbaa3dbb1507a1ed2
