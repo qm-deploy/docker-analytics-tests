@@ -1,1 +1,1 @@
-Controllers#feature/delete-stupid#bb9d548677e2b18000fc31ce85b1f7f2a7b0b73a
+Analytics#feature/delete-stupid#bb9d548677e2b18000fc31ce85b1f7f2a7b0b73a
