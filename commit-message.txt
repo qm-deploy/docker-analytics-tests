@@ -1,1 +1,1 @@
-AppSettings#feature/NotEnoughDataException#01f16f1f875df07d6a549b0c4c34f7c45b635d11
+Reminders#feature/NotEnoughDataException#01f16f1f875df07d6a549b0c4c34f7c45b635d11
