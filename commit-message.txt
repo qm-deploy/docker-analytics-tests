@@ -1,1 +1,1 @@
-Measurements#feature/variableCategoryConstants#7fa87987bc3186e1a88946db78a85681bc5fb1ad
+AppSettings#feature/variableCategoryConstants#7fa87987bc3186e1a88946db78a85681bc5fb1ad
