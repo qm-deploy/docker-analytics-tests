@@ -1,1 +1,1 @@
-Controllers#feature/sent-email#44ca8e17098827a3b50e4a4c9c1552d19ef1f4dd
+Analytics#feature/sent-email#44ca8e17098827a3b50e4a4c9c1552d19ef1f4dd
