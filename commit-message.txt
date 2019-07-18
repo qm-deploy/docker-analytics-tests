@@ -1,1 +1,1 @@
-Controllers#feature/email#56681f33d69dca0f64c10b32621c684fc3e30855
+Analytics#feature/email#56681f33d69dca0f64c10b32621c684fc3e30855
