@@ -1,1 +1,1 @@
-Measurements#feature/email#002e1eb3cd3e2e8e92800d366ef2aa84e08276d0
+AppSettings#feature/email#002e1eb3cd3e2e8e92800d366ef2aa84e08276d0
