@@ -1,1 +1,1 @@
-Controllers#feature/email-service#27677d42189ac0bffc6e91281558c82877e20713
+Analytics#feature/email-service#27677d42189ac0bffc6e91281558c82877e20713
