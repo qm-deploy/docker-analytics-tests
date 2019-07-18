@@ -1,1 +1,1 @@
-Controllers#feature/organized-jobs#a70e768387bbee0ef7f5f652ae05ffe13cfcdb34
+Analytics#feature/organized-jobs#a70e768387bbee0ef7f5f652ae05ffe13cfcdb34
