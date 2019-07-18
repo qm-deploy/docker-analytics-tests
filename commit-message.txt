@@ -1,1 +1,1 @@
-AppSettings#feature/delete-user-records#168dfa1e7969bd695b9286da67516118d31a4190
+Reminders#feature/delete-user-records#168dfa1e7969bd695b9286da67516118d31a4190
