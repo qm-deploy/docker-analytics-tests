@@ -1,1 +1,1 @@
-Controllers#feature/getStatisticsFromDatabase#869d311bfe0384b37a3377f7524301fdcde37e42
+Analytics#feature/getStatisticsFromDatabase#869d311bfe0384b37a3377f7524301fdcde37e42
