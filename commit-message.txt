@@ -1,1 +1,1 @@
-Measurements#feature/deleteTestUsers#7a4d5915d7f9345a97b7887f649478c810678c11
+AppSettings#feature/deleteTestUsers#7a4d5915d7f9345a97b7887f649478c810678c11
