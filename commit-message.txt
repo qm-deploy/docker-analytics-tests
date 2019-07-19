@@ -1,1 +1,1 @@
-Measurements#feature/numberOfUserVariablesUpdatedInLastDay#fca71feb36ee22e853b401c2f1c1cb2a24f8dbde
+AppSettings#feature/numberOfUserVariablesUpdatedInLastDay#fca71feb36ee22e853b401c2f1c1cb2a24f8dbde
