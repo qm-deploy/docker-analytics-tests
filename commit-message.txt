@@ -1,1 +1,1 @@
-Measurements#feature/appendExistingStudyPDFS#260f859c5fbf60734f3dd298c853ae7b1fc2e4a4
+AppSettings#feature/appendExistingStudyPDFS#260f859c5fbf60734f3dd298c853ae7b1fc2e4a4
