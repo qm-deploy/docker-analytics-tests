@@ -1,1 +1,1 @@
-Measurements#feature/setPrimaryOutcomeVariable#7fb6f13fac27730b8bcccbf531634ce432cb31e2
+AppSettings#feature/setPrimaryOutcomeVariable#7fb6f13fac27730b8bcccbf531634ce432cb31e2
