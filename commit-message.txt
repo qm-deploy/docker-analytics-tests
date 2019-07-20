@@ -1,1 +1,1 @@
-Measurements#feature/AmazonTest#ba6bb362e601ab97f95e0f6c999fdda4e0d78343
+AppSettings#feature/AmazonTest#ba6bb362e601ab97f95e0f6c999fdda4e0d78343
