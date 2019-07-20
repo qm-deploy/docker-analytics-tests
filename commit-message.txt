@@ -1,1 +1,1 @@
-Controllers#feature/new-functions#d63895f381f9d8728e47f820009d348bb34b7b79
+Analytics#feature/new-functions#d63895f381f9d8728e47f820009d348bb34b7b79
