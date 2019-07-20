@@ -1,1 +1,1 @@
-Measurements#feature/tag-validation#967bc29696dca010a44333f90a62532e24146b87
+AppSettings#feature/tag-validation#967bc29696dca010a44333f90a62532e24146b87
