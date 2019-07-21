@@ -1,1 +1,1 @@
-Measurements#feature/obfuscateMessage#eb454a078b6c41975589a93ac17e22de4175792a
+AppSettings#feature/obfuscateMessage#eb454a078b6c41975589a93ac17e22de4175792a
