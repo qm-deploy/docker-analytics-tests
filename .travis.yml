@@ -1,3 +1,4 @@
+dist: xenial
 language: php
 php:
   - '7.2'
@@ -8,13 +9,6 @@ services:
   - mongodb
   - mysql
   - memcached
-addons:
-  apt:
-    sources:
-    - mysql-5.7-trusty
-    packages:
-    - mysql-server
-    - mysql-client
 before_cache:
   # Save tagged docker images
   - >
