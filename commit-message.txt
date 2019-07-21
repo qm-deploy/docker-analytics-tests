@@ -1,1 +1,1 @@
-AppSettings#feature/do-not-delete-device-tokens#5e895e1c4700213bcfc429bf9ee665e72c54116c
+Reminders#feature/do-not-delete-device-tokens#5e895e1c4700213bcfc429bf9ee665e72c54116c
