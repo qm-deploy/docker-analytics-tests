@@ -1,1 +1,1 @@
-Controllers#feature/facebook-permissions#e0d3878e594acb8cad7e6c5d040c46a8af9f396e
+Analytics#feature/facebook-permissions#e0d3878e594acb8cad7e6c5d040c46a8af9f396e
