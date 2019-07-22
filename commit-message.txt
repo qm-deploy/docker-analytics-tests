@@ -1,1 +1,1 @@
-AppSettings#feature/InvalidTagCategoriesException#fef56efec7aefbbd3274fa5cdc3c60a95fbc087f
+Reminders#feature/InvalidTagCategoriesException#fef56efec7aefbbd3274fa5cdc3c60a95fbc087f
