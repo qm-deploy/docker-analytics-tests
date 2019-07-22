@@ -1,1 +1,1 @@
-Measurements#feature/InvalidTagCategoriesException#068cf4f2efd04835b0fb24fdc41041407953fa11
+AppSettings#feature/InvalidTagCategoriesException#068cf4f2efd04835b0fb24fdc41041407953fa11
