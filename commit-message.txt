@@ -1,1 +1,1 @@
-Measurements#feature/do-not-delete-device-tokens#34bb7e50b85a4384196fa849a0b5aa1612e9d7fd
+AppSettings#feature/do-not-delete-device-tokens#34bb7e50b85a4384196fa849a0b5aa1612e9d7fd
