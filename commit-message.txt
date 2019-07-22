@@ -1,1 +1,1 @@
-Measurements#feature/PostUserTagsAsAdminTest#db33b79d8f31e736b3e46ec950c9eb0054c6cbdf
+AppSettings#feature/PostUserTagsAsAdminTest#db33b79d8f31e736b3e46ec950c9eb0054c6cbdf
