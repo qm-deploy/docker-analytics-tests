@@ -1,1 +1,1 @@
-Measurements#feature/user-tag-refactor#5333f2c9371f147cd79eb2d78ffa900fff31d759
+AppSettings#feature/user-tag-refactor#5333f2c9371f147cd79eb2d78ffa900fff31d759
