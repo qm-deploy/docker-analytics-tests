@@ -1,1 +1,1 @@
-Controllers#feature/notification-addRelatedTablesToQuery#7aa6f6d39d152a262bb361541b28e2747ea4eec1
+Analytics#feature/notification-addRelatedTablesToQuery#7aa6f6d39d152a262bb361541b28e2747ea4eec1
