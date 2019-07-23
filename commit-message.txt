@@ -1,1 +1,1 @@
-AppSettings#feature/GoogleFitTest#1e17d874314380c5c5c8b960954a0700c18f1255
+Reminders#feature/GoogleFitTest#1e17d874314380c5c5c8b960954a0700c18f1255
