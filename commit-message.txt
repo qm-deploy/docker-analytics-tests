@@ -1,1 +1,1 @@
-Reminders#feature/logArrayOfStaticModels#db9664c3603fbefb29eb10664289109319049385
+Controllers#feature/addRelatedTablesToQuery#64ef867236a2c2c3905338385b4efcb4a2355b7d
