@@ -1,1 +1,1 @@
-Measurements#feature/GoogleFitTest#8480fad97c42456d65ab5ced5ede0cd797ba0daa
+AppSettings#feature/GoogleFitTest#8480fad97c42456d65ab5ced5ede0cd797ba0daa
