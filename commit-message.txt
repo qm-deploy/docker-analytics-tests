@@ -1,1 +1,1 @@
-Analytics#feature/GoogleFitTest#3108bfb63e50951040c5dbf77247257fecad1768
+Measurements#feature/GoogleFitTest#3108bfb63e50951040c5dbf77247257fecad1768
