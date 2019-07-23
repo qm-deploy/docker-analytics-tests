@@ -1,1 +1,1 @@
-Measurements#feature/notification-addRelatedTablesToQuery#6d114c55af8c1009fca0daeaa3035bbd2bbaa249
+AppSettings#feature/notification-addRelatedTablesToQuery#6d114c55af8c1009fca0daeaa3035bbd2bbaa249
