@@ -1,1 +1,1 @@
-AppSettings#feature/UpdateRemindersTask#4a0f863e227e834611edddb2a1db0a3c7bb0fde5
+Reminders#feature/UpdateRemindersTask#4a0f863e227e834611edddb2a1db0a3c7bb0fde5
