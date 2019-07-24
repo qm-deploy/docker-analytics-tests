@@ -1,1 +1,1 @@
-Measurements#feature/new-notifications#0a9d5c2df88a76678013a2465889d5e60f4c9124
+AppSettings#feature/new-notifications#0a9d5c2df88a76678013a2465889d5e60f4c9124
