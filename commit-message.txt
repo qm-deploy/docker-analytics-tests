@@ -1,1 +1,1 @@
-Measurements#feature/PushNotificationData#d26cbf2b5f3be35db340f6905a0f3ceb3a25bc77
+AppSettings#feature/PushNotificationData#d26cbf2b5f3be35db340f6905a0f3ceb3a25bc77
