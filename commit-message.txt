@@ -1,1 +1,1 @@
-Controllers#feature/new-notifications#f8d21f17c2c677679faa922b3dd6010a75f1085d
+Analytics#feature/new-notifications#f8d21f17c2c677679faa922b3dd6010a75f1085d
