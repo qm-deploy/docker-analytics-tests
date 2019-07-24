@@ -1,1 +1,1 @@
-AppSettings#feature/new-notifications#423a59d5ad219293308ac8a5a8c7f213c20745d4
+Reminders#feature/new-notifications#423a59d5ad219293308ac8a5a8c7f213c20745d4
