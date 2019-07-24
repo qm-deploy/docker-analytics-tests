@@ -1,1 +1,1 @@
-AppSettings#feature/reminder-functions#286abd5d76506c5464a04fbdf6c8a30635a3853a
+Reminders#feature/reminder-functions#286abd5d76506c5464a04fbdf6c8a30635a3853a
