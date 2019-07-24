@@ -1,1 +1,1 @@
-AppSettings#feature/notification-addRelatedTablesToQuery#10cb0aaecea5010ff905648a4582861edadf505c
+Reminders#feature/notification-addRelatedTablesToQuery#10cb0aaecea5010ff905648a4582861edadf505c
