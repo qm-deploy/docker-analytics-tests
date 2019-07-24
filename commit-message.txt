@@ -1,1 +1,1 @@
-AppSettings#feature/PushNotificationData#daef62524c09279c50b76833026169b447bc7c01
+Reminders#feature/PushNotificationData#daef62524c09279c50b76833026169b447bc7c01
