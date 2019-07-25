@@ -1,1 +1,1 @@
-Measurements#feature/tracking-reminder-exceptions#8dbacf86b084e1e0be8c3b48656edfa87d2e65fa
+AppSettings#feature/tracking-reminder-exceptions#8dbacf86b084e1e0be8c3b48656edfa87d2e65fa
