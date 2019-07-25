@@ -1,1 +1,1 @@
-Measurements#feature/submitted-tracking-reminder#2da6f559a2b723c5927380124752883058713cc1
+AppSettings#feature/submitted-tracking-reminder#2da6f559a2b723c5927380124752883058713cc1
