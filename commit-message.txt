@@ -1,1 +1,1 @@
-Measurements#feature/secure-logging#4737d1ab9af44c37b9637c56b9b95784a8380256
+AppSettings#feature/secure-logging#4737d1ab9af44c37b9637c56b9b95784a8380256
