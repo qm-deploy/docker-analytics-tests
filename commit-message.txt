@@ -1,1 +1,1 @@
-Measurements#feature/PostInvitationController#9863600a925359987262565b96971b53a94ae3a2
+AppSettings#feature/PostInvitationController#9863600a925359987262565b96971b53a94ae3a2
