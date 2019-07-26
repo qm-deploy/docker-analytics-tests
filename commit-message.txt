@@ -1,1 +1,1 @@
-Controllers#feature/get-best-study-cards#6e2a6a3a27bebb123b0bc62e72c0f5bd4b300c0d
+Analytics#feature/get-best-study-cards#6e2a6a3a27bebb123b0bc62e72c0f5bd4b300c0d
