@@ -1,1 +1,1 @@
-Measurements#feature/getStatistics#280f80c57764b4d2b3e32325824df7ae5b834c42
+AppSettings#feature/getStatistics#280f80c57764b4d2b3e32325824df7ae5b834c42
