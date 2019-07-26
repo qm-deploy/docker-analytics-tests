@@ -1,1 +1,1 @@
-AppSettings#feature/get-best-study-cards#c2846f27a86d4c998c9a81b6b6aa7a4d203816d8
+Reminders#feature/get-best-study-cards#c2846f27a86d4c998c9a81b6b6aa7a4d203816d8
