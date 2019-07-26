@@ -1,1 +1,1 @@
-Measurements#feature/get-best-study-cards#33e5287975dbf18c64cdfa9538ab729028a5dd78
+AppSettings#feature/get-best-study-cards#33e5287975dbf18c64cdfa9538ab729028a5dd78
