@@ -1,1 +1,1 @@
-AppSettings#feature/check-token-scopes#9ed4f9802e3cf4ed1bf5bbf20bfd8d9518c502f4
+Reminders#feature/check-token-scopes#9ed4f9802e3cf4ed1bf5bbf20bfd8d9518c502f4
