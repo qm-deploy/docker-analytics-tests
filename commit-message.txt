@@ -1,1 +1,1 @@
-AppSettings#feature/study-publishing#26d4fd69b9197c15a5355e41240ddf69d02e125c
+Reminders#feature/study-publishing#26d4fd69b9197c15a5355e41240ddf69d02e125c
