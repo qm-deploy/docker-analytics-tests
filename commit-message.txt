@@ -1,1 +1,1 @@
-Measurements#feature/patient-invitation-test#1315989ae58803e161ccc1347ecc8e5f62efad25
+AppSettings#feature/patient-invitation-test#1315989ae58803e161ccc1347ecc8e5f62efad25
