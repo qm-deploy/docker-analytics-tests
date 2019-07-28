@@ -1,1 +1,1 @@
-AppSettings#feature/logErrorIfWeShouldNotBeCreatingReminder#14d90b2018d4fab02e3612187beed2ae50666ad9
+Reminders#feature/logErrorIfWeShouldNotBeCreatingReminder#14d90b2018d4fab02e3612187beed2ae50666ad9
