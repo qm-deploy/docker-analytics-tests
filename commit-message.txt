@@ -1,1 +1,1 @@
-Measurements#feature/getPngHtml#d2a128016084332b35ed8ede488ddbaeddc493fe
+AppSettings#feature/getPngHtml#d2a128016084332b35ed8ede488ddbaeddc493fe
