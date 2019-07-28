@@ -1,1 +1,1 @@
-Controllers#feature/getPngHtml#d2a128016084332b35ed8ede488ddbaeddc493fe
+Analytics#feature/getPngHtml#d2a128016084332b35ed8ede488ddbaeddc493fe
