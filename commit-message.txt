@@ -1,1 +1,1 @@
-Measurements#feature/show-menu-false#d2be8842807487ca1b9d6280fdee31b7c0920d67
+AppSettings#feature/show-menu-false#d2be8842807487ca1b9d6280fdee31b7c0920d67
