@@ -1,1 +1,1 @@
-AppSettings#feature/addJsonEncodedPropertiesIfNecessary#393a339be02a0ca5e507cfd836020ec9adacdff6
+Reminders#feature/addJsonEncodedPropertiesIfNecessary#393a339be02a0ca5e507cfd836020ec9adacdff6
