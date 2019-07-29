@@ -1,1 +1,1 @@
-Measurements#feature/addJsonEncodedPropertiesIfNecessary#332763f6bfcd26721411ff4719914ec5a4005d84
+AppSettings#feature/addJsonEncodedPropertiesIfNecessary#332763f6bfcd26721411ff4719914ec5a4005d84
