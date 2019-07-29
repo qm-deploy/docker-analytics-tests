@@ -1,1 +1,1 @@
-AppSettings#feature/clean-up-jobs#c8213944b1245eec1d1027a912b9a9da11b5021c
+Reminders#feature/clean-up-jobs#c8213944b1245eec1d1027a912b9a9da11b5021c
