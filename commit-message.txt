@@ -1,1 +1,1 @@
-Measurements#feature/executable-files#74f9c9bd959a50f415adfd24b265c4af6f412e8a
+AppSettings#feature/executable-files#74f9c9bd959a50f415adfd24b265c4af6f412e8a
