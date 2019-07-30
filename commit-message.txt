@@ -1,1 +1,1 @@
-Measurements#renovate/laravel-dusk-5.x#12aa935833c962357eef6475065c84681dda08ab
+AppSettings#renovate/laravel-dusk-5.x#12aa935833c962357eef6475065c84681dda08ab
