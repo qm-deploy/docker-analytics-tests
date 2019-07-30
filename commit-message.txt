@@ -1,1 +1,1 @@
-AppSettings#feature/AggregateCorrelationsJob#ad8e9a4d31b40af2c3f59ec6cbfbe9ec447e59cf
+Reminders#feature/AggregateCorrelationsJob#ad8e9a4d31b40af2c3f59ec6cbfbe9ec447e59cf
