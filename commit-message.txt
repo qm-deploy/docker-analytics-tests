@@ -1,1 +1,1 @@
-Reminders#renovate/doctrine-migrations-2.x#a8d846154dc767aedc0f52cb0d9cacb44cf5df2f
+Controllers#renovate/laravel-dusk-5.x#8211838ec4e6474b5214c3a427207df62f02df89
