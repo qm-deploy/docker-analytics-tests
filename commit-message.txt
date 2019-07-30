@@ -1,1 +1,1 @@
-Measurements#feature/logInfoWithoutObfuscation#391bba4d5f6382a02716ed5d0aecfd2ed97990b6
+AppSettings#feature/logInfoWithoutObfuscation#391bba4d5f6382a02716ed5d0aecfd2ed97990b6
