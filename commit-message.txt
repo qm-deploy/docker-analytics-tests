@@ -1,1 +1,1 @@
-Measurements#feature/down-voted#a69a3d9043775a97d9ce842ac07f6cced2d73db3
+AppSettings#feature/down-voted#a69a3d9043775a97d9ce842ac07f6cced2d73db3
