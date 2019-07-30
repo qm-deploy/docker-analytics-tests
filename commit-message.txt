@@ -1,1 +1,1 @@
-Measurements#feature/algorithmModifiedSinceLastAnalysis#06dcb87d38f2aed85510ec5ff9650e6d5b526574
+AppSettings#feature/algorithmModifiedSinceLastAnalysis#06dcb87d38f2aed85510ec5ff9650e6d5b526574
