@@ -1,1 +1,1 @@
-Measurements#feature/bugsnag-formatter#dc91d7cb936aca4e189c48130de48aebd4e3ef30
+AppSettings#feature/bugsnag-formatter#dc91d7cb936aca4e189c48130de48aebd4e3ef30
