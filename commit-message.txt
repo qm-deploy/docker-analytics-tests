@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-socialite-4.x#381c34619f0618944c27abf8b6e97dbdb68bd242
+Controllers#feature/mynetdiary#4d4c71c7239881cb577b869d710dca35b6308d16
