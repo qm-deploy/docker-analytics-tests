@@ -1,1 +1,1 @@
-Controllers#renovate/laravel-socialite-4.x#381c34619f0618944c27abf8b6e97dbdb68bd242
+Analytics#renovate/laravel-socialite-4.x#381c34619f0618944c27abf8b6e97dbdb68bd242
