@@ -1,1 +1,1 @@
-Measurements#feature/mynetdiary#a57b271c9dbe37dc8b8ad99c89d26f26757003db
+AppSettings#feature/mynetdiary#a57b271c9dbe37dc8b8ad99c89d26f26757003db
