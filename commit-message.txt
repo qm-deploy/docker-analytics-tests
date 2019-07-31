@@ -1,1 +1,1 @@
-AppSettings#feature/moodpanda#2d2bbefc2581f6eb933144d55ce3236047a1498f
+Reminders#feature/moodpanda#2d2bbefc2581f6eb933144d55ce3236047a1498f
