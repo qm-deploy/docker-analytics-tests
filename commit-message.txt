@@ -1,1 +1,1 @@
-Measurements#feature/github#7dbfd6029abb124ba3051f3f7fbb61e691e083fc
+AppSettings#feature/github#7dbfd6029abb124ba3051f3f7fbb61e691e083fc
