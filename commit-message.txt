@@ -1,1 +1,1 @@
-AppSettings#feature/QMConnector#e23605d3ebfd08cc99ba022a47b1ad7fe4606f2b
+Reminders#feature/QMConnector#e23605d3ebfd08cc99ba022a47b1ad7fe4606f2b
