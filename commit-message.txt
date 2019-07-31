@@ -1,1 +1,1 @@
-Measurements#feature/interesting-int#c086911717fdbe29dd4c28ea2991e06f95a5ac96
+AppSettings#feature/interesting-int#c086911717fdbe29dd4c28ea2991e06f95a5ac96
