@@ -1,1 +1,1 @@
-Measurements#feature/weather#edfa8fa13d55e45b8e0c5647e7a47b87cc31cb34
+AppSettings#feature/weather#edfa8fa13d55e45b8e0c5647e7a47b87cc31cb34
