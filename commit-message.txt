@@ -1,1 +1,1 @@
-Measurements#feature/QMConnector#3a26c1dc71a1af72a0bb53d40a91cf0b0a8b7bf1
+AppSettings#feature/QMConnector#3a26c1dc71a1af72a0bb53d40a91cf0b0a8b7bf1
