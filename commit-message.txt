@@ -1,1 +1,1 @@
-Measurements#feature/gmail#bb02e8fb16a26ffcf254b95ea20c88c5cd7693ab
+AppSettings#feature/gmail#bb02e8fb16a26ffcf254b95ea20c88c5cd7693ab
