@@ -1,1 +1,1 @@
-Measurements#feature/ThirdPartyCorrelation#8b6207456c009663ecea1d0a1d81d4c80b8236a2
+AppSettings#feature/ThirdPartyCorrelation#8b6207456c009663ecea1d0a1d81d4c80b8236a2
