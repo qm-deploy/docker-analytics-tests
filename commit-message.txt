@@ -1,1 +1,1 @@
-Measurements#renovate/laravel-socialite-4.x#414d033dfd7d8eb95bbf3150f5c9f386c5505ea3
+AppSettings#renovate/laravel-socialite-4.x#414d033dfd7d8eb95bbf3150f5c9f386c5505ea3
