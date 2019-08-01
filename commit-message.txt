@@ -1,1 +1,1 @@
-Measurements#feature/TemporaryConnectionException#a2bc4d0f448af830f35a61f66327adb3cb2bb8a9
+AppSettings#feature/TemporaryConnectionException#a2bc4d0f448af830f35a61f66327adb3cb2bb8a9
