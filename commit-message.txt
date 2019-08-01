@@ -1,1 +1,1 @@
-AppSettings#feature/TemporaryConnectionException#fb2576ae71b5c6f93f29cd563404f1189d3b1d52
+Reminders#feature/TemporaryConnectionException#fb2576ae71b5c6f93f29cd563404f1189d3b1d52
