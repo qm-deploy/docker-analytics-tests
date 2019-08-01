@@ -1,1 +1,1 @@
-Measurements#feature/getUserVariablesWithStatus#d789b79377beef1aee5aedc5e183633f3ca76f37
+AppSettings#feature/getUserVariablesWithStatus#d789b79377beef1aee5aedc5e183633f3ca76f37
