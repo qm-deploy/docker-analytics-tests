@@ -1,1 +1,1 @@
-Measurements#feature/credential-validation#ce2e5d338674796836f974c840f2197191a7e2f9
+AppSettings#feature/credential-validation#ce2e5d338674796836f974c840f2197191a7e2f9
