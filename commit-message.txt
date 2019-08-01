@@ -1,1 +1,1 @@
-Analytics#renovate/slim-slim-4.x#14bc9336ec95087f34a873e2eff08a26e595bc1b
+Measurements#renovate/slim-slim-4.x#14bc9336ec95087f34a873e2eff08a26e595bc1b
