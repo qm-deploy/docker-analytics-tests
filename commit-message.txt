@@ -1,1 +1,1 @@
-AppSettings#feature/min-seconds#b612edcf0b97fc0460fbf9309cb231f9a9463cf3
+Reminders#feature/min-seconds#b612edcf0b97fc0460fbf9309cb231f9a9463cf3
