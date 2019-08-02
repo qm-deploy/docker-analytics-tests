@@ -1,1 +1,1 @@
-Measurements#feature/test-notifications#cb0bbf0b3cfbcc6a6f3107cd71e4a48e475ea80a
+AppSettings#feature/test-notifications#cb0bbf0b3cfbcc6a6f3107cd71e4a48e475ea80a
