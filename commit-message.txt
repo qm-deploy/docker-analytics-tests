@@ -1,1 +1,1 @@
-Controllers#feature/min-seconds#bb0ff809c23136effba418bb645c190c25eeaf1a
+Analytics#feature/min-seconds#bb0ff809c23136effba418bb645c190c25eeaf1a
