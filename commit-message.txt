@@ -1,1 +1,1 @@
-Measurements#feature/NewlyCalculatedUserCorrelation#60a92986064e3dc6de8c7721e0cbebcc1af99c90
+AppSettings#feature/NewlyCalculatedUserCorrelation#60a92986064e3dc6de8c7721e0cbebcc1af99c90
