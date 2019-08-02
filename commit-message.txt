@@ -1,1 +1,1 @@
-AppSettings#feature/setInboxUrl#9eb56162858b330a9b6b4f811a9e2f23c74cb1fc
+Reminders#feature/setInboxUrl#9eb56162858b330a9b6b4f811a9e2f23c74cb1fc
