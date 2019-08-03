@@ -1,1 +1,1 @@
-Measurements#feature/getClientIdFromReferrer#3dc62f9d70ed25e06e9cdb51fccd65f2d4380a62
+AppSettings#feature/getClientIdFromReferrer#3dc62f9d70ed25e06e9cdb51fccd65f2d4380a62
