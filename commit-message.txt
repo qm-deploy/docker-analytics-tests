@@ -1,1 +1,1 @@
-Measurements#feature/manual-tracking#a036b1d6c1c41a1d60d0ffce5f9bce05bb1c4daf
+AppSettings#feature/manual-tracking#a036b1d6c1c41a1d60d0ffce5f9bce05bb1c4daf
