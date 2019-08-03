@@ -1,1 +1,1 @@
-Measurements#feature/processSubmittedMinimumAllowedValue#8d39ddb1fc27c97b9cfb7b41f8b60fd1fddaf2e1
+AppSettings#feature/processSubmittedMinimumAllowedValue#8d39ddb1fc27c97b9cfb7b41f8b60fd1fddaf2e1
