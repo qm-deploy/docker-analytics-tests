@@ -1,1 +1,1 @@
-Measurements#feature/calculateDataQuantityStatistics#eece2210e30a7b91550a1359110a244b7dda95c2
+AppSettings#feature/calculateDataQuantityStatistics#eece2210e30a7b91550a1359110a244b7dda95c2
