@@ -1,1 +1,1 @@
-AppSettings#feature/runkeeper-avoid-duplicate#70a0715d1e3aff7acfdd5aa51216346da4007ade
+Reminders#feature/runkeeper-avoid-duplicate#70a0715d1e3aff7acfdd5aa51216346da4007ade
