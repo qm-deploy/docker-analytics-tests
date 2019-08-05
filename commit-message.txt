@@ -1,1 +1,1 @@
-Measurements#feature/default-reminders#b6aa3d93b74c54f37e5486fc6d76c086bc8e59ad
+AppSettings#feature/default-reminders#b6aa3d93b74c54f37e5486fc6d76c086bc8e59ad
