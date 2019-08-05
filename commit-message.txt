@@ -1,1 +1,1 @@
-Measurements#feature/github-exceptions#8807bfc86655d4cfd6b8ef9e6a78c832d414eff7
+AppSettings#feature/github-exceptions#8807bfc86655d4cfd6b8ef9e6a78c832d414eff7
