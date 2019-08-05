@@ -1,1 +1,1 @@
-Measurements#feature/getZipCodeFromLatitudeAndLongitude#11d0d00cd90415bc5a5e45469e691d55bb48da91
+AppSettings#feature/getZipCodeFromLatitudeAndLongitude#11d0d00cd90415bc5a5e45469e691d55bb48da91
