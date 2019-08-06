@@ -1,1 +1,1 @@
-Reminders#feature/joinStudyAndGetRemindersAndNotificationsResponse#9f790a241b59f1296f1fa57dff25c87ef805fe20
+Controllers#feature/connect-exceptions#5d109aa2614f17c4bcdadf5c32cf74a321c245cd
