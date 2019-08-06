@@ -1,1 +1,1 @@
-AppSettings#feature/get-or-create-reminders#47d50ad0d9173ba8fda293fcad28694446caf397
+Reminders#feature/get-or-create-reminders#47d50ad0d9173ba8fda293fcad28694446caf397
