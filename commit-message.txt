@@ -1,1 +1,1 @@
-Reminders#feature/app-settings#03811f1f492a07ef74807cfc62b28a68284ca915
+Controllers#feature/joinStudyAndGetRemindersAndNotificationsResponse#9f790a241b59f1296f1fa57dff25c87ef805fe20
