@@ -1,1 +1,1 @@
-Measurements#feature/getRegisterUrl#35581e3258908a1bb3272745f958ff3a700d12b7
+AppSettings#feature/getRegisterUrl#35581e3258908a1bb3272745f958ff3a700d12b7
