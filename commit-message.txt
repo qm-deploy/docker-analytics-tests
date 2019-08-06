@@ -1,1 +1,1 @@
-Controllers#feature/app-settings#668cdd67ad207b7622e1a7d0367965bc3031f32b
+Analytics#feature/app-settings#668cdd67ad207b7622e1a7d0367965bc3031f32b
