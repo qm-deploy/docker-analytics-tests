@@ -1,1 +1,1 @@
-Controllers#feature/getDeviceTokens#2afdb79c078e7acf7120b179062aa896d8ce22cb
+Analytics#feature/getDeviceTokens#2afdb79c078e7acf7120b179062aa896d8ce22cb
