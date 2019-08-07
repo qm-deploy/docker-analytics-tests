@@ -1,1 +1,1 @@
-Measurements#feature/DisableWhereChecks#ef30673969d331fd5403c9d0377b6ca1ed0ea4d0
+AppSettings#feature/DisableWhereChecks#ef30673969d331fd5403c9d0377b6ca1ed0ea4d0
