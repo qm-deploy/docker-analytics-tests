@@ -1,1 +1,1 @@
-Measurements#feature/loader#1dc0e0a78d0e7445405a0039eb1a2c9f32f805cb
+AppSettings#feature/loader#1dc0e0a78d0e7445405a0039eb1a2c9f32f805cb
