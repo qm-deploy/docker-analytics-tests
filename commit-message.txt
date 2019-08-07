@@ -1,1 +1,1 @@
-Controllers#renovate/alcaeus-mongo-php-adapter-1.x#f4c698e258850fe2163a99cd218c0a161b17c6af
+Analytics#renovate/alcaeus-mongo-php-adapter-1.x#f4c698e258850fe2163a99cd218c0a161b17c6af
