@@ -1,1 +1,1 @@
-Reminders#feature/DisableWhereChecks#87ef4c24f0a22f64427f8e910cb648c13203b5bc
+Controllers#renovate/alcaeus-mongo-php-adapter-1.x#f4c698e258850fe2163a99cd218c0a161b17c6af
