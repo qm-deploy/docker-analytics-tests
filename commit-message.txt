@@ -1,1 +1,1 @@
-AppSettings#renovate/alcaeus-mongo-php-adapter-1.x#55f47537c73cf6083ee918712874992acdd2b856
+Reminders#renovate/alcaeus-mongo-php-adapter-1.x#55f47537c73cf6083ee918712874992acdd2b856
