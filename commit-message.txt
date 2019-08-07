@@ -1,1 +1,1 @@
-Measurements#feature/token-platforms#922433c03bb7e0bf8d04270b2a92100a46757333
+AppSettings#feature/token-platforms#922433c03bb7e0bf8d04270b2a92100a46757333
