@@ -1,1 +1,1 @@
-Measurements#renovate/filp-whoops-2.x#84e46d314a217448c151a9608b0372380b22b0a9
+AppSettings#renovate/filp-whoops-2.x#84e46d314a217448c151a9608b0372380b22b0a9
