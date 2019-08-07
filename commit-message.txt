@@ -1,1 +1,1 @@
-Reminders#feature/DisableWhereChecks#3f34d57e4d3f939b9dc1693b28d8b5518921483a
+Controllers#feature/NoDeviceTokensException#a5e8105efa136b8185ae0deae24e0c85f97665ce
