@@ -1,1 +1,1 @@
-AppSettings#feature/GetAuthorizationPageController#6977d87a8924a63182153d3349a859a66c633409
+Reminders#feature/GetAuthorizationPageController#6977d87a8924a63182153d3349a859a66c633409
