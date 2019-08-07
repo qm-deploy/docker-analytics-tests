@@ -1,1 +1,1 @@
-Measurements#feature/NoDeviceTokensException#a5e8105efa136b8185ae0deae24e0c85f97665ce
+AppSettings#feature/NoDeviceTokensException#a5e8105efa136b8185ae0deae24e0c85f97665ce
