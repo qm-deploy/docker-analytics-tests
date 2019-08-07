@@ -1,1 +1,1 @@
-Measurements#feature/me-client-id#d23d7f7b390e026a0e35b720098e6353572136c2
+AppSettings#feature/me-client-id#d23d7f7b390e026a0e35b720098e6353572136c2
