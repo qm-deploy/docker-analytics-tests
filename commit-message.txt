@@ -1,1 +1,1 @@
-AppSettings#feature/cached-studies#b57f0b36776a7414b0521927db914cf61bcbccf8
+Reminders#feature/cached-studies#b57f0b36776a7414b0521927db914cf61bcbccf8
