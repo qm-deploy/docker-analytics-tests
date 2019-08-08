@@ -1,1 +1,1 @@
-Measurements#feature/client-id#1ba70de224affc9d10454cf57704e5fe34a7ae56
+AppSettings#feature/client-id#1ba70de224affc9d10454cf57704e5fe34a7ae56
