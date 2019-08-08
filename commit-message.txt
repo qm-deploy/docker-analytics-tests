@@ -1,1 +1,1 @@
-AppSettings#feature/catch-study-exceptions#56dfba34151af1b99a7104d7de22fb6058277e3f
+Reminders#feature/catch-study-exceptions#56dfba34151af1b99a7104d7de22fb6058277e3f
