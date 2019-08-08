@@ -1,1 +1,1 @@
-Measurements#feature/get-notifications#7618acad45f6098876535e27c45aae94da351419
+AppSettings#feature/get-notifications#7618acad45f6098876535e27c45aae94da351419
