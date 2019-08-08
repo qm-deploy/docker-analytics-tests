@@ -1,1 +1,1 @@
-Measurements#feature/do-not-catch-study-exceptions#b6dce85a7dfa69a0db2f8169043005d60be352c4
+AppSettings#feature/do-not-catch-study-exceptions#b6dce85a7dfa69a0db2f8169043005d60be352c4
