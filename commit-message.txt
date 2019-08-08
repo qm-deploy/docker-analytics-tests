@@ -1,1 +1,1 @@
-AppSettings#feature/charts#7c4566a7644eca6555b190154d34aa9d8ba38c35
+Reminders#feature/charts#7c4566a7644eca6555b190154d34aa9d8ba38c35
