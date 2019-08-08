@@ -1,1 +1,1 @@
-AppSettings#feature/readonly-studies#beeeb4b6b7da24056c09ce0486878345e973438c
+Reminders#feature/readonly-studies#beeeb4b6b7da24056c09ce0486878345e973438c
