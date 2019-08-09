@@ -1,1 +1,1 @@
-Controllers#feature/NotEnoughMeasurementsException#130fac6a5cf4adbc666859f39920e79b129cc1ee
+Analytics#feature/NotEnoughMeasurementsException#130fac6a5cf4adbc666859f39920e79b129cc1ee
