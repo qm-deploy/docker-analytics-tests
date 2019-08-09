@@ -1,1 +1,1 @@
-Measurements#feature/s3-cleanup#157f91b3a57e17d1bfad05b3ef83996c92380d67
+AppSettings#feature/s3-cleanup#157f91b3a57e17d1bfad05b3ef83996c92380d67
