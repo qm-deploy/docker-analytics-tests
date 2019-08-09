@@ -1,1 +1,1 @@
-Measurements#feature/patient-emails#03ca34360b697fe14a299be36a399ee550db7b15
+AppSettings#feature/patient-emails#03ca34360b697fe14a299be36a399ee550db7b15
