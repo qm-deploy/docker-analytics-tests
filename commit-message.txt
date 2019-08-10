@@ -1,1 +1,1 @@
-Measurements#feature/chart-catch#0085569eb3565ba2b64d6abbb16d795725ca5c19
+AppSettings#feature/chart-catch#0085569eb3565ba2b64d6abbb16d795725ca5c19
