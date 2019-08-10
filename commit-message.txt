@@ -1,1 +1,1 @@
-Measurements#feature/physician-emails#05721c039fc46f2171498c6a33fe7a1770e4aca1
+AppSettings#feature/physician-emails#05721c039fc46f2171498c6a33fe7a1770e4aca1
