@@ -1,1 +1,1 @@
-Measurements#renovate/beyondcode-laravel-dump-server-1.x#e85d7a424b5162b73aa311ac1b90844ec15d9bbe
+AppSettings#renovate/beyondcode-laravel-dump-server-1.x#e85d7a424b5162b73aa311ac1b90844ec15d9bbe
