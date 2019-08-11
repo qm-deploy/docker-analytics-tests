@@ -1,1 +1,1 @@
-Reminders#renovate/doctrine-migrations-2.x#57d0038d39a52e4d7118eefa456f8c4621013ea0
+Controllers#renovate/ghost-inspector-2.x#aa9b918f6fcbc03d07d4e0e92108eaee4f570d17
