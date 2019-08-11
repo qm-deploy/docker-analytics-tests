@@ -1,1 +1,1 @@
-AppSettings#feature/connections#8d8afe3686115f70d1a56916f0a05e42a25945d1
+Reminders#feature/connections#8d8afe3686115f70d1a56916f0a05e42a25945d1
