@@ -1,1 +1,1 @@
-AppSettings#renovate/ghost-inspector-2.x#aa9b918f6fcbc03d07d4e0e92108eaee4f570d17
+Reminders#renovate/ghost-inspector-2.x#aa9b918f6fcbc03d07d4e0e92108eaee4f570d17
