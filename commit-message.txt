@@ -1,1 +1,1 @@
-AppSettings#feature/TrackingReminderNotification#746000b3c7fc85ff09112d8688f4282365487f2f
+Reminders#feature/TrackingReminderNotification#746000b3c7fc85ff09112d8688f4282365487f2f
