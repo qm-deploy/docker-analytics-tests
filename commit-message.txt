@@ -1,1 +1,1 @@
-AppSettings#feature/getPhysicianClientId#a44afd1a7b7fda3e5e13d87f534fc6c72bfbecbc
+Reminders#feature/getPhysicianClientId#a44afd1a7b7fda3e5e13d87f534fc6c72bfbecbc
