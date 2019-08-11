@@ -1,1 +1,1 @@
-Measurements#feature/AccessTokenInBothQueryAndHeader#f3724e43176950359613c0e787cc7c7029a8b661
+AppSettings#feature/AccessTokenInBothQueryAndHeader#f3724e43176950359613c0e787cc7c7029a8b661
