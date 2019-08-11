@@ -1,1 +1,1 @@
-Reminders#renovate/beyondcode-laravel-dump-server-1.x#e85d7a424b5162b73aa311ac1b90844ec15d9bbe
+Controllers#feature/AccessTokenInBothQueryAndHeader#f3724e43176950359613c0e787cc7c7029a8b661
