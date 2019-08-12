@@ -1,1 +1,1 @@
-Reminders#feature/FitbitConnector#964edfb3bad9edf02f1cf98a132b70d9468182ee
+Controllers#feature/deleted-connectors-task#a93cbd4c95cdfd1ab4d7a1c809c856f0f4126313
