@@ -1,1 +1,1 @@
-AppSettings#feature/deleted-connectors-task#1960f6caf370e499ad5f9293bd541ea5c7b7b0ae
+Reminders#feature/deleted-connectors-task#1960f6caf370e499ad5f9293bd541ea5c7b7b0ae
