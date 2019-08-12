@@ -1,1 +1,1 @@
-Measurements#feature/json_decode-false#1d4cff783b5c46970a137790af4811bda7e496d6
+AppSettings#feature/json_decode-false#1d4cff783b5c46970a137790af4811bda7e496d6
