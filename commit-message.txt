@@ -1,1 +1,1 @@
-Measurements#feature/FitbitConnector#51ca782e1bd779a809115239997aa27f90a549d7
+AppSettings#feature/FitbitConnector#51ca782e1bd779a809115239997aa27f90a549d7
