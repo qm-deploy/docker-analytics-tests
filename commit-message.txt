@@ -1,1 +1,1 @@
-AppSettings#feature/smaller-push#f1e2bba00a384142fa6316b391cc8a7f19fde92e
+Reminders#feature/smaller-push#f1e2bba00a384142fa6316b391cc8a7f19fde92e
