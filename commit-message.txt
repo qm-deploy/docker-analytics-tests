@@ -1,1 +1,1 @@
-AppSettings#feature/facebook-permissions#26e1d37b0d5cddba5a6743a564a617197f6f2603
+Reminders#feature/facebook-permissions#26e1d37b0d5cddba5a6743a564a617197f6f2603
