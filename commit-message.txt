@@ -1,1 +1,1 @@
-Measurements#feature/validateValue#ce17fadaa8e4e1d01034d93f4d6108ba5e1598cd
+AppSettings#feature/validateValue#ce17fadaa8e4e1d01034d93f4d6108ba5e1598cd
