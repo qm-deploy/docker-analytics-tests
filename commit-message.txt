@@ -1,1 +1,1 @@
-AppSettings#feature/FitbitConnector#964edfb3bad9edf02f1cf98a132b70d9468182ee
+Reminders#feature/FitbitConnector#964edfb3bad9edf02f1cf98a132b70d9468182ee
