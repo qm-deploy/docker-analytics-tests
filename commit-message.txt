@@ -1,1 +1,1 @@
-Analytics#feature/strava#de17c6331e54b3344bf5f36d863dd208621d056e
+Measurements#feature/strava#de17c6331e54b3344bf5f36d863dd208621d056e
