@@ -1,1 +1,1 @@
-Measurements#feature/invalid-username-exception#4c6dff36de95f73416666cf2ae4365afe914ebdd
+AppSettings#feature/invalid-username-exception#4c6dff36de95f73416666cf2ae4365afe914ebdd
