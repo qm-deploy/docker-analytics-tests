@@ -1,1 +1,1 @@
-Analytics#feature/min-seconds#341db1cd26105456ee1d6d2418896424513641e1
+Measurements#feature/min-seconds#341db1cd26105456ee1d6d2418896424513641e1
