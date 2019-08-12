@@ -1,1 +1,1 @@
-Measurements#feature/smaller-push#17f8fb7771050e3b93eca362de7852f28dabef85
+AppSettings#feature/smaller-push#17f8fb7771050e3b93eca362de7852f28dabef85
