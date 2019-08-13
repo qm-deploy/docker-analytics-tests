@@ -1,1 +1,1 @@
-Measurements#feature/removeUrlUnsafeCharacters#5e2c085b7a5dd3601e92e613365024c47a173da8
+AppSettings#feature/removeUrlUnsafeCharacters#5e2c085b7a5dd3601e92e613365024c47a173da8
