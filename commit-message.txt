@@ -1,1 +1,1 @@
-Measurements#feature/generated-unit-and-category-models#851a21f78d9db8c9152d9983ce45940d2fbd0dff
+AppSettings#feature/generated-unit-and-category-models#851a21f78d9db8c9152d9983ce45940d2fbd0dff
