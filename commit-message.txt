@@ -1,1 +1,1 @@
-Measurements#feature/geo-location#4def16ae642a29ae2a45ae12a82001e516705887
+AppSettings#feature/geo-location#4def16ae642a29ae2a45ae12a82001e516705887
