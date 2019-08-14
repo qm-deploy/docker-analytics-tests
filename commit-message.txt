@@ -1,1 +1,1 @@
-Measurements#feature/getDbRowFromDatabase#87e9f9d31701ba39f6efdbe5d26ef3b2a9cb997a
+AppSettings#feature/getDbRowFromDatabase#87e9f9d31701ba39f6efdbe5d26ef3b2a9cb997a
