@@ -1,1 +1,1 @@
-AppSettings#feature/delete-additional-info#6d19a38c1465946fccde30305a5c969f2261e82b
+Reminders#feature/delete-additional-info#6d19a38c1465946fccde30305a5c969f2261e82b
