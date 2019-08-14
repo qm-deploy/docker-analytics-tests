@@ -1,1 +1,1 @@
-AppSettings#feature/common-variables#3926920abc9c2e6544914df1f0fc70888dbf964b
+Reminders#feature/common-variables#3926920abc9c2e6544914df1f0fc70888dbf964b
