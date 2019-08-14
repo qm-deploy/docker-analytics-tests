@@ -1,1 +1,1 @@
-AppSettings#feature/connector-cleanup#6fc205ba22ecf8b361d0b912ad33afb6b1514c59
+Reminders#feature/connector-cleanup#6fc205ba22ecf8b361d0b912ad33afb6b1514c59
