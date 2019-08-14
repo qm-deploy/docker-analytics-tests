@@ -1,1 +1,1 @@
-Analytics#feature/NetatmoConnector#c1d69ac53007cefa9f4b9d99a98b7a3d17e144ae
+Measurements#feature/NetatmoConnector#c1d69ac53007cefa9f4b9d99a98b7a3d17e144ae
