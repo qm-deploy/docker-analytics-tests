@@ -1,1 +1,1 @@
-Measurements#feature/common-variables#c2a7e7eda06d9af80f18ef4a31f150d1e5f69ede
+AppSettings#feature/common-variables#c2a7e7eda06d9af80f18ef4a31f150d1e5f69ede
