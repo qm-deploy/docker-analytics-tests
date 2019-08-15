@@ -1,1 +1,1 @@
-Measurements#feature/stupid-tables#c328d7e18310bd5287efecd4bbc24274b4001d91
+AppSettings#feature/stupid-tables#c328d7e18310bd5287efecd4bbc24274b4001d91
