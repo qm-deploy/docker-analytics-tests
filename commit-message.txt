@@ -1,1 +1,1 @@
-AppSettings#feature/stupid-tables#98e612023c360a4e5d5fa7152b5b560f81b90c95
+Reminders#feature/stupid-tables#98e612023c360a4e5d5fa7152b5b560f81b90c95
