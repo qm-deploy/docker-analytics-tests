@@ -1,1 +1,1 @@
-Measurements#feature/deleted-agg-corr-stats#6f847fe2c673a77f53fa53dc8b6858dd1216941e
+AppSettings#feature/deleted-agg-corr-stats#6f847fe2c673a77f53fa53dc8b6858dd1216941e
