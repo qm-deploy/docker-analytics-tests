@@ -1,1 +1,1 @@
-Measurements#feature/zip#e0636e258faeb29b222b19de3c55149947fb42f4
+AppSettings#feature/zip#e0636e258faeb29b222b19de3c55149947fb42f4
