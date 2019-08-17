@@ -1,1 +1,1 @@
-Measurements#feature/InvalidZipCodeException#e7793159bfe51b3d76e5abe56656bd19daf552b0
+AppSettings#feature/InvalidZipCodeException#e7793159bfe51b3d76e5abe56656bd19daf552b0
