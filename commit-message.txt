@@ -1,1 +1,1 @@
-Measurements#feature/batchInsert#fd5da57cddc041edbb0c6b99b36bdcd4b182ad88
+AppSettings#feature/batchInsert#fd5da57cddc041edbb0c6b99b36bdcd4b182ad88
