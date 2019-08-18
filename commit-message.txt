@@ -1,1 +1,1 @@
-Controllers#renovate/php-http-guzzle6-adapter-2.x#c97b1706ac3ba578bc888b0878a6d0ab733a3a55
+Analytics#renovate/php-http-guzzle6-adapter-2.x#c97b1706ac3ba578bc888b0878a6d0ab733a3a55
