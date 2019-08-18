@@ -1,1 +1,1 @@
-Measurements#feature/WeatherConnector#7557a20cc4ecf8b7d2d24368d66712b2cb0ebc27
+AppSettings#feature/WeatherConnector#7557a20cc4ecf8b7d2d24368d66712b2cb0ebc27
