@@ -1,1 +1,1 @@
-Measurements#feature/static-data-repo#341819c3d9963b53385c0d923760f3e1b199d0ec
+AppSettings#feature/static-data-repo#341819c3d9963b53385c0d923760f3e1b199d0ec
