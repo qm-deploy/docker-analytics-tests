@@ -1,1 +1,1 @@
-AppSettings#feature/WeatherConnector#4d9a52a13ea6bd2ef1647e1ad477d21bacf21153
+Reminders#feature/WeatherConnector#4d9a52a13ea6bd2ef1647e1ad477d21bacf21153
