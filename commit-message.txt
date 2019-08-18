@@ -1,1 +1,1 @@
-Analytics#feature/static-data-repo#160a6e0149ff97d498af145889ed0008cd151a3e
+Measurements#feature/static-data-repo#160a6e0149ff97d498af145889ed0008cd151a3e
