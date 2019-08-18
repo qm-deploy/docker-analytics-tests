@@ -1,1 +1,1 @@
-Reminders#feature/instantiateNonDBRows#061bf7fd498729aff77e00810deab1a752f41392
+Controllers#feature/short-class-name#ab0ef2aa50f1b316de13d7dfbee616be9c96470d
