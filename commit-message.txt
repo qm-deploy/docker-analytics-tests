@@ -1,1 +1,1 @@
-Measurements#feature/use-github-api#99c3ef316cb3de318d3ba65dd3b9cd3d0017ac03
+AppSettings#feature/use-github-api#99c3ef316cb3de318d3ba65dd3b9cd3d0017ac03
