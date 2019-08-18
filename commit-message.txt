@@ -1,1 +1,1 @@
-Measurements#feature/instantiateNonDBRows#061bf7fd498729aff77e00810deab1a752f41392
+AppSettings#feature/instantiateNonDBRows#061bf7fd498729aff77e00810deab1a752f41392
