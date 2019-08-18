@@ -1,1 +1,1 @@
-Measurements#feature/getContents#a977bf1ee50d7207781c67f864da8524e6e94490
+AppSettings#feature/getContents#a977bf1ee50d7207781c67f864da8524e6e94490
