@@ -1,1 +1,1 @@
-AppSettings#feature/getStudyImages#7224ef3739447ad66866a01534997e6c546d1ae0
+Reminders#feature/getStudyImages#7224ef3739447ad66866a01534997e6c546d1ae0
