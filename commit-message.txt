@@ -1,1 +1,1 @@
-Measurements#feature/getTitle#86c46f0daa57809d50f67a2dce759a7448bcbf7d
+AppSettings#feature/getTitle#86c46f0daa57809d50f67a2dce759a7448bcbf7d
