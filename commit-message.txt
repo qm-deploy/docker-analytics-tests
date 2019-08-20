@@ -1,1 +1,1 @@
-AppSettings#feature/API-getByNameOrIdIncludingGlobals#c5eb77972a3db3c8b0d47e1e67cc11925d5c4d6f
+Reminders#feature/API-getByNameOrIdIncludingGlobals#c5eb77972a3db3c8b0d47e1e67cc11925d5c4d6f
