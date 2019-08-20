@@ -1,1 +1,1 @@
-Measurements#feature/Api#7273e1b13ad10c005437419114c8be000480654f
+AppSettings#feature/Api#7273e1b13ad10c005437419114c8be000480654f
