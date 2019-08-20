@@ -1,1 +1,1 @@
-AppSettings#feature/tests#11f999cfa9fd8d2bbd8d9aca9cc58a7fc17c8cdd
+Reminders#feature/tests#11f999cfa9fd8d2bbd8d9aca9cc58a7fc17c8cdd
