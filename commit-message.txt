@@ -1,1 +1,1 @@
-Measurements#feature/setThirdToLastValueInCommonUnit#e50e645809839955e323c32d9a24c76c7b81f2e6
+AppSettings#feature/setThirdToLastValueInCommonUnit#e50e645809839955e323c32d9a24c76c7b81f2e6
