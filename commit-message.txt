@@ -1,1 +1,1 @@
-Controllers#feature/LogicException#0340d07b2c50854d861083172d55ae1d5b2a1597
+Analytics#feature/LogicException#0340d07b2c50854d861083172d55ae1d5b2a1597
