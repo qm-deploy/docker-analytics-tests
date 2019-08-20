@@ -1,1 +1,1 @@
-Controllers#feature/AlreadyAnalyzingException#b5d7d28ad8c4d074667f8b6ed678f49fd0f13a70
+Analytics#feature/AlreadyAnalyzingException#b5d7d28ad8c4d074667f8b6ed678f49fd0f13a70
