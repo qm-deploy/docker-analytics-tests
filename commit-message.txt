@@ -1,1 +1,1 @@
-Measurements#feature/tests#22f1837ddcb699b7453b80e581247b028f1c9164
+AppSettings#feature/tests#22f1837ddcb699b7453b80e581247b028f1c9164
