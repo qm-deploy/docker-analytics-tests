@@ -1,1 +1,1 @@
-Measurements#feature/DeleteMeasurementController#f8960ecc3edd0e60fc8788291c542c9b82b7bf0a
+AppSettings#feature/DeleteMeasurementController#f8960ecc3edd0e60fc8788291c542c9b82b7bf0a
