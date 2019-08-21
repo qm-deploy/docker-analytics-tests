@@ -1,1 +1,1 @@
-Measurements#feature/getByNameOrIdIncludingGlobals#2322fa23e48b27abaffaf80576e23390d2513e9f
+AppSettings#feature/getByNameOrIdIncludingGlobals#2322fa23e48b27abaffaf80576e23390d2513e9f
