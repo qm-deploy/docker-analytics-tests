@@ -1,1 +1,1 @@
-AppSettings#feature/tryToCalculateForPair#d7577293090abc82624d8bd0a5b386cc2127ff2c
+Reminders#feature/tryToCalculateForPair#d7577293090abc82624d8bd0a5b386cc2127ff2c
