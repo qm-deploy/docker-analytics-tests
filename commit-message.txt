@@ -1,1 +1,1 @@
-Measurements#renovate/docker-php-7.x#ea671b32cef2a61e79799cad20de877e93dd2ad0
+AppSettings#renovate/docker-php-7.x#ea671b32cef2a61e79799cad20de877e93dd2ad0
