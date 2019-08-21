@@ -1,1 +1,1 @@
-Reminders#renovate/laravel-framework-5.x#35dd826640d3c09b31035102cc0fee1eed4a3a1d
+Controllers#feature/controllers-model#b2fb1ff15368c3e8cc3ab6968b29a92430138c94
