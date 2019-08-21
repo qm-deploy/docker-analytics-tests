@@ -1,1 +1,1 @@
-Reminders#feature/addUserVariableToGlobals-3#f433df7e8c12e6895839ed0e316aedc8e6cb1c83
+Controllers#renovate/barryvdh-laravel-debugbar-3.x#aff3f67abfc6d69866cdd88a485f10a33ae5d87e
