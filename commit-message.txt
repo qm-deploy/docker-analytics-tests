@@ -1,1 +1,1 @@
-Measurements#feature/LastValueInCommonUnit#8e45013cd504cc78b82050e14c46fd253919d3e0
+AppSettings#feature/LastValueInCommonUnit#8e45013cd504cc78b82050e14c46fd253919d3e0
