@@ -1,1 +1,1 @@
-Measurements#feature/addUserVariableToGlobals#de753775b8b10f543bf7a3943b76883e32dd7703
+AppSettings#feature/addUserVariableToGlobals#de753775b8b10f543bf7a3943b76883e32dd7703
