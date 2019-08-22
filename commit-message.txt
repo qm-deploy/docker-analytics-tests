@@ -1,1 +1,1 @@
-Measurements#feature/cleanup#fb6bb29e926b48abaae6e3fb984bdd544d00585e
+AppSettings#feature/cleanup#fb6bb29e926b48abaae6e3fb984bdd544d00585e
