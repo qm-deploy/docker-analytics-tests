@@ -1,1 +1,1 @@
-AppSettings#feature/getByNameOrId#07ba74292c6b52af12f9dcade11cefcb4bfe9e59
+Reminders#feature/getByNameOrId#07ba74292c6b52af12f9dcade11cefcb4bfe9e59
