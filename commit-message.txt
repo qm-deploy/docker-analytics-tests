@@ -1,1 +1,1 @@
-Analytics#feature/getLatestMeasurementOrFillingTime#b34e1af15ae9447719a8403b7217a0dab9591e07
+Measurements#feature/getLatestMeasurementOrFillingTime#b34e1af15ae9447719a8403b7217a0dab9591e07
