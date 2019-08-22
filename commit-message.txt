@@ -1,1 +1,1 @@
-Measurements#feature/tidewaysEnable#718066d3b0a1cf8696d620e9ec62831901ce2d14
+AppSettings#feature/tidewaysEnable#718066d3b0a1cf8696d620e9ec62831901ce2d14
