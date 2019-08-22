@@ -1,1 +1,1 @@
-Measurements#feature/convertRowsToVariables#863dab25383b725a12dd81ce655c6c4866dad3fa
+AppSettings#feature/convertRowsToVariables#863dab25383b725a12dd81ce655c6c4866dad3fa
