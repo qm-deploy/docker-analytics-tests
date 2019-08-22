@@ -1,1 +1,1 @@
-Reminders#renovate/barryvdh-laravel-debugbar-3.x#b383ac613875b236692b04eacaf86542aa0f9afc
+Controllers#renovate/barryvdh-laravel-debugbar-3.x#e6673fe0850ec147b56b1d3dce35266b643d32fe
