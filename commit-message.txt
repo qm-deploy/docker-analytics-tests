@@ -1,1 +1,1 @@
-Measurements#feature/getByNameOrId#50c9e726180169a71d9f699a45eb3b69176dacab
+AppSettings#feature/getByNameOrId#50c9e726180169a71d9f699a45eb3b69176dacab
