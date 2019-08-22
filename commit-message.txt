@@ -1,1 +1,1 @@
-Measurements#feature/StupidVariableNames#09e693d4dc97d598451af60b49f23778f024d1b9
+AppSettings#feature/StupidVariableNames#09e693d4dc97d598451af60b49f23778f024d1b9
