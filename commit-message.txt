@@ -1,1 +1,1 @@
-Measurements#feature/infoWithoutObfuscation#80e7fc766e6cdda45aa4ab56a3f62354a7e1e2f0
+AppSettings#feature/infoWithoutObfuscation#80e7fc766e6cdda45aa4ab56a3f62354a7e1e2f0
