@@ -1,1 +1,1 @@
-AppSettings#feature/infoWithoutObfuscation#67738419dd025d95627689907a251944e42eaf83
+Reminders#feature/infoWithoutObfuscation#67738419dd025d95627689907a251944e42eaf83
