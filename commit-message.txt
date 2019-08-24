@@ -1,1 +1,1 @@
-Measurements#feature/connector-cleanup#4f77cf2beece5bde9e737132f84c9c684310eca8
+AppSettings#feature/connector-cleanup#4f77cf2beece5bde9e737132f84c9c684310eca8
