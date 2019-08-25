@@ -1,1 +1,1 @@
-AppSettings#feature/Spending#4c0a2c072bbf1691d9b7abb18de34bc4b08382db
+Reminders#feature/Spending#4c0a2c072bbf1691d9b7abb18de34bc4b08382db
