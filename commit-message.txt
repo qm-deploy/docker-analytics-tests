@@ -1,1 +1,1 @@
-AppSettings#feature/study-html-cleanup#466cbe7f8cb471dcf9854d522bd04aff13132653
+Reminders#feature/study-html-cleanup#466cbe7f8cb471dcf9854d522bd04aff13132653
