@@ -1,1 +1,1 @@
-AppSettings#feature/getFromGlobalsByNameIdOrSynonym#63277384beb6ac6a83faf6fd87ac8d34a75d24e4
+Reminders#feature/getFromGlobalsByNameIdOrSynonym#63277384beb6ac6a83faf6fd87ac8d34a75d24e4
