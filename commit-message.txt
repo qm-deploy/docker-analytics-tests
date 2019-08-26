@@ -1,1 +1,1 @@
-Reminders#feature/convertToPurchasesVariableName#a1acaff8a737e083ce878d5229cd4288523b1aa5
+Controllers#feature/getFromGlobalsByNameIdOrSynonym#e669787f8f8faa040867071e96d8dde6434b3f25
