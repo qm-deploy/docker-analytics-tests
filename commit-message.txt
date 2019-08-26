@@ -1,1 +1,1 @@
-AppSettings#feature/study#426019a60c9e430c7e03554feb654064f0b4218b
+Reminders#feature/study#426019a60c9e430c7e03554feb654064f0b4218b
