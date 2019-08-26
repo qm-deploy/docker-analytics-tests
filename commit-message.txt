@@ -1,1 +1,1 @@
-AppSettings#feature/common-variable-formatting#91d27366423c65abbe34f82b9f58f320af52b604
+Reminders#feature/common-variable-formatting#91d27366423c65abbe34f82b9f58f320af52b604
