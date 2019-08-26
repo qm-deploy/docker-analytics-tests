@@ -1,1 +1,1 @@
-Reminders#feature/getFromGlobalsByNameIdOrSynonym#63277384beb6ac6a83faf6fd87ac8d34a75d24e4
+Controllers#feature/hardDelete#7341d4d103079f1ac4bba5a3ded4d097486a849d
