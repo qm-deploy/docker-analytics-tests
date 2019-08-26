@@ -1,1 +1,1 @@
-AppSettings#feature/static#8da3018b28718dbf39a09dced62a8670eabd6f87
+Reminders#feature/static#8da3018b28718dbf39a09dced62a8670eabd6f87
