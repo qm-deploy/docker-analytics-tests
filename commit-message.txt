@@ -1,1 +1,1 @@
-Controllers#feature/getFromGlobalsByNameIdOrSynonym#6c06c0e337ecf93110948780102b4eff81055cc0
+Analytics#feature/getFromGlobalsByNameIdOrSynonym#6c06c0e337ecf93110948780102b4eff81055cc0
