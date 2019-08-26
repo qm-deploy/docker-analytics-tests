@@ -1,1 +1,1 @@
-Measurements#feature/dbFieldNameToPropertyNameMap#960c0335143a6cab72e9210dd81be9b9bb9e3f5a
+AppSettings#feature/dbFieldNameToPropertyNameMap#960c0335143a6cab72e9210dd81be9b9bb9e3f5a
