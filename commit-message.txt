@@ -1,1 +1,1 @@
-Measurements#feature/StudyHtml#0e998843e2218a90dd03fbaff6edab456f581855
+AppSettings#feature/StudyHtml#0e998843e2218a90dd03fbaff6edab456f581855
