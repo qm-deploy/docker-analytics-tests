@@ -1,1 +1,1 @@
-AppSettings#feature/dbFieldNameToPropertyNameMap#6eaa49bc235d18407bc8bb703d9077e9cd295b0b
+Reminders#feature/dbFieldNameToPropertyNameMap#6eaa49bc235d18407bc8bb703d9077e9cd295b0b
