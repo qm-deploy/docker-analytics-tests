@@ -1,1 +1,1 @@
-Measurements#feature/RuntimeException#8467b6a03cef19a7c03eab10cae35645a2adebf3
+AppSettings#feature/RuntimeException#8467b6a03cef19a7c03eab10cae35645a2adebf3
