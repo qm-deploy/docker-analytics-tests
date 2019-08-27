@@ -1,1 +1,1 @@
-AppSettings#feature/foreign-keys#2fecedaaf0a4a68b2d24e3f651a6416d4eb60135
+Reminders#feature/foreign-keys#2fecedaaf0a4a68b2d24e3f651a6416d4eb60135
