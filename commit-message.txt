@@ -1,1 +1,1 @@
-Measurements#feature/relationship-user-settings#1abacb4e1e227a9ed7d91a429aee296b37563f27
+AppSettings#feature/relationship-user-settings#1abacb4e1e227a9ed7d91a429aee296b37563f27
