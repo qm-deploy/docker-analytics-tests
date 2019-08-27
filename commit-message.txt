@@ -1,1 +1,1 @@
-AppSettings#feature/type-setting#03a0f7ff7b37a743f786e97e863fe321cea907b0
+Reminders#feature/type-setting#03a0f7ff7b37a743f786e97e863fe321cea907b0
