@@ -1,1 +1,1 @@
-Measurements#feature/utf8_general_ci#d8e8c642846aac704bdb5e6619812d36653a4b22
+AppSettings#feature/utf8_general_ci#d8e8c642846aac704bdb5e6619812d36653a4b22
