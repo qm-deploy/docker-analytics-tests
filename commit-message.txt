@@ -1,1 +1,1 @@
-Measurements#feature/foreign-keys#621fb535787641e0d5796fa3ab8a56a8c02ca188
+AppSettings#feature/foreign-keys#621fb535787641e0d5796fa3ab8a56a8c02ca188
