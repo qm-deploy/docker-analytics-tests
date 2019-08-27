@@ -1,1 +1,1 @@
-Analytics#renovate/ipunkt-laravel-analytics-1.x#fd03232502fdd2628e2709105b69c6742f165eca
+Measurements#renovate/ipunkt-laravel-analytics-1.x#fd03232502fdd2628e2709105b69c6742f165eca
