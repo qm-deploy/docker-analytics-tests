@@ -1,1 +1,1 @@
-AppSettings#feature/PurchasesWpUsersIDFk#6dca1b16bef45523550f87aa48100de85c4021af
+Reminders#feature/PurchasesWpUsersIDFk#6dca1b16bef45523550f87aa48100de85c4021af
