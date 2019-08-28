@@ -1,1 +1,1 @@
-Measurements#feature/PurchasesWpUsersIDFk#25287664474771c31b962761972e3d0e30feaa13
+AppSettings#feature/PurchasesWpUsersIDFk#25287664474771c31b962761972e3d0e30feaa13
