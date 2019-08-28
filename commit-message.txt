@@ -1,1 +1,1 @@
-Controllers#renovate/laravel-framework-5.x#e0ee78bc4b866cf4d66ee6d5271323ecdbc4caf2
+Analytics#renovate/laravel-framework-5.x#e0ee78bc4b866cf4d66ee6d5271323ecdbc4caf2
