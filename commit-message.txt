@@ -1,1 +1,1 @@
-Measurements#feature/sendReconnectNotification#d95e39c16d1ffbf3ed84fba7a3e537588ba041f8
+AppSettings#feature/sendReconnectNotification#d95e39c16d1ffbf3ed84fba7a3e537588ba041f8
