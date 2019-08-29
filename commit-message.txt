@@ -1,1 +1,1 @@
-Measurements#feature/downloadAndDecryptByUrl#27ab13a66d5b80a69eda99c8ea04508e3a17dfab
+AppSettings#feature/downloadAndDecryptByUrl#27ab13a66d5b80a69eda99c8ea04508e3a17dfab
