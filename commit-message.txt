@@ -1,1 +1,1 @@
-Measurements#feature/demo-user#a41628e893f18bc9bfe6dd74e7322f2c743d6ba7
+AppSettings#feature/demo-user#a41628e893f18bc9bfe6dd74e7322f2c743d6ba7
