@@ -1,1 +1,1 @@
-Measurements#feature/updateDBConstants#728d7e011d51ff9e58cf87024c65ea02d44f92ac
+AppSettings#feature/updateDBConstants#728d7e011d51ff9e58cf87024c65ea02d44f92ac
