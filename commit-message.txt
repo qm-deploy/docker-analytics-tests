@@ -1,1 +1,1 @@
-Measurements#feature/tasks-test-fixtures#d0a92288240424943f79813729444ca186c7520a
+AppSettings#feature/tasks-test-fixtures#d0a92288240424943f79813729444ca186c7520a
