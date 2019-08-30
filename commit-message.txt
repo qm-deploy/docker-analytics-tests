@@ -1,1 +1,1 @@
-Reminders#feature/getLatestMeasurementTimeForConnector#ab46d499d067dcc07f1c4cd129ebc3fabcc12844
+Controllers#feature/bugsnagNotifyException#1bb516da7d3b817b961dd1503ff34b229168d2b0
