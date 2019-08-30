@@ -1,1 +1,1 @@
-Measurements#feature/study-test-fixtures#3aba5f430c68bc1dbe0934275f1051fea90ff7df
+AppSettings#feature/study-test-fixtures#3aba5f430c68bc1dbe0934275f1051fea90ff7df
