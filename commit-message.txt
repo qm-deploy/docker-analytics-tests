@@ -1,1 +1,1 @@
-Controllers#feature/bugsnagNotifyException#de088a69998832ed7e58a322126af4a29e87c4f0
+Analytics#feature/bugsnagNotifyException#de088a69998832ed7e58a322126af4a29e87c4f0
