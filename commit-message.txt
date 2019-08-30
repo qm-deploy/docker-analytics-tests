@@ -1,1 +1,1 @@
-AppSettings#feature/tasks-test-fixtures#9e8f0f454f3a18e98c4b978d6a482b88c8eaafed
+Reminders#feature/tasks-test-fixtures#9e8f0f454f3a18e98c4b978d6a482b88c8eaafed
