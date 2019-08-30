@@ -1,1 +1,1 @@
-Measurements#feature/fk-migrations#6e1f7ae9d6e10f1f074430033ded4e59e1bf925a
+AppSettings#feature/fk-migrations#6e1f7ae9d6e10f1f074430033ded4e59e1bf925a
