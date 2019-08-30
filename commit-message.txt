@@ -1,1 +1,1 @@
-Controllers#feature/getIndividualPushNotificationData#e3341b50c9f66a889fa77516abe691678bf3c903
+Analytics#feature/getIndividualPushNotificationData#e3341b50c9f66a889fa77516abe691678bf3c903
