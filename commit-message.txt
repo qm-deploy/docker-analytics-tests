@@ -1,1 +1,1 @@
-Reminders#feature/disconnectAndSoftDeleteCredentials#4c62939725f73b02b484b22c9c609c6bf5cbfb03
+Controllers#feature/getLatestMeasurementTimeForConnector#ab46d499d067dcc07f1c4cd129ebc3fabcc12844
