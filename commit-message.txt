@@ -1,1 +1,1 @@
-Measurements#feature/disconnectAndSoftDeleteCredentials#4c62939725f73b02b484b22c9c609c6bf5cbfb03
+AppSettings#feature/disconnectAndSoftDeleteCredentials#4c62939725f73b02b484b22c9c609c6bf5cbfb03
