@@ -1,1 +1,1 @@
-AppSettings#feature/saveTestTokenToFirebaseAndMongo#547161b382f5ff0a8402cf362d4dff6fd7b414ef
+Reminders#feature/saveTestTokenToFirebaseAndMongo#547161b382f5ff0a8402cf362d4dff6fd7b414ef
