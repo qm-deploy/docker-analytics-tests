@@ -1,1 +1,1 @@
-Analytics#feature/getLatestMeasurementTimeForConnector#ab46d499d067dcc07f1c4cd129ebc3fabcc12844
+Measurements#feature/getLatestMeasurementTimeForConnector#ab46d499d067dcc07f1c4cd129ebc3fabcc12844
