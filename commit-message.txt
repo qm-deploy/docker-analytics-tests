@@ -1,1 +1,1 @@
-Measurements#feature/updateDatabaseTableFromHardCodedData#aa7ede7df8ea5ab6c59c7720776edee88d2c63b5
+AppSettings#feature/updateDatabaseTableFromHardCodedData#aa7ede7df8ea5ab6c59c7720776edee88d2c63b5
