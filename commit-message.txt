@@ -1,1 +1,1 @@
-Measurements#feature/reminder-test-fixtures#1a756b518a5437173a160dde71c2c24947d5a6d1
+AppSettings#feature/reminder-test-fixtures#1a756b518a5437173a160dde71c2c24947d5a6d1
