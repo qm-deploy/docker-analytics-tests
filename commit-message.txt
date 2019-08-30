@@ -1,1 +1,1 @@
-Reminders#feature/model-test-fixtures#c25d8e468273d7cc97bbfeababa1eeac8cd603c3
+Controllers#feature/reminder-test-fixtures#8942a70fa037a38710f212923151f23cd3905288
