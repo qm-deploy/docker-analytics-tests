@@ -1,1 +1,1 @@
-Measurements#renovate/monolog-monolog-2.x#9f13898d2d16a0721beaf5c2b85d05d75936ed04
+AppSettings#renovate/monolog-monolog-2.x#9f13898d2d16a0721beaf5c2b85d05d75936ed04
