@@ -1,1 +1,1 @@
-Measurements#feature/getLocalFileContents#b645a290e8e09369da5f8061ff66f86be6b93438
+AppSettings#feature/getLocalFileContents#b645a290e8e09369da5f8061ff66f86be6b93438
