@@ -1,1 +1,1 @@
-AppSettings#feature/protected-card#adb4686da49824fc02238b0b73b8a11f7b48ebd9
+Reminders#feature/protected-card#adb4686da49824fc02238b0b73b8a11f7b48ebd9
