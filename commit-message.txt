@@ -1,1 +1,1 @@
-Measurements#feature/InvalidVariableNameException#a1d7267aaad2a1f6cee87ac86c8497320baf352f
+AppSettings#feature/InvalidVariableNameException#a1d7267aaad2a1f6cee87ac86c8497320baf352f
