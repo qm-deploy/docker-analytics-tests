@@ -1,1 +1,1 @@
-Measurements#feature/protected-card#d34a4a36366cd8036f84440c6dc23b6998fb19f9
+AppSettings#feature/protected-card#d34a4a36366cd8036f84440c6dc23b6998fb19f9
