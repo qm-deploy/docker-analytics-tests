@@ -1,1 +1,1 @@
-Reminders#feature/protected-card#8b8579a59875e5cf55b218bc7168d1be7e370cb4
+Controllers#feature/logWhereString#db0587dc8ce3b314b88a24b3ec4d1af49857a53b
