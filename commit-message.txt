@@ -1,1 +1,1 @@
-Reminders#renovate/barryvdh-laravel-debugbar-3.x#59bef71bfd9c5f977d8030b09d128a5bebb05cf4
+Controllers#feature/protected-card#8b8579a59875e5cf55b218bc7168d1be7e370cb4
