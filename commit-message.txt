@@ -1,1 +1,1 @@
-AppSettings#feature/testDeleteCorrelationAndGetStudy#c9aca7926b3ae137ad7d000aee46c2cd89a641eb
+Reminders#feature/testDeleteCorrelationAndGetStudy#c9aca7926b3ae137ad7d000aee46c2cd89a641eb
