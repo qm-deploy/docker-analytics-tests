@@ -1,1 +1,1 @@
-Analytics#renovate/barryvdh-laravel-ide-helper-2.x#698501d48938c54e05ee13fc1c53304f05441945
+Measurements#renovate/barryvdh-laravel-ide-helper-2.x#698501d48938c54e05ee13fc1c53304f05441945
