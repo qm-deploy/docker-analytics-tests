@@ -1,1 +1,1 @@
-Measurements#feature/vars#fe94858f994ee000d285e1c4be505be65b422598
+AppSettings#feature/vars#fe94858f994ee000d285e1c4be505be65b422598
