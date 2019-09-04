@@ -1,1 +1,1 @@
-Measurements#feature/analyzeWaitingAndStaleCommonVariables#ec5edc0daceaafdd3de3a5e185acbf2b625db776
+AppSettings#feature/analyzeWaitingAndStaleCommonVariables#ec5edc0daceaafdd3de3a5e185acbf2b625db776
