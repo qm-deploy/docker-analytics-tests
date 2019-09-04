@@ -1,1 +1,1 @@
-Reminders#renovate/laravelcollective-html-6.x#1a750bf6eb51e86ea279dd88d56a6c87513f03c2
+Controllers#renovate/laravelcollective-html-6.x#1a750bf6eb51e86ea279dd88d56a6c87513f03c2
