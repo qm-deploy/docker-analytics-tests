@@ -1,1 +1,1 @@
-Measurements#feature/device-token#a3f6b9b3fd049f0c326bdd69edbfcee5607c13a6
+AppSettings#feature/device-token#a3f6b9b3fd049f0c326bdd69edbfcee5607c13a6
