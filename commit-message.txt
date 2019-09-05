@@ -1,1 +1,1 @@
-Measurements#feature/OutdoorHumidityCommonVariable#71895ea4225f3400547ce40461e84cd82497e062
+AppSettings#feature/OutdoorHumidityCommonVariable#71895ea4225f3400547ce40461e84cd82497e062
