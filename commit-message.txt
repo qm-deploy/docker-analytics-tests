@@ -1,1 +1,1 @@
-Measurements#feature/Degrees#f4e94ebee82e10abb60974f757e8c5867472f1fa
+AppSettings#feature/Degrees#f4e94ebee82e10abb60974f757e8c5867472f1fa
