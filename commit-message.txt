@@ -1,1 +1,1 @@
-Measurements#feature/submitted-reminder#e59c560d6f47e38e612ceac71f2b84c9e300d46d
+AppSettings#feature/submitted-reminder#e59c560d6f47e38e612ceac71f2b84c9e300d46d
