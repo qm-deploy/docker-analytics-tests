@@ -1,1 +1,1 @@
-Measurements#feature/TrackingReminderNotificationJob#f511a1ed1266fb46a6cfbd708f0b0a625dfa63dd
+AppSettings#feature/TrackingReminderNotificationJob#f511a1ed1266fb46a6cfbd708f0b0a625dfa63dd
