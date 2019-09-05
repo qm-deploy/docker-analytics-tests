@@ -1,1 +1,1 @@
-Reminders#feature/UserVariableNotFoundException#10394d3477514db30abdae6ebc5ee5c429f63b53
+Controllers#renovate/ipunkt-laravel-analytics-2.x#f5bb56d8ab20410f8282154c85f6a2960c0d9bb1
