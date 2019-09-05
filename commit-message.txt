@@ -1,1 +1,1 @@
-Measurements#feature/deleteByEffectId#6a9589c519c619bc0f5d06b88ffd60fafa2c2718
+AppSettings#feature/deleteByEffectId#6a9589c519c619bc0f5d06b88ffd60fafa2c2718
