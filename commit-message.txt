@@ -1,1 +1,1 @@
-AppSettings#feature/validProductUrl#495c2157086b8548565a80c849f1940e1706e63c
+Reminders#feature/validProductUrl#495c2157086b8548565a80c849f1940e1706e63c
