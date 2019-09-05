@@ -1,1 +1,1 @@
-AppSettings#feature/submitted-reminder#21cbcc194da0021446f878c27ebfbb051c93a3fe
+Reminders#feature/submitted-reminder#21cbcc194da0021446f878c27ebfbb051c93a3fe
