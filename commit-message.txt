@@ -1,1 +1,1 @@
-AppSettings#renovate/ipunkt-laravel-analytics-2.x#f5bb56d8ab20410f8282154c85f6a2960c0d9bb1
+Reminders#renovate/ipunkt-laravel-analytics-2.x#f5bb56d8ab20410f8282154c85f6a2960c0d9bb1
