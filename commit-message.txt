@@ -1,1 +1,1 @@
-Analytics#renovate/ghost-inspector-4.x#64c64af4541b39342dbd9aa97523e6244268c43d
+Measurements#renovate/ghost-inspector-4.x#64c64af4541b39342dbd9aa97523e6244268c43d
