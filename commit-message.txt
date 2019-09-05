@@ -1,1 +1,1 @@
-AppSettings#feature/OutdoorHumidityCommonVariable#05fe7ee77818dcb135eb6f055b18ff6588f296d7
+Reminders#feature/OutdoorHumidityCommonVariable#05fe7ee77818dcb135eb6f055b18ff6588f296d7
