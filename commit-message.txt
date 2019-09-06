@@ -1,1 +1,1 @@
-Reminders#feature/notEnoughMeasurementForFullUpdate-3#cc8f80ae8992793582aad54c1ca926f7895d9b7f
+Controllers#feature/NotEnoughMeasurementsException#6d4a663868c78e772d144010f36ef760d83e5aae
