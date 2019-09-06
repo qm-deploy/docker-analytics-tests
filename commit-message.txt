@@ -1,1 +1,1 @@
-AppSettings#feature/getOrCreateAndAnalyze#0b47a98e7f23e739e71db4c584ec8ff65be3bf9b
+Reminders#feature/getOrCreateAndAnalyze#0b47a98e7f23e739e71db4c584ec8ff65be3bf9b
