@@ -1,1 +1,1 @@
-Measurements#feature/Payment#63bc53081039280a9a2cde18de9b3960d139e946
+AppSettings#feature/Payment#63bc53081039280a9a2cde18de9b3960d139e946
