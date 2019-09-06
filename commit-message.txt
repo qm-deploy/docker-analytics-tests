@@ -1,1 +1,1 @@
-Measurements#feature/NotEnoughMeasurementsException#6d4a663868c78e772d144010f36ef760d83e5aae
+AppSettings#feature/NotEnoughMeasurementsException#6d4a663868c78e772d144010f36ef760d83e5aae
