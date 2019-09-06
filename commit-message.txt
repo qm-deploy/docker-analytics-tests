@@ -1,1 +1,1 @@
-AppSettings#renovate/monolog-monolog-1.x#182d34754980dceec0ddd4f7efe74a1db49ea0dd
+Reminders#renovate/monolog-monolog-1.x#182d34754980dceec0ddd4f7efe74a1db49ea0dd
