@@ -1,1 +1,1 @@
-Reminders#feature/minimumRequiredMeasurements#2ed087615d110c16490001db6cbcb28ed50bb683
+Controllers#feature/NotEnoughMeasurementsException#161f3a482da144de4a7683c75bba9c358f65657c
