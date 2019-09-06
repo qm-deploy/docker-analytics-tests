@@ -1,1 +1,1 @@
-Measurements#feature/debugging#a7631684c6b6bee3a745f65246c0a25037328de2
+AppSettings#feature/debugging#a7631684c6b6bee3a745f65246c0a25037328de2
