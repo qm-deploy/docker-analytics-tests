@@ -1,1 +1,1 @@
-Measurements#feature/NoMeasurementsOrRemindersException#158f96d4ed59b1a0f6c6278a3705dca2af8e7f13
+AppSettings#feature/NoMeasurementsOrRemindersException#158f96d4ed59b1a0f6c6278a3705dca2af8e7f13
