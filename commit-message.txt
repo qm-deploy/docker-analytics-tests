@@ -1,1 +1,1 @@
-Analytics#renovate/monolog-monolog-1.x#337c1a2629b5a37988b9feca59a4e387569620f3
+Measurements#renovate/monolog-monolog-1.x#337c1a2629b5a37988b9feca59a4e387569620f3
