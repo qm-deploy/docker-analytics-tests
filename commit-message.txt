@@ -1,1 +1,1 @@
-Reminders#feature/MINIMUM_ALLOWED_SECONDS_BETWEEN_MEASUREMENTS#6002fbdc073c5b0338b2db6d5a61b33872d8c0b0
+Controllers#feature/NoMeasurementsOrRemindersException#88ce55152836fb3cc58eb5747a21c27df656cdf9
