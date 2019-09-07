@@ -1,1 +1,1 @@
-Measurements#renovate/recca0120-terminal-1.x#9ad07f9a726b2473a6817875f12058489fcea3fe
+AppSettings#renovate/recca0120-terminal-1.x#9ad07f9a726b2473a6817875f12058489fcea3fe
