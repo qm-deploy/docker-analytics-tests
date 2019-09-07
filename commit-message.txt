@@ -1,1 +1,1 @@
-Measurements#feature/getOneToFiveMgMeasurements#d97559da2b26a44de8f1e052bfa425cf3f9a2937
+AppSettings#feature/getOneToFiveMgMeasurements#d97559da2b26a44de8f1e052bfa425cf3f9a2937
