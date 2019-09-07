@@ -1,1 +1,1 @@
-AppSettings#feature/convertToSpendingVariableName#066b19a8ba57eae2315060186d47376219a94d64
+Reminders#feature/convertToSpendingVariableName#066b19a8ba57eae2315060186d47376219a94d64
