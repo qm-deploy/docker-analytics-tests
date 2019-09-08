@@ -1,1 +1,1 @@
-Measurements#feature/setUpc#7e791070850039f0c0abadc5efa9f776997288c1
+AppSettings#feature/setUpc#7e791070850039f0c0abadc5efa9f776997288c1
