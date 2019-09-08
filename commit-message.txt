@@ -1,1 +1,1 @@
-Reminders#feature/setNote#94c03cbe6775a61d100341c79b6571eec2d77c26
+Controllers#renovate/barryvdh-laravel-ide-helper-2.x#7da92b21be638acb41c296a47818f0b428762494
