@@ -1,1 +1,1 @@
-Measurements#feature/isRating#7b05292287bc91479fb58b56b7b2d03ddffdab0b
+AppSettings#feature/isRating#7b05292287bc91479fb58b56b7b2d03ddffdab0b
