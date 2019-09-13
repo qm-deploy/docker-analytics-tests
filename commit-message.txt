@@ -1,1 +1,1 @@
-Controllers#renovate/mongodb-mongodb-1.x#86bc139fa35b30e01bb890a984de5b3ab3068c13
+Analytics#renovate/mongodb-mongodb-1.x#86bc139fa35b30e01bb890a984de5b3ab3068c13
