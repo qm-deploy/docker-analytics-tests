@@ -1,1 +1,1 @@
-Reminders#renovate/google-apiclient-2.x#ea2dcb67c4e3b35447af27c7bea69d624b30eedf
+Controllers#renovate/laravel-dusk-5.x#11f2295dc9c8966c0066d132bb931e2c001b38a7
