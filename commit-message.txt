@@ -1,1 +1,1 @@
-AppSettings#feature/setPrimaryOutcomeVariable#4fce2763e18620c61c17bd5f6b1aa04064aaefe6
+Reminders#feature/setPrimaryOutcomeVariable#4fce2763e18620c61c17bd5f6b1aa04064aaefe6
