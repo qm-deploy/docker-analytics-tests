@@ -1,1 +1,1 @@
-Measurements#renovate/mongodb-mongodb-1.x#2be28ac3bc5586237958e6dbcac865689e6407d2
+AppSettings#renovate/mongodb-mongodb-1.x#2be28ac3bc5586237958e6dbcac865689e6407d2
