@@ -1,1 +1,1 @@
-AppSettings#feature/GoogleCalendarConnector#9e598502b0600a8604155a7d662d2f687d740ceb
+Reminders#feature/GoogleCalendarConnector#9e598502b0600a8604155a7d662d2f687d740ceb
