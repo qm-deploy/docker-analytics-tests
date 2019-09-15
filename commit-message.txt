@@ -1,1 +1,1 @@
-Measurements#feature/slugify#d3895e9aebcb36f0e3a259bdd6e925668d444437
+AppSettings#feature/slugify#d3895e9aebcb36f0e3a259bdd6e925668d444437
