@@ -1,1 +1,1 @@
-Analytics#feature/weather-connector#7ac686ef49b19b003cb40e381d59509d4a560a87
+Measurements#feature/weather-connector#7ac686ef49b19b003cb40e381d59509d4a560a87
