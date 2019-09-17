@@ -1,1 +1,1 @@
-Measurements#feature/credentials#b20f7eb0e054855ff480f844272ab3b617fd88f6
+AppSettings#feature/credentials#b20f7eb0e054855ff480f844272ab3b617fd88f6
