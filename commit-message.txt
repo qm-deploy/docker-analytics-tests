@@ -1,1 +1,1 @@
-Controllers#feature/InsufficientVarianceException#4d51ffebd61a462a0fcb5306ec7edbcbc1d1f6f7
+Analytics#feature/InsufficientVarianceException#4d51ffebd61a462a0fcb5306ec7edbcbc1d1f6f7
