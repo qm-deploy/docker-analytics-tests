@@ -1,1 +1,1 @@
-Reminders#feature/weather-connector#7ac686ef49b19b003cb40e381d59509d4a560a87
+Controllers#feature/InsufficientVarianceException#4d51ffebd61a462a0fcb5306ec7edbcbc1d1f6f7
