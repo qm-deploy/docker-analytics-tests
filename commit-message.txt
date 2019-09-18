@@ -1,1 +1,1 @@
-Analytics#renovate/laravelium-sitemap-3.x#c4c1e55a34004e2e8d01dedfa9e4b6de5373c041
+Measurements#renovate/laravelium-sitemap-3.x#c4c1e55a34004e2e8d01dedfa9e4b6de5373c041
