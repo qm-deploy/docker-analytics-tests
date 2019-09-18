@@ -1,1 +1,1 @@
-Controllers#feature/getLoginNameFromArrayOrEmail#7890ebbba3523f2f1a6ffe0f127b4ea903e71348
+Analytics#feature/getLoginNameFromArrayOrEmail#7890ebbba3523f2f1a6ffe0f127b4ea903e71348
