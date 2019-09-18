@@ -1,1 +1,1 @@
-Measurements#feature/air-quality#af0a5cdc9a98764ebbcde2498b67dddde6344e12
+AppSettings#feature/air-quality#af0a5cdc9a98764ebbcde2498b67dddde6344e12
