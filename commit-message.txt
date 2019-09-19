@@ -1,1 +1,1 @@
-AppSettings#feature/generateForPrimaryOutcomeForAllUsers#b2ea49e59073eba2a7fbd2b318e1e076c5f332a8
+Reminders#feature/generateForPrimaryOutcomeForAllUsers#b2ea49e59073eba2a7fbd2b318e1e076c5f332a8
