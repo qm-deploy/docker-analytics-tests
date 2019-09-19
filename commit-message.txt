@@ -1,1 +1,1 @@
-Measurements#feature/generateCategoriesRobotImageUrl#d9d16bf23449d953e4be83f41d9ecb97256a6bf6
+AppSettings#feature/generateCategoriesRobotImageUrl#d9d16bf23449d953e4be83f41d9ecb97256a6bf6
