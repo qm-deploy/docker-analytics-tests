@@ -1,1 +1,1 @@
-AppSettings#feature/Study#bf0b306ead34fed4a31bf9f3cb58ab17244f454e
+Reminders#feature/Study#bf0b306ead34fed4a31bf9f3cb58ab17244f454e
