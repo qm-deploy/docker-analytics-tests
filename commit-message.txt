@@ -1,1 +1,1 @@
-Measurements#feature/generateForPrimaryOutcomeForAllUsers#f5d599241b23bf4767cf15ebcc4953c5106f64b3
+AppSettings#feature/generateForPrimaryOutcomeForAllUsers#f5d599241b23bf4767cf15ebcc4953c5106f64b3
