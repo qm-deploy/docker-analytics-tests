@@ -1,1 +1,1 @@
-Measurements#feature/notEnoughMeasurementForFullUpdate#dbec62b7af3eeac95a4da6b1cc485b7595f9821c
+AppSettings#feature/notEnoughMeasurementForFullUpdate#dbec62b7af3eeac95a4da6b1cc485b7595f9821c
