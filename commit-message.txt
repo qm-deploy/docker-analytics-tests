@@ -1,1 +1,1 @@
-AppSettings#feature/infoOrLogicExceptionIfTesting#4fa064bce194dde0bace325ff3614ba50a6d64be
+Reminders#feature/infoOrLogicExceptionIfTesting#4fa064bce194dde0bace325ff3614ba50a6d64be
