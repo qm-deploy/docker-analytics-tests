@@ -1,1 +1,1 @@
-Measurements#feature/numberOfTrackingReminders#91b7d3fd9b7d7bc42b82642722a7f99003081ea3
+AppSettings#feature/numberOfTrackingReminders#91b7d3fd9b7d7bc42b82642722a7f99003081ea3
