@@ -1,1 +1,1 @@
-Measurements#feature/shouldWeCalculate#647c028055af25b69b24390cd0c3642f2876d94d
+AppSettings#feature/shouldWeCalculate#647c028055af25b69b24390cd0c3642f2876d94d
