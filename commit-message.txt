@@ -1,1 +1,1 @@
-Reminders#feature/getUserVoteValueFromStatics#5b7912d4a3852b776fd4d0cc9fd0a5b1c803cdb3
+Controllers#feature/getUserVoteValueFromStatics#f42c25401a23e3f3db44905dfd36f0e3318ef5b5
