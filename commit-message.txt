@@ -1,1 +1,1 @@
-Measurements#feature/getUserVoteValueFromStatics#5b7912d4a3852b776fd4d0cc9fd0a5b1c803cdb3
+AppSettings#feature/getUserVoteValueFromStatics#5b7912d4a3852b776fd4d0cc9fd0a5b1c803cdb3
