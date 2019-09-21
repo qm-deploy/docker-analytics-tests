@@ -1,1 +1,1 @@
-Measurements#feature/NotEnoughBaselineDataException#ff993f97b409966173b81e4f0bf6fa890b5273a4
+AppSettings#feature/NotEnoughBaselineDataException#ff993f97b409966173b81e4f0bf6fa890b5273a4
