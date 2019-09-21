@@ -1,1 +1,1 @@
-AppSettings#feature/getUserVoteValueFromStatics#f42c25401a23e3f3db44905dfd36f0e3318ef5b5
+Reminders#feature/getUserVoteValueFromStatics#f42c25401a23e3f3db44905dfd36f0e3318ef5b5
