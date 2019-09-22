@@ -1,1 +1,1 @@
-Controllers#feature/tryToCalculateForPair#f2a3a699eb09793d7b0861aa1117ac4c19934562
+Analytics#feature/tryToCalculateForPair#f2a3a699eb09793d7b0861aa1117ac4c19934562
