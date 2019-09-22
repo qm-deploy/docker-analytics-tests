@@ -1,1 +1,1 @@
-Analytics#feature/StravaConnector#e3bcc24f480b67e3c9803ed10ea9a4a4ea3b12a5
+Measurements#feature/StravaConnector#e3bcc24f480b67e3c9803ed10ea9a4a4ea3b12a5
