@@ -1,1 +1,1 @@
-Reminders#feature/report-html#083a8c342abcdb025b4e86c0d92cbc482c572bc0
+Controllers#feature/StravaConnector#e3bcc24f480b67e3c9803ed10ea9a4a4ea3b12a5
