@@ -1,1 +1,1 @@
-Measurements#feature/report-html#75d5e950cfea78cbb54a4dfeffca6fd0b51eded3
+AppSettings#feature/report-html#75d5e950cfea78cbb54a4dfeffca6fd0b51eded3
