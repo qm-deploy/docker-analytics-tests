@@ -1,1 +1,1 @@
-AppSettings#feature/rescuetime-cleanup#0744205911e5f84f6c2f0350330d15ad3ec6046a
+Reminders#feature/rescuetime-cleanup#0744205911e5f84f6c2f0350330d15ad3ec6046a
