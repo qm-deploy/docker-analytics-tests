@@ -1,1 +1,1 @@
-Measurements#feature/table-fixes#98cf7b8e57284866ac7babea444645e196996a56
+AppSettings#feature/table-fixes#98cf7b8e57284866ac7babea444645e196996a56
