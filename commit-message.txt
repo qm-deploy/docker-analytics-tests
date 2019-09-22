@@ -1,1 +1,1 @@
-Controllers#feature/report-html#76939ff9fa112202c10a2179b2824a4e7bace988
+Analytics#feature/report-html#76939ff9fa112202c10a2179b2824a4e7bace988
