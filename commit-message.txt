@@ -1,1 +1,1 @@
-AppSettings#feature/StravaConnector#71f1b86a51154fd744eeb220afafc452776fac08
+Reminders#feature/StravaConnector#71f1b86a51154fd744eeb220afafc452776fac08
