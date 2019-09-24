@@ -1,1 +1,1 @@
-Measurements#feature/Production2#097d307aac18936fff211bbcefd3f5bd51d2309e
+AppSettings#feature/Production2#097d307aac18936fff211bbcefd3f5bd51d2309e
