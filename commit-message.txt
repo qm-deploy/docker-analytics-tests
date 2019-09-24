@@ -1,1 +1,1 @@
-Controllers#feature/getCharts#60e26f4e0058bc513a027fa4adb3e105e94b3110
+Analytics#feature/getCharts#60e26f4e0058bc513a027fa4adb3e105e94b3110
