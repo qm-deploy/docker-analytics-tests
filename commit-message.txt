@@ -1,1 +1,1 @@
-Controllers#feature/getByVariableId#022d5172f43be2ce3d6feb8d8d03b31a960f35f6
+Analytics#feature/getByVariableId#022d5172f43be2ce3d6feb8d8d03b31a960f35f6
