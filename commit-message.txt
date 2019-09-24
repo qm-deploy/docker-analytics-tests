@@ -1,1 +1,1 @@
-Measurements#feature/getConnectorByName#6a83eb55430dcb1afdbf3ec5b90b1d00996d89e5
+AppSettings#feature/getConnectorByName#6a83eb55430dcb1afdbf3ec5b90b1d00996d89e5
