@@ -1,1 +1,1 @@
-AppSettings#feature/reminders-fix#f33ae1105650a841f6debab30211362a07dc68ac
+Reminders#feature/reminders-fix#f33ae1105650a841f6debab30211362a07dc68ac
