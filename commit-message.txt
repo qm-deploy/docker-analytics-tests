@@ -1,1 +1,1 @@
-Measurements#feature/Connectors3#179c40b0e9ebca4ceaa6a5e43576481894346a8c
+AppSettings#feature/Connectors3#179c40b0e9ebca4ceaa6a5e43576481894346a8c
