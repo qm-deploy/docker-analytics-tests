@@ -1,1 +1,1 @@
-Measurements#feature/percent-change#2a803f584c0f8c04ba4b96d36d6ffc922a60301a
+AppSettings#feature/percent-change#2a803f584c0f8c04ba4b96d36d6ffc922a60301a
