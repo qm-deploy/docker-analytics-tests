@@ -1,1 +1,1 @@
-Measurements#feature/db-url#cb8dba1a65b4eddb7ee550d2d2e1d60554d3728d
+AppSettings#feature/db-url#cb8dba1a65b4eddb7ee550d2d2e1d60554d3728d
