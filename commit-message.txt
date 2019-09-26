@@ -1,1 +1,1 @@
-AppSettings#feature/spending-names#3ed1f73e536bcd94885d7e5eac79e67c2db283e7
+Reminders#feature/spending-names#3ed1f73e536bcd94885d7e5eac79e67c2db283e7
