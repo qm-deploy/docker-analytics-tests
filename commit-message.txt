@@ -1,1 +1,1 @@
-Measurements#feature/spending-names#525189fe7b86eec4dfdbae98d47b7c99c076acf4
+AppSettings#feature/spending-names#525189fe7b86eec4dfdbae98d47b7c99c076acf4
