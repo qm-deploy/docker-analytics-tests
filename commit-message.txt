@@ -1,1 +1,1 @@
-AppSettings#feature/fat-minimums#b834b94b7d12c1501ca486f04a843f53e4c8c5e0
+Reminders#feature/fat-minimums#b834b94b7d12c1501ca486f04a843f53e4c8c5e0
