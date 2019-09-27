@@ -1,1 +1,1 @@
-Measurements#feature/fat-minimums#b834b94b7d12c1501ca486f04a843f53e4c8c5e0
+AppSettings#feature/fat-minimums#b834b94b7d12c1501ca486f04a843f53e4c8c5e0
