@@ -1,1 +1,1 @@
-Measurements#feature/addMeasurementItemIfNoneExist#95497c007f367851b743135075e9689db7cfb3ab
+AppSettings#feature/addMeasurementItemIfNoneExist#95497c007f367851b743135075e9689db7cfb3ab
