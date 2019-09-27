@@ -1,1 +1,1 @@
-Measurements#feature/report-emails#a1a7de47f7eea09d66ed5a31e03743a17979410e
+AppSettings#feature/report-emails#a1a7de47f7eea09d66ed5a31e03743a17979410e
