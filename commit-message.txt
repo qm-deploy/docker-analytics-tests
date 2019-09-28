@@ -1,1 +1,1 @@
-Measurements#feature/getUniqueFields#9d730bd89c0f254034c4383543401c14de3c8490
+AppSettings#feature/getUniqueFields#9d730bd89c0f254034c4383543401c14de3c8490
