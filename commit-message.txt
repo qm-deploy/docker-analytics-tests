@@ -1,1 +1,1 @@
-Reminders#feature/email-footer#c4126a19f4ce2f903adb91accb7d7f291292116c
+Controllers#feature/checkJoinedVariables#4cb7c55b22dd0d1f06ce25a29bfd1c3cecec5010
