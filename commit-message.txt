@@ -1,1 +1,1 @@
-Measurements#feature/tag-test#155366d74f746f40fc9a6bd037fe08ac83f3be03
+AppSettings#feature/tag-test#155366d74f746f40fc9a6bd037fe08ac83f3be03
