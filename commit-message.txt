@@ -1,1 +1,1 @@
-Measurements#feature/setFullStudyHtml#e76a42e19c083cc5ad0c9cb20e905817ada63d03
+AppSettings#feature/setFullStudyHtml#e76a42e19c083cc5ad0c9cb20e905817ada63d03
