@@ -1,1 +1,1 @@
-AppSettings#feature/enoughMemoryForAllRawMeasurements#093f220ccb66380bc1dcc4993bae20ffef67c40e
+Reminders#feature/enoughMemoryForAllRawMeasurements#093f220ccb66380bc1dcc4993bae20ffef67c40e
