@@ -1,1 +1,1 @@
-AppSettings#feature/checkJoinedVariables#ff63c6c5b2f374a9786d911c42369f6dbb66b18b
+Reminders#feature/checkJoinedVariables#ff63c6c5b2f374a9786d911c42369f6dbb66b18b
