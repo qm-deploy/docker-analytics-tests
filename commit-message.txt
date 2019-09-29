@@ -1,1 +1,1 @@
-Reminders#feature/checkJoinedVariables#ff63c6c5b2f374a9786d911c42369f6dbb66b18b
+Controllers#feature/setFullStudyHtml#7ea2ad284aaee18b83f917d1e90b5ce8695966f7
