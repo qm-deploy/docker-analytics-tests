@@ -1,1 +1,1 @@
-Measurements#feature/email-footer#0e32b4a9ccd09405b789f866129a377b0a658915
+AppSettings#feature/email-footer#0e32b4a9ccd09405b789f866129a377b0a658915
