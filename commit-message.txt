@@ -1,1 +1,1 @@
-Controllers#feature/email-footer#c4126a19f4ce2f903adb91accb7d7f291292116c
+Analytics#feature/email-footer#c4126a19f4ce2f903adb91accb7d7f291292116c
