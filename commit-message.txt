@@ -1,1 +1,1 @@
-Controllers#feature/commitToStudiesRepo#0165a3671ae588399c2cea67ccf8d7be1026193a
+Analytics#feature/commitToStudiesRepo#0165a3671ae588399c2cea67ccf8d7be1026193a
