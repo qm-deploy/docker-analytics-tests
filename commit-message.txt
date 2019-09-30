@@ -1,1 +1,1 @@
-Controllers#feature/bar-chart#5a93fdbc9a2733eefa69221740bfc5466e0be140
+Analytics#feature/bar-chart#5a93fdbc9a2733eefa69221740bfc5466e0be140
