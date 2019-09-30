@@ -1,1 +1,1 @@
-Measurements#feature/getLatestTaggedMeasurementTime#0536b586a49ba07fdec78f762641df0df919939a
+AppSettings#feature/getLatestTaggedMeasurementTime#0536b586a49ba07fdec78f762641df0df919939a
