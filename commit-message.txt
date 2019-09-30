@@ -1,1 +1,1 @@
-Measurements#feature/study-cleanup#9b1fbe638ad3d291dda73ab4d30a1ba610806aa0
+AppSettings#feature/study-cleanup#9b1fbe638ad3d291dda73ab4d30a1ba610806aa0
