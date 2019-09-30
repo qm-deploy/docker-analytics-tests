@@ -1,1 +1,1 @@
-Reminders#feature/TooSlowException#9371fc25eac54e8ee4a70cc31fa87b686509db4d
+Controllers#feature/hasValidImagesOnS3#4b82425c2b0095fc5641fc6e6c04352417752abb
