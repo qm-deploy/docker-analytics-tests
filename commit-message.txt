@@ -1,1 +1,1 @@
-Analytics#feature/hasValidImagesOnS3-2#470de87adf351f6b9c037ee3e1fcf2731f6e92ac
+Measurements#feature/hasValidImagesOnS3-2#470de87adf351f6b9c037ee3e1fcf2731f6e92ac
