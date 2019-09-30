@@ -1,1 +1,1 @@
-AppSettings#feature/study-cleanup#3fa5232b0a4c8c86fadfacde3dbcabfe56f1af76
+Reminders#feature/study-cleanup#3fa5232b0a4c8c86fadfacde3dbcabfe56f1af76
