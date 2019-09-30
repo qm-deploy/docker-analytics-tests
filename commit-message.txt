@@ -1,1 +1,1 @@
-AppSettings#renovate/mockery-mockery-1.x#23fabc88300447b636500b62bdd240ef29639811
+Reminders#renovate/mockery-mockery-1.x#23fabc88300447b636500b62bdd240ef29639811
