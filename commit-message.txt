@@ -1,1 +1,1 @@
-Measurements#feature/TooSlowException#08514d68739592c44357390f898ef5b0d5c29146
+AppSettings#feature/TooSlowException#08514d68739592c44357390f898ef5b0d5c29146
