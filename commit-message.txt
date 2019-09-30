@@ -1,1 +1,1 @@
-Measurements#feature/hasValidImagesOnS3-2#470de87adf351f6b9c037ee3e1fcf2731f6e92ac
+AppSettings#feature/hasValidImagesOnS3-2#470de87adf351f6b9c037ee3e1fcf2731f6e92ac
