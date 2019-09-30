@@ -1,1 +1,1 @@
-Measurements#renovate/mockery-mockery-1.x#78101bb2c2b08ebfa121c41f6fa9474e8095b6ab
+AppSettings#renovate/mockery-mockery-1.x#78101bb2c2b08ebfa121c41f6fa9474e8095b6ab
