@@ -1,1 +1,1 @@
-Reminders#feature/hasValidImagesOnS3-2#a46ad4fafcba38d6f5db6d422d91e743879e1797
+Controllers#feature/hasValidImagesOnS3-2#470de87adf351f6b9c037ee3e1fcf2731f6e92ac
