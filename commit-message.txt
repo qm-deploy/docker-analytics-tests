@@ -1,1 +1,1 @@
-Measurements#renovate/doctrine-annotations-1.x#60e3871e41766ceaa9064396217b012971613272
+AppSettings#renovate/doctrine-annotations-1.x#60e3871e41766ceaa9064396217b012971613272
