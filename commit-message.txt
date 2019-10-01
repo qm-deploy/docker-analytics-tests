@@ -1,1 +1,1 @@
-Measurements#renovate/pelago-emogrifier-3.x#5fdff39684dfc7833e8e623e4794723113047249
+AppSettings#renovate/pelago-emogrifier-3.x#5fdff39684dfc7833e8e623e4794723113047249
