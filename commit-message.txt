@@ -1,1 +1,1 @@
-AppSettings#feature/addSeries#66e1ac66a63fe1a5994cd587e0d2cb6261ff2335
+Reminders#feature/addSeries#66e1ac66a63fe1a5994cd587e0d2cb6261ff2335
