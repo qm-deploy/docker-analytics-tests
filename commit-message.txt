@@ -1,1 +1,1 @@
-Measurements#feature/GoogleTasksConnector#69ae8e36b7eed02c76194d2cd1b32541b8568bca
+AppSettings#feature/GoogleTasksConnector#69ae8e36b7eed02c76194d2cd1b32541b8568bca
