@@ -1,1 +1,1 @@
-AppSettings#feature/time-is-money#cde9409bf4e93f0f3cef9573d44606dc84b73703
+Reminders#feature/time-is-money#cde9409bf4e93f0f3cef9573d44606dc84b73703
