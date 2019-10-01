@@ -1,1 +1,1 @@
-Reminders#renovate/doctrine-annotations-1.x#60e3871e41766ceaa9064396217b012971613272
+Controllers#renovate/pelago-emogrifier-3.x#1bd9a380a10d1a43d11cc3bef01a9b6e4d32ca03
