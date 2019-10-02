@@ -1,1 +1,1 @@
-Analytics#feature/testCommonVariableAnalysisWindSpeed#0e9a67f125abe74605617bccab50f95769de24aa
+Measurements#feature/testCommonVariableAnalysisWindSpeed#0e9a67f125abe74605617bccab50f95769de24aa
