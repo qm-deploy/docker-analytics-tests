@@ -1,1 +1,1 @@
-Controllers#feature/QMColor#89d7e527b04f97c5c7611f4b9619b17a8a6165f0
+Analytics#feature/QMColor#89d7e527b04f97c5c7611f4b9619b17a8a6165f0
