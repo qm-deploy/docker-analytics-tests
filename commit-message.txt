@@ -1,1 +1,1 @@
-Reminders#renovate/docker-php-7.x#bf3fc9d7ccc06fcfec41b9f69cc5e667de01269c
+Controllers#renovate/ghost-inspector-4.x#9c5c29049af3831213c265fdf68a5554cde7273f
