@@ -1,1 +1,1 @@
-Controllers#feature/GetStaticDataController#0a427f8dedc0f507491c29b7f09566fff212ed16
+Analytics#feature/GetStaticDataController#0a427f8dedc0f507491c29b7f09566fff212ed16
