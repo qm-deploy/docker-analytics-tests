@@ -1,1 +1,1 @@
-Measurements#feature/QMColor#9db9842d57145aff2f8fa342e01b3885a7d093ab
+AppSettings#feature/QMColor#9db9842d57145aff2f8fa342e01b3885a7d093ab
