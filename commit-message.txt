@@ -1,1 +1,1 @@
-Controllers#feature/getNamePlural#dd0b8e2e14f3a89d34947d9878958707a6fe1c47
+Analytics#feature/getNamePlural#dd0b8e2e14f3a89d34947d9878958707a6fe1c47
