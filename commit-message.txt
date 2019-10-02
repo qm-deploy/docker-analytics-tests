@@ -1,1 +1,1 @@
-Measurements#feature/getNamePlural#dd0b8e2e14f3a89d34947d9878958707a6fe1c47
+AppSettings#feature/getNamePlural#dd0b8e2e14f3a89d34947d9878958707a6fe1c47
