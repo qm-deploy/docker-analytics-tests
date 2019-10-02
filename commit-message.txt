@@ -1,1 +1,1 @@
-Reminders#renovate/jgrossi-corcel-3.x#41d90e0de10b61bda21e8e7a65d4a267465816b2
+Controllers#feature/LogicException#cb894535f71d87667810e187065cc9a2ceef5c7a
