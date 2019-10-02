@@ -1,1 +1,1 @@
-Measurements#feature/MINIMUM_PAIRS#b400d486eb7d986d347ea75ddaf3eb8fcd4b0072
+AppSettings#feature/MINIMUM_PAIRS#b400d486eb7d986d347ea75ddaf3eb8fcd4b0072
