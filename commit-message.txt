@@ -1,1 +1,1 @@
-Reminders#feature/LogicException#c8166b8f3a37609d90f815a51318e73c88f20e2a
+Controllers#feature/testCommonVariableAnalysisWindSpeed#0e9a67f125abe74605617bccab50f95769de24aa
