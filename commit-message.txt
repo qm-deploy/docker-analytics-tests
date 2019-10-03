@@ -1,1 +1,1 @@
-Measurements#feature/insertOrUpdate#6dad3383d501aaa66465b3fe7f8978bcce3250cd
+AppSettings#feature/insertOrUpdate#6dad3383d501aaa66465b3fe7f8978bcce3250cd
