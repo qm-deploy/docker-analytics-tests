@@ -1,1 +1,1 @@
-Measurements#feature/FactorsListReport#cda26b0b353b0be67c002332450d8628cba96f05
+AppSettings#feature/FactorsListReport#cda26b0b353b0be67c002332450d8628cba96f05
