@@ -1,1 +1,1 @@
-AppSettings#feature/getAbbreviatedListForEmail#9d730a78b6ed4e5e577b6ab8b8b4db132620d381
+Reminders#feature/getAbbreviatedListForEmail#9d730a78b6ed4e5e577b6ab8b8b4db132620d381
