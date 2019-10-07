@@ -1,1 +1,1 @@
-Measurements#feature/SleepDurationCommonVariable#173ee0394411af34b72f55d2b55061715191920f
+AppSettings#feature/SleepDurationCommonVariable#173ee0394411af34b72f55d2b55061715191920f
