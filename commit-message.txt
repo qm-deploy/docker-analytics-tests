@@ -1,1 +1,1 @@
-AppSettings#feature/MaxMinAllowedValues#be08b410ef0156068c2184e57209f13d3634e045
+Reminders#feature/MaxMinAllowedValues#be08b410ef0156068c2184e57209f13d3634e045
