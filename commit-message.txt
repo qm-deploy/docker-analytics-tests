@@ -1,1 +1,1 @@
-Measurements#feature/MaxMinAllowedValues#55fd5f7e829ddc61efccddc7b26e84ab0da066e2
+AppSettings#feature/MaxMinAllowedValues#55fd5f7e829ddc61efccddc7b26e84ab0da066e2
