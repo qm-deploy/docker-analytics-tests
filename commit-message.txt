@@ -1,1 +1,1 @@
-Controllers#feature/instantiateAllModelsInFolder#eaa26e06d9b45fd2ab9e2b7778db730e52868c18
+Analytics#feature/instantiateAllModelsInFolder#eaa26e06d9b45fd2ab9e2b7778db730e52868c18
