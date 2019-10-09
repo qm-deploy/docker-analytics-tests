@@ -1,1 +1,1 @@
-Measurements#feature/getModifiedTimeOfImageOnS3#68311f33abf812c1f7e0725b80862d5cb3714991
+AppSettings#feature/getModifiedTimeOfImageOnS3#68311f33abf812c1f7e0725b80862d5cb3714991
