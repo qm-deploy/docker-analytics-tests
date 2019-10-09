@@ -1,1 +1,1 @@
-Measurements#feature/instantiateAllModelsInFolder#e8506a9bf6d310bbaf6715f7916772a72bd7befe
+AppSettings#feature/instantiateAllModelsInFolder#e8506a9bf6d310bbaf6715f7916772a72bd7befe
