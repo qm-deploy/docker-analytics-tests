@@ -1,1 +1,1 @@
-Measurements#feature/table-css#d04d55806b10ece593b0b10c0674d2baaa8cdce3
+AppSettings#feature/table-css#d04d55806b10ece593b0b10c0674d2baaa8cdce3
