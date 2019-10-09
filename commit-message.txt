@@ -1,1 +1,1 @@
-AppSettings#feature/getModifiedTimeOfImageOnS3#016478319480563f3f25c52ac8ab4905ae0f0cc5
+Reminders#feature/getModifiedTimeOfImageOnS3#016478319480563f3f25c52ac8ab4905ae0f0cc5
