@@ -1,1 +1,1 @@
-Reminders#feature/instantiateAllModelsInFolder#eaa26e06d9b45fd2ab9e2b7778db730e52868c18
+Controllers#feature/instantiateAllModelsInFolder#e8506a9bf6d310bbaf6715f7916772a72bd7befe
