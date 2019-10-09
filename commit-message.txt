@@ -1,1 +1,1 @@
-Measurements#feature/BarChartListHtml#aa69e8a79509a650a5887050b29daf1c9b0a2d81
+AppSettings#feature/BarChartListHtml#aa69e8a79509a650a5887050b29daf1c9b0a2d81
