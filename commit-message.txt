@@ -1,1 +1,1 @@
-Reminders#feature/instantiateAllModelsInFolder#e8506a9bf6d310bbaf6715f7916772a72bd7befe
+Controllers#feature/avatar_image#3224922656deb1884e0a3b0e8895ed6fcc9e6d1e
