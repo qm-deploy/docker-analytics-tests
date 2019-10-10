@@ -1,1 +1,1 @@
-Measurements#feature/linked-in#7d55de0c2b19ff9aaeaaf19ce6503e8aa860aa8a
+AppSettings#feature/linked-in#7d55de0c2b19ff9aaeaaf19ce6503e8aa860aa8a
