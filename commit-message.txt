@@ -1,1 +1,1 @@
-Analytics#renovate/snowfire-beautymail-1.x#1a89d4fb32ce2454227920e7ecc51e7d2000201b
+Measurements#renovate/snowfire-beautymail-1.x#1a89d4fb32ce2454227920e7ecc51e7d2000201b
