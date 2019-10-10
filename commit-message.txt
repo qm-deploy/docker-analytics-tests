@@ -1,1 +1,1 @@
-Controllers#feature/linked-in#b0e2241835825f8e36086ce6a1b62f22a4365124
+Analytics#feature/linked-in#b0e2241835825f8e36086ce6a1b62f22a4365124
