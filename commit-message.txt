@@ -1,1 +1,1 @@
-AppSettings#feature/getStandardDeviation#14acffc605ff31f4482c355d91bc0e981e939e33
+Reminders#feature/getStandardDeviation#14acffc605ff31f4482c355d91bc0e981e939e33
