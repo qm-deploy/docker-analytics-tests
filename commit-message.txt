@@ -1,1 +1,1 @@
-Measurements#feature/getStandardDeviation#051b8162328d2ef0c892adf8d667846267469528
+AppSettings#feature/getStandardDeviation#051b8162328d2ef0c892adf8d667846267469528
