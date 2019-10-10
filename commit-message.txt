@@ -1,1 +1,1 @@
-Analytics#feature/avatar_image#3224922656deb1884e0a3b0e8895ed6fcc9e6d1e
+Measurements#feature/avatar_image#3224922656deb1884e0a3b0e8895ed6fcc9e6d1e
