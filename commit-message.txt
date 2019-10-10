@@ -1,1 +1,1 @@
-Controllers#feature/getStandardDeviation#14acffc605ff31f4482c355d91bc0e981e939e33
+Analytics#feature/getStandardDeviation#14acffc605ff31f4482c355d91bc0e981e939e33
