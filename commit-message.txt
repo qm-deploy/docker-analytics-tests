@@ -1,1 +1,1 @@
-Measurements#feature/card-classes#a58ee7edefac4503e3b317135c5137a29defae4e
+AppSettings#feature/card-classes#a58ee7edefac4503e3b317135c5137a29defae4e
