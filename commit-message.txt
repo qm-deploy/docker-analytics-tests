@@ -1,1 +1,1 @@
-Analytics#feature/sendAllErrorsAndExceptionsToBugsnag#2f6eeacdf30cd726cd90820b67c8530523101b23
+Measurements#feature/sendAllErrorsAndExceptionsToBugsnag#2f6eeacdf30cd726cd90820b67c8530523101b23
