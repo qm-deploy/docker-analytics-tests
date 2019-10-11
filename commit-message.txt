@@ -1,1 +1,1 @@
-Controllers#feature/sendAllErrorsAndExceptionsToBugsnag#c42ce278865638f8b61d740d1323da80ea8f904d
+Analytics#feature/sendAllErrorsAndExceptionsToBugsnag#c42ce278865638f8b61d740d1323da80ea8f904d
