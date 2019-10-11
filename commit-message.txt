@@ -1,1 +1,1 @@
-AppSettings#feature/getClientId#50b4d8637f2ffb19ad2df37a6b0f0a05f4368a8c
+Reminders#feature/getClientId#50b4d8637f2ffb19ad2df37a6b0f0a05f4368a8c
