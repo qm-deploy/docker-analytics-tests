@@ -1,1 +1,1 @@
-Measurements#feature/getClientId#1234bf329941f8dc6d7b8e57902386c2a5bc924a
+AppSettings#feature/getClientId#1234bf329941f8dc6d7b8e57902386c2a5bc924a
