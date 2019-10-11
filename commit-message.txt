@@ -1,1 +1,1 @@
-Measurements#feature/S3Public#0a8c0947cf0dc0402e8fd4253ffb297c88022a1a
+AppSettings#feature/S3Public#0a8c0947cf0dc0402e8fd4253ffb297c88022a1a
