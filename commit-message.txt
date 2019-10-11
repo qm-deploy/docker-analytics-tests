@@ -1,1 +1,1 @@
-AppSettings#feature/AMAZON_AFFILIATE_ID_US#8d69ddbdc5f7cbbd5b4a471398c6a2f799bbb685
+Reminders#feature/AMAZON_AFFILIATE_ID_US#8d69ddbdc5f7cbbd5b4a471398c6a2f799bbb685
