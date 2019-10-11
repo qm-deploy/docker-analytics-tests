@@ -1,1 +1,1 @@
-AppSettings#feature/StudyText#bd982eebd0743333057f01d3a849340c67d35908
+Reminders#feature/StudyText#bd982eebd0743333057f01d3a849340c67d35908
