@@ -1,1 +1,1 @@
-Reminders#feature/numberOfRawMeasurementsWithTagsJoinsChildren#adad60d96f7041915388ab3a6f5d24e91284d4cb
+Controllers#renovate/krlove-eloquent-model-generator-1.x#0e52eaca78c5ccdba6d636acaf071a8ff8d0ae0c
