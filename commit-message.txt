@@ -1,1 +1,1 @@
-Controllers#renovate/krlove-eloquent-model-generator-1.x#f85b309c7e87c4db66504f5da8a7102b8bf39c0a
+Analytics#renovate/krlove-eloquent-model-generator-1.x#f85b309c7e87c4db66504f5da8a7102b8bf39c0a
