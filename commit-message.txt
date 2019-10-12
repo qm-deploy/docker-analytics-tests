@@ -1,1 +1,1 @@
-Measurements#feature/generateRoundedButtonHtml#199a3250ce5cb4be079647d52ff0ec2dc99199aa
+AppSettings#feature/generateRoundedButtonHtml#199a3250ce5cb4be079647d52ff0ec2dc99199aa
