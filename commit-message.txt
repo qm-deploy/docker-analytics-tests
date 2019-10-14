@@ -1,1 +1,1 @@
-Analytics#renovate/docker-docker.elastic.co-elasticsearch-elasticsearch-6.x#5d8d1169dee08a0320a3135d668e83e804a13afc
+Measurements#renovate/docker-docker.elastic.co-elasticsearch-elasticsearch-6.x#5d8d1169dee08a0320a3135d668e83e804a13afc
