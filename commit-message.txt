@@ -1,1 +1,1 @@
-Reminders#renovate/pin-dependencies#c77ebba1c267de20f0ee0269ba415a1bbbfca708
+Controllers#renovate/docker-docker.elastic.co-elasticsearch-elasticsearch-6.x#5d8d1169dee08a0320a3135d668e83e804a13afc
