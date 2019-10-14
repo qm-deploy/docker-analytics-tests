@@ -1,1 +1,1 @@
-Measurements#feature/charts#4731d426907dbd92d73103251ff57998c7b30619
+AppSettings#feature/charts#4731d426907dbd92d73103251ff57998c7b30619
