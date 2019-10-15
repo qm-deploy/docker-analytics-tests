@@ -1,1 +1,1 @@
-AppSettings#feature/strava#7119e08057aac300ffdb0c570545365c8e7b6780
+Reminders#feature/strava#7119e08057aac300ffdb0c570545365c8e7b6780
