@@ -1,1 +1,1 @@
-Measurements#renovate/docker-ubuntu-14.x#52696f9d3fa4cd2a103566fbb9138c92263ab183
+AppSettings#renovate/docker-ubuntu-14.x#52696f9d3fa4cd2a103566fbb9138c92263ab183
