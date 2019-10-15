@@ -1,1 +1,1 @@
-Reminders#renovate/docker-docker.elastic.co-logstash-logstash-6.x#622d8d09fe0a33294bd3d2af38afec8ab4a21f26
+Controllers#renovate/docker-python-3.x#d7a81ca29cdd65ce403a1cd8c58279e16f749a48
