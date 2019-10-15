@@ -1,1 +1,1 @@
-Measurements#renovate/pin-dependencies#b49650220964e456a34766a0a54e2d6dcc6ed979
+AppSettings#renovate/pin-dependencies#b49650220964e456a34766a0a54e2d6dcc6ed979
