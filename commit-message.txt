@@ -1,1 +1,1 @@
-Controllers#renovate/docker-traefik-1.x#aa292faec935d629c7f9b36115cda6f88efee1ca
+Analytics#renovate/docker-traefik-1.x#aa292faec935d629c7f9b36115cda6f88efee1ca
