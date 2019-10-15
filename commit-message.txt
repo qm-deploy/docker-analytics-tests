@@ -1,1 +1,1 @@
-AppSettings#renovate/docker-docker.elastic.co-logstash-logstash-6.x#31e6f3150b383cb5b8f594bccb030f9438f6d7d2
+Reminders#renovate/docker-docker.elastic.co-logstash-logstash-6.x#31e6f3150b383cb5b8f594bccb030f9438f6d7d2
