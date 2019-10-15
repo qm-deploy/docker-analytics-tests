@@ -1,1 +1,1 @@
-Reminders#renovate/docker-docker.elastic.co-elasticsearch-elasticsearch-6.x#d0c3f2ab71ab795fa3394b058c6db9638b5059ca
+Controllers#renovate/docker-docker.elastic.co-kibana-kibana-6.x#b81fb8be01b596b460aa9c47c6c69a0ef4a3a4a5
