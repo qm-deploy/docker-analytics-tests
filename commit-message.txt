@@ -1,1 +1,1 @@
-Reminders#feature/strava#1889d6133eb5ca23d0bb87c75e04b072879980a7
+Controllers#feature/redundant-queries#2e80c5cf59fd2fc19ccc6cc8dc99e464235b8ea4
