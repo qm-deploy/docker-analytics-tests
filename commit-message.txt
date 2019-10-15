@@ -1,1 +1,1 @@
-Reminders#renovate/docker-docker.elastic.co-kibana-kibana-6.x#4242c17e027af1b395dd5edadb9eb9b23c05d9b2
+Controllers#renovate/docker-docker.elastic.co-logstash-logstash-6.x#b301ebb4e4a6212dd58a117ecb6ef10ef1868690
