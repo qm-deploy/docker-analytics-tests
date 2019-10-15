@@ -1,1 +1,1 @@
-Controllers#renovate/pin-dependencies#b49650220964e456a34766a0a54e2d6dcc6ed979
+Analytics#renovate/pin-dependencies#b49650220964e456a34766a0a54e2d6dcc6ed979
