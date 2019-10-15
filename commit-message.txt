@@ -1,1 +1,1 @@
-Reminders#renovate/docker-python-3.x#22344b1a16f9e90a099904684f8b1a1be7ebd747
+Controllers#renovate/docker-docker.elastic.co-elasticsearch-elasticsearch-6.x#d0c3f2ab71ab795fa3394b058c6db9638b5059ca
