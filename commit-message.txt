@@ -1,1 +1,1 @@
-Controllers#renovate/docker-docker.elastic.co-kibana-kibana-6.x#b81fb8be01b596b460aa9c47c6c69a0ef4a3a4a5
+Analytics#renovate/docker-docker.elastic.co-kibana-kibana-6.x#b81fb8be01b596b460aa9c47c6c69a0ef4a3a4a5
