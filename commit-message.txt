@@ -1,1 +1,1 @@
-AppSettings#feature/setAllUserTags#98db47e275e4b31779dddf75b0e76bde1aea7226
+Reminders#feature/setAllUserTags#98db47e275e4b31779dddf75b0e76bde1aea7226
