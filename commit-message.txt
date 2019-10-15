@@ -1,1 +1,1 @@
-AppSettings#renovate/docker-docker.elastic.co-elasticsearch-elasticsearch-6.x#28460a705be274be3b050c982d3cb4546276a163
+Reminders#renovate/docker-docker.elastic.co-elasticsearch-elasticsearch-6.x#28460a705be274be3b050c982d3cb4546276a163
