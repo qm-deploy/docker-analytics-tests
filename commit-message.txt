@@ -1,1 +1,1 @@
-Measurements#renovate/docker-docker.elastic.co-logstash-logstash-6.x#b301ebb4e4a6212dd58a117ecb6ef10ef1868690
+AppSettings#renovate/docker-docker.elastic.co-logstash-logstash-6.x#b301ebb4e4a6212dd58a117ecb6ef10ef1868690
