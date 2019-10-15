@@ -1,1 +1,1 @@
-Measurements#renovate/docker-python-3.x#d7a81ca29cdd65ce403a1cd8c58279e16f749a48
+AppSettings#renovate/docker-python-3.x#d7a81ca29cdd65ce403a1cd8c58279e16f749a48
