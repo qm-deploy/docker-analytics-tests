@@ -1,1 +1,1 @@
-Reminders#renovate/docker-traefik-1.x#aa292faec935d629c7f9b36115cda6f88efee1ca
+Controllers#renovate/pin-dependencies#b49650220964e456a34766a0a54e2d6dcc6ed979
