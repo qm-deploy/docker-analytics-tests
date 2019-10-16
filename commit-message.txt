@@ -1,1 +1,1 @@
-Measurements#feature/CaloriesBurnedCommonVariable#d1fe02fc85755ee768299a02017ecb099799bfb9
+AppSettings#feature/CaloriesBurnedCommonVariable#d1fe02fc85755ee768299a02017ecb099799bfb9
