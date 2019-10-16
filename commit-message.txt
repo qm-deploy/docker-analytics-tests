@@ -1,1 +1,1 @@
-Analytics#feature/WithingsConnector#da87e82ebf8a7621e11e5f21bc1801cc82e562eb
+Measurements#feature/WithingsConnector#da87e82ebf8a7621e11e5f21bc1801cc82e562eb
