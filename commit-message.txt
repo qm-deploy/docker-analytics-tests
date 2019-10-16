@@ -1,1 +1,1 @@
-AppSettings#feature/InsufficientMemoryException#d0327bc664dc0a12de0687db935a48f5801d2516
+Reminders#feature/InsufficientMemoryException#d0327bc664dc0a12de0687db935a48f5801d2516
