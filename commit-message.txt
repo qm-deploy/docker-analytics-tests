@@ -1,1 +1,1 @@
-AppSettings#feature/CaloriesBurnedCommonVariable#4b7bd4470d0f1f4d29845a4cf79648b906c5551b
+Reminders#feature/CaloriesBurnedCommonVariable#4b7bd4470d0f1f4d29845a4cf79648b906c5551b
