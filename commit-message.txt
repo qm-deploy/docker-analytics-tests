@@ -1,1 +1,1 @@
-Reminders#renovate/pin-dependencies#ec65f3bfa72a49584a4c8330d5686c3d107e2adf
+Controllers#renovate/docker-python-3.x#d5e269770d17cda45f9e473f99175dcc617e07a9
