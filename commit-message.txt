@@ -1,1 +1,1 @@
-Analytics#feature/CaloriesBurnedCommonVariable#918c7fd7485343126e265bd005587c80eae5c86c
+Measurements#feature/CaloriesBurnedCommonVariable#918c7fd7485343126e265bd005587c80eae5c86c
