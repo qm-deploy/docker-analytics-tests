@@ -1,1 +1,1 @@
-Measurements#feature/getVariableName#cdc117711bd4d3da3a29fb39aebb0b2957d83f58
+AppSettings#feature/getVariableName#cdc117711bd4d3da3a29fb39aebb0b2957d83f58
