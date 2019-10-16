@@ -1,1 +1,1 @@
-Measurements#feature/root-cause-report#bfd765306eddc325038398dabecca42cc1a7144b
+AppSettings#feature/root-cause-report#bfd765306eddc325038398dabecca42cc1a7144b
