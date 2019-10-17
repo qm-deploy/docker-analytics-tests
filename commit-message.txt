@@ -1,1 +1,1 @@
-Controllers#feature/getPublicUrl#38dc93b17fe5aaf2d06692d54b1f27ce38cd37b4
+Analytics#feature/getPublicUrl#38dc93b17fe5aaf2d06692d54b1f27ce38cd37b4
