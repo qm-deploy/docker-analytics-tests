@@ -1,1 +1,1 @@
-AppSettings#feature/getS3BucketAndFolderPath#aef386ad88babece6e6ced5221733923571725de
+Reminders#feature/getS3BucketAndFolderPath#aef386ad88babece6e6ced5221733923571725de
