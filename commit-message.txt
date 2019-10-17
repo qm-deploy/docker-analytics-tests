@@ -1,1 +1,1 @@
-Measurements#feature/getPublicUrl#3ff48bc1a1c793a9f9fa60011d0ced4d5d6079df
+AppSettings#feature/getPublicUrl#3ff48bc1a1c793a9f9fa60011d0ced4d5d6079df
