@@ -1,1 +1,1 @@
-Measurements#feature/addCorrelationsListAndTable#f0b3f616f5c3f50878b0b61157b6df561fb32ed4
+AppSettings#feature/addCorrelationsListAndTable#f0b3f616f5c3f50878b0b61157b6df561fb32ed4
