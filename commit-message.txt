@@ -1,1 +1,1 @@
-AppSettings#feature/WalkOrRunDistanceCommonVariable#0ed18322ca4bf09ab62a46c240073b4a4c7b05dd
+Reminders#feature/WalkOrRunDistanceCommonVariable#0ed18322ca4bf09ab62a46c240073b4a4c7b05dd
