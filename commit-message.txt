@@ -1,1 +1,1 @@
-AppSettings#feature/combine-measurements#3660824003cb88f1655f123c03522dbbbe021063
+Reminders#feature/combine-measurements#3660824003cb88f1655f123c03522dbbbe021063
