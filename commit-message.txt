@@ -1,1 +1,1 @@
-Measurements#feature/combine-measurements#e780fffd7af275a8e1bf357783038612d417250a
+AppSettings#feature/combine-measurements#e780fffd7af275a8e1bf357783038612d417250a
