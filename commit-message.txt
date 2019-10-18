@@ -1,1 +1,1 @@
-Measurements#feature/HighchartExport#61ba52746c221134e93d5e1b20c599b9d5017f02
+AppSettings#feature/HighchartExport#61ba52746c221134e93d5e1b20c599b9d5017f02
