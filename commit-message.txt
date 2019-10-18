@@ -1,1 +1,1 @@
-AppSettings#feature/generateChildModelCode#26f078e0628d9cd31dc547cc1f7b04a4054d88fe
+Reminders#feature/generateChildModelCode#26f078e0628d9cd31dc547cc1f7b04a4054d88fe
